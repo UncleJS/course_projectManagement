@@ -192,15 +192,15 @@ Qualitative scores are subjective. Two experts may score the same risk different
 
 ```mermaid
 flowchart LR
-    ID["🔍 Identify\n(cause-risk-effect\nformat)"]
-    AN["📊 Analyse\n(P × I score,\nheat map position)"]
-    RS["📋 Respond\n(Avoid / Transfer /\nMitigate / Accept /\nEscalate)"]
-    MO["👁 Monitor\n(regular review,\nrescoring)"]
-    IS["🚨 Issue\n(materialised risk\n→ issue log)"]
+    ID["🔍 Identify (cause-risk-effect format)"]
+    AN["📊 Analyse (P × I score, heat map position)"]
+    RS["📋 Respond (Avoid / Transfer / Mitigate / Accept / Escalate)"]
+    MO["👁 Monitor (regular review, rescoring)"]
+    IS["🚨 Issue (materialised risk → issue log)"]
     ID --> AN --> RS --> MO
-    MO -->|"new risks\nidentified"| ID
+    MO -->|"new risks identified"| ID
     MO -->|"risk occurs"| IS
-    MO -->|"scores\nchanged"| AN
+    MO -->|"scores changed"| AN
 ```
 *The risk lifecycle is iterative — newly identified risks enter at Identify; materialised risks exit to the issue log.*
 
@@ -267,15 +267,15 @@ Both must be logged in the risk register.
 ```mermaid
 flowchart TD
     T["⚠️ Threat Identified"]
-    Q1{"Can the threat be\neliminated entirely?"}
-    AV["🚫 Avoid\n(change the plan to\neliminate the cause)"]
-    Q2{"Can the financial/legal\nimpact be shifted?"}
-    TR["🔀 Transfer\n(insurance, contract\nclauses, indemnities)"]
-    Q3{"Can probability\nor impact be reduced?"}
-    MI["🛡 Mitigate\n(reduce P, reduce I,\nor both)"]
-    Q4{"Is risk within\nproject tolerance?"}
-    AC["✅ Accept\n(acknowledge; prepare\ncontingency plan)"]
-    ES["📢 Escalate\n(refer to higher\nauthority)"]
+    Q1{"Can the threat be eliminated entirely?"}
+    AV["🚫 Avoid (change the plan to eliminate the cause)"]
+    Q2{"Can the financial/legal impact be shifted?"}
+    TR["🔀 Transfer (insurance, contract clauses, indemnities)"]
+    Q3{"Can probability or impact be reduced?"}
+    MI["🛡 Mitigate (reduce P, reduce I, or both)"]
+    Q4{"Is risk within project tolerance?"}
+    AC["✅ Accept (acknowledge; prepare contingency plan)"]
+    ES["📢 Escalate (refer to higher authority)"]
     T --> Q1
     Q1 -->|Yes| AV
     Q1 -->|No| Q2
@@ -316,15 +316,15 @@ Most risk registers are entirely focused on threats. This creates an asymmetric 
 ```mermaid
 flowchart TD
     O["💡 Opportunity Identified"]
-    Q1{"Can the opportunity\nbe made certain?"}
-    EX["🎯 Exploit\n(take active steps to\nguarantee it occurs)"]
-    Q2{"Can probability or\nimpact be increased?"}
-    EN["📈 Enhance\n(nudge probability\nor magnitude up)"]
-    Q3{"Does a partner have\nbetter capability?"}
-    SH["🤝 Share\n(partner with another\nparty to exploit it)"]
-    Q4{"Is it worth\nmonitoring passively?"}
-    AC["✅ Accept\n(acknowledge; benefit\nif it arises)"]
-    ES["📢 Escalate\n(opportunity too large\nfor project to exploit alone)"]
+    Q1{"Can the opportunity be made certain?"}
+    EX["🎯 Exploit (take active steps to guarantee it occurs)"]
+    Q2{"Can probability or impact be increased?"}
+    EN["📈 Enhance (nudge probability or magnitude up)"]
+    Q3{"Does a partner have better capability?"}
+    SH["🤝 Share (partner with another party to exploit it)"]
+    Q4{"Is it worth monitoring passively?"}
+    AC["✅ Accept (acknowledge; benefit if it arises)"]
+    ES["📢 Escalate (opportunity too large for project to exploit alone)"]
     O --> Q1
     Q1 -->|Yes| EX
     Q1 -->|No| Q2

@@ -61,7 +61,7 @@ The PMP must be internally consistent — a change to the scope baseline must tr
 
 ```mermaid
 mindmap
-  root((Project\nIntegration))
+  root((Project Integration))
     Scope
       WBS
       Requirements
@@ -176,12 +176,12 @@ Project management approaches exist on a spectrum from **predictive (plan-driven
 
 ```mermaid
 flowchart LR
-    A["🔷 Predictive\n(Waterfall)\nFull upfront planning\nSingle final delivery"]
-    B["Incremental\nPhased releases\nScope fixed per phase"]
-    C["Iterative\nRepeated refinement\ncycles"]
-    D["Agile\n(Scrum / Kanban)\nSprints · Frequent delivery\nEvolving requirements"]
-    E["🔶 Continuous\n(Adaptive)\nFlow-based · On-demand\nNo fixed cadence"]
-    A -->|"More change\ntolerance"| B --> C --> D -->|"Maximum\nflexibility"| E
+    A["🔷 Predictive (Waterfall) Full upfront planning Single final delivery"]
+    B["Incremental Phased releases Scope fixed per phase"]
+    C["Iterative Repeated refinement cycles"]
+    D["Agile (Scrum / Kanban) Sprints · Frequent delivery Evolving requirements"]
+    E["🔶 Continuous (Adaptive) Flow-based · On-demand No fixed cadence"]
+    A -->|"More change tolerance"| B --> C --> D -->|"Maximum flexibility"| E
 ```
 *The delivery lifecycle spectrum — from fully predictive through to fully adaptive.*
 

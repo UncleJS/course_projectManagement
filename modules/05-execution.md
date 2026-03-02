@@ -226,14 +226,14 @@ Scope, schedule, and cost will change during any project of meaningful complexit
 
 ```mermaid
 flowchart TD
-    CR["📝 Change Request\nraised"]
-    LOG["📋 Logged in\nChange Log"]
-    IMPACT["⚖️ Impact Assessed\nscope · schedule · cost · risk · quality"]
-    CCB["🪑 Presented to CCB\n/ Sponsor for decision"]
+    CR["📝 Change Request raised"]
+    LOG["📋 Logged in Change Log"]
+    IMPACT["⚖️ Impact Assessed scope · schedule · cost · risk · quality"]
+    CCB["🪑 Presented to CCB / Sponsor for decision"]
     APP{{"Decision"}}
-    IMPL["✅ Approved\nImplement change\nUpdate plans & baselines"]
-    REJ["❌ Rejected\nClose out\nNotify requester"]
-    DEF["⏸ Deferred\nRevisit at\nlater stage"]
+    IMPL["✅ Approved Implement change Update plans & baselines"]
+    REJ["❌ Rejected Close out Notify requester"]
+    DEF["⏸ Deferred Revisit at later stage"]
     CR --> LOG --> IMPACT --> CCB --> APP
     APP -->|"approved"| IMPL
     APP -->|"rejected"| REJ
@@ -337,14 +337,14 @@ The outcome is a formal decision: **proceed**, **proceed with changes**, **pause
 
 ```mermaid
 flowchart TD
-    STAGE["📦 Stage Complete\n(deliverables produced)"]
-    REVIEW["🔎 Stage Gate Review\nby Project Board"]
-    VALID{"Business case\nstill valid?"}
-    RISK{"Risks\nacceptable?"}
-    NEXT_OK["✅ Proceed to\nNext Stage\n(next stage plan approved)"]
-    COND["⚠️ Proceed with\nConditions\n(issues to resolve)"]
-    PAUSE["⏸ Pause\n(await resolution)"]
-    STOP["🛑 Stop\n(business case failed;\nproject terminated)"]
+    STAGE["📦 Stage Complete (deliverables produced)"]
+    REVIEW["🔎 Stage Gate Review by Project Board"]
+    VALID{"Business case still valid?"}
+    RISK{"Risks acceptable?"}
+    NEXT_OK["✅ Proceed to Next Stage (next stage plan approved)"]
+    COND["⚠️ Proceed with Conditions (issues to resolve)"]
+    PAUSE["⏸ Pause (await resolution)"]
+    STOP["🛑 Stop (business case failed; project terminated)"]
     STAGE --> REVIEW --> VALID
     VALID -->|"yes"| RISK
     VALID -->|"no"| STOP

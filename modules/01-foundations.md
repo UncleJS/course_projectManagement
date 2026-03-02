@@ -53,9 +53,9 @@ flowchart TD
     S["🎯 Scope"]
     T["⏱ Time"]
     C["💰 Cost"]
-    S <-->|"change scope\naffects time/cost"| T
-    T <-->|"compress schedule\naffects scope/cost"| C
-    C <-->|"cut budget\naffects scope/time"| S
+    S <-->|"change scope affects time/cost"| T
+    T <-->|"compress schedule affects scope/cost"| C
+    C <-->|"cut budget affects scope/time"| S
 ```
 *The triple constraint: every change ripples across all three dimensions.*
 
@@ -92,8 +92,8 @@ A **portfolio** is a collection of programmes, projects, and operational work gr
 
 ```mermaid
 flowchart TD
-    PF["🗂 Portfolio\n(strategic alignment)"]
-    PA["📦 Programme A\n(coordinated benefits)"]
+    PF["🗂 Portfolio (strategic alignment)"]
+    PA["📦 Programme A (coordinated benefits)"]
     PB["📦 Programme B"]
     P1["✅ Project 1"]
     P2["✅ Project 2"]
@@ -136,9 +136,9 @@ Culture determines how communication happens, how conflict is handled, how decis
 
 ```mermaid
 flowchart TD
-    EE["🌐 External Environment\n(regulations, markets, society, technology)"]
-    OE["🏢 Organisational Environment\n(culture, governance, strategy)"]
-    PE["📋 Project Environment\n(sponsor, stakeholders, constraints)"]
+    EE["🌐 External Environment (regulations, markets, society, technology)"]
+    OE["🏢 Organisational Environment (culture, governance, strategy)"]
+    PE["📋 Project Environment (sponsor, stakeholders, constraints)"]
     PT["👥 Project Team"]
     EE --> OE --> PE --> PT
 ```
@@ -216,10 +216,10 @@ The chain from investment to value looks like this:
 
 ```mermaid
 flowchart LR
-    I["📥 Input\n(resources, budget, time)"]
-    O["📤 Output\n(deliverable)"]
-    OC["🔄 Outcome\n(change in behaviour\nor capability)"]
-    B["💡 Benefit\n(measurable value\nto the organisation)"]
+    I["📥 Input (resources, budget, time)"]
+    O["📤 Output (deliverable)"]
+    OC["🔄 Outcome (change in behaviour or capability)"]
+    B["💡 Benefit (measurable value to the organisation)"]
     I --> O --> OC --> B
 ```
 *Example: £200k budget → self-service portal → customers resolve issues without calling → 30% call-centre reduction.*

@@ -62,12 +62,12 @@ classDiagram
         +risk management
         +quality management
         +procurement management
-        +agile & hybrid methods
+        +agile and hybrid methods
     }
     class PowerSkills {
         +communication
         +stakeholder engagement
-        +leadership & influence
+        +leadership and influence
         +conflict resolution
         +negotiation
         +team development

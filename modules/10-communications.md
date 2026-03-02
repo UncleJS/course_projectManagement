@@ -88,12 +88,12 @@ Every communication should have a defined purpose:
 ```mermaid
 flowchart LR
     S["👤 Sender"]
-    EN["🔡 Encode\n(chooses words,\nformat, channel)"]
-    CH["📡 Channel\n(email, meeting,\nreport, chat)"]
-    NO["⚡ Noise\n(jargon, culture,\nemotion, ambiguity)"]
-    DE["🔍 Decode\n(interprets\nmessage)"]
+    EN["🔡 Encode (chooses words, format, channel)"]
+    CH["📡 Channel (email, meeting, report, chat)"]
+    NO["⚡ Noise (jargon, culture, emotion, ambiguity)"]
+    DE["🔍 Decode (interprets message)"]
     RE["👤 Receiver"]
-    FB["↩ Feedback\n(confirms receipt\nas intended)"]
+    FB["↩ Feedback (confirms receipt as intended)"]
     S --> EN --> CH
     CH --> NO
     NO --> DE --> RE

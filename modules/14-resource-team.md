@@ -175,11 +175,11 @@ Abraham Maslow proposed that human needs form a hierarchy. Lower-level needs mus
 
 ```mermaid
 flowchart TD
-    SA["🔺 Self-Actualisation\n(realising potential)"]
-    ES["Esteem\n(recognition, achievement)"]
-    SO["Social / Belonging\n(team, relationships)"]
-    SF["Safety\n(job security, safe environment)"]
-    PH["Physiological\n(pay, working conditions)"]
+    SA["🔺 Self-Actualisation (realising potential)"]
+    ES["Esteem (recognition, achievement)"]
+    SO["Social / Belonging (team, relationships)"]
+    SF["Safety (job security, safe environment)"]
+    PH["Physiological (pay, working conditions)"]
     SA --> ES --> SO --> SF --> PH
 ```
 *Maslow's Hierarchy of Needs — lower-level needs must be sufficiently met before higher-level needs become motivating.*

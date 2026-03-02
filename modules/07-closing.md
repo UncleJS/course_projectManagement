@@ -48,14 +48,14 @@ Premature closure is not failure — continuing a project that no longer serves 
 
 ```mermaid
 flowchart TD
-    ACC["✅ Scope Verification\n& Formal Acceptance\n(written sign-off)"]
-    HO["📦 Transition\n& Handover\n(operations briefed, trained, equipped)"]
-    BR["💡 Benefits Realisation\nHandover\n(benefit owner named & briefed)"]
-    LL["📚 Lessons Learned\n(workshop, log, PMO submission)"]
-    CC["📄 Contract Closure\n(all supplier contracts formally closed)"]
-    AC["🗃 Administrative Closure\n(financial reconciliation, records archived, PMIS closed)"]
-    TR["🎉 Team Recognition\n& Release\n(acknowledgement, references, resource return)"]
-    PIR["🔍 Post-Implementation\nReview\n(3–6 months post go-live)"]
+    ACC["✅ Scope Verification & Formal Acceptance (written sign-off)"]
+    HO["📦 Transition & Handover (operations briefed, trained, equipped)"]
+    BR["💡 Benefits Realisation Handover (benefit owner named & briefed)"]
+    LL["📚 Lessons Learned (workshop, log, PMO submission)"]
+    CC["📄 Contract Closure (all supplier contracts formally closed)"]
+    AC["🗃 Administrative Closure (financial reconciliation, records archived, PMIS closed)"]
+    TR["🎉 Team Recognition & Release (acknowledgement, references, resource return)"]
+    PIR["🔍 Post-Implementation Review (3–6 months post go-live)"]
     ACC --> HO --> BR --> LL --> CC --> AC --> TR
     TR -.->|"scheduled for later"| PIR
 ```

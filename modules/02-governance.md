@@ -40,11 +40,11 @@ Governance is not bureaucracy for its own sake. It exists to protect the organis
 
 ```mermaid
 flowchart TD
-    B["🏛 Board / Executive Leadership\n(strategic authority)"]
-    PP["📊 Portfolio & Programme Governance\n(investment decisions)"]
-    PB["🪑 Project Board / Steering Committee\n(stage-gate authority)"]
-    PM["🧭 Project Manager\n(day-to-day management)"]
-    PT["👥 Project Team\n(delivery)"]
+    B["🏛 Board / Executive Leadership (strategic authority)"]
+    PP["📊 Portfolio & Programme Governance (investment decisions)"]
+    PB["🪑 Project Board / Steering Committee (stage-gate authority)"]
+    PM["🧭 Project Manager (day-to-day management)"]
+    PT["👥 Project Team (delivery)"]
     B -->|"delegates with tolerance"| PP
     PP -->|"authorises project"| PB
     PB -->|"appoints & authorises"| PM
@@ -122,15 +122,15 @@ flowchart TD
     IT["💻 IT Director"]
     OD["⚙️ Operations Director"]
     FT["Finance Team"]
-    ITT["IT Team\n(may contribute to project)"]
-    OT["Ops Team\n(may contribute to project)"]
-    PM2["🧭 Project Manager\n(coordinator — no formal authority)"]
+    ITT["IT Team (may contribute to project)"]
+    OT["Ops Team (may contribute to project)"]
+    PM2["🧭 Project Manager (coordinator — no formal authority)"]
     CEO --> FD & IT & OD
     FD --> FT
     IT --> ITT
     OD --> OT
-    ITT -.->|"loan resource\n(negotiated)"| PM2
-    OT -.->|"loan resource\n(negotiated)"| PM2
+    ITT -.->|"loan resource (negotiated)"| PM2
+    OT -.->|"loan resource (negotiated)"| PM2
 ```
 *In a functional organisation the PM coordinates across silos but controls no resources — executive sponsorship is critical.*
 
@@ -170,11 +170,11 @@ A project that delivers its scope but produces no benefit is not a success. Bene
 
 ```mermaid
 flowchart LR
-    ID["🔍 Identify\nWhat benefits?\nWho receives them?"]
-    PL["📋 Plan\nHow measured?\nWho owns? When?"]
-    EX["⚙️ Execute\nDesign project to\nenable benefits"]
-    RV["🔎 Review\nStage-gate: does\nbusiness case still hold?"]
-    RL["💡 Realise\nMeasure & report\n(often post-project)"]
+    ID["🔍 Identify What benefits? Who receives them?"]
+    PL["📋 Plan How measured? Who owns? When?"]
+    EX["⚙️ Execute Design project to enable benefits"]
+    RV["🔎 Review Stage-gate: does business case still hold?"]
+    RL["💡 Realise Measure & report (often post-project)"]
     ID --> PL --> EX --> RV --> RL
     RV -->|"case weakens"| ID
 ```

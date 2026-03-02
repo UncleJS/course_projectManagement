@@ -54,13 +54,13 @@ Procurement is the broader discipline; purchasing is one step within it.
 
 ```mermaid
 flowchart TD
-    A([Make-or-Buy Decision]) --> B[Procurement Planning\nSoW · Contract strategy · Schedule]
-    B --> C[Solicitation\nRFI / RFQ / RFP / ITT]
-    C --> D[Evaluate & Select\nTechnical + commercial scoring]
-    D --> E[Award Contract\nNegotiate · Sign · Standstill]
-    E --> F[Contract Administration\nVariations · Payments · Claims]
-    F --> G[Supplier Performance Monitoring\nKPIs · Review meetings · Escalation]
-    G --> H([Contract & Procurement Closure\nFinal account · Lessons learned])
+    A([Make-or-Buy Decision]) --> B[Procurement Planning SoW · Contract strategy · Schedule]
+    B --> C[Solicitation RFI / RFQ / RFP / ITT]
+    C --> D["Evaluate and Select — Technical + commercial scoring"]
+    D --> E[Award Contract Negotiate · Sign · Standstill]
+    E --> F[Contract Administration Variations · Payments · Claims]
+    F --> G[Supplier Performance Monitoring KPIs · Review meetings · Escalation]
+    G --> H(["Contract and Procurement Closure — Final account · Lessons learned"])
 ```
 *Full procurement lifecycle — from make-or-buy through to contract closure.*
 
@@ -193,11 +193,11 @@ A hybrid: labour charged at agreed rates per unit of time; materials reimbursed 
 
 ```mermaid
 flowchart TD
-    Q1{Is scope well-defined\nand stable?}
-    Q1 -->|Yes| FP[Fixed Price\nFFP · FPIF · FPEPA]
-    Q1 -->|No| Q2{How uncertain\nis the scope?}
-    Q2 -->|Partially defined| TM[T&M for short engagements\nCPIF for longer work]
-    Q2 -->|Highly uncertain| CPFF[CPFF or\nStaged / phased approach]
+    Q1{Is scope well-defined and stable?}
+    Q1 -->|Yes| FP[Fixed Price FFP · FPIF · FPEPA]
+    Q1 -->|No| Q2{How uncertain is the scope?}
+    Q2 -->|Partially defined| TM["T&M for short engagements — CPIF for longer work"]
+    Q2 -->|Highly uncertain| CPFF[CPFF or Staged / phased approach]
 ```
 *Contract type selection: match the contract to the scope certainty and risk profile.*
 

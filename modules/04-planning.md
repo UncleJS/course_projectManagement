@@ -43,16 +43,16 @@ It is rarely possible — or useful — to plan every detail from day one. **Rol
 
 ```mermaid
 flowchart LR
-    DS["📋 Define\nScope"]
-    WB["🌳 Build\nWBS"]
-    DA["📌 Define\nActivities"]
-    SA["🔗 Sequence\nActivities"]
-    ED["⏱ Estimate\nDurations"]
-    EC["💰 Estimate\nCosts"]
-    IR["👥 Identify\nResources"]
-    BS["📅 Build\nSchedule"]
-    AB["💵 Assemble\nBudget"]
-    PMP["📁 Document\nin PMP"]
+    DS["📋 Define Scope"]
+    WB["🌳 Build WBS"]
+    DA["📌 Define Activities"]
+    SA["🔗 Sequence Activities"]
+    ED["⏱ Estimate Durations"]
+    EC["💰 Estimate Costs"]
+    IR["👥 Identify Resources"]
+    BS["📅 Build Schedule"]
+    AB["💵 Assemble Budget"]
+    PMP["📁 Document in PMP"]
     BL["✅ Baseline"]
     DS --> WB --> DA --> SA --> ED --> EC
     ED --> IR
@@ -116,18 +116,18 @@ flowchart TD
     P3["3. Development"]
     P4["4. Testing"]
     P5["5. Deployment & Handover"]
-    P11["1.1 Requirements\ndocumentation"]
-    P12["1.2 Project\nManagement Plan"]
-    P21["2.1 System\narchitecture"]
-    P22["2.2 UI\nwireframes"]
+    P11["1.1 Requirements documentation"]
+    P12["1.2 Project Management Plan"]
+    P21["2.1 System architecture"]
+    P22["2.2 UI wireframes"]
     P31["3.1 Backend API"]
-    P32["3.2 Frontend\napplication"]
-    P33["3.3 Integration\nlayer"]
-    P41["4.1 Unit\ntesting"]
-    P42["4.2 Integration\ntesting"]
-    P43["4.3 User acceptance\ntesting"]
-    P51["5.1 Production\ndeployment"]
-    P52["5.2 Training &\nhandover"]
+    P32["3.2 Frontend application"]
+    P33["3.3 Integration layer"]
+    P41["4.1 Unit testing"]
+    P42["4.2 Integration testing"]
+    P43["4.3 User acceptance testing"]
+    P51["5.1 Production deployment"]
+    P52["5.2 Training & handover"]
     P --> P1 & P2 & P3 & P4 & P5
     P1 --> P11 & P12
     P2 --> P21 & P22
@@ -173,13 +173,13 @@ Activities are linked by **dependencies** (also called logical relationships):
 ```mermaid
 flowchart LR
     subgraph FS["Finish-to-Start (most common)"]
-        A1["Activity A"] -->|"B starts after\nA finishes"| B1["Activity B"]
+        A1["Activity A"] -->|"B starts after A finishes"| B1["Activity B"]
     end
     subgraph SS["Start-to-Start"]
-        A2["Activity A"] -->|"B starts when\nA starts"| B2["Activity B"]
+        A2["Activity A"] -->|"B starts when A starts"| B2["Activity B"]
     end
     subgraph FF["Finish-to-Finish"]
-        A3["Activity A"] -->|"B finishes when\nA finishes"| B3["Activity B"]
+        A3["Activity A"] -->|"B finishes when A finishes"| B3["Activity B"]
     end
 ```
 *Most real-world schedules use Finish-to-Start. Leads and lags refine timing without changing the dependency type.*
@@ -257,10 +257,10 @@ Costs flow from resources. For each activity or work package, estimate:
 
 ```mermaid
 flowchart TD
-    WP["📦 Work Package Estimates\n(bottom-up cost of all WBS elements)"]
-    CR["🔶 Contingency Reserve\n(for known risks — PM-controlled)"]
-    CB["📊 Cost Baseline\n(= Performance Measurement Baseline)\nused for Earned Value measurement"]
-    MR["🔴 Management Reserve\n(for unknown risks — Sponsor-controlled)"]
+    WP["📦 Work Package Estimates (bottom-up cost of all WBS elements)"]
+    CR["🔶 Contingency Reserve (for known risks — PM-controlled)"]
+    CB["📊 Cost Baseline (= Performance Measurement Baseline) used for Earned Value measurement"]
+    MR["🔴 Management Reserve (for unknown risks — Sponsor-controlled)"]
     TB["💰 Total Project Budget"]
     WP --> CB
     CR --> CB

@@ -226,13 +226,13 @@ Quality Control is the reactive, product-oriented dimension. It inspects outputs
 
 ```mermaid
 flowchart TD
-    FO["🔴 Found\n(identified during\ntesting or review)"]
-    LO["📋 Logged\n(recorded in\ndefect log)"]
-    AS["👤 Assigned\n(owner and priority\nset)"]
-    FX["🔧 Fixed\n(root cause\naddressed)"]
-    VE["🧪 Verified\n(fix tested by\nindependent tester)"]
-    CL["✅ Closed\n(defect confirmed\nresolved)"]
-    RO["🔁 Reopened\n(fix was\ninadequate)"]
+    FO["🔴 Found (identified during testing or review)"]
+    LO["📋 Logged (recorded in defect log)"]
+    AS["👤 Assigned (owner and priority set)"]
+    FX["🔧 Fixed (root cause addressed)"]
+    VE["🧪 Verified (fix tested by independent tester)"]
+    CL["✅ Closed (defect confirmed resolved)"]
+    RO["🔁 Reopened (fix was inadequate)"]
     FO --> LO --> AS --> FX --> VE
     VE -->|"fix confirmed"| CL
     VE -->|"fix failed"| RO
@@ -304,13 +304,13 @@ Used for complex problems with multiple potential causes. Categories (the "bones
 
 ```mermaid
 flowchart LR
-    PE["👥 People\n(skills, training,\nstaffing)"]
-    PR["⚙️ Process\n(standards, procedures,\nworkflows)"]
-    MA["📦 Materials\n(quality of inputs,\nspecifications)"]
-    EQ["🖥 Equipment\n(tools, technology,\nenvironment)"]
-    ME["📏 Measurement\n(metrics, test\ncoverage)"]
-    MG["📋 Management\n(oversight, priorities,\npressure)"]
-    EF["❌ Effect\n(defect / quality\nfailure)"]
+    PE["👥 People (skills, training, staffing)"]
+    PR["⚙️ Process (standards, procedures, workflows)"]
+    MA["📦 Materials (quality of inputs, specifications)"]
+    EQ["🖥 Equipment (tools, technology, environment)"]
+    ME["📏 Measurement (metrics, test coverage)"]
+    MG["📋 Management (oversight, priorities, pressure)"]
+    EF["❌ Effect (defect / quality failure)"]
     PE --> EF
     PR --> EF
     MA --> EF
@@ -346,10 +346,10 @@ The **Plan-Do-Check-Act (PDCA)** cycle (also called the Deming cycle) is the fou
 
 ```mermaid
 flowchart LR
-    P["📋 PLAN\n(identify problem;\ndevelop improvement plan)"]
-    D["🔧 DO\n(implement on\nsmall scale)"]
-    C["📊 CHECK\n(measure results;\ndid it work?)"]
-    A["🚀 ACT\n(scale up if success;\nrevise if not)"]
+    P["📋 PLAN (identify problem; develop improvement plan)"]
+    D["🔧 DO (implement on small scale)"]
+    C["📊 CHECK (measure results; did it work?)"]
+    A["🚀 ACT (scale up if success; revise if not)"]
     P --> D --> C --> A --> P
 ```
 *PDCA is a continuous loop — each cycle builds on the learning from the previous one.*

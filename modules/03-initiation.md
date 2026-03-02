@@ -176,16 +176,16 @@ The business case justifies *whether* to do the project. The charter authorises 
 
 ```mermaid
 flowchart TD
-    MAN["📄 Project Mandate\n(trigger)"]
-    FEAS["🔬 Feasibility Study\n& Options Appraisal"]
-    DEC{{"Go / No-Go\nDecision"}}
-    BC["📊 Business Case\n(approved)"]
-    CHAR["✅ Project Charter\n(signed)"]
-    APPT["👤 Appoint PM\n& Core Team"]
-    STAKE["👥 Stakeholder\nIdentification"]
-    PLAN["📋 Planning\n(Module 04)"]
-    KO["🚀 Kick-off\nMeeting"]
-    STOP["🛑 Do Not\nProceed"]
+    MAN["📄 Project Mandate (trigger)"]
+    FEAS["🔬 Feasibility Study & Options Appraisal"]
+    DEC{{"Go / No-Go Decision"}}
+    BC["📊 Business Case (approved)"]
+    CHAR["✅ Project Charter (signed)"]
+    APPT["👤 Appoint PM & Core Team"]
+    STAKE["👥 Stakeholder Identification"]
+    PLAN["📋 Planning (Module 04)"]
+    KO["🚀 Kick-off Meeting"]
+    STOP["🛑 Do Not Proceed"]
     MAN --> FEAS --> BC --> DEC
     DEC -->|"approved"| CHAR
     DEC -->|"not viable"| STOP

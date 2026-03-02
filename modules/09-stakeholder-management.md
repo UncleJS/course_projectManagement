@@ -142,13 +142,13 @@ Analysis tools are starting points, not conclusions. Real stakeholders are compl
 
 ```mermaid
 flowchart TD
-    ID["🔍 Identify\n(who are the stakeholders?)"]
-    AN["📊 Analyse\n(power, interest, attitude,\ncurrent engagement level)"]
-    PL["📋 Plan\n(engagement strategy,\nactions, owners)"]
-    EN["🤝 Engage\n(communicate, involve,\nconsult, collaborate)"]
-    MO["📡 Monitor\n(track attitude changes,\nengagement signals)"]
+    ID["🔍 Identify (who are the stakeholders?)"]
+    AN["📊 Analyse (power, interest, attitude, current engagement level)"]
+    PL["📋 Plan (engagement strategy, actions, owners)"]
+    EN["🤝 Engage (communicate, involve, consult, collaborate)"]
+    MO["📡 Monitor (track attitude changes, engagement signals)"]
     ID --> AN --> PL --> EN --> MO
-    MO -->|"new stakeholders\nor attitude shifts"| ID
+    MO -->|"new stakeholders or attitude shifts"| ID
     MO -->|"update strategy"| PL
 ```
 *Stakeholder engagement is a continuous cycle — not a one-time analysis at initiation.*

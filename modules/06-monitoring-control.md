@@ -40,12 +40,12 @@ Monitoring and controlling is not a phase — it runs **concurrently with execut
 
 ```mermaid
 flowchart TD
-    PL["📋 Plan\n(approved baselines)"]
-    EX["⚙️ Execute\n(team delivers work)"]
-    ME["📏 Measure\n(compare actuals to baseline)"]
-    AN["🔍 Analyse\n(identify variances & causes)"]
-    RE["🔧 Respond\n(corrective or preventive action)"]
-    UP["📝 Update Plans\n(revise forecasts)"]
+    PL["📋 Plan (approved baselines)"]
+    EX["⚙️ Execute (team delivers work)"]
+    ME["📏 Measure (compare actuals to baseline)"]
+    AN["🔍 Analyse (identify variances & causes)"]
+    RE["🔧 Respond (corrective or preventive action)"]
+    UP["📝 Update Plans (revise forecasts)"]
     PL --> EX --> ME --> AN --> RE --> UP --> EX
 ```
 *This cycle repeats continuously — monitoring is not a phase, it runs concurrently with all execution work.*

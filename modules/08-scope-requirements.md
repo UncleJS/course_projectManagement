@@ -32,15 +32,15 @@ Requirements management is not a single event at the start of a project — it i
 
 ```mermaid
 flowchart LR
-    E["📋 Elicit\n(gather from\nstakeholders)"]
-    A["🔍 Analyse\n(refine &\nresolve conflicts)"]
-    S["📝 Specify\n(document\nclearly)"]
-    V["✅ Validate\n(confirm with\nstakeholders)"]
-    B["🔒 Baseline\n(approve &\nfreeze)"]
-    MC["🔄 Manage\nChange\n(formal CCB)"]
-    T["🔗 Trace\n(link reqs to\ndeliverables)"]
-    VE["🧪 Verify\n(test against\nrequirements)"]
-    AC["🎯 Accept\n(formal\nsign-off)"]
+    E["📋 Elicit (gather from stakeholders)"]
+    A["🔍 Analyse (refine & resolve conflicts)"]
+    S["📝 Specify (document clearly)"]
+    V["✅ Validate (confirm with stakeholders)"]
+    B["🔒 Baseline (approve & freeze)"]
+    MC["🔄 Manage Change (formal CCB)"]
+    T["🔗 Trace (link reqs to deliverables)"]
+    VE["🧪 Verify (test against requirements)"]
+    AC["🎯 Accept (formal sign-off)"]
     E --> A --> S --> V --> B --> MC
     B --> T --> VE --> AC
     MC --> T

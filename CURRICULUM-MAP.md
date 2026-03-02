@@ -24,31 +24,31 @@
 ```mermaid
 flowchart TD
     subgraph T1["Tier 1 — Foundations"]
-        M01["01\nFoundations of PM"]
-        M02["02\nGovernance & Context"]
+        M01["01 Foundations of PM"]
+        M02["02 Governance & Context"]
     end
 
     subgraph T2["Tier 2 — Project Lifecycle"]
-        M03["03\nInitiation"]
-        M04["04\nPlanning"]
-        M05["05\nExecution"]
-        M06["06\nMonitoring & Control"]
-        M07["07\nClosing"]
+        M03["03 Initiation"]
+        M04["04 Planning"]
+        M05["05 Execution"]
+        M06["06 Monitoring & Control"]
+        M07["07 Closing"]
     end
 
     subgraph T3["Tier 3 — Knowledge Domains"]
-        M08["08\nScope & Requirements"]
-        M09["09\nStakeholder Mgmt"]
-        M10["10\nCommunications"]
-        M11["11\nRisk Management"]
-        M12["12\nQuality Management"]
-        M13["13\nProcurement"]
-        M14["14\nResource & Team"]
+        M08["08 Scope & Requirements"]
+        M09["09 Stakeholder Mgmt"]
+        M10["10 Communications"]
+        M11["11 Risk Management"]
+        M12["12 Quality Management"]
+        M13["13 Procurement"]
+        M14["14 Resource & Team"]
     end
 
     subgraph T4["Tier 4 — Capstone"]
-        M15A["15a\nIntegration &\nHybrid/Agile"]
-        M15B["15b\nProfessional\nPractice"]
+        M15A["15a Integration & Hybrid/Agile"]
+        M15B["15b Professional Practice"]
     end
 
     M01 --> M02
@@ -71,7 +71,7 @@ flowchart TD
     M06 -.->|"deepens"| M12
 
     T1 --> T2
-    T3 -.->|"reference\nthroughout"| T2
+    T3 -.->|"reference throughout"| T2
     T2 --> T4
     T3 --> T4
 ```
