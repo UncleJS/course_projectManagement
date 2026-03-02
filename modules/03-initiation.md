@@ -491,4 +491,15 @@ The mandate triggers the work. The business case makes the case for proceeding. 
 
 ---
 
-&copy; UncleJs &mdash; Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+## Related Modules
+
+| Module | Relationship |
+|---|---|
+| [02 — Governance and Business Case](02-governance.md) | The business case and governance structures that authorise initiation are covered there |
+| [04 — Planning](04-planning.md) | The project charter and scope statement from initiation feed directly into the planning phase |
+| [09 — Stakeholder Management](09-stakeholder-management.md) | The stakeholder register first built at initiation is managed throughout in Module 09 |
+| [15a — Integration, Hybrid, and Agile](15a-integration-hybrid-agile.md) | Integration management shows how all initiation outputs must remain coherent throughout |
+
+---
+
+&copy; 2026 UncleJs &mdash; Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

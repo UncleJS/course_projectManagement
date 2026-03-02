@@ -547,4 +547,15 @@ Using Expected Monetary Value (EMV):
 
 ---
 
-&copy; UncleJs &mdash; Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+## Related Modules
+
+| Module | Relationship |
+|---|---|
+| [Module 04 — Project Planning](04-planning.md) | Risk management planning is a core planning activity; risk reserves are included in the cost and schedule baselines |
+| [Module 05 — Project Execution](05-execution.md) | Risks are actively monitored during execution; risk responses are implemented as part of delivery |
+| [Module 06 — Monitoring and Controlling](06-monitoring-control.md) | Risk reviews are a key monitoring activity; escalating risks drive exception reports and change requests |
+| [Module 15a — Integration, Hybrid Approaches, and Agile](15a-integration-hybrid-agile.md) | Covers how agile approaches treat risk differently — through iteration, early delivery, and continuous re-prioritisation |
+
+---
+
+&copy; 2026 UncleJs &mdash; Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

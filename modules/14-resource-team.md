@@ -707,10 +707,19 @@ Consistent late/weekend working; rising defect rates (cognitive load degrades qu
 
 ---
 
+## Related Modules
+
+| Module | Relationship |
+|---|---|
+| [Module 04 — Project Planning](04-planning.md) | Resource planning — staffing models, RACI, and capacity estimates — is established during the planning phase |
+| [Module 05 — Project Execution](05-execution.md) | Team performance, motivation, and conflict resolution are active execution responsibilities |
+| [Module 13 — Procurement and Contract Management](13-procurement.md) | Contracted resources are a key team component; supplier management and internal team integration overlap |
+| [Module 15b — Professional Practice and Career Development](15b-professional-practice.md) | Covers leadership styles, sustainable pace, psychological safety, and the PM's people-management obligations |
+
 ---
 
 [← Module 13: Procurement Management](13-procurement.md) | [→ Module 15: Capstone](15-capstone.md)
 
 ---
 
-© UncleJs — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+© 2026 UncleJs — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

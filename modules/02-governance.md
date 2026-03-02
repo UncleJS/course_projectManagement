@@ -458,4 +458,15 @@ You are setting up governance for the following two projects. For each, recommen
 
 ---
 
-&copy; UncleJs &mdash; Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+## Related Modules
+
+| Module | Relationship |
+|---|---|
+| [01 — Foundations](01-foundations.md) | Governance structures extend the lifecycle and organisational context introduced there |
+| [03 — Initiation](03-initiation.md) | The business case produced in governance is the primary input to project initiation |
+| [07 — Closing](07-closing.md) | Benefits realisation and post-project review close the governance loop opened here |
+| [15b — Professional Practice](15b-professional-practice.md) | PM competency frameworks and CPD extend the professional governance themes in this module |
+
+---
+
+&copy; 2026 UncleJs &mdash; Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

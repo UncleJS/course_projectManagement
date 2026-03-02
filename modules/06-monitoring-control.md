@@ -565,4 +565,15 @@ Classify each and describe the correct process that should have been followed.
 
 ---
 
-&copy; UncleJs &mdash; Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+## Related Modules
+
+| Module | Relationship |
+|---|---|
+| [Module 05 — Project Execution](05-execution.md) | Monitoring runs concurrently with execution; performance data from delivery drives control decisions |
+| [Module 07 — Project Closing](07-closing.md) | Control processes are formally wound down at closure; final performance against baseline is assessed here |
+| [Module 11 — Risk Management](11-risk-management.md) | Risk reviews and issue escalation are core monitoring activities; risk status informs RAG and exception reporting |
+| [Module 15a — Integration, Hybrid Approaches, and Agile](15a-integration-hybrid-agile.md) | Covers how monitoring works in hybrid environments — sprint reviews, velocity tracking, and integrated reporting |
+
+---
+
+&copy; 2026 UncleJs &mdash; Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

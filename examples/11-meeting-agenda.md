@@ -1,0 +1,92 @@
+# Worked Example: Meeting Agenda — Project Kick-off
+## Meridian — Citizen Self-Service Portal
+
+![Template](https://img.shields.io/badge/Example-Meeting%20Agenda-blue)
+![Project](https://img.shields.io/badge/Project-Meridian%20Portal-informational)
+
+> **See also:** [`templates/meeting-agenda.md`](../templates/meeting-agenda.md) | **Module:** [10 — Communications Management](../modules/10-communications.md)
+
+---
+
+## Meeting Details
+
+| Field | Value |
+|---|---|
+| **Meeting title** | Meridian Portal — Project Kick-off Meeting |
+| **Date** | Thursday 5 February 2026 |
+| **Time** | 10:00 – 12:00 |
+| **Location** | Council Chamber Room 2B / MS Teams (hybrid) |
+| **Facilitator** | Sarah Chen, Project Manager |
+| **Note-taker** | Diane Hughes, Digital Comms |
+
+---
+
+## Attendees
+
+| Name | Role | Location |
+|---|---|---|
+| James Hartley | Sponsor | In person |
+| Sarah Chen | Project Manager | In person |
+| Sandra Obi | Senior User / Head of Customer Services | In person |
+| Mark Pearce | ICT Manager / Senior Supplier | In person |
+| Councillor Patricia Dean | Portfolio Holder — Digital & Innovation | In person |
+| Ayo Mensah | Contact Centre Team Lead | MS Teams |
+| Claire Worthington | Section 151 Officer | In person |
+| GovTech Solutions (Supplier) | Pre-contract (observer only at this stage) | MS Teams |
+
+**Apologies:** None received.
+
+---
+
+## Purpose
+
+To formally launch the Meridian Portal project; align all stakeholders on the project objectives, scope, and approach; confirm roles and responsibilities; and set up the working arrangements that will govern the project.
+
+---
+
+## Pre-reading
+
+Attendees are asked to read the following before the meeting:
+
+1. [Project Charter](../examples/02-project-charter.md) (circulated 3 Feb 2026)
+2. [Business Case Executive Summary](../examples/01-business-case.md) — Section 1 only
+3. Draft project timeline (circulated 3 Feb 2026)
+
+*If you have not received these documents, contact Sarah Chen before the meeting.*
+
+---
+
+## Agenda
+
+| # | Item | Owner | Time |
+|---|---|---|---|
+| 1 | Welcome and introductions | James Hartley (Sponsor) | 10:00 – 10:10 |
+| 2 | Why this project matters — strategic context and business case | James Hartley | 10:10 – 10:25 |
+| 3 | Project scope and objectives walkthrough | Sarah Chen | 10:25 – 10:45 |
+| 4 | Roles and responsibilities (RACI overview) | Sarah Chen | 10:45 – 10:55 |
+| 5 | Project approach and key milestones | Sarah Chen | 10:55 – 11:10 |
+| 6 | Governance: how we will manage this project | Sarah Chen | 11:10 – 11:25 |
+| 7 | Q&A and open discussion | All | 11:25 – 11:50 |
+| 8 | Actions, next steps, and close | Sarah Chen | 11:50 – 12:00 |
+
+---
+
+## Decisions Required at This Meeting
+
+1. Formal confirmation by Sponsor that the project is authorised to proceed (Project Charter already signed; verbal affirmation in front of the group).
+2. Agreement on the fortnightly Highlight Report distribution list.
+3. Agreement on the date for the first Project Board meeting (proposed: 5 March 2026, 10:00).
+
+---
+
+## Ground Rules
+
+- Please arrive (or connect) on time.
+- All devices on silent; limit laptop use to note-taking.
+- One conversation at a time.
+- Questions are welcome throughout — we will pause after each section.
+- Action owners: please confirm you accept each action before the meeting closes.
+
+---
+
+*© 2026 UncleJs — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*

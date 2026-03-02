@@ -1,0 +1,76 @@
+# Worked Example: Lessons Learned Log
+## Meridian — Citizen Self-Service Portal
+
+![Template](https://img.shields.io/badge/Example-Lessons%20Learned%20Log-blue)
+![Project](https://img.shields.io/badge/Project-Meridian%20Portal-informational)
+
+> **See also:** [`templates/lessons-learned-log.md`](../templates/lessons-learned-log.md) | **Module:** [07 — Project Closing](../modules/07-closing.md)
+
+---
+
+## Document Control
+
+| Field | Value |
+|---|---|
+| **Project Title** | Meridian — Citizen Self-Service Portal |
+| **Version** | 1.0 (Final — at project closure) |
+| **Date** | 31 October 2026 |
+| **Owner** | Sarah Chen, Project Manager |
+| **Distribution at closure** | James Hartley (Sponsor), Digital PMO, ICT Directorate, GovTech Solutions, Future project teams |
+
+---
+
+## How Lessons Were Captured
+
+Lessons were captured at three points during the project:
+
+1. **Gate 1 (8 May 2026)**: Review of Discovery and Design phase — facilitated retrospective with core team.
+2. **Gate 2 (11 September 2026)**: Review of Build and Integration phase — structured workshop with PM, ICT Developer, GovTech PM, and BCM.
+3. **Project Closure (28 October 2026)**: Full lessons-learned workshop with all stakeholder groups; 18 attendees.
+
+Each lesson follows the three-part structure: **what happened → root cause → recommendation**.
+
+---
+
+## Lessons Learned Log
+
+| ID | Date captured | Phase | Category | What happened | Root cause | Recommendation | Positive / Negative | Action owner | Status |
+|---|---|---|---|---|---|---|---|---|---|
+| LL-001 | 8 May 2026 | Initiation | Resource / team management | The ICT Developer role was not formally named or committed in the project charter. When the project reached Gate 1, no internal resource had been confirmed for the integration phase — creating a potential 6-week delay if not resolved. The issue was resolved by the Sponsor within 2 weeks (Tom Okafor confirmed 13 Mar 2026). | Resource commitments for internal supplier roles were treated as informal understandings rather than formal project commitments. There was no mechanism in the project charter to capture named ICT resources. | Future project charters involving internal supplier teams should include a named resource commitment section, signed by the relevant line manager or ICT Manager. The Charter should not be approved without confirmed names for all delivery-critical roles. | Negative | Digital PMO | Submitted to PMO |
+| LL-002 | 8 May 2026 | Initiation | Procurement / supplier management | The Business Change Manager role was not filled at project initiation — it was assumed that a suitable person would be seconded. In practice, the role was not confirmed until 22 April 2026 (nearly 3 months into the project), leaving staff engagement unmanaged during the critical design phase. | The role was identified as important but not essential to the early phases, so it was deprioritised. No owner was assigned to recruiting the BCM, and the PM had no authority to compel HR to act. | Projects with a significant organisational change dimension (staff behaviour change, adoption risk) should have a BCM confirmed before the initiation stage gate. The BCM role should be treated as a delivery-critical resource, not a support role. Sponsor should own BCM appointment as a project initiation condition. | Negative | Digital PMO | Submitted to PMO |
+| LL-003 | 8 May 2026 | Discovery | Technical / technology | The UNIFORM system's API limitations for parking permit data were not identified during pre-project scoping. This required a technical options assessment during discovery, led to Change Request CR-003, and deferred the parking permit module to Phase 2. The risk had been listed in the risk register as RSK-01 (UNIFORM integration more complex than estimated) but had not been characterised at the level of specific data queries. | The pre-project technical scoping had relied on high-level assurances from the UNIFORM system vendor that API access was available, without testing specific data fields. No technical spike or proof-of-concept was conducted before the business case was finalised. | For projects integrating with legacy back-office systems, a technical feasibility spike (proof-of-concept test of specific data queries) should be completed before the business case is finalised. API access claims should be evidenced, not assumed. | Negative | Digital PMO | Submitted to PMO |
+| LL-004 | 8 May 2026 | Discovery | Stakeholder engagement | The early involvement of frontline planning officers in the UX research produced genuinely better design outcomes. Two features that had been assumed based on management input were deprioritised after user research showed they were low value. The design was accepted faster at Gate 1 because senior users trusted the evidence base. | The Senior User (Sandra Obi) had championed a user research approach from the outset, which the PM and GovTech supported. The decision to invest in structured user research (interviews and task-based testing with 12 residents and 8 planning officers) was made early. | Front-load user research investment in digital service projects. Early engagement of end users in design produces faster acceptance, better outcomes, and reduced rework. Budget for at least 2 rounds of user testing in the discovery phase. | Positive | Digital PMO | Submitted to PMO |
+| LL-005 | 11 Sep 2026 | Build | Procurement / supplier management | The payment gateway security audit (ISS-04) was not included in the project plan, because the requirement for a Capita security certification before live integration was unknown at project initiation. The issue was resolved efficiently (audit completed 14 Jul 2026), but it created a 3-week uncertainty window in the build schedule. | The requirement for third-party security certification before live payment integration was a Capita contractual requirement that was not surfaced during the procurement phase. Neither GovTech nor ICT had flagged it as a project dependency. | Payment gateway integration requirements (including third-party security audit requirements) should be explicitly confirmed as part of technical scoping. Supplier contracts should include a standard prompt: "what third-party certifications, audits, or approvals are required before this component can go live?" | Negative | Digital PMO | Submitted to PMO |
+| LL-006 | 11 Sep 2026 | Build | Change control | The formal change request process worked well for CR-003 (parking permit deferral). However, three informal scope adjustments were implemented by GovTech during the build phase without change requests (minor UI changes requested verbally by Sandra Obi). These were technically small but collectively represented approximately £4,200 of untracked effort that GovTech absorbed without complaint — this time. | The change control procedure was clear in the project management plan, but there was no explicit escalation process for "minor" changes requested directly by stakeholders to the supplier. GovTech accommodated small requests as goodwill, which masked the issue. | Project communication to all stakeholders should explicitly state that all change requests — regardless of size — must go through the PM. Supplier contracts should include a clause requiring the supplier to notify the PM of any scope requests received directly from other stakeholders. | Negative | Sarah Chen | Actioned (this project) |
+| LL-007 | 11 Sep 2026 | Build | Technology / technical approach | The two-week schedule float built into the project plan between UAT end and go-live proved invaluable. UAT identified 47 defects (18 medium, 29 low); resolution took 11 days. Without the float, the go-live date would have been at risk. | The float was included at the PM's insistence during planning, over initial Sponsor preference for an earlier go-live date. The PM used historical data from similar GovTech projects to justify the float. | Build schedule floats for digital projects should be explicitly justified with reference to comparable project data (defect volumes, re-test cycles) at planning stage. PMs should resist pressure to remove schedule float without evidence that it is unnecessary. | Positive | Digital PMO | Submitted to PMO |
+| LL-008 | 28 Oct 2026 | Closure | Organisational change management | The resident communications campaign (Aug–Sep 2026) drove far higher initial awareness than expected — 68% of residents who attended the campaign were aware of the portal before launch (target: 50%). This translated into strong take-up in the first three weeks post-launch (adoption tracking at 41% by end-October, on track for 55% target by December). | The BCM (Diane Hughes) brought strong community communications skills from her previous Digital Communications role. She had existing relationships with community groups and local media. The campaign was well-resourced and given adequate lead time (planning began June 2026). | Digital projects with public-facing services should invest in a dedicated communications and engagement plan, led by someone with community-facing communications experience. The BCM role is not just internal (staff); it includes external (resident) adoption. | Positive | Digital PMO | Submitted to PMO |
+| LL-009 | 28 Oct 2026 | All phases | Project governance / sponsorship | James Hartley (Sponsor) was consistently available for escalations and decisions throughout the project. All escalations were resolved within agreed timescales. The Project Board met on schedule (no meeting cancelled). This made a measurable difference — ISS-01 and ISS-02 were resolved weeks faster because the Sponsor acted promptly. | The Sponsor had been personally involved in the project's business case development and had a genuine interest in the outcome. The PM invested time upfront in agreeing the sponsorship compact (what decisions the PM needed from the Sponsor and at what timescale). | A sponsorship compact — a brief written agreement on the Sponsor's expected time commitment, decision timescales, and escalation protocol — should be agreed and signed at project initiation. This is particularly important when the PM is at a more junior level than the Sponsor. | Positive | Digital PMO | Submitted to PMO |
+| LL-010 | 28 Oct 2026 | Closure | Project closure | The project closure report and handover documentation were drafted during the final month of the project (October 2026), allowing a smooth formal closure on 31 October. However, the benefits register was not set up with baseline measures until Month 2 — meaning the Month 0 baseline for contact-centre call volume (the primary benefits metric) had to be reconstructed from historical call logs rather than measured directly. | Benefits measurement was not treated as a project planning task from initiation. The benefits register was created in the second month, after other planning activities had been completed. | The benefits register, including baseline measurements and measurement methodology, should be completed during project initiation — before any project activity that might affect the baseline. Benefits measurement is a project planning task, not a post-project task. | Negative | Digital PMO | Submitted to PMO |
+
+---
+
+## Top 5 Lessons (Summary for Closure Report)
+
+| # | Lesson | Recommendation |
+|---|---|---|
+| 1 | ICT resource commitments must be named and signed in the project charter | Add named resource commitment section to project charter template |
+| 2 | BCM must be confirmed before initiation stage gate on change-intensive projects | Treat BCM as delivery-critical; include as initiation approval condition |
+| 3 | Legacy API integration requires a technical spike before business case finalisation | Build API proof-of-concept into pre-project scoping for all UNIFORM-dependent projects |
+| 4 | Benefits baseline must be established at project initiation, not after | Update project initiation checklist: benefits register with baselines is a gate condition |
+| 5 | Schedule float for UAT and deployment must be evidenced and defended | PM to document float rationale with reference to comparable project data at planning stage |
+
+---
+
+## Lessons Workshop Summary
+
+**Date**: 28 October 2026
+**Facilitator**: Sarah Chen (PM)
+**Attendees**: James Hartley, Sandra Obi, Mark Pearce, Tom Okafor, Diane Hughes, Claire Worthington, GovTech Project Lead, 10 frontline staff participants
+
+**Tone**: Constructive and honest. No blame culture observed. Frontline staff were particularly candid about the BCM gap in early phases — and equally positive about the communications campaign.
+
+**Outstanding action**: PMO to schedule 6-month post-implementation review (April 2027) to validate benefits realisation data.
+
+---
+
+*© 2026 UncleJs — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*

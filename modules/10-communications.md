@@ -538,4 +538,14 @@ List at least 6 specific problems and a corrective action for each.
 
 ---
 
-&copy; UncleJs &mdash; Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+## Related Modules
+
+| Module | Relationship |
+|---|---|
+| [Module 09 — Stakeholder Management](09-stakeholder-management.md) | The communications plan is driven by stakeholder analysis; engagement strategies translate directly into communication activities |
+| [Module 05 — Project Execution](05-execution.md) | Status reporting, issue logs, and team communications are active execution activities governed by the comms plan |
+| [Module 15b — Professional Practice and Career Development](15b-professional-practice.md) | Covers assertive communication, upward management, and presenting difficult messages to senior stakeholders |
+
+---
+
+&copy; 2026 UncleJs &mdash; Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

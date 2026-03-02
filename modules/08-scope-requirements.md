@@ -511,4 +511,15 @@ Using the expense management system from Exercise 8.2, take your Must Have requi
 
 ---
 
-&copy; UncleJs &mdash; Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+## Related Modules
+
+| Module | Relationship |
+|---|---|
+| [Module 03 — Project Initiation](03-initiation.md) | High-level scope is defined in initiation; detailed requirements elaboration begins here |
+| [Module 04 — Project Planning](04-planning.md) | The WBS and scope baseline are planning outputs; requirements drive schedule and cost estimates |
+| [Module 05 — Project Execution](05-execution.md) | Scope is delivered during execution; change requests update the scope baseline throughout delivery |
+| [Module 15a — Integration, Hybrid Approaches, and Agile](15a-integration-hybrid-agile.md) | Agile treats scope as a prioritised backlog rather than a fixed baseline — a fundamental shift covered in 15a |
+
+---
+
+&copy; 2026 UncleJs &mdash; Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

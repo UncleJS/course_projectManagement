@@ -700,10 +700,19 @@ ESG criteria should appear in the specification and evaluation — not as token 
 
 ---
 
+## Related Modules
+
+| Module | Relationship |
+|---|---|
+| [Module 04 — Project Planning](04-planning.md) | Procurement planning is a core planning activity; sourcing strategy, make-or-buy decisions, and contract types are established here |
+| [Module 05 — Project Execution](05-execution.md) | Supplier onboarding and contract performance management are active execution tasks |
+| [Module 14 — Resource and Team Management](14-resource-team.md) | Contracted resources and supplier teams must be integrated with internal delivery teams |
+| [Module 15a — Integration, Hybrid Approaches, and Agile](15a-integration-hybrid-agile.md) | Agile procurement models (T&M, outcome-based contracts) and how to structure supplier relationships in iterative environments |
+
 ---
 
 [← Module 12: Quality Management](12-quality-management.md) | [→ Module 14: Resource & Team Management](14-resource-team.md)
 
 ---
 
-© UncleJs — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+© 2026 UncleJs — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

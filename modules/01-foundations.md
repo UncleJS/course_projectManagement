@@ -456,4 +456,15 @@ Resources go in (input), a deliverable comes out (output), that deliverable enab
 
 ---
 
-&copy; UncleJs &mdash; Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+## Related Modules
+
+| Module | Relationship |
+|---|---|
+| [02 — Governance and Business Case](02-governance.md) | Governance structures and frameworks build directly on the foundational concepts introduced here |
+| [03 — Project Initiation](03-initiation.md) | The project lifecycle and key initiation documents introduced here are expanded into practice |
+| [04 — Planning](04-planning.md) | Planning tools (WBS, schedule, cost baseline) put the process groups and knowledge areas into action |
+| [15a — Integration, Hybrid Approaches, and Agile](15a-integration-hybrid-agile.md) | Integration management synthesises all knowledge areas first introduced in this module |
+
+---
+
+&copy; 2026 UncleJs &mdash; Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

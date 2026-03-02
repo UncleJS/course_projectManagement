@@ -569,4 +569,15 @@ Two team members — the lead developer and the business analyst — are in pers
 
 ---
 
-&copy; UncleJs &mdash; Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+## Related Modules
+
+| Module | Relationship |
+|---|---|
+| [Module 04 — Project Planning](04-planning.md) | The approved project plan is the execution baseline; changes during execution feed back into re-planning |
+| [Module 06 — Monitoring and Controlling](06-monitoring-control.md) | Execution generates the performance data that monitoring processes track; the two phases run concurrently |
+| [Module 09 — Stakeholder Management](09-stakeholder-management.md) | Active stakeholder engagement is an ongoing execution activity; resistance and issues surface during delivery |
+| [Module 15a — Integration, Hybrid Approaches, and Agile](15a-integration-hybrid-agile.md) | Agile and hybrid execution patterns — sprint ceremonies, kanban flow, and coordinating predictive and iterative workstreams |
+
+---
+
+&copy; 2026 UncleJs &mdash; Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

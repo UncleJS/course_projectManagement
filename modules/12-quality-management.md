@@ -528,4 +528,15 @@ Then recommend 2 preventive actions for the next project based on your root caus
 
 ---
 
-&copy; UncleJs &mdash; Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+## Related Modules
+
+| Module | Relationship |
+|---|---|
+| [Module 04 — Project Planning](04-planning.md) | The quality management plan is a planning deliverable; acceptance criteria and quality thresholds are set during planning |
+| [Module 06 — Monitoring and Controlling](06-monitoring-control.md) | Quality assurance reviews and defect metrics feed into the control process; quality trends inform RAG status |
+| [Module 08 — Scope and Requirements Management](08-scope-requirements.md) | Quality is defined against requirements; non-functional requirements are key quality drivers |
+| [Module 15a — Integration, Hybrid Approaches, and Agile](15a-integration-hybrid-agile.md) | Agile builds quality in through test-driven development, continuous integration, and Definition of Done |
+
+---
+
+&copy; 2026 UncleJs &mdash; Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

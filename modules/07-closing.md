@@ -527,4 +527,14 @@ The project board of a 12-month, £500,000 HR system implementation has just inf
 
 ---
 
-&copy; UncleJs &mdash; Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+## Related Modules
+
+| Module | Relationship |
+|---|---|
+| [Module 06 — Monitoring and Controlling](06-monitoring-control.md) | Closure formally ends the control processes; final performance reporting draws on monitoring data |
+| [Module 02 — Governance, Frameworks, and Methodologies](02-governance.md) | Governance structures define the closure gate criteria; the project board formally approves closure |
+| [Module 15b — Professional Practice and Career Development](15b-professional-practice.md) | Covers lessons-learned culture, ethical handover obligations, and the PM's responsibilities at project end |
+
+---
+
+&copy; 2026 UncleJs &mdash; Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

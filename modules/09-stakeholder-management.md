@@ -449,4 +449,14 @@ The Head of IT at the relocation company is strongly resistant to the office mov
 
 ---
 
-&copy; UncleJs &mdash; Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+## Related Modules
+
+| Module | Relationship |
+|---|---|
+| [Module 03 — Project Initiation](03-initiation.md) | Stakeholder identification starts at initiation; the stakeholder register is a key PID component |
+| [Module 10 — Communications Management](10-communications.md) | Communications is the primary vehicle for stakeholder engagement; the two modules are tightly linked |
+| [Module 15b — Professional Practice and Career Development](15b-professional-practice.md) | Covers ethical dimensions of stakeholder engagement, influence without authority, and handling difficult stakeholders |
+
+---
+
+&copy; 2026 UncleJs &mdash; Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

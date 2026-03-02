@@ -1,6 +1,6 @@
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
-Copyright (c) UncleJs
+Copyright (c) 2026 UncleJs
 
 =======================================================================
 
@@ -365,4 +365,4 @@ Creative Commons may be contacted at creativecommons.org.
 
 ---
 
-&copy; UncleJs &mdash; Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+&copy; 2026 UncleJs &mdash; Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

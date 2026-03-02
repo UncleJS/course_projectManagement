@@ -567,4 +567,15 @@ Using the activities from Exercise 4.2, estimate the project budget:
 
 ---
 
-&copy; UncleJs &mdash; Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+## Related Modules
+
+| Module | Relationship |
+|---|---|
+| [Module 03 — Project Initiation](03-initiation.md) | Initiation defines the mandate and constraints that planning must honour; the PID and business case feed directly into the project plan |
+| [Module 05 — Project Execution](05-execution.md) | Plans created here are put into action during execution; baseline integrity is essential for meaningful performance measurement |
+| [Module 08 — Scope and Requirements Management](08-scope-requirements.md) | Scope baseline and WBS are core planning outputs; requirements traceability is established during planning |
+| [Module 15a — Integration, Hybrid Approaches, and Agile](15a-integration-hybrid-agile.md) | Covers adaptive planning in hybrid environments and how iterative scheduling differs from traditional baseline-driven planning |
+
+---
+
+&copy; 2026 UncleJs &mdash; Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
