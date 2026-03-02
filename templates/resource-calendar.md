@@ -1,0 +1,100 @@
+# Template: Resource Calendar
+
+![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
+![Template](https://img.shields.io/badge/Template-Resource%20Calendar-blue)
+![Author](https://img.shields.io/badge/Author-UncleJs-orange)
+
+> The resource calendar records availability for each team member — their working days, planned leave, part-time arrangements, and commitments to other projects. It is the foundation for realistic scheduling and resource levelling. Update whenever availability changes.
+
+---
+
+## Document Control
+
+| Field | Value |
+|---|---|
+| **Project Title** | |
+| **Version** | |
+| **Date** | |
+| **Owner** | Project Manager |
+| **Calendar period covered** | [From date] to [To date] |
+
+---
+
+## Resource Profiles
+
+*Complete one profile per team member.*
+
+| Field | Detail |
+|---|---|
+| **Name** | |
+| **Role on project** | |
+| **Organisation / team** | |
+| **Contract type** | Employee / Contractor / Consultant |
+| **Standard working week** | e.g., 37.5 hours Mon–Fri |
+| **% allocated to this project** | e.g., 80% |
+| **Available hours per week (project)** | |
+| **Project start date** | |
+| **Project end date** | |
+| **Line manager** | |
+| **Notes** | (part-time pattern, compressed hours, etc.) |
+
+---
+
+## Availability Calendar
+
+*Mark each week with available hours for this project. Use the notes column for exceptions.*
+
+### [Name — Role]
+
+| Week commencing | Available hours (project) | Leave / absence | Other project commitment | Net available | Notes |
+|---|---|---|---|---|---|
+| [Date] | | | | | |
+| [Date] | | | | | |
+| [Date] | | | | | |
+| [Date] | | | | | |
+| [Date] | | | | | |
+| [Date] | | | | | |
+| [Date] | | | | | |
+| [Date] | | | | | |
+
+*Repeat table for each team member.*
+
+---
+
+## Consolidated Resource Demand vs Availability
+
+*Use this table to identify overallocation at a glance. Update when the schedule changes.*
+
+| Week commencing | [Name 1] demand (hrs) | [Name 1] available (hrs) | [Name 2] demand (hrs) | [Name 2] available (hrs) | [Name 3] demand (hrs) | [Name 3] available (hrs) |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+
+**Colour code**: 🟢 Within capacity | 🟡 ≥90% utilised | 🔴 Overallocated
+
+---
+
+## Known Absences and Constraints
+
+| Name | Period | Type | Hours affected per week | Impact on plan |
+|---|---|---|---|---|
+| | | Annual leave | | |
+| | | Public holiday | | |
+| | | Other project commitment | | |
+| | | Training | | |
+| | | Other | | |
+
+---
+
+## Resource Levelling Actions
+
+*Record actions taken to resolve overallocation:*
+
+| Date | Name | Conflict identified | Resolution action | Impact on schedule |
+|---|---|---|---|---|
+| | | | | |
+
+---
+
+*© UncleJs — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*
