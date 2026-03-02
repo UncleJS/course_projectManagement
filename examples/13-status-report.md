@@ -8,6 +8,22 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [RAG Status Summary](#rag-status-summary)
+- [Period Summary](#period-summary)
+- [Progress This Period (2–8 May 2026)](#progress-this-period-28-may-2026)
+- [Planned for Next Period (9 May – 5 June 2026)](#planned-for-next-period-9-may--5-june-2026)
+- [Financials](#financials)
+  - [Earned Value Management (EVM) Summary](#earned-value-management-evm-summary)
+- [Top Risks](#top-risks)
+- [Open Issues](#open-issues)
+- [Decisions Required from Sponsor/Project Board](#decisions-required-from-sponsorproject-board)
+- [Notes](#notes)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -18,6 +34,8 @@
 | **Report date** | 8 May 2026 |
 | **Prepared by** | Sarah Chen, Project Manager |
 | **Distribution** | James Hartley, Sandra Obi, Mark Pearce, Councillor Dean, Claire Worthington |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -34,6 +52,8 @@
 
 > **RAG Definitions:** 🟢 GREEN = On track; 🟡 AMBER = Under pressure / manageable risk; 🔴 RED = Off track; requires escalation / corrective action.
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Period Summary
@@ -41,6 +61,8 @@
 Gate 1 (Discovery and Design) was passed on 8 May 2026 — on schedule. The Discovery Report and UX Design Specification were approved by the Senior User (Sandra Obi) and Senior Supplier (Mark Pearce) at the Gate 1 review meeting this morning. The project now moves into the Build and Integration phase.
 
 One significant issue emerged during discovery: the UNIFORM system does not expose parking permit expiry data in a format that the portal can consume via the standard API. This was not identified in pre-project scoping. A technical options assessment has been completed and is being submitted as a Change Request (CR-003 in draft) to defer the parking permit module to Phase 2. This is the right decision: attempting to resolve the UNIFORM data issue within the current project scope and budget would be disproportionate.
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -54,6 +76,8 @@ One significant issue emerged during discovery: the UNIFORM system does not expo
 - ✅ GovTech build environment provisioned; development sprint 1 begins 11 May 2026
 - 🔄 CR-003 (parking permit deferral) — in draft; to Project Board for decision by 8 July 2026
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Planned for Next Period (9 May – 5 June 2026)
@@ -63,6 +87,8 @@ One significant issue emerged during discovery: the UNIFORM system does not expo
 - Business Change Manager (Diane Hughes) begins staff engagement planning
 - CR-003 finalised and submitted to Project Board
 - Project Board Meeting 4 — 4 June 2026
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -92,6 +118,8 @@ One significant issue emerged during discovery: the UNIFORM system does not expo
 
 *Both SPI and CPI are at 0.99 — effectively on track. No corrective action required. The minor variance is due to discovery phase taking an extra 2 days for the UNIFORM parking permit investigation.*
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Top Risks
@@ -102,6 +130,8 @@ One significant issue emerged during discovery: the UNIFORM system does not expo
 | RSK-02 | GovTech delivery delay in build phase | P2 / I4 = 8 (Medium) | → Stable | Contractual milestone payments; PM weekly check-in with GovTech PM |
 | RSK-05 | Resident adoption below 55% target | P3 / I3 = 9 (Medium) | → Stable | UX research incorporated in design; resident communications campaign planned for Aug–Sep |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Open Issues
@@ -110,17 +140,23 @@ One significant issue emerged during discovery: the UNIFORM system does not expo
 |---|---|---|---|---|
 | ISS-04 (emerging) | UNIFORM parking permit data not queryable — CR-003 in preparation | High | Sarah Chen / Mark Pearce | Being addressed via change control |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Decisions Required from Sponsor/Project Board
 
 1. **CR-003 (Parking Permit Deferral)** — Decision required by Project Board by **4 June 2026** (Project Board Meeting 4). Full change request will be circulated by 26 May 2026.
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Notes
 
 The project is in a solid position at Gate 1. The parking permit issue, while significant, was identified early through rigorous technical discovery — exactly as intended. The recommended response (deferral to Phase 2) is proportionate and protects the go-live date. The remaining three service modules have no equivalent UNIFORM compatibility issues.
+
+[↑ Back to top](#table-of-contents)
 
 ---
 

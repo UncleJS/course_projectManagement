@@ -8,6 +8,30 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [1. Executive Summary](#1-executive-summary)
+- [2. Project Overview](#2-project-overview)
+- [3. Objectives and Deliverables](#3-objectives-and-deliverables)
+  - [Objectives Achievement](#objectives-achievement)
+  - [Deliverables](#deliverables)
+  - [Scope Changes](#scope-changes)
+- [4. Schedule Performance](#4-schedule-performance)
+- [5. Financial Performance](#5-financial-performance)
+- [6. Quality Performance](#6-quality-performance)
+- [7. Risk and Issue Summary](#7-risk-and-issue-summary)
+  - [Risks](#risks)
+  - [Issues](#issues)
+- [8. Benefits Handover](#8-benefits-handover)
+- [9. Handover to BAU](#9-handover-to-bau)
+- [10. Lessons Learned Summary](#10-lessons-learned-summary)
+- [11. Project Archive](#11-project-archive)
+- [12. Recommendation](#12-recommendation)
+- [Authorisation](#authorisation)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -18,6 +42,8 @@
 | **Date** | 31 October 2026 |
 | **Prepared by** | Sarah Chen, Project Manager |
 | **Approved by** | James Hartley, Project Sponsor |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -33,6 +59,8 @@ Early adoption data (end-October 2026) shows 41% of eligible residents have acce
 
 The project is recommended for formal closure. Benefits realisation is being handed over to Sandra Obi (Senior User / Service Director) with a post-implementation review scheduled for April 2027.
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## 2. Project Overview
@@ -47,6 +75,8 @@ The project is recommended for formal closure. Benefits realisation is being han
 | **Total approved budget** | £420,000 |
 | **Actual final cost** | £411,400 |
 | **Underspend** | £8,600 (2.0%) |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -89,6 +119,8 @@ The project is recommended for formal closure. Benefits realisation is being han
 | CR-003 | Parking permit module deferred to Phase 2 (UNIFORM API incompatibility) | −£18,000 (removed from build scope; budget released to contingency) | None — go-live date maintained |
 | **Net scope change impact** | | **−£14,800** | **None** |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## 4. Schedule Performance
@@ -105,6 +137,8 @@ The project is recommended for formal closure. Benefits realisation is being han
 **Schedule Performance Index (SPI) at closure**: 1.00
 
 **Commentary**: The project delivered every milestone on time. The 2-week schedule float between UAT completion and go-live was consumed by defect resolution (47 UAT defects — 18 medium, 29 low — resolved in 11 days). The float had been built in deliberately at the planning stage and performed exactly as intended. No corrective action was required at any stage.
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -126,6 +160,8 @@ The project is recommended for formal closure. Benefits realisation is being han
 
 **Commentary**: The project closed with an £8,600 underspend (2.0%). The GovTech scope reduction from CR-003 (parking permit deferral, saving ~£18,000 of build cost) offset the additional accessibility testing spend (£3,200) and minor overspends in content/UX. **No contingency was drawn down** — a notable result given the UNIFORM integration issue and the payment gateway security audit. The underspent budget of £8,600 is returned to the Sponsor.
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## 6. Quality Performance
@@ -142,6 +178,8 @@ The project is recommended for formal closure. Benefits realisation is being han
 | Staff training completion | 100% of in-scope staff | 54/54 (100%) | ✅ Yes |
 
 **Commentary**: All quality targets were met. The two-round accessibility audit approach (initial audit + remediation + re-audit) added £3,200 to cost (CR-002) but was the right decision — the portal launched fully WCAG 2.1 AA compliant, which is both a legal requirement and a reputational imperative for a public-sector service. GovTech's UAT entry quality was good — no critical defects at UAT entry.
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -170,6 +208,8 @@ The project is recommended for formal closure. Benefits realisation is being han
 
 **Commentary**: All six issues were fully resolved before project closure. No unresolved issues are carried forward into BAU.
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## 8. Benefits Handover
@@ -186,6 +226,8 @@ The project is recommended for formal closure. Benefits realisation is being han
 
 **Benefits owner accepting responsibility at close**: Sandra Obi, Service Director (Customer and Digital Services)
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## 9. Handover to BAU
@@ -199,6 +241,8 @@ The project is recommended for formal closure. Benefits realisation is being han
 | Acceptance signed by operations | ✅ Yes | Sandra Obi signed operational acceptance 14 Oct 2026 |
 | Benefits owner confirmed | ✅ Yes | Sandra Obi confirmed as benefits owner; PIR scheduled April 2027 |
 | Phase 2 handover brief prepared | ✅ Yes | Parking permit module brief prepared for Phase 2 planning; includes UNIFORM technical findings and CR-003 documentation |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -216,6 +260,8 @@ The project is recommended for formal closure. Benefits realisation is being han
 
 **Lessons submitted to PMO**: Yes — 31 October 2026.
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## 11. Project Archive
@@ -231,6 +277,8 @@ The project is recommended for formal closure. Benefits realisation is being han
 | All deliverables (portal documentation, DPIA, audits) | NDA SharePoint: Meridian/Deliverables | Sarah Chen | 28 Oct 2026 |
 | Gate review records | NDA SharePoint: Meridian/Governance | Sarah Chen | 28 Oct 2026 |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## 12. Recommendation
@@ -243,6 +291,8 @@ The parking permit module (CR-003) has been documented as a defined scope item f
 
 The project should be archived in accordance with the Council's records management policy. All project resources are formally released as of 31 October 2026.
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Authorisation
@@ -252,6 +302,8 @@ The project should be archived in accordance with the Council's records manageme
 | Project Sponsor | James Hartley, Deputy Chief Executive | *(signed)* | 31 Oct 2026 |
 | Senior Responsible Owner / Senior User | Sandra Obi, Service Director | *(signed)* | 31 Oct 2026 |
 | Project Manager | Sarah Chen | *(signed)* | 31 Oct 2026 |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 

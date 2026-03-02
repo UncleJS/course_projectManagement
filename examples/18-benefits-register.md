@@ -8,6 +8,18 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [Benefits Classification](#benefits-classification)
+- [Benefits Register](#benefits-register)
+- [Financial Benefits Summary](#financial-benefits-summary)
+- [Benefits Realisation Milestones](#benefits-realisation-milestones)
+- [Post-Implementation Review (PIR) Summary](#post-implementation-review-pir-summary)
+- [Notes on Benefit BEN-01 Baseline](#notes-on-benefit-ben-01-baseline)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -17,6 +29,8 @@
 | **Date** | 31 October 2026 |
 | **Project Benefits Owner (during project)** | James Hartley, Deputy Chief Executive (Sponsor) |
 | **Maintained by (post-closure)** | Sandra Obi, Service Director, Customer and Digital Services |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -28,6 +42,8 @@
 | **Financial — non-cashable** | Efficiency gains not directly removed from budget (time released) |
 | **Non-financial — quantifiable** | Measurable but not in £ (satisfaction scores, adoption rates, processing time) |
 | **Non-financial — qualitative** | Measurable by assessment or judgment (public trust, staff morale) |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -43,6 +59,8 @@
 | BEN-06 | Reduction in average transaction processing time | Planning officers and revenues staff spend less time on manual enquiry handling, reducing average time per in-scope transaction | Non-financial — quantifiable | Mark Pearce | 12 minutes average officer time per phone enquiry (in-scope services) | March 2026 (sampled time study — 40 transactions) | ≤5 minutes average officer time per online transaction (portal notifications require less manual follow-up) | June 2027 | Sampled time study (40 transactions) — repeated at 6 months post-launch | ICT / Operations Manager — time study | Not yet measured | — | **Not yet measurable — awaiting 6-month data** |
 | BEN-07 | Improved accessibility of council services | Portal meets WCAG 2.1 AA accessibility standards, enabling residents with disabilities to access services who could not previously do so online | Non-financial — qualitative | Sandra Obi | Pre-portal: no accessible online channel for these services | Pre-project | WCAG 2.1 AA compliance at launch; resident accessibility feedback positive | At launch and ongoing | Accessibility audit report; resident feedback (dedicated accessibility feedback form in portal) | Accessibility audit (Sep 2026); resident feedback | WCAG 2.1 AA compliance confirmed | 26 Sep 2026 | **Achieved (compliance); Ongoing (feedback monitoring)** |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Financial Benefits Summary
@@ -57,6 +75,8 @@
 
 *Project cost: £411,400. At the modelled run rate, the portal reaches payback in approximately Year 3 on net cashable savings alone. Non-cashable and qualitative benefits (BEN-03, BEN-04, BEN-06, BEN-07) provide additional value not captured in the financial model.*
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Benefits Realisation Milestones
@@ -70,6 +90,8 @@
 | Post-Implementation Review (PIR) | 28 Apr 2027 | Full 6-month benefits review — all metrics measured | Sandra Obi (chair) |
 | 12-month benefits review | Oct 2027 | Annual benefits performance review | Sandra Obi |
 | Benefits register closed | March 2028 (indicative) | All benefits achieved or formally assessed | Sandra Obi / James Hartley |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -88,11 +110,15 @@
 | **Root cause of any shortfall** | *To be confirmed* |
 | **Recommended actions** | *To be confirmed* |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Notes on Benefit BEN-01 Baseline
 
 The baseline for BEN-01 (contact-centre call volume) was reconstructed from 12 months of historical telephony data (April 2025 – March 2026), cross-referenced with service category codes. The baseline was not established at project initiation — this is recorded as a lesson learned (LL-010) and the Digital PMO has updated the project initiation checklist to require benefits baseline establishment as a Gate 0 condition for all future projects.
+
+[↑ Back to top](#table-of-contents)
 
 ---
 

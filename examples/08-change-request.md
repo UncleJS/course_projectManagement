@@ -8,6 +8,23 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [1. Change Description](#1-change-description)
+  - [Summary](#summary)
+  - [Background and Reason](#background-and-reason)
+- [2. Impact Assessment](#2-impact-assessment)
+  - [Scope Impact](#scope-impact)
+  - [Schedule Impact](#schedule-impact)
+  - [Cost Impact](#cost-impact)
+  - [Quality / Risk Impact](#quality--risk-impact)
+- [3. Proposed Change Options](#3-proposed-change-options)
+- [4. Justification](#4-justification)
+- [5. CCB Decision](#5-ccb-decision)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -18,6 +35,8 @@
 | **Raised by** | Sandra Obi, Head of Customer Services |
 | **PM Review** | Sarah Chen |
 | **CCB Decision Date** | 4 June 2026 |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -36,6 +55,8 @@ Following the Go-Live communications campaign planning meeting (19 May 2026), th
 3. Be positively received by the council's Welsh-speaking Councillors.
 
 This requirement was not included in the original scope or business case.
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -68,6 +89,8 @@ This requirement was not included in the original scope or business case.
 - Adds requirement for Welsh-language content quality assurance — GovTech to provide reviewed translations.
 - If deferred to Phase 2, there is a small reputational risk: the portal launches without Welsh, which may attract criticism before Phase 2 delivers it.
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## 3. Proposed Change Options
@@ -80,11 +103,15 @@ This requirement was not included in the original scope or business case.
 
 **PM Recommendation:** Option B — defer to Phase 2 with a committed Phase 2 start date of January 2027. The go-live date of 1 October 2026 cannot be moved (CON-02). A 4-week delay to accommodate Option A is not acceptable. Phase 2 should be formally scoped by the end of the current project.
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## 4. Justification
 
 The original scope was defined before equalities considerations around Welsh language access were raised. The need is legitimate, but the timing is incompatible with the fixed go-live date. Deferring to Phase 2 with a clear commitment ensures the need is addressed without compromising current delivery commitments.
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -99,6 +126,8 @@ The original scope was defined before equalities considerations around Welsh lan
 | Sponsor | James Hartley | *J. Hartley* | 4 Jun 2026 |
 | Senior User | Sandra Obi | *S. Obi* | 4 Jun 2026 |
 | Project Manager | Sarah Chen | *S. Chen* | 4 Jun 2026 |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 

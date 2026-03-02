@@ -8,6 +8,27 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [Purpose](#purpose)
+- [1. What Has Been Delivered](#1-what-has-been-delivered)
+- [2. Operational Responsibilities](#2-operational-responsibilities)
+  - [2.1 Service Ownership](#21-service-ownership)
+  - [2.2 Support Structure](#22-support-structure)
+  - [2.3 Key Operational Procedures](#23-key-operational-procedures)
+- [3. Contracts and Supplier Relationships](#3-contracts-and-supplier-relationships)
+- [4. Benefits Realisation Responsibilities](#4-benefits-realisation-responsibilities)
+- [5. Known Issues and Risks Transferred to BAU](#5-known-issues-and-risks-transferred-to-bau)
+- [6. Documentation Inventory](#6-documentation-inventory)
+- [7. Phase 2 Brief — Parking Permit Module](#7-phase-2-brief--parking-permit-module)
+  - [Background](#background)
+  - [Technical Findings](#technical-findings)
+  - [Phase 2 Readiness](#phase-2-readiness)
+- [Handover Acceptance](#handover-acceptance)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -19,11 +40,15 @@
 | **Prepared by** | Sarah Chen, Project Manager |
 | **Accepted by** | Sandra Obi, Service Director (Operational) / Mark Pearce, ICT Manager (Technical) |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Purpose
 
 This document records the formal handover of the Meridian portal from the project team to the operational (business as usual) teams responsible for running, maintaining, and continuously improving the service. It also provides a handover brief for the Phase 2 project team (parking permit module).
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -39,6 +64,8 @@ The Meridian Citizen Self-Service Portal went live on **15 October 2026**. It pr
 | **Garden waste subscription renewal** | Residents can renew their annual garden waste subscription | Civica (waste management) |
 
 **Not delivered (Phase 2)**: Parking permit online renewal — deferred via CR-003 (July 2026) due to UNIFORM API limitation. See Section 7 (Phase 2 Brief) for full details.
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -75,6 +102,8 @@ The Meridian Citizen Self-Service Portal went live on **15 October 2026**. It pr
 | Resident data retention and deletion schedule | NDA SharePoint: Meridian/Data Protection | Claire Worthington |
 | Monthly performance dashboard (adoption, call volumes) | SharePoint / Power BI — automated | Sandra Obi |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## 3. Contracts and Supplier Relationships
@@ -85,6 +114,8 @@ The Meridian Citizen Self-Service Portal went live on **15 October 2026**. It pr
 | Capita | Council tax payment gateway processing | Ongoing (existing contract; portal use added via change notice) | Included in existing contract | Mark Pearce / Finance | Existing contract management arrangements |
 
 **Note on GovTech SLA**: The support SLA includes a 4-hour response time for P1 incidents (portal unavailable), 8-hour for P2 (significant functionality impaired), and next working day for P3/P4. Mark Pearce is the contract manager and should receive monthly SLA performance reports from GovTech.
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -102,6 +133,8 @@ Benefits realisation is now the responsibility of the operational service owner.
 
 **Post-Implementation Review**: Scheduled for **28 April 2027**. Sandra Obi to chair. PM (Sarah Chen) to provide project documentation support only — operational performance is Sandra's responsibility from closure.
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## 5. Known Issues and Risks Transferred to BAU
@@ -114,6 +147,8 @@ The following items are not project issues but are noted for the operational tea
 | BAU-02 | GovTech platform version upgrade (Q1 2027) | GovTech has indicated a platform version upgrade is planned for Q1 2027. This will require a regression test. Mark Pearce to confirm timing with GovTech. | Mark Pearce |
 | BAU-03 | Resident adoption trajectory monitoring | If adoption is below 40% at end of December 2026 (below staged trajectory), a resident re-engagement communications intervention may be needed. Diane Hughes has a contingency plan. | Diane Hughes |
 | BAU-04 | UNIFORM API: future changes | Any future UNIFORM software upgrades should be assessed for impact on portal integrations before deployment. Tom Okafor to liaise with UNIFORM vendor. | Tom Okafor |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -140,6 +175,8 @@ All project and operational documentation has been archived in NDA SharePoint: *
 | Training Materials | 1.0 | Meridian/Training |
 | Project Closure Report | 1.0 | Meridian/Governance |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## 7. Phase 2 Brief — Parking Permit Module
@@ -163,6 +200,8 @@ The parking permit module was deferred from Phase 1 via Change Request CR-003 (a
 
 The GovTech portal platform is fully capable of adding the parking permit module — no platform changes are required. The portal navigation and design already includes a placeholder for parking permits, displayed with a "coming soon" notice.
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Handover Acceptance
@@ -172,6 +211,8 @@ The GovTech portal platform is fully capable of adding the parking permit module
 | **Handing over** — Project Manager | Sarah Chen | *(signed)* | 14 Oct 2026 |
 | **Accepting** — Service Director (Operational) | Sandra Obi | *(signed)* | 14 Oct 2026 |
 | **Accepting** — ICT Manager (Technical) | Mark Pearce | *(signed)* | 14 Oct 2026 |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 

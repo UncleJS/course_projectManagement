@@ -8,6 +8,17 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [Quality Activity Types](#quality-activity-types)
+- [Quality Register](#quality-register)
+- [Defect Log Summary](#defect-log-summary)
+- [Quality Metrics Summary](#quality-metrics-summary)
+- [Quality Audit Schedule (Planned vs Actual)](#quality-audit-schedule-planned-vs-actual)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -16,6 +27,8 @@
 | **Version** | 1.6 (final — at project closure) |
 | **Date** | 31 October 2026 |
 | **Owner** | Sarah Chen, Project Manager / GovTech Project Lead (Quality Lead — Build) |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -28,6 +41,8 @@
 | **Test** | Functional, integration, regression, performance, or user acceptance testing |
 | **Audit** | Independent assessment of process or product compliance (accessibility, data protection, security) |
 | **Walkthrough** | Informal peer review of a draft deliverable before formal quality review |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -52,6 +67,8 @@
 | QR-015 | Pre-launch production readiness check | Quality Review | 13 Oct 2026 | 13 Oct 2026 | Sarah Chen, Tom Okafor, GovTech PM, Mark Pearce | Production readiness checklist (16 items): infrastructure, DNS, SSL, monitoring, support ready, data backup, rollback plan | **Passed** | 0 | — | 13 Oct 2026 | All 16 readiness criteria confirmed. Go/No-go decision: **Go**. Launch approved for 15 Oct. |
 | QR-016 | Post-launch monitoring review (Week 1) | Quality Review | 22 Oct 2026 | 22 Oct 2026 | Tom Okafor, GovTech PM, Sarah Chen | Uptime SLA (≥99.5%); response time (<3s); error rate (<0.5%) | **Passed** | 0 | — | 22 Oct 2026 | Week 1: 99.8% uptime; avg response time 1.4s; error rate 0.1%. All within SLA. |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Defect Log Summary
@@ -72,6 +89,8 @@
 
 > **No critical defects were identified at any stage of the project.** The UAT defect profile (47 defects, all medium or low) was within the expected range for a project of this complexity. All defects were resolved before go-live.
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Quality Metrics Summary
@@ -87,6 +106,8 @@
 | WCAG 2.1 AA compliance at launch | 100% | 100% | ✅ Met |
 | Production uptime Week 1 | ≥99.5% | 99.8% | ✅ Met |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Quality Audit Schedule (Planned vs Actual)
@@ -97,6 +118,8 @@
 | Capita payment security audit | 10 Jul 2026 | 10 Jul 2026 | Capita security team | PCI-DSS-aligned payment gateway integration | ✅ Completed — Conditional pass; resolved |
 | Accessibility audit (WCAG 2.1 AA) | 5 Sep 2026 | 8 Sep 2026 | Shaw Trust Digital | WCAG 2.1 AA — all portal pages and transactions | ✅ Completed — Failed Round 1; all issues resolved; AA compliance confirmed 26 Sep |
 | Pre-launch production readiness | 13 Oct 2026 | 13 Oct 2026 | Sarah Chen / Tom Okafor | 16-item production readiness checklist | ✅ Completed — Passed |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 

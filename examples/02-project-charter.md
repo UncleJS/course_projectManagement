@@ -8,6 +8,28 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [1. Project Purpose](#1-project-purpose)
+- [2. Project Objectives](#2-project-objectives)
+- [3. Scope](#3-scope)
+  - [In Scope](#in-scope)
+  - [Out of Scope](#out-of-scope)
+- [4. Key Deliverables](#4-key-deliverables)
+- [5. Project Organisation](#5-project-organisation)
+- [6. Project Governance](#6-project-governance)
+- [7. Budget](#7-budget)
+- [8. Schedule](#8-schedule)
+- [9. Risks and Constraints](#9-risks-and-constraints)
+  - [Key Risks (Summary)](#key-risks-summary)
+  - [Constraints](#constraints)
+  - [Assumptions](#assumptions)
+- [10. Project Manager Authority](#10-project-manager-authority)
+- [Authorisation](#authorisation)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -19,11 +41,15 @@
 | **Prepared by** | Sarah Chen, Project Manager |
 | **Approved by (Sponsor)** | James Hartley, Director of Digital Services |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## 1. Project Purpose
 
 The Meridian Portal project will deliver a citizen-facing self-service web portal enabling Northgate District Council residents to manage routine enquiries and transactions digitally, without staff intervention. The project addresses the council's high contact-centre cost base (£310,000 per annum for transactional enquiries) and low resident digital satisfaction (NPS 34). It is the primary delivery vehicle for the Council Plan 2024–2028 digital service transformation commitment.
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -36,6 +62,8 @@ The Meridian Portal project will deliver a citizen-facing self-service web porta
 | OBJ-03 | Integrate with the Northgate UNIFORM back-office system | Integration tested and signed off by ICT Manager prior to go-live |
 | OBJ-04 | Achieve project delivery within approved budget | Outturn ≤ £420,000 |
 | OBJ-05 | Complete user acceptance testing with resident involvement | At least 30 residents complete UAT; issues resolved or documented prior to go-live |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -60,6 +88,8 @@ The Meridian Portal project will deliver a citizen-facing self-service web porta
 - Mobile app development (web-responsive portal only in this phase)
 - Integration with any system other than UNIFORM
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## 4. Key Deliverables
@@ -74,6 +104,8 @@ The Meridian Portal project will deliver a citizen-facing self-service web porta
 | DEL-06 | Training completion record | Contact-centre team trained and signed off | 26 September 2026 |
 | DEL-07 | Project Closure Report | Including lessons learned and handover documentation | 31 October 2026 |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## 5. Project Organisation
@@ -86,6 +118,8 @@ The Meridian Portal project will deliver a citizen-facing self-service web porta
 | Senior Supplier | Mark Pearce, ICT Infrastructure Manager | Represents technical delivery capability; technical authority for UNIFORM integration |
 | Supplier Project Lead | GovTech Solutions — TBC at contract | Manages GovTech delivery team; reports to PM on supplier progress |
 | Business Change Manager | Digital Services — TBC | Manages staff engagement and change readiness; owns adoption activity |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -100,6 +134,8 @@ The Meridian Portal project will deliver a citizen-facing self-service web porta
 | **Escalation path** | Team → PM → Sponsor → Chief Executive (for >£50,000 impact or political risk) |
 | **Review gates** | Gate 1: Discovery/Design sign-off (May 2026); Gate 2: Build complete / start of UAT (August 2026); Gate 3: Go-live authorisation (September 2026) |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## 7. Budget
@@ -111,6 +147,8 @@ The Meridian Portal project will deliver a citizen-facing self-service web porta
 | Base budget (excluding contingency) | 382,000 |
 | Budget holder | James Hartley, Director of Digital Services |
 | Contingency release authority | James Hartley (up to £20k); Chief Executive above £20k |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -127,6 +165,8 @@ The Meridian Portal project will deliver a citizen-facing self-service web porta
 | Hypercare period ends | 31 October 2026 |
 | Project closed | 31 October 2026 |
 | Post-implementation review | April 2027 |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -155,6 +195,8 @@ Full Risk Register: [`14-risk-register.md`](14-risk-register.md)
 - ICT team provides 0.4 FTE to integration work throughout the project.
 - Residents have sufficient internet access to support 55% digital deflection (89% internet access per ONS 2024 data).
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## 10. Project Manager Authority
@@ -167,6 +209,8 @@ This charter grants **Sarah Chen** the authority to:
 - Represent the project in stakeholder meetings and formal communications.
 - Approve or reject change requests with no cost impact.
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Authorisation
@@ -176,6 +220,8 @@ This charter grants **Sarah Chen** the authority to:
 | Project Sponsor | James Hartley, Director of Digital Services | *J. Hartley* | 3 Feb 2026 |
 | Senior Responsible Owner | James Hartley | *J. Hartley* | 3 Feb 2026 |
 | Project Manager (acceptance) | Sarah Chen | *S. Chen* | 3 Feb 2026 |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 

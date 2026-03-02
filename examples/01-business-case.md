@@ -8,6 +8,36 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [1. Executive Summary](#1-executive-summary)
+- [2. Background](#2-background)
+  - [Problem Statement](#problem-statement)
+  - [Strategic Context](#strategic-context)
+  - [Why Now](#why-now)
+- [3. Objectives](#3-objectives)
+- [4. Options Considered](#4-options-considered)
+  - [Option 0 — Do Nothing](#option-0--do-nothing)
+  - [Option 1 — Build a Bespoke Portal (Internal Development)](#option-1--build-a-bespoke-portal-internal-development)
+  - [Option 2 — Purchase Off-the-Shelf SaaS Platform (GovTech CivicConnect)](#option-2--purchase-off-the-shelf-saas-platform-govtech-civicconnect)
+  - [Option 3 — Outsource Contact Centre](#option-3--outsource-contact-centre)
+- [5. Recommended Option: Option 2 — GovTech CivicConnect](#5-recommended-option-option-2--govtech-civicconnect)
+- [6. Expected Benefits](#6-expected-benefits)
+- [7. Costs](#7-costs)
+  - [Capital Investment](#capital-investment)
+  - [Ongoing Operational Costs (Post Go-Live)](#ongoing-operational-costs-post-go-live)
+  - [Financial Summary](#financial-summary)
+- [8. Risks](#8-risks)
+- [9. Timescale](#9-timescale)
+- [10. Constraints and Assumptions](#10-constraints-and-assumptions)
+  - [Constraints](#constraints)
+  - [Assumptions](#assumptions)
+- [11. Recommendation](#11-recommendation)
+- [Authorisation](#authorisation)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -19,11 +49,15 @@
 | **Approved by** | James Hartley, Director of Digital Services |
 | **Status** | Approved — Baseline |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## 1. Executive Summary
 
 Northgate District Council spends £310,000 per annum handling approximately 14,200 citizen enquiries that are routine and transactional in nature. The Meridian Portal project will deliver a citizen-facing self-service web platform enabling residents to manage planning enquiries, pay council tax, book bulky waste collections, and renew parking permits without staff intervention. Based on a conservative 55% digital deflection rate, the portal is projected to save £170,000 per annum by Year 2 of operation, recovering the full investment within 2.5 years. The project is recommended for approval at a total investment of £420,000.
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -46,6 +80,8 @@ The Meridian Portal is the primary delivery vehicle for this commitment.
 
 A procurement framework agreement with GovTech Solutions Ltd (awarded 2024) enables the council to commission a proven SaaS portal platform without a full open tender, reducing procurement time and risk. This window closes in December 2026.
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## 3. Objectives
@@ -56,6 +92,8 @@ A procurement framework agreement with GovTech Solutions Ltd (awarded 2024) enab
 | OBJ-02 | Achieve 55% digital deflection of eligible contact-centre enquiries | Measured at 6 months post go-live via contact-centre volume data |
 | OBJ-03 | Improve resident digital satisfaction | NPS score increases from 34 to 54+ within 12 months of go-live |
 | OBJ-04 | Deliver within approved budget | Outturn cost ≤ £420,000 (including 10% contingency) |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -77,6 +115,8 @@ Use the council's existing framework agreement with GovTech Solutions to deploy 
 
 Transfer the contact-centre function to a shared-service provider. Estimated saving: £90,000 per annum. However, this does not improve resident satisfaction, reduces council control over service quality, and does not support the Council Plan digital commitment. Not recommended.
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## 5. Recommended Option: Option 2 — GovTech CivicConnect
@@ -87,6 +127,8 @@ Transfer the contact-centre function to a shared-service provider. Estimated sav
 - Shorter timeline (9 months vs 18 months for bespoke build) reduces exposure.
 - Lower total cost than bespoke development.
 - Integrates with the existing Northgate UNIFORM back-office system via a supported API connector.
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -100,6 +142,8 @@ Transfer the contact-centre function to a shared-service provider. Estimated sav
 | Digital transaction rate | Non-financial | % transactions completed digitally | 18% | 55% | April 2027 | Digital Services Manager |
 
 **Year 2 net annual saving:** £170,000 (cost reduction less residual SaaS licensing, maintenance, and support costs of approximately £28,000 per annum).
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -141,6 +185,8 @@ Transfer the contact-centre function to a shared-service provider. Estimated sav
 - **ROI (3 years post go-live):** £390,000 net saving on £420,000 investment = 93%
 - **NPV (5% discount, 5 years):** +£68,000
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## 8. Risks
@@ -155,6 +201,8 @@ Transfer the contact-centre function to a shared-service provider. Estimated sav
 
 Full detail in the project Risk Register (see [`14-risk-register.md`](14-risk-register.md)).
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## 9. Timescale
@@ -168,6 +216,8 @@ Full detail in the project Risk Register (see [`14-risk-register.md`](14-risk-re
 | User acceptance testing complete | September 2026 |
 | Go-live | 1 October 2026 |
 | Post-implementation review | April 2027 |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -186,6 +236,8 @@ Full detail in the project Risk Register (see [`14-risk-register.md`](14-risk-re
 - Residents of Northgate have sufficient internet access to make 55% digital deflection achievable (based on ONS 2024 data showing 89% internet access in the district).
 - Staff released by contact volume reduction will be redeployed within the council — no redundancy costs anticipated.
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## 11. Recommendation
@@ -193,6 +245,8 @@ Full detail in the project Risk Register (see [`14-risk-register.md`](14-risk-re
 The business case for the Meridian Portal is strong. The investment is proportionate, the risks are manageable, the technology is proven, and the project directly delivers against the Council Plan 2024–2028 commitment to digital service transformation.
 
 **This business case recommends approval of £420,000 of capital funding and authorisation to proceed to project initiation.**
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -202,6 +256,8 @@ The business case for the Meridian Portal is strong. The investment is proportio
 |---|---|---|---|
 | Approving Officer | James Hartley, Director of Digital Services | *J. Hartley* | 14 Jan 2026 |
 | Section 151 Officer (financial sign-off) | Claire Worthington | *C. Worthington* | 14 Jan 2026 |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 

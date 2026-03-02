@@ -8,6 +8,16 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [Resource List](#resource-list)
+- [Availability Calendar (Internal Council Resources)](#availability-calendar-internal-council-resources)
+- [Resource Notes](#resource-notes)
+- [Key Capacity Risks](#key-capacity-risks)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -16,6 +26,8 @@
 | **Version** | 1.0 |
 | **Date** | 20 February 2026 |
 | **Owner** | Sarah Chen, Project Manager |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -31,6 +43,8 @@
 | GovTech Development Team | Portal build and integration (supplier) | External — GovTech | As per contract; GovTech resource |
 | Business Change Manager (TBC) | Change and comms | Internal — Council (TBC hire/assign) | 0.3 FTE from May 2026 |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Availability Calendar (Internal Council Resources)
@@ -44,6 +58,8 @@
 | **ICT Developer** | — | — | — | — | **80%** | **80%** | **80%** | 20% | — |
 | **Sandra Obi** (Senior User) | 10% | 10% | 20% | 10% | 10% | 10% | 20% | **40%** | 10% |
 | **Business Change Manager** | — | — | — | 30% | 30% | 30% | 30% | **60%** | 30% |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -74,6 +90,8 @@
 - Must be in post by 1 May 2026 to run staff engagement activities ahead of UAT.
 - Sarah Chen acting as interim for change coordination until BCM is confirmed.
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Key Capacity Risks
@@ -83,6 +101,8 @@
 | ICT Developer not identified by 1 April | Integration work cannot start on schedule in June | Mark Pearce to confirm name and allocation by 1 March; tracked in risk register |
 | Sandra Obi unavailable for first 3 weeks of August | UAT preparation delayed | UAT prep checklist completed by July 31; Sandra deputy briefed to support |
 | BCM not in post by May | Staff engagement activities delayed | Sarah Chen escalates to HR by 1 March; interim arrangements agreed with sponsor |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 

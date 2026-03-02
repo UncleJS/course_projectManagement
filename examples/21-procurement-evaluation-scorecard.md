@@ -8,6 +8,26 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [Background](#background)
+- [Bidders](#bidders)
+- [Scoring Scale](#scoring-scale)
+- [Section 1 — Quality / Technical Evaluation](#section-1--quality--technical-evaluation)
+  - [Criterion Weightings](#criterion-weightings)
+  - [GovTech Solutions — Quality Scorecard](#govtech-solutions--quality-scorecard)
+  - [Civica Digital Services — Quality Scorecard](#civica-digital-services--quality-scorecard)
+  - [LocalGovConnect plc — Quality Scorecard](#localgovconnect-plc--quality-scorecard)
+- [Section 2 — Commercial Evaluation](#section-2--commercial-evaluation)
+- [Section 3 — Combined Evaluation](#section-3--combined-evaluation)
+- [Section 4 — Moderation Record](#section-4--moderation-record)
+- [Section 5 — Selection Decision](#section-5--selection-decision)
+- [Authorisation](#authorisation)
+- [Standstill Period and Award](#standstill-period-and-award)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -18,6 +38,8 @@
 | **Date of evaluation** | 18 December 2025 |
 | **Procurement method** | Open procedure (above threshold — Public Contracts Regulations 2015) |
 | **Version** | 1.0 (Moderated — final) |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -34,6 +56,8 @@ Northgate District Council ran an open procurement for a citizen self-service po
 
 Quality and commercial evaluations were conducted independently (quality first; commercial scores calculated separately and combined only at the moderation stage) in compliance with the Public Contracts Regulations 2015 and the Council's Procurement Standing Orders.
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Bidders
@@ -46,6 +70,8 @@ Quality and commercial evaluations were conducted independently (quality first; 
 
 *All three bidders met the minimum selection criteria (financial standing, insurance, relevant experience). All three were admitted to full evaluation.*
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Scoring Scale
@@ -57,6 +83,8 @@ Quality and commercial evaluations were conducted independently (quality first; 
 | 2 | Acceptable | Meets the minimum standard; limited evidence |
 | 3 | Good | Clearly meets the standard; adequate evidence provided |
 | 4 | Excellent | Exceeds the standard; compelling evidence; innovation or added value |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -94,6 +122,8 @@ Quality and commercial evaluations were conducted independently (quality first; 
 
 **Quality threshold met?** ✅ Yes (3.55 > 2.0)
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ### Civica Digital Services — Quality Scorecard
@@ -111,6 +141,8 @@ Quality and commercial evaluations were conducted independently (quality first; 
 
 **Quality threshold met?** ✅ Yes (3.05 > 2.0)
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ### LocalGovConnect plc — Quality Scorecard
@@ -127,6 +159,8 @@ Quality and commercial evaluations were conducted independently (quality first; 
 | **Total** | | **100%** | — | **1.80** | |
 
 **Quality threshold met?** ❌ No (1.80 < 2.0 minimum threshold) — **LocalGovConnect eliminated from further evaluation**
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -153,6 +187,8 @@ Formula: `Commercial score = (Lowest price ÷ Bidder price) × 100`
 | Civica | £304,000 | (278,000 ÷ 304,000) × 100 = **91.4** |
 | LGC | £278,000 | 100.0 *(eliminated — not progressed)* |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Section 3 — Combined Evaluation
@@ -166,6 +202,8 @@ Formula: `Commercial score = (Lowest price ÷ Bidder price) × 100`
 | LGC | Eliminated at quality threshold | — | — | — | Eliminated |
 
 **Recommended supplier**: **GovTech Solutions Ltd**
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -187,6 +225,8 @@ Formula: `Commercial score = (Lowest price ÷ Bidder price) × 100`
 
 *Full individual scoresheets retained on procurement file: NDA-PROC-2025-017/Evaluation.*
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Section 5 — Selection Decision
@@ -198,6 +238,8 @@ Formula: `Commercial score = (Lowest price ÷ Bidder price) × 100`
 | **Rationale for selection** | GovTech achieved the highest quality score (3.55/4.0) and a competitive commercial score. Their deep understanding of the Council's specific requirement, detailed API-first integration methodology, and named key personnel are significant advantages over Civica. The 3-year total cost of ownership difference (£303,000 vs £304,000) is negligible — the quality differential is the determining factor. |
 | **Minimum thresholds met?** | Yes — GovTech and Civica both met the quality threshold. LGC did not and was eliminated. |
 | **Conditions / reservations** | (1) Contract to confirm named GovTech PM and developer; substitution requires Council approval. (2) Staff adoption risk (not identified in GovTech's risk response) to be included as a shared risk in the contract. (3) UNIFORM integration approach to be validated via a technical spike in Week 3 of delivery. |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -211,11 +253,15 @@ Formula: `Commercial score = (Lowest price ÷ Bidder price) × 100`
 | Finance / Commercial | David Kim, Head of Finance | *(signed)* | 19 Dec 2025 |
 | Approving Officer | James Hartley, Deputy Chief Executive | *(signed)* | 22 Dec 2025 |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Standstill Period and Award
 
 In compliance with the Public Contracts Regulations 2015 (Regulation 87), a 10-day mandatory standstill period applied before contract award. Unsuccessful bidders were notified on 22 December 2025. No challenges were received during the standstill period. The contract was formally awarded to GovTech Solutions Ltd on **6 January 2026**.
+
+[↑ Back to top](#table-of-contents)
 
 ---
 

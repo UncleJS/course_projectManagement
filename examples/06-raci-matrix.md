@@ -8,6 +8,16 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [RACI Definitions](#raci-definitions)
+- [Roles in this Project](#roles-in-this-project)
+- [RACI Matrix](#raci-matrix)
+- [Notes](#notes)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -16,6 +26,8 @@
 | **Version** | 1.0 |
 | **Date** | 20 February 2026 |
 | **Owner** | Sarah Chen, Project Manager |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -27,6 +39,8 @@
 | **A** | Accountable | Owns the outcome; has final decision authority. **Only one A per row.** |
 | **C** | Consulted | Must be consulted before a decision or before work is complete; two-way communication. |
 | **I** | Informed | Must be told of decisions or results; one-way communication. |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -41,6 +55,8 @@
 | GT | GovTech Solutions Ltd — Supplier Project Team |
 | BCM | Business Change Manager |
 | DPO | Data Protection Officer |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -93,6 +109,8 @@
 | Produce Project Handover Document | A/R | I | C | C | I | I | — |
 | Produce Project Closure Report | A/R | I | I | I | I | I | — |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Notes
@@ -100,6 +118,8 @@
 - **DPO** involvement is limited to the DPIA and any data-related decisions. No ongoing project management accountability.
 - **BCM** (Business Change Manager) is primarily responsible for staff engagement and resident communications — they share the delivery of training with Sandra Obi's team.
 - Where SC (PM) is A/R on a task, this reflects delivery accountability. For deliverables owned by GT (GovTech), SC remains accountable to the Project Board but GovTech does the work.
+
+[↑ Back to top](#table-of-contents)
 
 ---
 

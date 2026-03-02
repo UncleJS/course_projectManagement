@@ -8,6 +8,16 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [Severity Scale](#severity-scale)
+- [Issue Log](#issue-log)
+- [Escalation Path](#escalation-path)
+- [Relationship to Risk Register](#relationship-to-risk-register)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -16,6 +26,8 @@
 | **Version** | 1.4 |
 | **Date** | 15 August 2026 |
 | **Owner** | Sarah Chen, Project Manager |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -27,6 +39,8 @@
 | **High** | Within 2 working days | Significant impact on a key deliverable or milestone; likely to affect schedule or cost. |
 | **Medium** | Within 5 working days | Moderate impact; manageable within project resources. |
 | **Low** | Within 10 working days | Minor impact; can be addressed in normal course of work. |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -41,6 +55,8 @@
 | ISS-05 | 3 Aug 2026 | Sandra Obi | Sandra's deputy cannot cover UAT preparation adequately during Sandra's August leave; risk to UAT start | Concern | **Medium** | UAT preparation tasks may be incomplete when Sandra returns 19 Aug | Sarah Chen | 19 Aug 2026 | (1) UAT prep checklist reviewed with Sandra before leave; (2) Key prep tasks reassigned to Diane Hughes (BCM); (3) UAT start date maintained at 22 Aug | **Closed** | 19 Aug 2026 |
 | ISS-06 | 12 Aug 2026 | Resident UAT Participant | Portal not displaying correctly on older Android devices (Android 8 and below) — text overflow and broken layout | Problem | **Medium** | ~6% of resident devices may be affected (analytics estimate) | GovTech Project Lead | 26 Aug 2026 | (1) GovTech investigating root cause (CSS compatibility); (2) Fix expected 20 Aug; (3) Re-test scheduled 22 Aug | **Open** | — |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Escalation Path
@@ -51,6 +67,8 @@
 | High | Sponsor (James Hartley) within 2 working days |
 | Critical | Sponsor within same day; Project Board convened if decision required |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Relationship to Risk Register
@@ -59,6 +77,8 @@
 |---|---|---|
 | ISS-03 (Parking permits — UNIFORM compatibility) | Yes — materialised from RSK-01 (UNIFORM integration more complex than estimated) | RSK-01 now Closed → Materialised as ISS-03 |
 | ISS-04 (Payment gateway security audit) | Partially — RSK-01 also partially captured this; updated in risk register | RSK-01 updated |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 

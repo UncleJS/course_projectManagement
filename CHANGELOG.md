@@ -17,6 +17,17 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 
 ---
 
+## [2.1.1] — 2026-03-02
+
+### Changed
+
+- **`examples/` (all 21 files)** — Added `## Table of Contents` section and `[↑ Back to top](#table-of-contents)` links to every worked example artefact, matching the navigation conventions already in place across all `modules/` files.
+- **`modules/` (all 16 content files) and `CURRICULUM-MAP.md`** — Removed literal `\n` escape sequences from all Mermaid diagram node labels and edge labels; these rendered as the characters `\n` rather than line breaks in GitHub's Mermaid renderer. Labels now use spaces instead.
+- **`modules/13-procurement.md`** — Quoted two unquoted flowchart node labels containing `&` (`Evaluate & Select`, `Contract & Procurement Closure`) and one edge-label node (`T&M … CPIF`) to prevent Mermaid parse errors.
+- **`modules/15b-professional-practice.md`** — Replaced `&` with `and` in two `classDiagram` attribute names (`agile & hybrid methods`, `leadership & influence`) to prevent parser ambiguity.
+
+---
+
 ## [2.1.0] — 2026-03-02
 
 ### Added

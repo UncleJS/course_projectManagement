@@ -8,6 +8,20 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [Probability and Impact Scales](#probability-and-impact-scales)
+  - [Probability](#probability)
+  - [Impact (threats)](#impact-threats)
+  - [Risk Score = Probability × Impact](#risk-score--probability--impact)
+- [Risk Register](#risk-register)
+- [Opportunity Register](#opportunity-register)
+- [Risk Summary](#risk-summary)
+- [Escalation Thresholds](#escalation-thresholds)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -17,6 +31,8 @@
 | **Date** | 15 August 2026 |
 | **Owner** | Sarah Chen, Project Manager |
 | **Review frequency** | Fortnightly; at every Project Board meeting |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -54,6 +70,8 @@
 
 **Score 1–4**: Low (monitor) | **Score 5–9**: Medium (manage) | **Score 10–25**: High (act)
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Risk Register
@@ -71,6 +89,8 @@
 | RSK-09 | 11 May 2026 | Schedule / Time | Extended UAT defect cycle (high defect count at entry) → UAT window extends beyond planned dates → Go-live delayed | 2 | 4 | **8** | **Medium** | Mitigate | (1) GovTech contractually responsible for defect-free UAT entry (defined entry criteria); (2) Internal test phase (SIT) strengthened; (3) Contingency in schedule — 2-week float between UAT end and go-live. | GovTech Project Lead | 2 | 3 | **6** | Open | 15 Aug 2026 |
 | RSK-10 | 3 Feb 2026 | External / Environmental | Key sponsor (James Hartley) leaves or is redeployed before project closes → Sponsor decisions delayed; political support reduced → Project stalls | 1 | 5 | **5** | **Medium** | Accept (active) | (1) Documented governance structure ensures project can continue with acting sponsor; (2) Business case and all decisions documented to enable handover; (3) Noted in project risk profile for Sponsor's awareness. | Sarah Chen | 1 | 4 | **4** | Open | 15 Aug 2026 |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Opportunity Register
@@ -79,6 +99,8 @@
 |---|---|---|---|---|---|---|---|---|---|
 | OPP-01 | 3 Feb 2026 | GovTech platform can support additional council services beyond the four in scope → Phase 2 extension possible at marginal cost | 3 | 3 | 9 | Enhance | Document platform capability for Phase 2 business case; ensure Phase 1 architecture does not preclude expansion | Sarah Chen | Open |
 | OPP-02 | 8 May 2026 | Strong resident satisfaction scores in Phase 1 pilot → Enhanced case for Phase 2 funding and possible national showcase opportunity | 2 | 3 | 6 | Accept | Monitor NPS scores in pilot; brief Communications on positive results | Diane Hughes | Open |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -93,6 +115,8 @@
 
 > **Note on RSK-01**: The UNIFORM integration risk partially materialised — parking permits could not be integrated as specified (ISS-03). The risk was addressed via Change Request CR-003 (parking permit module deferred to Phase 2), approved by Project Board 8 July 2026. The remaining three modules were confirmed as technically compatible. The risk is closed.
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Escalation Thresholds
@@ -102,6 +126,8 @@
 | 1–4 (Low) | PM monitors; reviewed fortnightly |
 | 5–9 (Medium) | PM manages; action plan in place; reported to Project Board monthly |
 | 10–25 (High) | Immediate Sponsor notification; action plan reviewed weekly; Project Board decision within 2 weeks |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 

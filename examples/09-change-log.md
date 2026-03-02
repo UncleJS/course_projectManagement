@@ -8,6 +8,16 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [Change Log](#change-log)
+- [Status Definitions](#status-definitions)
+- [Budget Impact Summary (as at 15 August 2026)](#budget-impact-summary-as-at-15-august-2026)
+- [Notes](#notes)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -16,6 +26,8 @@
 | **Version** | 1.3 |
 | **Date** | 15 August 2026 |
 | **Owner** | Sarah Chen, Project Manager |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -29,6 +41,8 @@
 | CR-004 | 29 Jul 2026 | Councillor Patricia Dean (via Sponsor) | Request to add a "Report a Pothole" feature to the portal before go-live | **Rejected** | 5 Aug 2026 | James Hartley | N/A | Would delay go-live by 6–8 weeks | N/A |
 | CR-005 | 10 Aug 2026 | Sarah Chen | Extend hypercare support period from 30 days to 45 days due to complexity of council tax module. Additional GovTech support cost. | **Approved** | 14 Aug 2026 | James Hartley | +£3,600 (from contingency) | None | Go-live + 45 days |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Status Definitions
@@ -41,6 +55,8 @@
 | **Deferred** | Approved in principle but moved to a future phase |
 | **Implemented** | Change has been made; baseline updated |
 | **Cancelled** | Requestor withdrew the request |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -56,6 +72,8 @@
 
 > Note: CR-003 saved £18,000 from the GovTech contract (parking permits module deferred). This has been retained in contingency rather than returned to the general capital programme, pending Phase 2 planning.
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Notes
@@ -63,6 +81,8 @@
 **CR-003** (Parking Permit Deferral) is the most significant change on this project. It was discovered during integration testing that the UNIFORM system does not hold parking permit expiry data in a queryable format — it is stored as a scanned PDF attachment. Extracting this data would require significant UNIFORM system changes outside project scope. The decision to defer rather than attempt a workaround was correct and protected the go-live date.
 
 **CR-004** (Pothole reporting) is a good example of scope creep from a senior stakeholder. Despite coming via the Sponsor, the change was correctly assessed and rejected because it would have endangered the fixed go-live date (CON-02) and was outside the scope of the business case.
+
+[↑ Back to top](#table-of-contents)
 
 ---
 

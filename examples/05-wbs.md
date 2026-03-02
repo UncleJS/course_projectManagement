@@ -8,6 +8,18 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [WBS Overview](#wbs-overview)
+- [WBS Structure](#wbs-structure)
+- [WBS Dictionary (Selected Entries)](#wbs-dictionary-selected-entries)
+  - [1.2.3 — Discovery Report](#123--discovery-report)
+  - [1.3.6 — UNIFORM Integration (Tested)](#136--uniform-integration-tested)
+  - [1.5.4 — User Acceptance Testing Sign-off](#154--user-acceptance-testing-sign-off)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -17,6 +29,8 @@
 | **Date** | 20 February 2026 |
 | **Owner** | Sarah Chen, Project Manager |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## WBS Overview
@@ -24,6 +38,8 @@
 The WBS is a hierarchical decomposition of project scope into deliverables. It follows the **100% rule**: the sum of all elements at any level represents 100% of the parent element's scope.
 
 **Important:** The WBS contains **deliverables** (things produced), not activities (things done).
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -78,6 +94,8 @@ The WBS is a hierarchical decomposition of project scope into deliverables. It f
       └── 1.7.4  Project Handover Document
 ```
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## WBS Dictionary (Selected Entries)
@@ -96,6 +114,8 @@ The WBS is a hierarchical decomposition of project scope into deliverables. It f
 | **Estimated cost** | Included in GovTech fixed-price contract (WP1) |
 | **Dependencies** | 1.2.1 (Supplier contract signed) |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ### 1.3.6 — UNIFORM Integration (Tested)
@@ -112,6 +132,8 @@ The WBS is a hierarchical decomposition of project scope into deliverables. It f
 | **Estimated cost** | £48,000 (ICT internal resource cost; GovTech cost included in platform build) |
 | **Dependencies** | 1.2.5 (Integration specification), 1.2.3 (Discovery report) |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ### 1.5.4 — User Acceptance Testing Sign-off
@@ -127,6 +149,8 @@ The WBS is a hierarchical decomposition of project scope into deliverables. It f
 | **Estimated duration** | 3 weeks (22 August – 12 September 2026) |
 | **Estimated cost** | Included in project management costs; GovTech UAT support included in contract |
 | **Dependencies** | 1.3.1–1.3.6 (all build elements complete); 1.4.2 (accessibility sign-off) |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 

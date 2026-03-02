@@ -8,6 +8,18 @@
 
 ---
 
+## Table of Contents
+
+- [Meeting Details](#meeting-details)
+- [Attendees](#attendees)
+- [Purpose](#purpose)
+- [Pre-reading](#pre-reading)
+- [Agenda](#agenda)
+- [Decisions Required at This Meeting](#decisions-required-at-this-meeting)
+- [Ground Rules](#ground-rules)
+
+---
+
 ## Meeting Details
 
 | Field | Value |
@@ -18,6 +30,8 @@
 | **Location** | Council Chamber Room 2B / MS Teams (hybrid) |
 | **Facilitator** | Sarah Chen, Project Manager |
 | **Note-taker** | Diane Hughes, Digital Comms |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -36,11 +50,15 @@
 
 **Apologies:** None received.
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Purpose
 
 To formally launch the Meridian Portal project; align all stakeholders on the project objectives, scope, and approach; confirm roles and responsibilities; and set up the working arrangements that will govern the project.
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -53,6 +71,8 @@ Attendees are asked to read the following before the meeting:
 3. Draft project timeline (circulated 3 Feb 2026)
 
 *If you have not received these documents, contact Sarah Chen before the meeting.*
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -69,6 +89,8 @@ Attendees are asked to read the following before the meeting:
 | 7 | Q&A and open discussion | All | 11:25 – 11:50 |
 | 8 | Actions, next steps, and close | Sarah Chen | 11:50 – 12:00 |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Decisions Required at This Meeting
@@ -76,6 +98,8 @@ Attendees are asked to read the following before the meeting:
 1. Formal confirmation by Sponsor that the project is authorised to proceed (Project Charter already signed; verbal affirmation in front of the group).
 2. Agreement on the fortnightly Highlight Report distribution list.
 3. Agreement on the date for the first Project Board meeting (proposed: 5 March 2026, 10:00).
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -86,6 +110,8 @@ Attendees are asked to read the following before the meeting:
 - One conversation at a time.
 - Questions are welcome throughout — we will pause after each section.
 - Action owners: please confirm you accept each action before the meeting closes.
+
+[↑ Back to top](#table-of-contents)
 
 ---
 

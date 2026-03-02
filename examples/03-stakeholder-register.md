@@ -8,6 +8,16 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [Engagement Level Key](#engagement-level-key)
+- [Stakeholder Register](#stakeholder-register)
+- [Power / Interest Grid](#power--interest-grid)
+- [Notes](#notes)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -17,6 +27,8 @@
 | **Date** | 14 February 2026 |
 | **Owner** | Sarah Chen, Project Manager |
 | **Review frequency** | Monthly (or after any significant stakeholder event) |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -29,6 +41,8 @@
 | N | Neutral | Aware; neither supportive nor resistant |
 | S | Supportive | Aware and in favour of the project |
 | L | Leading | Actively championing and driving the project forward |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -48,6 +62,8 @@
 | STK-10 | Data Protection Officer | Information Governance | GDPR compliance; data security | M | M | U | S | Citizen data handling; third-party data sharing with GovTech; breach risk | DPIA completed by March; review at each build milestone | Sarah Chen | Quarterly |
 | STK-11 | Northgate Equality Officer | HR / Legal | Accessibility compliance (WCAG 2.1 AA); digital exclusion | M | M | U | S | Portal inaccessible to some residents (elderly, disabled, low digital skills) | Accessibility review included in UAT; alternative channel maintained | Sandra Obi | At UAT |
 | STK-12 | Chief Executive | Council Leadership | Strategic and reputational risk | H | L | U | S | Political risk; project failure visibility; media coverage | Quarterly exec briefing note; invited to go-live event | James Hartley | Quarterly |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -79,6 +95,8 @@
 | **Keep Informed** (Low power, High interest) | STK-05, STK-06, STK-09, STK-10 | Targeted communication; address concerns proactively |
 | **Monitor** (Low power, Low interest) | STK-11 | Include in formal reviews; do not neglect |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Notes
@@ -86,6 +104,8 @@
 - STK-05 and STK-06 are currently **Resistant**. The primary concern is job security. Evidence from comparable projects shows that early, transparent communication about redeployment (not redundancy) significantly reduces resistance. This is a priority engagement action for March 2026.
 - STK-09 (residents) are currently **Unaware** — this is appropriate at this stage. Resident communications will begin in August 2026 ahead of go-live.
 - This register contains sensitive information (political and personal concerns). It should not be shared beyond the project team and Project Board without approval.
+
+[↑ Back to top](#table-of-contents)
 
 ---
 

@@ -8,6 +8,18 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [Communication Principles](#communication-principles)
+- [Communications Matrix](#communications-matrix)
+- [Communication Channels](#communication-channels)
+- [Escalation Communication Protocol](#escalation-communication-protocol)
+- [Stakeholder-Specific Notes](#stakeholder-specific-notes)
+- [Communication Effectiveness Review](#communication-effectiveness-review)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -16,6 +28,8 @@
 | **Version** | 1.1 (updated at Gate 1 — May 2026) |
 | **Date** | 8 May 2026 |
 | **Owner** | Sarah Chen, Project Manager |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -28,6 +42,8 @@ The following principles govern all communications on the Meridian project:
 3. **Bad news travels up immediately**: Emerging issues, risks materialising, or deviations from plan are escalated to the Sponsor on the same day — not at the next scheduled report.
 4. **Proportionate frequency**: Stakeholders receive communication at a frequency that serves their needs — not more, not less. The project team is not the council's newsletter service.
 5. **Two-way**: Communication is not broadcasting. Feedback is actively sought, recorded, and acted upon. Stakeholders who raise concerns receive a response.
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -49,6 +65,8 @@ The following principles govern all communications on the Meridian project:
 | COM-12 | Lessons Learned Workshop | Capture project learning for PMO and future projects | Project team + key stakeholders | Facilitated workshop + documented log | At Gate 1, Gate 2, and project closure | Sarah Chen (PM) | In-person workshop | Output: lessons learned log ([lessons-learned-log.md](../templates/lessons-learned-log.md)) |
 | COM-13 | Project Closure Report and Handover | Formal project closure; benefits handover | Project Board, PMO, operational teams | Formal report + sign-off meeting | At project closure (October 2026) | Sarah Chen (PM) | Report distributed + sign-off meeting | Template: [project-closure-report.md](../templates/project-closure-report.md) |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Communication Channels
@@ -64,6 +82,8 @@ The following principles govern all communications on the Meridian project:
 
 **Note**: Personal messaging apps (WhatsApp, iMessage) are **not** approved channels for project decisions or sensitive information. Any decision made informally must be confirmed by email.
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Escalation Communication Protocol
@@ -78,6 +98,8 @@ The following principles govern all communications on the Meridian project:
 | Stakeholder complaint escalated to Sponsor | Sarah Chen (PM) | James Hartley | 24 hours | Email summary + phone |
 | Critical system incident post-go-live | Tom Okafor → Mark Pearce → Sarah Chen | GovTech support + Mark Pearce | Immediately (P1: within 1 hour) | Phone + GovTech incident ticket |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Stakeholder-Specific Notes
@@ -91,6 +113,8 @@ The following principles govern all communications on the Meridian project:
 | Claire Worthington (DPO) | Email; formal sign-offs | Data protection compliance; legal risk | Engaged at initiation; involved at key milestone points; will not sign off under time pressure |
 | GovTech PM | Fortnightly call + email | Contractual milestone payments; scope creep | Good working relationship; direct and professional communicator |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Communication Effectiveness Review
@@ -100,6 +124,8 @@ The following principles govern all communications on the Meridian project:
 | Gate 1 (May 2026) | Retrospective question in team meeting: "Is the communication working?" | Sarah Chen | Minor adjustment: added fortnightly GovTech call for build phase |
 | Mid-project (July 2026) | 3-question email survey to Project Board members | Sarah Chen | All three responded positively; no changes required |
 | Project closure (October 2026) | Lessons learned workshop agenda item | Sarah Chen | LL-006 (informal scope change by stakeholder direct to supplier) identified as communication gap; addressed in lessons |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 

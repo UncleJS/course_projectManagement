@@ -8,6 +8,15 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [Assumptions](#assumptions)
+- [Constraints](#constraints)
+- [Relationship to Risks](#relationship-to-risks)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -17,6 +26,8 @@
 | **Date** | 14 February 2026 |
 | **Owner** | Sarah Chen, Project Manager |
 | **Review frequency** | Monthly at Project Board; immediately when status changes |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -34,6 +45,8 @@
 | ASM-06 | The council's IT infrastructure (hosting, networking, security) can support the additional load of the CivicConnect SaaS platform without additional capital expenditure | Mark Pearce | 3 Feb 2026 | **Confirmed** — ICT infrastructure assessment completed 10 Feb 2026; capacity confirmed | N/A (confirmed) | None |
 | ASM-07 | Go-live date of 1 October 2026 is achievable within 9 months | Sarah Chen | 3 Feb 2026 | **Active** — Schedule baselined; dependent on supplier on-time delivery and ICT resource availability | At each Gate review | RSK-02, RSK-03 |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Constraints
@@ -49,6 +62,8 @@
 | CON-05 | All citizen data must be processed in accordance with UK GDPR. A Data Protection Impact Assessment (DPIA) must be completed and signed off by the DPO before build begins. | Regulatory / Legal | Data Protection Officer | 3 Feb 2026 | Active |
 | CON-06 | Procurement must comply with the terms of the GovTech framework agreement. Any requirement outside the framework scope requires a separate procurement process. | Procurement | Claire Worthington | 14 Jan 2026 | Active |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Relationship to Risks
@@ -56,6 +71,8 @@
 Assumptions ASM-02, ASM-03, ASM-04, ASM-05, and ASM-07 are each linked to risks in the Risk Register because if those assumptions prove false, the impact on the project is material. The linked risks contain the probability, impact assessment, and response actions.
 
 All assumptions must be reviewed at each Gate review. By Gate 1 (8 May 2026), ASM-05 (UNIFORM connector) must be confirmed or the scope/budget must be revised.
+
+[↑ Back to top](#table-of-contents)
 
 ---
 

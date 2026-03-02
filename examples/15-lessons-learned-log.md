@@ -8,6 +8,16 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [How Lessons Were Captured](#how-lessons-were-captured)
+- [Lessons Learned Log](#lessons-learned-log)
+- [Top 5 Lessons (Summary for Closure Report)](#top-5-lessons-summary-for-closure-report)
+- [Lessons Workshop Summary](#lessons-workshop-summary)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -17,6 +27,8 @@
 | **Date** | 31 October 2026 |
 | **Owner** | Sarah Chen, Project Manager |
 | **Distribution at closure** | James Hartley (Sponsor), Digital PMO, ICT Directorate, GovTech Solutions, Future project teams |
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -29,6 +41,8 @@ Lessons were captured at three points during the project:
 3. **Project Closure (28 October 2026)**: Full lessons-learned workshop with all stakeholder groups; 18 attendees.
 
 Each lesson follows the three-part structure: **what happened → root cause → recommendation**.
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -47,6 +61,8 @@ Each lesson follows the three-part structure: **what happened → root cause →
 | LL-009 | 28 Oct 2026 | All phases | Project governance / sponsorship | James Hartley (Sponsor) was consistently available for escalations and decisions throughout the project. All escalations were resolved within agreed timescales. The Project Board met on schedule (no meeting cancelled). This made a measurable difference — ISS-01 and ISS-02 were resolved weeks faster because the Sponsor acted promptly. | The Sponsor had been personally involved in the project's business case development and had a genuine interest in the outcome. The PM invested time upfront in agreeing the sponsorship compact (what decisions the PM needed from the Sponsor and at what timescale). | A sponsorship compact — a brief written agreement on the Sponsor's expected time commitment, decision timescales, and escalation protocol — should be agreed and signed at project initiation. This is particularly important when the PM is at a more junior level than the Sponsor. | Positive | Digital PMO | Submitted to PMO |
 | LL-010 | 28 Oct 2026 | Closure | Project closure | The project closure report and handover documentation were drafted during the final month of the project (October 2026), allowing a smooth formal closure on 31 October. However, the benefits register was not set up with baseline measures until Month 2 — meaning the Month 0 baseline for contact-centre call volume (the primary benefits metric) had to be reconstructed from historical call logs rather than measured directly. | Benefits measurement was not treated as a project planning task from initiation. The benefits register was created in the second month, after other planning activities had been completed. | The benefits register, including baseline measurements and measurement methodology, should be completed during project initiation — before any project activity that might affect the baseline. Benefits measurement is a project planning task, not a post-project task. | Negative | Digital PMO | Submitted to PMO |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Top 5 Lessons (Summary for Closure Report)
@@ -59,6 +75,8 @@ Each lesson follows the three-part structure: **what happened → root cause →
 | 4 | Benefits baseline must be established at project initiation, not after | Update project initiation checklist: benefits register with baselines is a gate condition |
 | 5 | Schedule float for UAT and deployment must be evidenced and defended | PM to document float rationale with reference to comparable project data at planning stage |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Lessons Workshop Summary
@@ -70,6 +88,8 @@ Each lesson follows the three-part structure: **what happened → root cause →
 **Tone**: Constructive and honest. No blame culture observed. Frontline staff were particularly candid about the BCM gap in early phases — and equally positive about the communications campaign.
 
 **Outstanding action**: PMO to schedule 6-month post-implementation review (April 2027) to validate benefits realisation data.
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
