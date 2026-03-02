@@ -8,6 +8,18 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [Issue Severity](#issue-severity)
+- [Issue Types](#issue-types)
+- [Issue Log](#issue-log)
+- [Status Values](#status-values)
+- [Escalation Path](#escalation-path)
+- [Relationship to Risk Register](#relationship-to-risk-register)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -20,6 +32,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Issue Severity
 
 | Severity | Description | Required response time |
@@ -30,6 +44,8 @@
 | **Low** | Minor impact; action can be deferred without risk | As capacity allows |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Issue Types
 
@@ -42,6 +58,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Issue Log
 
 | ID | Date raised | Raised by | Issue title | Description | Type | Severity | Impact on project | Owner | Target resolution date | Actions taken | Status | Date closed |
@@ -53,6 +71,8 @@
 | ISS-05 | | | | | | | | | | | Open | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Status Values
 
@@ -67,6 +87,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Escalation Path
 
 *Define the escalation path for issues that cannot be resolved at project level:*
@@ -80,6 +102,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Relationship to Risk Register
 
 Issues that materialise from risks should be cross-referenced:
@@ -89,5 +113,7 @@ Issues that materialise from risks should be cross-referenced:
 - Close the risk; manage the issue to resolution.
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 *© 2026 UncleJs — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*

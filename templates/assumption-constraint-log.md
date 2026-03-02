@@ -8,6 +8,18 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [Definitions](#definitions)
+- [Assumptions Log](#assumptions-log)
+  - [Assumption Status Values](#assumption-status-values)
+- [Constraints Log](#constraints-log)
+  - [Constraint Types](#constraint-types)
+- [Change History](#change-history)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -19,12 +31,16 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Definitions
 
 - **Assumption**: A statement accepted as true for planning purposes but not yet confirmed. If proved wrong, it may affect the project.
 - **Constraint**: A limitation within which the project must operate (fixed deadline, budget cap, regulatory boundary, resource ceiling).
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Assumptions Log
 
@@ -47,6 +63,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Constraints Log
 
 | ID | Date recorded | Constraint description | Type | Source | Impact on project | Owner | Review date | Status |
@@ -68,6 +86,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Change History
 
 | Version | Date | Changed by | Summary of change |
@@ -75,5 +95,7 @@
 | 1.0 | | | Initial version |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 *© 2026 UncleJs — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*

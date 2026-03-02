@@ -8,6 +8,20 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [How to Capture a Lesson](#how-to-capture-a-lesson)
+- [Lessons Learned Log](#lessons-learned-log)
+- [Categories](#categories)
+- [Status Values](#status-values)
+- [Workshop Facilitation Guide](#workshop-facilitation-guide)
+  - [Preparation](#preparation)
+  - [Workshop Agenda](#workshop-agenda)
+  - [Ground Rules for the Workshop](#ground-rules-for-the-workshop)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -20,6 +34,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## How to Capture a Lesson
 
 A good lesson learned has three parts:
@@ -31,6 +47,8 @@ A good lesson learned has three parts:
 Lessons can be **positive** (things that worked well and should be repeated) or **negative** (things that went wrong and should be avoided or changed).
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Lessons Learned Log
 
@@ -45,6 +63,8 @@ Lessons can be **positive** (things that worked well and should be repeated) or 
 | LL-007 | | | | | | | | | Captured |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Categories
 
@@ -70,6 +90,8 @@ Lessons can be **positive** (things that worked well and should be repeated) or 
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Status Values
 
 | Status | Meaning |
@@ -81,6 +103,8 @@ Lessons can be **positive** (things that worked well and should be repeated) or 
 | Closed | No further action required |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Workshop Facilitation Guide
 
@@ -111,5 +135,7 @@ Lessons can be **positive** (things that worked well and should be repeated) or 
 - Every lesson needs a recommendation — "it was bad" is not a lesson.
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 *© 2026 UncleJs — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*

@@ -8,6 +8,22 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [1. Overview of Deliverables Being Handed Over](#1-overview-of-deliverables-being-handed-over)
+- [2. Operational Documentation](#2-operational-documentation)
+- [3. Training Completed](#3-training-completed)
+- [4. Support Arrangements](#4-support-arrangements)
+- [5. Outstanding Items](#5-outstanding-items)
+- [6. Known Issues / Defects at Handover](#6-known-issues-defects-at-handover)
+- [7. Risks Transferred to Operations](#7-risks-transferred-to-operations)
+- [8. Benefits Ownership Transfer](#8-benefits-ownership-transfer)
+- [9. Archive and Records](#9-archive-and-records)
+- [10. Handover Sign-Off](#10-handover-sign-off)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -20,6 +36,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## 1. Overview of Deliverables Being Handed Over
 
 *List everything being transferred from the project to operations. Each item should have been formally accepted.*
@@ -31,6 +49,8 @@
 | HO-03 | | | | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## 2. Operational Documentation
 
@@ -49,6 +69,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## 3. Training Completed
 
 | Audience | Training type | Date(s) | Delivered by | Number trained | Outstanding |
@@ -57,6 +79,8 @@
 | | | | | | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## 4. Support Arrangements
 
@@ -74,6 +98,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## 5. Outstanding Items
 
 *List any items not yet complete at handover, agreed actions, and owners. These must be tracked to resolution.*
@@ -85,6 +111,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## 6. Known Issues / Defects at Handover
 
 *List any known defects or issues that exist at the time of handover, with agreed resolution plans.*
@@ -95,6 +123,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## 7. Risks Transferred to Operations
 
 *List any residual project risks that are now the responsibility of the operational team.*
@@ -104,6 +134,8 @@
 | | | | | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## 8. Benefits Ownership Transfer
 
@@ -118,6 +150,8 @@
 *Next scheduled benefits review*: ___________________________
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## 9. Archive and Records
 
@@ -134,6 +168,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## 10. Handover Sign-Off
 
 *Both parties confirm that the handover is complete and that operational responsibility has been transferred.*
@@ -145,5 +181,7 @@
 | **Project Sponsor** | | | | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 *© 2026 UncleJs — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*

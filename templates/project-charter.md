@@ -8,6 +8,28 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [1. Project Purpose](#1-project-purpose)
+- [2. Project Objectives](#2-project-objectives)
+- [3. Scope](#3-scope)
+  - [In Scope](#in-scope)
+  - [Out of Scope](#out-of-scope)
+- [4. Key Deliverables](#4-key-deliverables)
+- [5. Project Organisation](#5-project-organisation)
+- [6. Project Governance](#6-project-governance)
+- [7. Budget](#7-budget)
+- [8. Schedule](#8-schedule)
+- [9. Risks and Constraints](#9-risks-and-constraints)
+  - [Key Risks (summary)](#key-risks-summary)
+  - [Constraints](#constraints)
+  - [Assumptions](#assumptions)
+- [10. Project Manager Authority](#10-project-manager-authority)
+- [Authorisation](#authorisation)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -21,11 +43,15 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## 1. Project Purpose
 
 *State in 2–3 sentences why this project exists. What problem does it solve or what opportunity does it realise?*
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## 2. Project Objectives
 
@@ -37,6 +63,8 @@
 | OBJ-02 | | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## 3. Scope
 
@@ -56,6 +84,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## 4. Key Deliverables
 
 | Ref | Deliverable | Description | Target date |
@@ -64,6 +94,8 @@
 | DEL-02 | | | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## 5. Project Organisation
 
@@ -76,6 +108,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## 6. Project Governance
 
 | Item | Detail |
@@ -86,6 +120,8 @@
 | **Review gates** | (List planned stage/phase gates) |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## 7. Budget
 
@@ -98,6 +134,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## 8. Schedule
 
 | Milestone | Target date |
@@ -109,6 +147,8 @@
 | Post-implementation review | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## 9. Risks and Constraints
 
@@ -132,6 +172,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## 10. Project Manager Authority
 
 *This charter grants [Project Manager Name] the authority to:*
@@ -143,6 +185,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Authorisation
 
 | Role | Name | Signature | Date |
@@ -152,5 +196,7 @@
 | Project Manager (acceptance) | | | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 *© 2026 UncleJs — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*

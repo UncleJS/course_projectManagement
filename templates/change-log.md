@@ -8,6 +8,16 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [Change Log](#change-log)
+- [Decision Values](#decision-values)
+- [Implementation Status Values](#implementation-status-values)
+- [Cumulative Impact Summary](#cumulative-impact-summary)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -18,6 +28,8 @@
 | **Owner** | Project Manager |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Change Log
 
@@ -31,6 +43,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Decision Values
 
 | Decision | Meaning |
@@ -42,6 +56,8 @@
 | **Withdrawn** | Requestor withdrew the change request |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Implementation Status Values
 
@@ -55,6 +71,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Cumulative Impact Summary
 
 *Update at each project board meeting to show the cumulative effect of all approved changes.*
@@ -67,5 +85,7 @@
 | **Scope items removed** | — | | — |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 *© 2026 UncleJs — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*

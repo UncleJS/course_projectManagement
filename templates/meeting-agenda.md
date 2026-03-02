@@ -8,6 +8,18 @@
 
 ---
 
+## Table of Contents
+
+- [Meeting Details](#meeting-details)
+- [Meeting Purpose](#meeting-purpose)
+- [Pre-reading / Preparation](#pre-reading-preparation)
+- [Agenda](#agenda)
+  - [Item Types](#item-types)
+- [Decisions Required](#decisions-required)
+- [Ground Rules (standing)](#ground-rules-standing)
+
+---
+
 ## Meeting Details
 
 | Field | Value |
@@ -24,11 +36,15 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Meeting Purpose
 
 *State in one sentence what this meeting must achieve. If you cannot state the purpose clearly, reconsider whether the meeting is necessary.*
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Pre-reading / Preparation
 
@@ -40,6 +56,8 @@
 | | | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Agenda
 
@@ -67,6 +85,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Decisions Required
 
 *List the specific decisions that must be made at this meeting. Being explicit increases preparation quality.*
@@ -76,6 +96,8 @@
 3. 
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Ground Rules (standing)
 
@@ -88,5 +110,7 @@
 - Actions require a named owner and a due date.
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 *© 2026 UncleJs — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*

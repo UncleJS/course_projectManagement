@@ -8,6 +8,19 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [Scoring Scale](#scoring-scale)
+- [Section 1 — Quality / Technical Evaluation](#section-1-quality-technical-evaluation)
+- [Section 2 — Commercial Evaluation](#section-2-commercial-evaluation)
+- [Section 3 — Combined Evaluation](#section-3-combined-evaluation)
+- [Section 4 — Moderation Record](#section-4-moderation-record)
+- [Section 5 — Selection Decision](#section-5-selection-decision)
+- [Authorisation](#authorisation)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -21,6 +34,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Scoring Scale
 
 | Score | Label | Descriptor |
@@ -32,6 +47,8 @@
 | 4 | Excellent | Exceeds the standard; compelling evidence; innovation or added value |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Section 1 — Quality / Technical Evaluation
 
@@ -56,6 +73,8 @@
 **Quality threshold met?** Yes / No
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Section 2 — Commercial Evaluation
 
@@ -83,6 +102,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Section 3 — Combined Evaluation
 
 | Bidder | Quality score (weighted) | Quality weight (%) | Commercial score | Commercial weight (%) | **Combined score** | **Rank** |
@@ -94,6 +115,8 @@
 *Quality weight + Commercial weight must equal 100%.*
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Section 4 — Moderation Record
 
@@ -109,6 +132,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Section 5 — Selection Decision
 
 | Field | Value |
@@ -121,6 +146,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Authorisation
 
 | Role | Name | Signature | Date |
@@ -131,5 +158,7 @@
 | Approving Officer | | | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 *© 2026 UncleJs — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*

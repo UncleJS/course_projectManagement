@@ -8,6 +8,18 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [Resource Profiles](#resource-profiles)
+- [Availability Calendar](#availability-calendar)
+  - [[Name — Role]](#name-role)
+- [Consolidated Resource Demand vs Availability](#consolidated-resource-demand-vs-availability)
+- [Known Absences and Constraints](#known-absences-and-constraints)
+- [Resource Levelling Actions](#resource-levelling-actions)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -19,6 +31,8 @@
 | **Calendar period covered** | [From date] to [To date] |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Resource Profiles
 
@@ -39,6 +53,8 @@
 | **Notes** | (part-time pattern, compressed hours, etc.) |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Availability Calendar
 
@@ -61,6 +77,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Consolidated Resource Demand vs Availability
 
 *Use this table to identify overallocation at a glance. Update when the schedule changes.*
@@ -75,6 +93,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Known Absences and Constraints
 
 | Name | Period | Type | Hours affected per week | Impact on plan |
@@ -87,6 +107,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Resource Levelling Actions
 
 *Record actions taken to resolve overallocation:*
@@ -96,5 +118,7 @@
 | | | | | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 *© 2026 UncleJs — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*

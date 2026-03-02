@@ -8,6 +8,16 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [Engagement Level Key](#engagement-level-key)
+- [Stakeholder Register](#stakeholder-register)
+- [Power / Interest Grid Summary](#power-interest-grid-summary)
+- [Notes](#notes)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -19,6 +29,8 @@
 | **Review frequency** | (e.g., monthly / at each stage gate) |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Engagement Level Key
 
@@ -34,6 +46,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Stakeholder Register
 
 | ID | Name | Organisation / Role | Interest in project | Influence (H/M/L) | Impact (H/M/L) | C | D | Key concerns / needs | Engagement approach | Owner | Last reviewed |
@@ -48,6 +62,8 @@
 | STK-08 | | | | | | | | | | | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Power / Interest Grid Summary
 
@@ -69,10 +85,14 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Notes
 
 *Record any additional context, sensitivities, or history relevant to stakeholder management on this project.*
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 *© 2026 UncleJs — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*

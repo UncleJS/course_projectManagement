@@ -8,6 +8,30 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [1. Executive Summary](#1-executive-summary)
+- [2. Background and Context](#2-background-and-context)
+- [3. Objectives](#3-objectives)
+- [4. Options Considered](#4-options-considered)
+- [5. Recommended Option](#5-recommended-option)
+- [6. Expected Benefits](#6-expected-benefits)
+- [7. Costs](#7-costs)
+  - [Capital Costs (one-off)](#capital-costs-one-off)
+  - [Operating Costs (ongoing)](#operating-costs-ongoing)
+  - [Optimism Bias / Contingency](#optimism-bias-contingency)
+- [8. Return on Investment](#8-return-on-investment)
+- [9. Risks](#9-risks)
+- [10. Timescale](#10-timescale)
+- [11. Constraints and Assumptions](#11-constraints-and-assumptions)
+  - [Constraints](#constraints)
+  - [Assumptions](#assumptions)
+- [12. Recommendation](#12-recommendation)
+- [Approval](#approval)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -22,17 +46,23 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## 1. Executive Summary
 
 *Provide a concise (½–1 page) summary of the business case for a senior reader. Cover: the problem or opportunity, the recommended option, headline costs and benefits, and the recommendation.*
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## 2. Background and Context
 
 *Describe the current situation. What problem exists, or what opportunity has been identified? What drivers (strategic, regulatory, operational, financial) are making action necessary or desirable now?*
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## 3. Objectives
 
@@ -44,6 +74,8 @@
 | OBJ-02 | | | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## 4. Options Considered
 
@@ -58,11 +90,15 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## 5. Recommended Option
 
 *Describe the recommended option in full. What will it deliver? What is the scope? What is excluded?*
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## 6. Expected Benefits
 
@@ -74,6 +110,8 @@
 | BEN-02 | | | | | | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## 7. Costs
 
@@ -101,6 +139,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## 8. Return on Investment
 
 | Metric | Value |
@@ -116,6 +156,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## 9. Risks
 
 *Summarise the top risks to benefits realisation. Full risk detail is in the Risk Register.*
@@ -125,6 +167,8 @@
 | | | H/M/L | H/M/L | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## 10. Timescale
 
@@ -137,6 +181,8 @@
 | Benefits review | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## 11. Constraints and Assumptions
 
@@ -154,11 +200,15 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## 12. Recommendation
 
 *State the recommended decision clearly: approve / reject / defer. Summarise the key reasons.*
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Approval
 
@@ -169,5 +219,7 @@
 | Finance | | | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 *© 2026 UncleJs — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*

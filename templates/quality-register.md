@@ -8,6 +8,18 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [Quality Activity Types](#quality-activity-types)
+- [Quality Register](#quality-register)
+- [Outcome Values](#outcome-values)
+- [Defect Log (Summary)](#defect-log-summary)
+- [Quality Metrics Summary](#quality-metrics-summary)
+- [Quality Audit Schedule](#quality-audit-schedule)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -18,6 +30,8 @@
 | **Owner** | Project Manager / Quality Lead |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Quality Activity Types
 
@@ -31,6 +45,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Quality Register
 
 | ID | Deliverable / process reviewed | Quality activity type | Planned date | Actual date | Reviewer(s) | Criteria used | Outcome | Defects found | Defects resolved | Sign-off date | Notes |
@@ -43,6 +59,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Outcome Values
 
 | Outcome | Meaning |
@@ -54,6 +72,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Defect Log (Summary)
 
 For full defect tracking, maintain a separate defect log or use your test management tool. Record summary counts here.
@@ -64,6 +84,8 @@ For full defect tracking, maintain a separate defect log or use your test manage
 | | | | | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Quality Metrics Summary
 
@@ -79,6 +101,8 @@ For full defect tracking, maintain a separate defect log or use your test manage
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Quality Audit Schedule
 
 | Audit | Planned date | Auditor | Scope | Status |
@@ -89,5 +113,7 @@ For full defect tracking, maintain a separate defect log or use your test manage
 | Pre-closure audit | | | | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 *© 2026 UncleJs — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*

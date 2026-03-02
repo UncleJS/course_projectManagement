@@ -8,6 +8,22 @@
 
 ---
 
+## Table of Contents
+
+- [Meeting Details](#meeting-details)
+- [Actions from Previous Meeting](#actions-from-previous-meeting)
+- [Items Discussed](#items-discussed)
+  - [Item 1: [Title from Agenda]](#item-1-title-from-agenda)
+  - [Item 2: [Title from Agenda]](#item-2-title-from-agenda)
+  - [Item 3: [Title from Agenda]](#item-3-title-from-agenda)
+  - [Item 4: Risk and Issues Update](#item-4-risk-and-issues-update)
+  - [Any Other Business](#any-other-business)
+- [Action Log (This Meeting)](#action-log-this-meeting)
+- [Decisions Record](#decisions-record)
+- [Next Meeting](#next-meeting)
+
+---
+
 ## Meeting Details
 
 | Field | Value |
@@ -24,6 +40,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Actions from Previous Meeting
 
 | Action ref | Action | Owner | Due date | Status |
@@ -32,6 +50,8 @@
 | [prev ref] | | | | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Items Discussed
 
@@ -79,6 +99,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Action Log (This Meeting)
 
 | Ref | Action | Owner | Due date | Priority |
@@ -90,6 +112,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Decisions Record
 
 *List all decisions made at this meeting for easy reference:*
@@ -100,6 +124,8 @@
 | 2 | | | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Next Meeting
 
@@ -118,5 +144,7 @@
 *Please confirm accuracy or advise corrections within 48 hours.*
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 *© 2026 UncleJs — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*

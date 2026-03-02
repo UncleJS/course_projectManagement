@@ -8,6 +8,16 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [RACI Definitions](#raci-definitions)
+  - [Common Errors to Avoid](#common-errors-to-avoid)
+- [RACI Matrix](#raci-matrix)
+- [Roles in This Project](#roles-in-this-project)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -18,6 +28,8 @@
 | **Prepared by** | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## RACI Definitions
 
@@ -36,6 +48,8 @@
 - **R** without **A** on the same row — someone is doing work no one owns.
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## RACI Matrix
 
@@ -69,6 +83,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Roles in This Project
 
 *Document each role for context.*
@@ -84,5 +100,7 @@
 | PMO | | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 *© 2026 UncleJs — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*

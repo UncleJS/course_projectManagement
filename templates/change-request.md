@@ -8,6 +8,25 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [1. Description of Change](#1-description-of-change)
+- [2. Reason / Justification](#2-reason-justification)
+- [3. Baseline(s) Affected](#3-baselines-affected)
+- [4. Impact Assessment](#4-impact-assessment)
+  - [Schedule Impact](#schedule-impact)
+  - [Cost Impact](#cost-impact)
+  - [Risk Impact](#risk-impact)
+  - [Quality / Scope Impact](#quality-scope-impact)
+  - [Stakeholder Impact](#stakeholder-impact)
+- [5. Options](#5-options)
+- [6. Recommendation](#6-recommendation)
+- [7. Decision](#7-decision)
+- [8. Implementation Instructions](#8-implementation-instructions)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -20,17 +39,23 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## 1. Description of Change
 
 *Describe the proposed change clearly and specifically. What is being changed?*
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## 2. Reason / Justification
 
 *Why is this change needed? What driver (business need, error, regulatory requirement, stakeholder request) is prompting it?*
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## 3. Baseline(s) Affected
 
@@ -43,6 +68,8 @@
 | Other (specify) | | | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## 4. Impact Assessment
 
@@ -72,6 +99,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## 5. Options
 
 | Option | Description | Cost (£) | Schedule impact | Recommendation |
@@ -83,11 +112,15 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## 6. Recommendation
 
 *PM's recommendation: which option and why.*
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## 7. Decision
 
@@ -99,6 +132,8 @@
 | **Signature** | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## 8. Implementation Instructions
 
@@ -112,5 +147,7 @@
 | Update change log | | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 *© 2026 UncleJs — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*

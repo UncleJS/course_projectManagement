@@ -8,6 +8,30 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [1. Executive Summary](#1-executive-summary)
+- [2. Project Overview](#2-project-overview)
+- [3. Objectives and Deliverables](#3-objectives-and-deliverables)
+  - [Objectives Achievement](#objectives-achievement)
+  - [Deliverables](#deliverables)
+  - [Scope Changes](#scope-changes)
+- [4. Schedule Performance](#4-schedule-performance)
+- [5. Financial Performance](#5-financial-performance)
+- [6. Quality Performance](#6-quality-performance)
+- [7. Risk and Issue Summary](#7-risk-and-issue-summary)
+  - [Risks](#risks)
+  - [Issues](#issues)
+- [8. Benefits Handover](#8-benefits-handover)
+- [9. Handover to BAU](#9-handover-to-bau)
+- [10. Lessons Learned Summary](#10-lessons-learned-summary)
+- [11. Project Archive](#11-project-archive)
+- [12. Recommendation](#12-recommendation)
+- [Authorisation](#authorisation)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -21,11 +45,15 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## 1. Executive Summary
 
 *Concise summary (½ page) of project performance: what was delivered, how it performed against budget and schedule, what benefits are expected, and any key lessons. Suitable for senior stakeholders who will not read the full report.*
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## 2. Project Overview
 
@@ -40,6 +68,8 @@
 | **Actual final cost** | £ |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## 3. Objectives and Deliverables
 
@@ -70,6 +100,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## 4. Schedule Performance
 
 | Item | Baseline | Actual | Variance |
@@ -83,6 +115,8 @@
 **Commentary**: *Explain any variances, their causes, and whether they were within tolerance.*
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## 5. Financial Performance
 
@@ -98,6 +132,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## 6. Quality Performance
 
 | Item | Target | Actual | Met? |
@@ -110,6 +146,8 @@
 **Commentary**:
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## 7. Risk and Issue Summary
 
@@ -131,6 +169,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## 8. Benefits Handover
 
 | Ref | Benefit | Baseline measure | Current measure | Expected realisation date | Benefit owner (BAU) |
@@ -144,6 +184,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## 9. Handover to BAU
 
 | Item | Status | Notes |
@@ -155,6 +197,8 @@
 | Acceptance signed by operations | Yes / No | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## 10. Lessons Learned Summary
 
@@ -172,6 +216,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## 11. Project Archive
 
 *Confirm that the project file has been archived and is accessible:*
@@ -187,11 +233,15 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## 12. Recommendation
 
 *State the PM's recommendation: that the project be formally closed, or any outstanding actions that must be completed before closure.*
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Authorisation
 
@@ -202,5 +252,7 @@
 | Project Manager | | | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 *© 2026 UncleJs — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*

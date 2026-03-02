@@ -8,6 +8,23 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [Overall RAG Status](#overall-rag-status)
+  - [RAG Definitions](#rag-definitions)
+- [Period Summary](#period-summary)
+- [Progress This Period](#progress-this-period)
+- [Planned for Next Period](#planned-for-next-period)
+- [Financials](#financials)
+- [Risks (Top 3 Active Risks)](#risks-top-3-active-risks)
+- [Issues (Open Issues)](#issues-open-issues)
+- [Decisions Required from Sponsor / Board](#decisions-required-from-sponsor-board)
+- [Change Requests Status](#change-requests-status)
+- [Notes / Commentary](#notes-commentary)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -20,6 +37,8 @@
 | **Distribution** | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Overall RAG Status
 
@@ -42,11 +61,15 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Period Summary
 
 *2–4 sentences: what was the headline picture this reporting period?*
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Progress This Period
 
@@ -60,6 +83,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Planned for Next Period
 
 | Activity / Milestone | Target date | Owner |
@@ -69,6 +94,8 @@
 | | | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Financials
 
@@ -90,6 +117,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Risks (Top 3 Active Risks)
 
 | ID | Risk | Score | Response | Status |
@@ -102,6 +131,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Issues (Open Issues)
 
 | ID | Issue | Severity | Owner | Target resolution |
@@ -112,6 +143,8 @@
 *Full log in: [link/location]*
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Decisions Required from Sponsor / Board
 
@@ -124,6 +157,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Change Requests Status
 
 | CR No. | Description | Status | Cost impact (£) | Schedule impact |
@@ -132,10 +167,14 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Notes / Commentary
 
 *Any additional context the sponsor should be aware of:*
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 *© 2026 UncleJs — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*

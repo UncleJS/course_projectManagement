@@ -8,6 +8,22 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [Probability and Impact Scales](#probability-and-impact-scales)
+  - [Probability](#probability)
+  - [Impact (threats)](#impact-threats)
+  - [Risk Score = Probability × Impact](#risk-score-probability-impact)
+- [Risk Register](#risk-register)
+- [Response Strategies](#response-strategies)
+  - [Threats](#threats)
+  - [Opportunities](#opportunities)
+- [Risk Categories](#risk-categories)
+- [Status Values](#status-values)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -19,6 +35,8 @@
 | **Review frequency** | (e.g., weekly / fortnightly) |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Probability and Impact Scales
 
@@ -56,6 +74,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Risk Register
 
 | ID | Date raised | Category | Risk description (Cause → Risk → Effect) | Prob (1–5) | Impact (1–5) | Score | Response strategy | Response actions | Owner | Residual prob | Residual impact | Residual score | Status | Last reviewed |
@@ -67,6 +87,8 @@
 | RSK-05 | | | | | | | | | | | | | Open | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Response Strategies
 
@@ -92,6 +114,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Risk Categories
 
 *Customise for your project:*
@@ -108,6 +132,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Status Values
 
 | Status | Meaning |
@@ -119,5 +145,7 @@
 | Materialised → Issue | Risk has occurred; now recorded in Issue Log |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 *© 2026 UncleJs — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*

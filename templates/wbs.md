@@ -8,6 +8,19 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [WBS Numbering Convention](#wbs-numbering-convention)
+- [WBS — Hierarchical View](#wbs-hierarchical-view)
+- [WBS Dictionary (Work Package Descriptions)](#wbs-dictionary-work-package-descriptions)
+- [WBS Construction Guidance](#wbs-construction-guidance)
+  - [100% Rule](#100-rule)
+  - [Decomposition Tips](#decomposition-tips)
+  - [Common WBS Structures](#common-wbs-structures)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -20,6 +33,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## WBS Numbering Convention
 
 ```
@@ -30,6 +45,8 @@
 ```
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## WBS — Hierarchical View
 
@@ -62,6 +79,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## WBS Dictionary (Work Package Descriptions)
 
 Complete one row per work package (lowest-level WBS element).
@@ -75,6 +94,8 @@ Complete one row per work package (lowest-level WBS element).
 | 1.2.1.1 | | | | | | | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## WBS Construction Guidance
 
@@ -99,5 +120,7 @@ The WBS must capture **100% of the scope**. The sum of all work at each level eq
 | By **subproject** | Programmes with distinct workstreams |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 *© 2026 UncleJs — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*

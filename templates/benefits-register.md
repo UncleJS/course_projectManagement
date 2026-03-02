@@ -8,6 +8,18 @@
 
 ---
 
+## Table of Contents
+
+- [Document Control](#document-control)
+- [Benefits Classification](#benefits-classification)
+- [Benefits Register](#benefits-register)
+- [Status Values](#status-values)
+- [Financial Benefits Summary](#financial-benefits-summary)
+- [Benefits Realisation Milestones](#benefits-realisation-milestones)
+- [Post-Implementation Review (PIR) Summary](#post-implementation-review-pir-summary)
+
+---
+
 ## Document Control
 
 | Field | Value |
@@ -20,6 +32,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Benefits Classification
 
 | Type | Description |
@@ -30,6 +44,8 @@
 | **Non-financial — qualitative** | Measurable only by assessment or judgment (e.g., improved public trust, staff morale) |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Benefits Register
 
@@ -42,6 +58,8 @@
 | BEN-05 | | | | | | | | | | | | | Not yet measurable | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Status Values
 
@@ -57,6 +75,8 @@
 
 ---
 
+[↑ Back to top](#table-of-contents)
+
 ## Financial Benefits Summary
 
 | Benefit ID | Year 1 (£) | Year 2 (£) | Year 3 (£) | Total (£) |
@@ -66,6 +86,8 @@
 | **Total** | | | | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Benefits Realisation Milestones
 
@@ -78,6 +100,8 @@
 | Benefits register closed | | | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 ## Post-Implementation Review (PIR) Summary
 
@@ -95,5 +119,7 @@
 | **Recommended actions** | |
 
 ---
+
+[↑ Back to top](#table-of-contents)
 
 *© 2026 UncleJs — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*
