@@ -8,6 +8,14 @@
 
 ---
 
+## Table of Contents
+
+- [The Scenario: Meridian Portal](#the-scenario-meridian-portal)
+- [Document Index](#document-index)
+- [How to Use These Examples](#how-to-use-these-examples)
+
+---
+
 ## The Scenario: Meridian Portal
 
 **Organisation:** Northgate District Council  
@@ -49,6 +57,8 @@ The **Meridian Portal** project will deliver a citizen-facing self-service web p
 
 The portal will be built on the **GovTech Solutions CivicConnect** platform (SaaS), configured and integrated with the council's existing Northgate UNIFORM back-office system.
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## Document Index
@@ -77,6 +87,8 @@ The portal will be built on the **GovTech Solutions CivicConnect** platform (Saa
 | 20 | [Quality Register](20-quality-register.md) | `templates/quality-register.md` |
 | 21 | [Procurement Evaluation Scorecard](21-procurement-evaluation-scorecard.md) | `templates/procurement-evaluation-scorecard.md` |
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## How to Use These Examples
@@ -86,6 +98,8 @@ The portal will be built on the **GovTech Solutions CivicConnect** platform (Saa
 3. **Note the level of detail** — Real project documents are specific and concrete. Vague placeholder text ("TBC" everywhere) is not professional practice.
 4. **Spot the design choices** — Why are certain risks rated the way they are? Why are some stakeholders in "manage closely" and not "keep satisfied"? These reflect judgement, not mechanical form-filling.
 5. **Adapt, don't copy** — These examples are for a specific fictitious project. Your project will differ. Use these as a reference model, not a template to rename.
+
+[↑ Back to top](#table-of-contents)
 
 ---
 

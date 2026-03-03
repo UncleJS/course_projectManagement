@@ -122,4 +122,4 @@ The baseline for BEN-01 (contact-centre call volume) was reconstructed from 12 m
 
 ---
 
-*© 2026 UncleJs — Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*
+&copy; 2026 UncleJs &mdash; Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

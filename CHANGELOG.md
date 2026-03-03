@@ -15,6 +15,13 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 
 *Changes that are being prepared but not yet tagged as a release.*
 
+### Changed
+
+- **`README.md`** — Corrected the Worked Examples table (items 07–11) to match the actual files and numbering in `examples/README.md`.
+- **`examples/README.md`** — Added a `## Table of Contents` section and `[↑ Back to top](#table-of-contents)` navigation links.
+- **`modules/` (all module files)** — Expanded each `## Table of Contents` to include `###` subsection links for improved scanability.
+- **`templates/` (all template files) and `examples/` (all worked example files)** — Standardised license footer formatting to the repository convention (`&copy; 2026 UncleJs &mdash; Licensed under ...`).
+
 ---
 
 ## [2.1.1] — 2026-03-02

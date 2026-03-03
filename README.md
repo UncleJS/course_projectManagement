@@ -143,14 +143,14 @@ See [`examples/README.md`](examples/README.md) for the full scenario overview an
 | 01 | [Business Case](examples/01-business-case.md) | Business Case |
 | 02 | [Project Charter](examples/02-project-charter.md) | Project Charter |
 | 03 | [Stakeholder Register](examples/03-stakeholder-register.md) | Stakeholder Register |
-| 04 | [Assumption & Constraint Log](examples/04-assumption-constraint-log.md) | Assumption and Constraint Log |
+| 04 | [Assumption and Constraint Log](examples/04-assumption-constraint-log.md) | Assumption and Constraint Log |
 | 05 | [WBS](examples/05-wbs.md) | Work Breakdown Structure |
 | 06 | [RACI Matrix](examples/06-raci-matrix.md) | RACI Matrix |
-| 07 | [Risk Register](examples/07-risk-register.md) | Risk Register (planning snapshot) |
-| 08 | [Issue Log](examples/08-issue-log.md) | Issue Log |
-| 09 | [Change Request Form](examples/09-change-request.md) | Change Request Form |
-| 10 | [Change Log](examples/10-change-log.md) | Change Log |
-| 11 | [Communications Plan](examples/11-communications-plan.md) | Communications Plan (planning snapshot) |
+| 07 | [Resource Calendar](examples/07-resource-calendar.md) | Resource Calendar |
+| 08 | [Change Request Form](examples/08-change-request.md) | Change Request Form |
+| 09 | [Change Log](examples/09-change-log.md) | Change Log |
+| 10 | [Issue Log](examples/10-issue-log.md) | Issue Log |
+| 11 | [Meeting Agenda](examples/11-meeting-agenda.md) | Meeting Agenda |
 | 12 | [Meeting Minutes](examples/12-meeting-minutes.md) | Meeting Minutes |
 | 13 | [Status Report](examples/13-status-report.md) | Status Report |
 | 14 | [Risk Register (live)](examples/14-risk-register.md) | Risk Register (Month 5 snapshot) |
