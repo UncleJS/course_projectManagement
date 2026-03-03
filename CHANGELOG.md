@@ -15,6 +15,10 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 
 *Changes that are being prepared but not yet tagged as a release.*
 
+---
+
+## [2.1.2] — 2026-03-03
+
 ### Changed
 
 - **`README.md`** — Corrected the Worked Examples table (items 07–11) to match the actual files and numbering in `examples/README.md`.
