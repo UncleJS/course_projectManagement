@@ -295,8 +295,8 @@ RAG ratings must be honest. A project that is amber but reported as green create
 ```mermaid
 quadrantChart
     title SPI / CPI Performance Quadrants
-    x-axis Low SPI (Behind Schedule) --> High SPI (Ahead of Schedule)
-    y-axis Low CPI (Over Budget) --> High CPI (Under Budget)
+    x-axis Low SPI --> High SPI
+    y-axis Low CPI --> High CPI
     quadrant-1 On Time & Under Budget
     quadrant-2 Ahead & Over Budget
     quadrant-3 Behind & Over Budget

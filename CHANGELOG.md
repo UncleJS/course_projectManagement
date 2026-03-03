@@ -17,6 +17,14 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 
 ---
 
+## [2.1.3] — 2026-03-03
+
+### Fixed
+
+- **`modules/06-monitoring-control.md`** — Removed parentheses from `quadrantChart` axis labels (`x-axis` / `y-axis`) which caused a Mermaid lexer error; labels now read `Low SPI --> High SPI` and `Low CPI --> High CPI`. All 46 Mermaid diagrams across the course now render cleanly.
+
+---
+
 ## [2.1.2] — 2026-03-03
 
 ### Changed
