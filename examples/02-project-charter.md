@@ -22,7 +22,7 @@
 - [7. Budget](#7-budget)
 - [8. Schedule](#8-schedule)
 - [9. Risks and Constraints](#9-risks-and-constraints)
-  - [Key Risks (Summary)](#key-risks-summary)
+  - [Key Risks (summary)](#key-risks-summary)
   - [Constraints](#constraints)
   - [Assumptions](#assumptions)
 - [10. Project Manager Authority](#10-project-manager-authority)
@@ -172,7 +172,7 @@ The Meridian Portal project will deliver a citizen-facing self-service web porta
 
 ## 9. Risks and Constraints
 
-### Key Risks (Summary)
+### Key Risks (summary)
 
 | Risk | Likelihood | Impact | Owner |
 |---|---|---|---|

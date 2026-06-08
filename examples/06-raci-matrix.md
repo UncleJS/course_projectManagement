@@ -12,7 +12,8 @@
 
 - [Document Control](#document-control)
 - [RACI Definitions](#raci-definitions)
-- [Roles in this Project](#roles-in-this-project)
+  - [Common Errors to Avoid](#common-errors-to-avoid)
+- [Roles in This Project](#roles-in-this-project)
 - [RACI Matrix](#raci-matrix)
 - [Notes](#notes)
 
@@ -40,11 +41,18 @@
 | **C** | Consulted | Must be consulted before a decision or before work is complete; two-way communication. |
 | **I** | Informed | Must be told of decisions or results; one-way communication. |
 
+### Common Errors to Avoid
+
+- More than one **A** per task — causes confusion about who owns the outcome.
+- No **A** for a task — creates an accountability vacuum.
+- Too many **C**s — slows decisions; reserve for genuine subject-matter input.
+- **R** without **A** on the same row — someone is doing work no one owns.
+
 [↑ Back to top](#table-of-contents)
 
 ---
 
-## Roles in this Project
+## Roles in This Project
 
 | Code | Role |
 |---|---|

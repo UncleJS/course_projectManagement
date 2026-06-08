@@ -67,7 +67,7 @@
 
 ---
 
-## Power / Interest Grid
+## Power / Interest Grid Summary
 
 ```
          HIGH POWER
