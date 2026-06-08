@@ -1,7 +1,7 @@
 # Changelog
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
-![Version](https://img.shields.io/badge/Version-2.1.3-blue)
+![Version](https://img.shields.io/badge/Version-2.2.0-blue)
 ![Keep a Changelog](https://img.shields.io/badge/Keep%20a%20Changelog-1.1.0-orange)
 ![Semantic Versioning](https://img.shields.io/badge/Semver-2.0.0-informational)
 
@@ -19,6 +19,7 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## Table of Contents
 
 - [Unreleased](#unreleased)
+- [2.2.0 — 2026-06-08](#220--2026-06-08)
 - [2.1.3 — 2026-03-03](#213--2026-03-03)
 - [2.1.2 — 2026-03-03](#212--2026-03-03)
 - [2.1.1 — 2026-03-02](#211--2026-03-02)
@@ -31,7 +32,15 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 
 ## [Unreleased]
 
-*Outcome of a full multi-dimensional course review (accuracy, consistency, structure/links, pedagogy, language). Findings recorded in `COURSE-REVIEW.md`. This batch covers the modules, glossary, meta-files, navigation, and the unambiguous worked-example corrections; the worked-example financial-model reconstruction and full template/example structural alignment are tracked as follow-up work.*
+*No unreleased changes.*
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## [2.2.0] — 2026-06-08
+
+*Outcome of a full multi-dimensional course review (accuracy, consistency, structure/links, pedagogy, language). Findings recorded in `COURSE-REVIEW.md`. Covers module corrections, glossary and meta-file fixes, navigation repair, reconstruction of the Meridian worked-example financial model, full template/example structural alignment across all 21 pairs, and scenario-canon reconciliation.*
 
 ### Fixed
 
