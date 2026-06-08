@@ -11,9 +11,12 @@
 ## Table of Contents
 
 - [Document Control](#document-control)
-- [Resource List](#resource-list)
-- [Availability Calendar (Internal Council Resources)](#availability-calendar-internal-council-resources)
+- [Resource Profiles](#resource-profiles)
+- [Availability Calendar](#availability-calendar)
 - [Resource Notes](#resource-notes)
+- [Consolidated Resource Demand vs Availability](#consolidated-resource-demand-vs-availability)
+- [Known Absences and Constraints](#known-absences-and-constraints)
+- [Resource Levelling Actions](#resource-levelling-actions)
 - [Key Capacity Risks](#key-capacity-risks)
 
 ---
@@ -31,7 +34,7 @@
 
 ---
 
-## Resource List
+## Resource Profiles
 
 | Resource | Role | Type | FTE or Days/Week |
 |---|---|---|---|
@@ -47,16 +50,16 @@
 
 ---
 
-## Availability Calendar (Internal Council Resources)
+## Availability Calendar
 
-*Key: percentage = % of working week available to this project. Shaded cells = peak demand.*
+*Internal council resources. Key: percentage = % of working week available to this project. Shaded cells = peak demand.*
 
 | Resource | Feb 26 | Mar 26 | Apr 26 | May 26 | Jun 26 | Jul 26 | Aug 26 | Sep 26 | Oct 26 |
 |---|---|---|---|---|---|---|---|---|---|
 | **Sarah Chen** (PM) | 60% | 60% | 60% | 60% | 60% | 60% | 60% | 80% | 40% |
 | **Mark Pearce** (ICT) | 10% | 10% | 10% | 20% | **40%** | **40%** | **40%** | 20% | 10% |
 | **ICT Developer** | — | — | — | — | **80%** | **80%** | **80%** | 20% | — |
-| **Sandra Obi** (Senior User) | 10% | 10% | 20% | 10% | 10% | 10% | 20% | **40%** | 10% |
+| **Sandra Obi** (Senior User) | 10% | 10% | 20% | 10% | 10% | 10% | 5% | **40%** | 10% |
 | **Business Change Manager** | — | — | — | 30% | 30% | 30% | 30% | **60%** | 30% |
 
 [↑ Back to top](#table-of-contents)
@@ -89,6 +92,47 @@
 - Role not yet filled (as at project start).
 - Must be in post by 1 May 2026 to run staff engagement activities ahead of UAT.
 - Sarah Chen acting as interim for change coordination until BCM is confirmed.
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## Consolidated Resource Demand vs Availability
+
+*Peak-demand months and utilisation for the internal council resources (the supplier team is contracted separately).*
+
+| Resource | Peak demand period | Availability at peak | Status |
+|---|---|---|---|
+| Mark Pearce (ICT) | Jun–Aug 2026 (integration oversight) | 40% | 🟡 At ceiling — senior role cannot exceed 40% |
+| ICT Developer | Jun–Aug 2026 (integration build) | 80% | 🟢 Within capacity once confirmed |
+| Sandra Obi (Senior User) | Sep 2026 (UAT and sign-off) | 40% | 🟡 Constrained by August leave |
+| Business Change Manager | Sep 2026 (go-live engagement) | 60% | 🟢 Within capacity |
+
+**Colour code**: 🟢 Within capacity | 🟡 ≥90% utilised | 🔴 Overallocated
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## Known Absences and Constraints
+
+| Name | Period | Type | Hours affected per week | Impact on plan |
+|---|---|---|---|---|
+| Sarah Chen | 27 Apr – 1 May 2026 | Annual leave | Full week | Minor — no critical-path activity that week |
+| Sandra Obi | 1–19 Aug 2026 | Annual leave | ~3 weeks | UAT preparation at risk; mitigated by July checklist and deputy (ISS-05) |
+| ICT Developer | Until assigned (target 1 Mar 2026) | Resource gap | Full | Integration cannot start in June if unconfirmed (RSK-03 / ISS-01) |
+| Mark Pearce | Throughout | Other commitment (senior management role) | ~90% | Capped at 40% even at peak; day-to-day work delegated to ICT Developer |
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## Resource Levelling Actions
+
+| Date | Name | Conflict identified | Resolution action | Impact on schedule |
+|---|---|---|---|---|
+| 8 Mar 2026 | ICT Developer | Named developer not confirmed for June integration start | Sponsor escalation; Tom Okafor confirmed 13 Mar (ISS-01) | None — resolved before integration start |
+| 3 Aug 2026 | Sandra Obi | August leave overlaps UAT preparation | UAT prep checklist completed by 31 Jul; deputy briefed; tasks reassigned to BCM (ISS-05) | None — UAT start maintained 22 Aug |
 
 [↑ Back to top](#table-of-contents)
 

@@ -17,6 +17,7 @@
   - [2.1 Service Ownership](#21-service-ownership)
   - [2.2 Support Structure](#22-support-structure)
   - [2.3 Key Operational Procedures](#23-key-operational-procedures)
+- [Training Completed](#training-completed)
 - [3. Contracts and Supplier Relationships](#3-contracts-and-supplier-relationships)
 - [4. Benefits Realisation Responsibilities](#4-benefits-realisation-responsibilities)
 - [5. Known Issues and Risks Transferred to BAU](#5-known-issues-and-risks-transferred-to-bau)
@@ -36,7 +37,7 @@
 | **Project Title** | Meridian — Citizen Self-Service Portal |
 | **Document Type** | Project Handover — Operational and Phase 2 |
 | **Version** | 1.0 |
-| **Date** | 14 October 2026 |
+| **Date** | 22 October 2026 |
 | **Prepared by** | Sarah Chen, Project Manager |
 | **Accepted by** | Sandra Obi, Head of Customer Services (Operational) / Mark Pearce, ICT Manager (Technical) |
 
@@ -101,6 +102,19 @@ The Meridian Citizen Self-Service Portal went live on **15 October 2026**. It pr
 | Capita payment gateway monthly reconciliation | Finance team procedure — updated to include portal | Mark Pearce |
 | Resident data retention and deletion schedule | NDA SharePoint: Meridian/Data Protection | Data Protection Officer |
 | Monthly performance dashboard (adoption, call volumes) | SharePoint / Power BI — automated | Sandra Obi |
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## Training Completed
+
+| Audience | Training type | Date(s) | Delivered by | Number trained | Outstanding |
+|---|---|---|---|---|---|
+| Contact-centre and counter staff | Classroom + hands-on portal walkthrough | Sep–Oct 2026 | Diane Hughes (BCM) + GovTech | 54 / 54 (100%) | None |
+| Planning, revenues and waste service teams | Role-based system training | Sep 2026 | GovTech + ICT (Tom Okafor) | Included in the 54 | None |
+| ICT operational support | System administration handover | 10 Oct 2026 | GovTech | 4 | None |
+| Residents | Self-service user guide and in-portal help | At launch (ongoing) | Online (user guide, help pages) | n/a | Ongoing self-serve support |
 
 [↑ Back to top](#table-of-contents)
 
@@ -208,9 +222,9 @@ The GovTech portal platform is fully capable of adding the parking permit module
 
 | Role | Name | Signed | Date |
 |---|---|---|---|
-| **Handing over** — Project Manager | Sarah Chen | *(signed)* | 14 Oct 2026 |
-| **Accepting** — Head of Customer Services (Operational) | Sandra Obi | *(signed)* | 14 Oct 2026 |
-| **Accepting** — ICT Manager (Technical) | Mark Pearce | *(signed)* | 14 Oct 2026 |
+| **Handing over** — Project Manager | Sarah Chen | *(signed)* | 22 Oct 2026 |
+| **Accepting** — Head of Customer Services (Operational) | Sandra Obi | *(signed)* | 22 Oct 2026 |
+| **Accepting** — ICT Manager (Technical) | Mark Pearce | *(signed)* | 22 Oct 2026 |
 
 [↑ Back to top](#table-of-contents)
 
