@@ -12,8 +12,10 @@
 
 - [Document Control](#document-control)
 - [Change Log](#change-log)
-- [Status Definitions](#status-definitions)
-- [Budget Impact Summary (as at 15 August 2026)](#budget-impact-summary-as-at-15-august-2026)
+- [Decision Values](#decision-values)
+- [Implementation Status Values](#implementation-status-values)
+- [Cumulative Impact Summary](#cumulative-impact-summary)
+  - [Contingency Tracking (as at 15 August 2026)](#contingency-tracking-as-at-15-august-2026)
 - [Notes](#notes)
 
 ---
@@ -33,34 +35,58 @@
 
 ## Change Log
 
-| CR No. | Date received | Requestor | Description | Status | Decision date | Approved by | Budget impact (£) | Schedule impact | Implementation date |
-|---|---|---|---|---|---|---|---|---|---|
-| CR-001 | 22 May 2026 | Sandra Obi | Add Welsh language option to all four service modules | **Deferred — Phase 2** | 4 Jun 2026 | James Hartley | £0 (this project) | None | Phase 2 Q1 2027 |
-| CR-002 | 12 Jun 2026 | Mark Pearce | Increase UNIFORM API rate limit from 100 to 500 requests/minute to support peak load. Requires additional ICT infrastructure work. | **Approved** | 19 Jun 2026 | Sarah Chen (≤£20k threshold) | +£7,200 (from contingency) | +5 days in integration phase (absorbed) | 14 Jul 2026 |
-| CR-003 | 1 Jul 2026 | GovTech Solutions | Reduce scope: remove parking permit renewal module from Phase 1 due to UNIFORM data incompatibility discovered in integration testing. Defer to Phase 2. | **Approved** | 8 Jul 2026 | James Hartley (Project Board) | -£18,000 (released from GovTech contract) | None — replaced by additional UAT time | Not applicable — deferred |
-| CR-004 | 29 Jul 2026 | Councillor Patricia Dean (via Sponsor) | Request to add a "Report a Pothole" feature to the portal before go-live | **Rejected** | 5 Aug 2026 | James Hartley | N/A | Would delay go-live by 6–8 weeks | N/A |
-| CR-005 | 10 Aug 2026 | Sarah Chen | Extend hypercare support period from 30 days to 45 days due to complexity of council tax module. Additional GovTech support cost. | **Approved** | 14 Aug 2026 | James Hartley | +£3,600 (from contingency) | None | Go-live + 45 days |
+| CR No. | Date submitted | Submitted by | Description | Baselines affected | Cost impact (£) | Schedule impact | Priority | Decision | Decision by | Decision date | Implementation status | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| CR-001 | 22 May 2026 | Sandra Obi | Add Welsh language option to all four service modules | Scope | £0 (this project) | None | Could | Deferred | James Hartley | 4 Jun 2026 | Deferred | Deferred to Phase 2 (Q1 2027) |
+| CR-002 | 12 Jun 2026 | Mark Pearce | Increase UNIFORM API rate limit from 100 to 500 requests/minute to support peak load; requires additional ICT infrastructure work | Cost, Schedule | +£7,200 (from contingency) | +5 days in integration (absorbed) | Must | Approved | Sarah Chen (≤£20k threshold) | 19 Jun 2026 | Implemented | Implemented 14 Jul 2026 |
+| CR-003 | 1 Jul 2026 | Tom Okafor | Remove parking permit renewal module from Phase 1 (UNIFORM data incompatibility found in integration testing); defer to Phase 2 | Scope, Cost | −£18,000 (released from GovTech contract) | None — replaced by additional UAT time | Must | Approved | James Hartley (Project Board) | 8 Jul 2026 | Implemented | Base-scope saving; deferred to Phase 2 |
+| CR-004 | 29 Jul 2026 | Councillor Patricia Dean (via Sponsor) | Add a "Report a Pothole" feature to the portal before go-live | Scope, Schedule | N/A | Would delay go-live by 6–8 weeks | Could | Rejected | James Hartley | 5 Aug 2026 | Rejected | Scope creep; rejected to protect the fixed go-live date |
+| CR-005 | 10 Aug 2026 | Sarah Chen | Extend hypercare support from 30 to 45 days due to council tax module complexity | Cost | +£3,600 (from contingency) | None | Should | Approved | James Hartley | 14 Aug 2026 | Implemented | Hypercare runs to go-live + 45 days |
 
 [↑ Back to top](#table-of-contents)
 
 ---
 
-## Status Definitions
+## Decision Values
+
+| Decision | Meaning |
+|---|---|
+| **Approved** | Change approved as submitted; baselines updated |
+| **Approved with modification** | Change approved with amendments; see notes |
+| **Rejected** | Change not approved; project continues as planned |
+| **Deferred** | Decision postponed or change moved to a future phase |
+| **Withdrawn** | Requestor withdrew the change request |
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## Implementation Status Values
 
 | Status | Meaning |
 |---|---|
-| **Submitted** | Received; under assessment by PM |
-| **Approved** | Approved by appropriate authority; being implemented |
-| **Rejected** | Not approved; requestor notified with rationale |
-| **Deferred** | Approved in principle but moved to a future phase |
-| **Implemented** | Change has been made; baseline updated |
-| **Cancelled** | Requestor withdrew the request |
+| Pending decision | Awaiting Change Control Board / sponsor review |
+| Approved — pending implementation | Decision made; implementation not yet complete |
+| Implemented | Change has been implemented; baselines updated |
+| Rejected | No action required |
+| Deferred | On hold / moved to a future phase |
 
 [↑ Back to top](#table-of-contents)
 
 ---
 
-## Budget Impact Summary (as at 15 August 2026)
+## Cumulative Impact Summary
+
+*Cumulative effect of all approved changes, as at 15 August 2026.*
+
+| Metric | Approved baseline | Total approved changes | Revised baseline |
+|---|---|---|---|
+| **Budget** | £420,000 | net −£7,200 scope (CR-002 +£7,200, CR-003 −£18,000, CR-005 +£3,600) — funded within contingency | £420,000 ceiling unchanged |
+| **End date** | 31 Oct 2026 (closure) | 0 days (go-live +14 days absorbed within float) | 31 Oct 2026 |
+| **Scope items added** | — | CR-002 API rate-limit uplift; CR-005 hypercare extension | — |
+| **Scope items removed** | — | CR-003 parking permit (→ Phase 2); CR-001 Welsh language (→ Phase 2) | — |
+
+### Contingency Tracking (as at 15 August 2026)
 
 | Item | Amount (£) |
 |---|---|

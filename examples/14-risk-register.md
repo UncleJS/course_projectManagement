@@ -18,6 +18,11 @@
 - [Risk Register](#risk-register)
 - [Opportunity Register](#opportunity-register)
 - [Risk Summary](#risk-summary)
+- [Response Strategies](#response-strategies)
+  - [Threats](#threats)
+  - [Opportunities](#opportunities)
+- [Risk Categories](#risk-categories)
+- [Status Values](#status-values)
 - [Escalation Thresholds](#escalation-thresholds)
 
 ---
@@ -78,16 +83,16 @@
 
 | ID | Date raised | Category | Risk description (Cause → Risk → Effect) | Prob | Impact | Score | Level | Response strategy | Response actions | Owner | Residual prob | Residual impact | Residual score | Status | Last reviewed |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| RSK-01 | 3 Feb 2026 | Technical / Technology | UNIFORM (back-office) API may not support all required data queries → Integration takes longer than estimated → Build phase delayed and/or scope reduced | 3 | 4 | **12** | **HIGH** | Mitigate | (1) Early API spike in discovery phase; (2) GovTech to confirm integration approach at Gate 1; (3) Contingency budget allocated for integration complexity. **Partially materialised** — parking permit module deferred via CR-003 (Jul 2026). Remaining three modules confirmed compatible. | Mark Pearce / Tom Okafor | 2 | 2 | **4** | **Closed — Materialised (partial): ISS-03 / CR-003** | 15 Aug 2026 |
+| RSK-01 | 3 Feb 2026 | Technical / Technology | UNIFORM (back-office) API may not support all required data queries → Integration takes longer than estimated → Build phase delayed and/or scope reduced | 3 | 4 | **12** | **HIGH** | Mitigate | (1) Early API spike in discovery phase; (2) GovTech to confirm integration approach at Gate 1; (3) Contingency budget allocated for integration complexity. **Partially materialised** — parking permit module deferred via CR-003 (Jul 2026). Remaining three modules confirmed compatible. | Mark Pearce / Tom Okafor | 2 | 2 | **4** | **Materialised → ISS-03** (partial — parking permit deferred via CR-003) | 15 Aug 2026 |
 | RSK-02 | 3 Feb 2026 | Procurement / Supplier | GovTech Solutions experiences resourcing problems or reprioritises Meridian → Build and test milestones delayed → Go-live date at risk | 2 | 4 | **8** | **Medium** | Mitigate | (1) Contractual milestone payments tied to delivery; (2) PM weekly check-in with GovTech PM; (3) Early warning indicators reviewed at each PB meeting; (4) Escalation clause in contract if milestone missed by >2 weeks. | Sarah Chen | 2 | 3 | **6** | Open | 15 Aug 2026 |
-| RSK-03 | 3 Feb 2026 | Resource / People | Named ICT Developer (internal) not confirmed or redirected to other priorities → Integration configuration delayed → Gate 2 slips | 3 | 3 | **9** | **Medium** | Mitigate | (1) Sponsor to confirm ICT resource commitment at project initiation; (2) Named individual (Tom Okafor) confirmed in writing by ICT Manager. **Materialised as ISS-01 (Feb 2026) — resolved 13 Mar 2026.** | Mark Pearce | 1 | 3 | **3** | **Closed — Materialised: ISS-01** | 15 Aug 2026 |
+| RSK-03 | 3 Feb 2026 | Resource / People | Named ICT Developer (internal) not confirmed or redirected to other priorities → Integration configuration delayed → Gate 2 slips | 3 | 3 | **9** | **Medium** | Mitigate | (1) Sponsor to confirm ICT resource commitment at project initiation; (2) Named individual (Tom Okafor) confirmed in writing by ICT Manager. **Materialised as ISS-01 (Feb 2026) — resolved 13 Mar 2026.** | Mark Pearce | 1 | 3 | **3** | **Materialised → ISS-01** | 15 Aug 2026 |
 | RSK-04 | 3 Feb 2026 | Stakeholder / Political | Key stakeholders (planning officers, revenues staff) resist using portal → Staff adoption below target → Benefits not realised post-launch | 3 | 3 | **9** | **Medium** | Mitigate | (1) Business Change Manager appointed to lead staff engagement; (2) Early involvement of frontline staff in user research; (3) Training programme in plan for Aug–Sep 2026; (4) Benefits target (80% adoption by month 3) formally owned by Senior User. | Diane Hughes (BCM) | 2 | 3 | **6** | Open | 15 Aug 2026 |
 | RSK-05 | 3 Feb 2026 | Stakeholder / Political | Resident adoption below 55% target by end-Oct 2026 → Council tax saving from reduced contact-centre volume does not materialise → Benefits case not met | 3 | 3 | **9** | **Medium** | Mitigate | (1) UX research embedded in discovery phase; (2) Accessibility audit scheduled Sep 2026; (3) Resident marketing and communications campaign planned Aug–Sep 2026; (4) Soft launch with 1,000 invited residents before full go-live. | Diane Hughes (BCM) | 2 | 3 | **6** | Open | 15 Aug 2026 |
-| RSK-06 | 3 Feb 2026 | Regulatory / Legal | DPIA reveals data protection compliance issue with proposed data flows → Portal design requires significant rework → Schedule and cost impact | 2 | 4 | **8** | **Medium** | Mitigate | (1) the Data Protection Officer engaged from project initiation; (2) DPIA completed during discovery phase and signed off 5 May 2026 — no blocking issues found; (3) Data retention and consent design reviewed. | Data Protection Officer | 1 | 2 | **2** | **Closed — Avoided** | 15 Aug 2026 |
+| RSK-06 | 3 Feb 2026 | Regulatory / Legal | DPIA reveals data protection compliance issue with proposed data flows → Portal design requires significant rework → Schedule and cost impact | 2 | 4 | **8** | **Medium** | Mitigate | (1) the Data Protection Officer engaged from project initiation; (2) DPIA completed during discovery phase and signed off 5 May 2026 — no blocking issues found; (3) Data retention and consent design reviewed. | Data Protection Officer | 1 | 2 | **2** | **Closed — Expired** | 15 Aug 2026 |
 | RSK-07 | 3 Feb 2026 | Financial / Commercial | Contingency (£38,000) exhausted by scope changes before build phase completes → Project over-runs budget → Additional funding required or scope reduced | 2 | 4 | **8** | **Medium** | Mitigate | (1) Formal change control for all scope changes; (2) Contingency draw-down requires Sponsor approval above £5,000; (3) EVM reported at each Project Board; (4) Monthly budget report to Sponsor. | Sarah Chen | 1 | 4 | **4** | Open | 15 Aug 2026 |
-| RSK-08 | 4 Apr 2026 | Technical / Technology | Council tax payment gateway (Capita) requires security certification before portal can process live payments → Integration delayed → Module delayed at UAT | 3 | 3 | **9** | **Medium** | Mitigate | Security audit scheduled and completed (14 Jul 2026) — 2 minor findings resolved 21 Jul 2026. Integration certified. | Mark Pearce | 1 | 2 | **2** | **Closed — Avoided** | 15 Aug 2026 |
+| RSK-08 | 4 Apr 2026 | Technical / Technology | Council tax payment gateway (Capita) requires security certification before portal can process live payments → Integration delayed → Module delayed at UAT | 3 | 3 | **9** | **Medium** | Mitigate | Security audit scheduled and completed (14 Jul 2026) — 2 minor findings resolved 21 Jul 2026. Integration certified. | Mark Pearce | 1 | 2 | **2** | **Materialised → ISS-04** | 15 Aug 2026 |
 | RSK-09 | 11 May 2026 | Schedule / Time | Extended UAT defect cycle (high defect count at entry) → UAT window extends beyond planned dates → Go-live delayed | 2 | 4 | **8** | **Medium** | Mitigate | (1) GovTech contractually responsible for defect-free UAT entry (defined entry criteria); (2) Internal test phase (SIT) strengthened; (3) Contingency in schedule — 2-week float between UAT end and go-live. | GovTech Project Lead | 2 | 3 | **6** | Open | 15 Aug 2026 |
-| RSK-10 | 3 Feb 2026 | External / Environmental | Key sponsor (James Hartley) leaves or is redeployed before project closes → Sponsor decisions delayed; political support reduced → Project stalls | 1 | 5 | **5** | **Medium** | Accept (active) | (1) Documented governance structure ensures project can continue with acting sponsor; (2) Business case and all decisions documented to enable handover; (3) Noted in project risk profile for Sponsor's awareness. | Sarah Chen | 1 | 4 | **4** | Open | 15 Aug 2026 |
+| RSK-10 | 3 Feb 2026 | External / Environmental | Key sponsor (James Hartley) leaves or is redeployed before project closes → Sponsor decisions delayed; political support reduced → Project stalls | 1 | 5 | **5** | **Medium** | Accept (active) | (1) Documented governance structure ensures project can continue with acting sponsor; (2) Business case and all decisions documented to enable handover; (3) Noted in project risk profile for Sponsor's awareness. | Sarah Chen | 1 | 5 | **5** | Open | 15 Aug 2026 |
 
 [↑ Back to top](#table-of-contents)
 
@@ -114,6 +119,64 @@
 | **Opportunity** | 2 | 2 | 0 |
 
 > **Note on RSK-01**: The UNIFORM integration risk partially materialised — parking permits could not be integrated as specified (ISS-03). The risk was addressed via Change Request CR-003 (parking permit module deferred to Phase 2), approved by Project Board 8 July 2026. The remaining three modules were confirmed as technically compatible. The risk is closed.
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## Response Strategies
+
+### Threats
+
+| Strategy | Description |
+|---|---|
+| **Avoid** | Eliminate the cause; change the plan to remove the risk entirely |
+| **Transfer** | Shift the financial or operational impact to a third party (insurance, contract) |
+| **Mitigate** | Take action to reduce probability and/or impact to an acceptable level |
+| **Accept** | Acknowledge the risk; no proactive action (passive) or set aside contingency (active) |
+| **Escalate** | The risk is beyond the project's authority to manage; escalate to programme or sponsor |
+
+### Opportunities
+
+| Strategy | Description |
+|---|---|
+| **Exploit** | Ensure the opportunity definitely occurs |
+| **Enhance** | Increase the probability or impact of the opportunity |
+| **Share** | Partner with a third party best placed to realise the opportunity |
+| **Accept** | Take the benefit if it arises; no proactive action |
+| **Escalate** | The opportunity is beyond the project scope; escalate for strategic consideration |
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## Risk Categories
+
+The following categories are used to classify risks on this project:
+
+- Strategic / Business
+- Technical / Technology
+- Resource / People
+- Schedule / Time
+- Financial / Commercial
+- Stakeholder / Political
+- External / Environmental
+- Regulatory / Legal
+- Procurement / Supplier
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## Status Values
+
+| Status | Meaning |
+|---|---|
+| Open | Active risk being managed |
+| Closed — Avoided | Risk cause was eliminated |
+| Closed — Transferred | Risk transferred to third party |
+| Closed — Expired | Risk window has passed without occurring |
+| Materialised → Issue | Risk has occurred; now recorded in the Issue Log (e.g. Materialised → ISS-03) |
 
 [↑ Back to top](#table-of-contents)
 
