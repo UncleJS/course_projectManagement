@@ -41,7 +41,7 @@
 | **Financial — cashable** | Savings that can be removed from budget or headcount |
 | **Financial — non-cashable** | Efficiency gains not directly removed from budget (e.g., time released) |
 | **Non-financial — quantifiable** | Measurable but not in £ (e.g., processing time, error rate, satisfaction score) |
-| **Non-financial — qualitative** | Measurable only by assessment or judgment (e.g., improved public trust, staff morale) |
+| **Non-financial — qualitative** | Measurable only by assessment or judgement (e.g., improved public trust, staff morale) |
 
 ---
 

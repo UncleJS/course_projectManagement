@@ -35,11 +35,11 @@
   - [SAFe (Scaled Agile Framework)](#safe-scaled-agile-framework)
   - [LeSS (Large-Scale Scrum)](#less-large-scale-scrum)
   - [Practical Scaling Principles](#practical-scaling-principles)
-- [Artifacts](#artifacts)
+- [Artefacts](#artefacts)
 - [Exercises](#exercises)
-  - [Exercise 1 — Integration Failure Analysis](#exercise-1-integration-failure-analysis)
-  - [Exercise 2 — Lifecycle Selection](#exercise-2-lifecycle-selection)
-  - [Exercise 3 — Hybrid Governance Design](#exercise-3-hybrid-governance-design)
+  - [Exercise 1 — Integration Failure Analysis](#exercise-1--integration-failure-analysis)
+  - [Exercise 2 — Lifecycle Selection](#exercise-2--lifecycle-selection)
+  - [Exercise 3 — Hybrid Governance Design](#exercise-3--hybrid-governance-design)
 - [Quiz](#quiz)
 - [Related Modules](#related-modules)
 
@@ -323,9 +323,9 @@ Regardless of framework, successful scaling requires:
 
 ---
 
-## Artifacts
+## Artefacts
 
-| Artifact | Description | Template |
+| Artefact | Description | Template |
 |---|---|---|
 | Project Management Plan (integrated) | Consolidated plan linking all subsidiary plans and baselines | — |
 | Change Log | All changes across the project lifecycle | [change-log.md](../templates/change-log.md) |

@@ -94,7 +94,7 @@ The following principles govern all communications on the Meridian project:
 | Budget overrun forecast >5% | Sarah Chen (PM) | James Hartley + Finance Director | 24 hours | Exception report + phone |
 | Schedule slip threatening a milestone | Sarah Chen (PM) | James Hartley (Sponsor) | 24 hours | Exception report |
 | GovTech performance failure | Sarah Chen (PM) | James Hartley + Mark Pearce | 24 hours | Written notice + report |
-| Data protection / GDPR concern | Sarah Chen (PM) | Claire Worthington (DPO) + James Hartley | Same day | Phone + email |
+| Data protection / GDPR concern | Sarah Chen (PM) | Data Protection Officer + James Hartley | Same day | Phone + email |
 | Stakeholder complaint escalated to Sponsor | Sarah Chen (PM) | James Hartley | 24 hours | Email summary + phone |
 | Critical system incident post-go-live | Tom Okafor → Mark Pearce → Sarah Chen | GovTech support + Mark Pearce | Immediately (P1: within 1 hour) | Phone + GovTech incident ticket |
 
@@ -110,7 +110,7 @@ The following principles govern all communications on the Meridian project:
 | Sandra Obi (Senior User) | Email + monthly call; in-person for gate reviews | Staff confidence in the portal; resident accessibility | Technically literate; wants detail on user experience |
 | Mark Pearce (ICT Manager) | Email + technical meetings | Integration risks; Tom Okafor's workload; supplier performance | Pragmatic; will escalate to Sponsor if integration issues are not resolved quickly |
 | Councillor Dean | Briefing notes (political format); no jargon | Resident satisfaction; cost; reputational risk | Does not want to be the last to know about problems |
-| Claire Worthington (DPO) | Email; formal sign-offs | Data protection compliance; legal risk | Engaged at initiation; involved at key milestone points; will not sign off under time pressure |
+| Data Protection Officer | Email; formal sign-offs | Data protection compliance; legal risk | Engaged at initiation; involved at key milestone points; will not sign off under time pressure |
 | GovTech PM | Fortnightly call + email | Contractual milestone payments; scope creep | Good working relationship; direct and professional communicator |
 
 [↑ Back to top](#table-of-contents)

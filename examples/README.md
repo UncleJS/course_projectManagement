@@ -38,7 +38,7 @@ The **Meridian Portal** project will deliver a citizen-facing self-service web p
 |---|---|---|
 | Reduced contact-centre handling | % of eligible enquiries deflected to self-service | 55% deflection rate by Month 6 post go-live |
 | Staff time saving | FTE hours saved per year | 1.8 FTE equivalent per annum |
-| Cost saving | £ per annum operational saving | £170,000 by Year 2 post go-live |
+| Cost saving | £ per annum operational saving | £123,820 net by Year 2 post go-live |
 | Citizen satisfaction | NPS score | +20 points vs baseline (current NPS: 34) |
 
 ### Key Stakeholders

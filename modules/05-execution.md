@@ -32,7 +32,7 @@
   - [The issue management process](#the-issue-management-process)
   - [Issue escalation](#issue-escalation)
 - [6. Managing Change During Execution](#6-managing-change-during-execution)
-  - [Change is normal — uncontrolled change is the problem](#change-is-normal-uncontrolled-change-is-the-problem)
+  - [Change is normal — uncontrolled change is the problem](#change-is-normal--uncontrolled-change-is-the-problem)
   - [The change control process](#the-change-control-process)
   - [Change Request Form](#change-request-form)
   - [Protecting the baseline](#protecting-the-baseline)
@@ -51,11 +51,11 @@
   - [Why meetings matter](#why-meetings-matter)
   - [Types of project meetings](#types-of-project-meetings)
   - [Meeting discipline basics](#meeting-discipline-basics)
-- [Artifacts](#artifacts)
+- [Artefacts](#artefacts)
 - [Exercises](#exercises)
-  - [Exercise 5.1 — Issue resolution simulation](#exercise-51-issue-resolution-simulation)
-  - [Exercise 5.2 — Evaluate a change request](#exercise-52-evaluate-a-change-request)
-  - [Exercise 5.3 — Conflict scenario](#exercise-53-conflict-scenario)
+  - [Exercise 5.1 — Issue resolution simulation](#exercise-51--issue-resolution-simulation)
+  - [Exercise 5.2 — Evaluate a change request](#exercise-52--evaluate-a-change-request)
+  - [Exercise 5.3 — Conflict scenario](#exercise-53--conflict-scenario)
 - [Quiz](#quiz)
 - [Related Modules](#related-modules)
 
@@ -133,7 +133,7 @@ A widely useful model for team development:
 | **Performing** | Team is cohesive and productive | Delegate; remove obstacles; focus on outcomes |
 | **Adjourning** | Project ends; team disbands | Celebrate achievement; manage transition |
 
-The PM cannot skip stages — but they can navigate them more or less skillfully.
+The PM cannot skip stages — but they can navigate them more or less skilfully.
 
 ```mermaid
 timeline
@@ -434,9 +434,9 @@ Projects run on communication, and much of that communication happens in meeting
 
 ---
 
-## Artifacts
+## Artefacts
 
-| Artifact | Description | Template |
+| Artefact | Description | Template |
 |---|---|---|
 | **Work Authorisation Document** | Formally authorises work to begin on a package | — |
 | **Issue Log** | Tracks active and resolved issues | [issue-log.md](../templates/issue-log.md) |

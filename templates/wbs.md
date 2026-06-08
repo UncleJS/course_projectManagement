@@ -12,7 +12,7 @@
 
 - [Document Control](#document-control)
 - [WBS Numbering Convention](#wbs-numbering-convention)
-- [WBS — Hierarchical View](#wbs-hierarchical-view)
+- [WBS — Hierarchical View](#wbs--hierarchical-view)
 - [WBS Dictionary (Work Package Descriptions)](#wbs-dictionary-work-package-descriptions)
 - [WBS Construction Guidance](#wbs-construction-guidance)
   - [100% Rule](#100-rule)

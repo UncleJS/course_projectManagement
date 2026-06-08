@@ -342,7 +342,7 @@ Provide learners with a project case study (a real project failure or success) a
 
 ### Option C: Quiz-Based Assessment
 
-Each module contains 6–10 quiz questions. A cumulative quiz at course end can cover:
+Each module contains 5–10 quiz questions. A cumulative quiz at course end can cover:
 - 40% recall questions (definitions, formulas)
 - 40% application questions (scenario-based)
 - 20% reflection questions (open-ended professional judgement)

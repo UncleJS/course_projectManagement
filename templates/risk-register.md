@@ -14,7 +14,7 @@
 - [Probability and Impact Scales](#probability-and-impact-scales)
   - [Probability](#probability)
   - [Impact (threats)](#impact-threats)
-  - [Risk Score = Probability × Impact](#risk-score-probability-impact)
+  - [Risk Score = Probability × Impact](#risk-score--probability--impact)
 - [Risk Register](#risk-register)
 - [Response Strategies](#response-strategies)
   - [Threats](#threats)

@@ -41,11 +41,11 @@
   - [The PM as Integrator](#the-pm-as-integrator)
   - [A Framework for Reflective Practice](#a-framework-for-reflective-practice)
   - [A Final Word on Ethics](#a-final-word-on-ethics)
-- [Artifacts](#artifacts)
+- [Artefacts](#artefacts)
 - [Exercises](#exercises)
-  - [Exercise 1 — Failure Mode Analysis](#exercise-1-failure-mode-analysis)
-  - [Exercise 2 — Competency Self-Assessment](#exercise-2-competency-self-assessment)
-  - [Exercise 3 — Reflective Professional Portfolio](#exercise-3-reflective-professional-portfolio)
+  - [Exercise 1 — Failure Mode Analysis](#exercise-1--failure-mode-analysis)
+  - [Exercise 2 — Competency Self-Assessment](#exercise-2--competency-self-assessment)
+  - [Exercise 3 — Reflective Professional Portfolio](#exercise-3--reflective-professional-portfolio)
 - [Quiz](#quiz)
 - [Related Modules](#related-modules)
 
@@ -183,7 +183,7 @@ Most professional bodies require members to record and evidence CPD activities (
 | Certification | Body | Focus |
 |---|---|---|
 | CAPM | PMI | Entry-level; knowledge-based |
-| PMP | PMI | Experienced practitioners; application and judgment |
+| PMP | PMI | Experienced practitioners; application and judgement |
 | PRINCE2 Foundation / Practitioner | Axelos / PeopleCert | PRINCE2 method |
 | APM PMQ / PPQ | APM | UK/European standards-based |
 | IPMA Level D–A | IPMA | Competence-based; portfolio of evidence |
@@ -357,9 +357,9 @@ When in doubt, ask: *Would I be comfortable if my sponsor, my client, and my pro
 
 ---
 
-## Artifacts
+## Artefacts
 
-| Artifact | Description | Template |
+| Artefact | Description | Template |
 |---|---|---|
 | Benefits Register | Tracked benefits, owners, measurement approach, and realisation dates | [benefits-register.md](../templates/benefits-register.md) |
 | Lessons Learned Log | Accumulated lessons from all phases | [lessons-learned-log.md](../templates/lessons-learned-log.md) |

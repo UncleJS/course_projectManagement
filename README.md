@@ -23,7 +23,7 @@
   - [Tier 3: Knowledge Domains](#tier-3-knowledge-domains)
   - [Tier 4: Capstone](#tier-4-capstone)
 - [Worked Examples](#worked-examples)
-- [Artifact Templates](#artifact-templates)
+- [Artefact Templates](#artefact-templates)
 - [Instructor and Navigation Resources](#instructor-and-navigation-resources)
 - [Glossary](#glossary)
 - [License](#license)
@@ -166,7 +166,7 @@ See [`examples/README.md`](examples/README.md) for the full scenario overview an
 
 ---
 
-## Artifact Templates
+## Artefact Templates
 
 Ready-to-use blank templates for every major project management artefact. Referenced throughout the modules.
 

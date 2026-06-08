@@ -36,7 +36,7 @@
 - [7. Digital and Information Management](#7-digital-and-information-management)
   - [The project information environment](#the-project-information-environment)
   - [Information management principles](#information-management-principles)
-  - [Project portal / collaboration platform](#project-portal-collaboration-platform)
+  - [Project portal / collaboration platform](#project-portal--collaboration-platform)
   - [Data governance on projects](#data-governance-on-projects)
 - [8. Virtual and Distributed Teams](#8-virtual-and-distributed-teams)
   - [The communications challenge in virtual teams](#the-communications-challenge-in-virtual-teams)
@@ -50,11 +50,11 @@
   - [What is an escalation protocol?](#what-is-an-escalation-protocol)
   - [Escalation levels](#escalation-levels)
   - [Escalation culture](#escalation-culture)
-- [Artifacts](#artifacts)
+- [Artefacts](#artefacts)
 - [Exercises](#exercises)
-  - [Exercise 10.1 — Build a Communication Matrix](#exercise-101-build-a-communication-matrix)
-  - [Exercise 10.2 — Write a Highlight Report](#exercise-102-write-a-highlight-report)
-  - [Exercise 10.3 — Meeting audit](#exercise-103-meeting-audit)
+  - [Exercise 10.1 — Build a Communication Matrix](#exercise-101--build-a-communication-matrix)
+  - [Exercise 10.2 — Write a Highlight Report](#exercise-102--write-a-highlight-report)
+  - [Exercise 10.3 — Meeting audit](#exercise-103--meeting-audit)
 - [Quiz](#quiz)
 - [Related Modules](#related-modules)
 
@@ -426,9 +426,9 @@ Many teams resist escalation because it feels like failure. Effective PMs establ
 
 ---
 
-## Artifacts
+## Artefacts
 
-| Artifact | Description | Template |
+| Artefact | Description | Template |
 |---|---|---|
 | **Communications Management Plan** | Who gets what information, when, how, and from whom | [communications-plan.md](../templates/communications-plan.md) |
 | **Communication Matrix** | Audience × message × frequency × channel × owner | — |
@@ -460,7 +460,7 @@ Produce a Communication Matrix that covers:
 
 ### Exercise 10.2 — Write a Highlight Report
 
-Using the data from the EVM exercise in Module 06 (project at month 4, SPI 0.83, CPI 0.89, EAC £112,360), write a Highlight Report for the project sponsor. The project is a system integration project for a healthcare provider.
+Using the data from the EVM exercise in Module 06 (project at month 4, SPI 0.80, CPI 0.89, EAC £112,360), write a Highlight Report for the project sponsor. The project is a system integration project for a healthcare provider.
 
 Include all standard sections: period covered, RAG status, progress, plan, risks, issues, decisions required.
 

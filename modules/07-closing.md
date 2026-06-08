@@ -47,11 +47,11 @@
 - [9. Post-Implementation Review](#9-post-implementation-review)
   - [What is a PIR?](#what-is-a-pir)
   - [Why PIRs are valuable](#why-pirs-are-valuable)
-- [Artifacts](#artifacts)
+- [Artefacts](#artefacts)
 - [Exercises](#exercises)
-  - [Exercise 7.1 — Lessons learned workshop simulation](#exercise-71-lessons-learned-workshop-simulation)
-  - [Exercise 7.2 — Write a closure report](#exercise-72-write-a-closure-report)
-  - [Exercise 7.3 — Premature closure scenario](#exercise-73-premature-closure-scenario)
+  - [Exercise 7.1 — Lessons learned workshop simulation](#exercise-71--lessons-learned-workshop-simulation)
+  - [Exercise 7.2 — Write a closure report](#exercise-72--write-a-closure-report)
+  - [Exercise 7.3 — Premature closure scenario](#exercise-73--premature-closure-scenario)
 - [Quiz](#quiz)
 - [Related Modules](#related-modules)
 
@@ -385,9 +385,9 @@ timeline
 
 ---
 
-## Artifacts
+## Artefacts
 
-| Artifact | Description | Template |
+| Artefact | Description | Template |
 |---|---|---|
 | **Customer Acceptance Form** | Written sign-off by customer/sponsor on delivered scope | — |
 | **Project Handover Document** | Transitions deliverables to operations | [project-handover.md](../templates/project-handover.md) |

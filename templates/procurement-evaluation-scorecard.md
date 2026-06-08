@@ -12,11 +12,11 @@
 
 - [Document Control](#document-control)
 - [Scoring Scale](#scoring-scale)
-- [Section 1 — Quality / Technical Evaluation](#section-1-quality-technical-evaluation)
-- [Section 2 — Commercial Evaluation](#section-2-commercial-evaluation)
-- [Section 3 — Combined Evaluation](#section-3-combined-evaluation)
-- [Section 4 — Moderation Record](#section-4-moderation-record)
-- [Section 5 — Selection Decision](#section-5-selection-decision)
+- [Section 1 — Quality / Technical Evaluation](#section-1--quality--technical-evaluation)
+- [Section 2 — Commercial Evaluation](#section-2--commercial-evaluation)
+- [Section 3 — Combined Evaluation](#section-3--combined-evaluation)
+- [Section 4 — Moderation Record](#section-4--moderation-record)
+- [Section 5 — Selection Decision](#section-5--selection-decision)
 - [Authorisation](#authorisation)
 
 ---

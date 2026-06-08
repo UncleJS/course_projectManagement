@@ -39,11 +39,11 @@
   - [Core ethical principles](#core-ethical-principles)
   - [Common ethical challenges in PM](#common-ethical-challenges-in-pm)
   - [Professional codes](#professional-codes)
-- [Artifacts](#artifacts)
+- [Artefacts](#artefacts)
 - [Exercises](#exercises)
-  - [Exercise 1.1 — Is it a project?](#exercise-11-is-it-a-project)
-  - [Exercise 1.2 — Mapping the environment](#exercise-12-mapping-the-environment)
-  - [Exercise 1.3 — Value chain mapping](#exercise-13-value-chain-mapping)
+  - [Exercise 1.1 — Is it a project?](#exercise-11--is-it-a-project)
+  - [Exercise 1.2 — Mapping the environment](#exercise-12--mapping-the-environment)
+  - [Exercise 1.3 — Value chain mapping](#exercise-13--value-chain-mapping)
 - [Quiz](#quiz)
 - [Related Modules](#related-modules)
 
@@ -308,11 +308,11 @@ Most professional PM bodies (PMI, APM, IPMA) maintain a professional code of con
 
 ---
 
-## Artifacts
+## Artefacts
 
 This module is conceptual. No project artefacts are produced at this stage. However, the following documents become relevant in the next module and should be understood in context:
 
-| Artifact | First Introduced In |
+| Artefact | First Introduced In |
 |---|---|
 | Business Case | [Module 03 — Initiation](03-initiation.md) |
 | Project Charter | [Module 03 — Initiation](03-initiation.md) |

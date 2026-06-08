@@ -1,7 +1,7 @@
-# Module 13 — Procurement Management
+# Module 13 — Procurement and Contract Management
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
-![Module](https://img.shields.io/badge/Module-13%20Procurement%20Management-blue)
+![Module](https://img.shields.io/badge/Module-13%20Procurement%20and%20Contract%20Management-blue)
 ![Level](https://img.shields.io/badge/Level-Mixed%2FGeneral-green)
 ![Author](https://img.shields.io/badge/Author-UncleJs-orange)
 
@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-- [Module 13 — Procurement Management](#module-13--procurement-management)
+- [Module 13 — Procurement and Contract Management](#module-13--procurement-and-contract-management)
   - [Table of Contents](#table-of-contents)
   - [1. Why Procurement Matters in Projects](#1-why-procurement-matters-in-projects)
     - [The Buyer–Seller Relationship](#the-buyerseller-relationship)
@@ -61,7 +61,7 @@
     - [Ethical Obligations](#ethical-obligations)
     - [Public Sector Obligations](#public-sector-obligations)
     - [Sustainability in Procurement](#sustainability-in-procurement)
-  - [Artifacts](#artifacts)
+  - [Artefacts](#artefacts)
   - [Exercises](#exercises)
     - [Exercise 1 — Make-or-Buy Analysis](#exercise-1--make-or-buy-analysis)
     - [Exercise 2 — Contract Type Selection](#exercise-2--contract-type-selection)
@@ -565,9 +565,9 @@ These criteria must be built into the specification and evaluation — not added
 
 ---
 
-## Artifacts
+## Artefacts
 
-| Artifact | Description | Template |
+| Artefact | Description | Template |
 |---|---|---|
 | Procurement Management Plan | Strategy, schedule, roles, governance for all procurement activity | — |
 | Statement of Work (SoW) | Detailed scope, deliverables, and acceptance criteria for each contract | — |

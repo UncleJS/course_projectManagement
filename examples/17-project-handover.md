@@ -38,7 +38,7 @@
 | **Version** | 1.0 |
 | **Date** | 14 October 2026 |
 | **Prepared by** | Sarah Chen, Project Manager |
-| **Accepted by** | Sandra Obi, Service Director (Operational) / Mark Pearce, ICT Manager (Technical) |
+| **Accepted by** | Sandra Obi, Head of Customer Services (Operational) / Mark Pearce, ICT Manager (Technical) |
 
 [↑ Back to top](#table-of-contents)
 
@@ -75,13 +75,13 @@ The Meridian Citizen Self-Service Portal went live on **15 October 2026**. It pr
 
 | Responsibility | Role | Name |
 |---|---|---|
-| **Overall service owner** | Service Director, Customer and Digital Services | Sandra Obi |
+| **Overall service owner** | Head of Customer Services | Sandra Obi |
 | **Technical platform owner** | ICT Manager | Mark Pearce |
 | **Day-to-day technical administration** | ICT Developer | Tom Okafor |
-| **Benefits realisation monitoring** | Service Director | Sandra Obi |
-| **Resident communications (ongoing)** | Digital Communications Manager | Diane Hughes |
+| **Benefits realisation monitoring** | Head of Customer Services | Sandra Obi |
+| **Resident communications (ongoing)** | Business Change Manager | Diane Hughes |
 | **GovTech relationship management** | ICT Manager | Mark Pearce |
-| **Data protection and privacy** | Data Protection Officer | Claire Worthington |
+| **Data protection and privacy** | Data Protection Officer | Information Governance team |
 
 ### 2.2 Support Structure
 
@@ -99,7 +99,7 @@ The Meridian Citizen Self-Service Portal went live on **15 October 2026**. It pr
 | Incident response procedure | NDA SharePoint: Meridian/Operations | Tom Okafor |
 | Platform administration guide (user management, content updates) | NDA SharePoint: Meridian/Operations | Tom Okafor |
 | Capita payment gateway monthly reconciliation | Finance team procedure — updated to include portal | Mark Pearce |
-| Resident data retention and deletion schedule | NDA SharePoint: Meridian/Data Protection | Claire Worthington |
+| Resident data retention and deletion schedule | NDA SharePoint: Meridian/Data Protection | Data Protection Officer |
 | Monthly performance dashboard (adoption, call volumes) | SharePoint / Power BI — automated | Sandra Obi |
 
 [↑ Back to top](#table-of-contents)
@@ -209,7 +209,7 @@ The GovTech portal platform is fully capable of adding the parking permit module
 | Role | Name | Signed | Date |
 |---|---|---|---|
 | **Handing over** — Project Manager | Sarah Chen | *(signed)* | 14 Oct 2026 |
-| **Accepting** — Service Director (Operational) | Sandra Obi | *(signed)* | 14 Oct 2026 |
+| **Accepting** — Head of Customer Services (Operational) | Sandra Obi | *(signed)* | 14 Oct 2026 |
 | **Accepting** — ICT Manager (Technical) | Mark Pearce | *(signed)* | 14 Oct 2026 |
 
 [↑ Back to top](#table-of-contents)

@@ -73,8 +73,8 @@ All attendees introduced themselves. Sarah Chen (PM) confirmed she had been in p
 ## Agenda Item 2 — Why This Project Matters
 
 James Hartley presented the strategic context and business case headline:
-- Current contact-centre volume: 14,200 transactional enquiries per year at £22/contact = £310,000 per year.
-- Target: 55% digital deflection within 6 months of go-live; £170,000 annual saving by Year 2.
+- Current contact-centre cost: approximately £310,000 per year, handling ~14,200 transactional enquiries at ~£22/contact.
+- Target: 55% digital deflection within 6 months of go-live; £123,820 net annual saving by Year 2.
 - Council Plan commitment: 60% digital transactions by 2028.
 
 *Councillor Dean noted she had briefed the Cabinet Member for Finance and received positive support.*

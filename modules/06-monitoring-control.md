@@ -49,11 +49,11 @@
   - [What is configuration management?](#what-is-configuration-management)
   - [Configuration items](#configuration-items)
   - [Configuration status accounting](#configuration-status-accounting)
-- [Artifacts](#artifacts)
+- [Artefacts](#artefacts)
 - [Exercises](#exercises)
-  - [Exercise 6.1 — EVM calculations](#exercise-61-evm-calculations)
-  - [Exercise 6.2 — Produce a status report](#exercise-62-produce-a-status-report)
-  - [Exercise 6.3 — Scope creep audit](#exercise-63-scope-creep-audit)
+  - [Exercise 6.1 — EVM calculations](#exercise-61--evm-calculations)
+  - [Exercise 6.2 — Produce a status report](#exercise-62--produce-a-status-report)
+  - [Exercise 6.3 — Scope creep audit](#exercise-63--scope-creep-audit)
 - [Quiz](#quiz)
 - [Related Modules](#related-modules)
 
@@ -298,9 +298,9 @@ quadrantChart
     x-axis Low SPI --> High SPI
     y-axis Low CPI --> High CPI
     quadrant-1 On Time & Under Budget
-    quadrant-2 Ahead & Over Budget
+    quadrant-2 Behind & Under Budget
     quadrant-3 Behind & Over Budget
-    quadrant-4 Behind & Under Budget
+    quadrant-4 Ahead & Over Budget
     Ideal Target: [0.75, 0.75]
     Our Project: [0.35, 0.30]
     Watch Zone: [0.55, 0.65]
@@ -419,9 +419,9 @@ A **configuration status account** (or document register) shows:
 
 ---
 
-## Artifacts
+## Artefacts
 
-| Artifact | Description | Template |
+| Artefact | Description | Template |
 |---|---|---|
 | **EVM Report** | Schedule and cost performance metrics | — |
 | **Status / Progress Report** | Summary of project health for stakeholders | [status-report.md](../templates/status-report.md) |

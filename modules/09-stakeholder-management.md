@@ -37,11 +37,11 @@
 - [8. Ethics and Transparency in Stakeholder Management](#8-ethics-and-transparency-in-stakeholder-management)
   - [The boundaries of engagement](#the-boundaries-of-engagement)
   - [Conflict of interest](#conflict-of-interest)
-- [Artifacts](#artifacts)
+- [Artefacts](#artefacts)
 - [Exercises](#exercises)
-  - [Exercise 9.1 — Stakeholder identification](#exercise-91-stakeholder-identification)
-  - [Exercise 9.2 — Power/Interest grid mapping](#exercise-92-powerinterest-grid-mapping)
-  - [Exercise 9.3 — Resistant stakeholder scenario](#exercise-93-resistant-stakeholder-scenario)
+  - [Exercise 9.1 — Stakeholder identification](#exercise-91--stakeholder-identification)
+  - [Exercise 9.2 — Power/Interest grid mapping](#exercise-92--powerinterest-grid-mapping)
+  - [Exercise 9.3 — Resistant stakeholder scenario](#exercise-93--resistant-stakeholder-scenario)
 - [Quiz](#quiz)
 - [Related Modules](#related-modules)
 
@@ -331,9 +331,9 @@ Disclose conflicts of interest to the sponsor. Where necessary, recuse yourself 
 
 ---
 
-## Artifacts
+## Artefacts
 
-| Artifact | Description | Template |
+| Artefact | Description | Template |
 |---|---|---|
 | **Stakeholder Register** | Full catalogue of stakeholders with analysis data | [stakeholder-register.md](../templates/stakeholder-register.md) |
 | **Power/Interest Grid** | Visual analysis of stakeholder influence and interest | — |

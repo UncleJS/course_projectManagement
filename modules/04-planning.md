@@ -46,11 +46,11 @@
   - [Why baselines matter](#why-baselines-matter)
   - [Approving the baseline](#approving-the-baseline)
   - [Baseline integrity](#baseline-integrity)
-- [Artifacts](#artifacts)
+- [Artefacts](#artefacts)
 - [Exercises](#exercises)
-  - [Exercise 4.1 — Build a WBS](#exercise-41-build-a-wbs)
-  - [Exercise 4.2 — Schedule a small project](#exercise-42-schedule-a-small-project)
-  - [Exercise 4.3 — Build a budget](#exercise-43-build-a-budget)
+  - [Exercise 4.1 — Build a WBS](#exercise-41--build-a-wbs)
+  - [Exercise 4.2 — Schedule a small project](#exercise-42--schedule-a-small-project)
+  - [Exercise 4.3 — Build a budget](#exercise-43--build-a-budget)
 - [Quiz](#quiz)
 - [Related Modules](#related-modules)
 
@@ -342,7 +342,7 @@ For each work package, identify:
 
 ### RACI Matrix
 
-The RACI (Responsibility Assignment Matrix) assigns accountability across the team for each deliverable or major activity:
+The RACI matrix — a specific form of Responsibility Assignment Matrix (RAM) — assigns accountability across the team for each deliverable or major activity. RACI stands for **Responsible, Accountable, Consulted, Informed**:
 
 | | PM | Developer | Business Analyst | Sponsor |
 |---|---|---|---|---|
@@ -433,9 +433,9 @@ Once set, baselines must be **protected**. The most common project management fa
 
 ---
 
-## Artifacts
+## Artefacts
 
-| Artifact | Description | Template |
+| Artefact | Description | Template |
 |---|---|---|
 | **Requirements Documentation** | Gathered, documented, and agreed requirements | — |
 | **Scope Statement** | Defines in-scope, out-of-scope, and acceptance criteria | — |

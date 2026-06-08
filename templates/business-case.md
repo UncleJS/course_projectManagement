@@ -20,7 +20,7 @@
 - [7. Costs](#7-costs)
   - [Capital Costs (one-off)](#capital-costs-one-off)
   - [Operating Costs (ongoing)](#operating-costs-ongoing)
-  - [Optimism Bias / Contingency](#optimism-bias-contingency)
+  - [Optimism Bias / Contingency](#optimism-bias--contingency)
 - [8. Return on Investment](#8-return-on-investment)
 - [9. Risks](#9-risks)
 - [10. Timescale](#10-timescale)

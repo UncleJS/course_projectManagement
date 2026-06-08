@@ -51,7 +51,7 @@ Northgate District Council ran an open procurement for a citizen self-service po
 |---|---|
 | Procurement Lead / Evaluation Chair | Helen Marsh, Procurement Manager |
 | Technical Evaluator | Tom Okafor, ICT Developer |
-| Service / User Representative | Sandra Obi, Service Director |
+| Service / User Representative | Sandra Obi, Head of Customer Services |
 | Finance / Commercial | David Kim, Head of Finance |
 
 Quality and commercial evaluations were conducted independently (quality first; commercial scores calculated separately and combined only at the moderation stage) in compliance with the Public Contracts Regulations 2015 and the Council's Procurement Standing Orders.
@@ -249,9 +249,9 @@ Formula: `Commercial score = (Lowest price ÷ Bidder price) × 100`
 |---|---|---|---|
 | Procurement Lead | Helen Marsh, Procurement Manager | *(signed)* | 19 Dec 2025 |
 | Technical Evaluator | Tom Okafor, ICT Developer | *(signed)* | 19 Dec 2025 |
-| Service / User Representative | Sandra Obi, Service Director | *(signed)* | 19 Dec 2025 |
+| Service / User Representative | Sandra Obi, Head of Customer Services | *(signed)* | 19 Dec 2025 |
 | Finance / Commercial | David Kim, Head of Finance | *(signed)* | 19 Dec 2025 |
-| Approving Officer | James Hartley, Deputy Chief Executive | *(signed)* | 22 Dec 2025 |
+| Approving Officer | James Hartley, Director of Digital Services | *(signed)* | 22 Dec 2025 |
 
 [↑ Back to top](#table-of-contents)
 

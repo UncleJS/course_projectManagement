@@ -37,7 +37,7 @@
 | Field | Value |
 |---|---|
 | **Project Title** | Meridian — Citizen Self-Service Portal |
-| **Project Reference** | NDA-2026-003 |
+| **Project Reference** | NGL-2026-DIG-01 |
 | **Version** | 1.0 (Final) |
 | **Date** | 31 October 2026 |
 | **Prepared by** | Sarah Chen, Project Manager |
@@ -49,15 +49,15 @@
 
 ## 1. Executive Summary
 
-The Meridian Citizen Self-Service Portal was delivered on time and within budget. The portal went live on 15 October 2026, enabling Northgate District Council residents to track planning applications, report missed waste collections, check council tax accounts, and renew garden waste subscriptions online — without visiting or calling the Council.
+The Meridian Citizen Self-Service Portal was delivered within budget and closed on its baseline date. The portal went live on 15 October 2026 — two weeks later than the original 1 October target, but within the overall schedule to formal closure — enabling Northgate District Council residents to track planning applications, report missed waste collections, check council tax accounts, and renew garden waste subscriptions online without visiting or calling the Council.
 
-**Budget**: £420,000 approved; £411,400 actual spend (£8,600 underspend, 2.0%).
-**Schedule**: Original planned go-live 15 October 2026; actual go-live 15 October 2026 — on time.
-**Scope**: Four service modules delivered (planning, waste, council tax, garden waste). Parking permit module formally deferred to Phase 2 (CR-003, approved July 2026) after a UNIFORM API limitation was identified during discovery.
+**Budget**: £420,000 approved; £374,800 actual spend (£45,200 underspend, 10.8%) — driven by the CR-003 parking-permit scope reduction (£18,000) and unused contingency (£27,200).
+**Schedule**: Original planned go-live 1 October 2026; actual go-live 15 October 2026 (+14 days). The slip was contained within the schedule to formal closure, which remained on 31 October 2026 as baselined.
+**Scope**: Four service modules delivered (planning, waste, council tax, garden waste). Parking permit module formally deferred to Phase 2 (CR-003, approved July 2026) after a UNIFORM API limitation was identified during integration testing.
 
 Early adoption data (end-October 2026) shows 41% of eligible residents have accessed the portal — ahead of the staged trajectory to reach the 55% target by end-December 2026. The contact-centre call volume reduction benefit is on track to materialise.
 
-The project is recommended for formal closure. Benefits realisation is being handed over to Sandra Obi (Senior User / Service Director) with a post-implementation review scheduled for April 2027.
+The project is recommended for formal closure. Benefits realisation is being handed over to Sandra Obi (Senior User / Head of Customer Services) with a post-implementation review scheduled for April 2027.
 
 [↑ Back to top](#table-of-contents)
 
@@ -67,14 +67,14 @@ The project is recommended for formal closure. Benefits realisation is being han
 
 | Item | Detail |
 |---|---|
-| **Project start date** | 2 February 2026 |
-| **Original planned end date** | 15 October 2026 (go-live); 31 October 2026 (formal closure) |
+| **Project start date** | 3 February 2026 |
+| **Original planned end date** | 1 October 2026 (go-live); 31 October 2026 (formal closure) |
 | **Actual end date** | 31 October 2026 |
-| **Project sponsor** | James Hartley, Deputy Chief Executive |
+| **Project sponsor** | James Hartley, Director of Digital Services |
 | **Project manager** | Sarah Chen |
 | **Total approved budget** | £420,000 |
-| **Actual final cost** | £411,400 |
-| **Underspend** | £8,600 (2.0%) |
+| **Actual final cost** | £374,800 |
+| **Underspend** | £45,200 (10.8%) |
 
 [↑ Back to top](#table-of-contents)
 
@@ -89,9 +89,9 @@ The project is recommended for formal closure. Benefits realisation is being han
 | OBJ-01 | Deliver a public-facing self-service portal covering at least four council services | **Fully achieved** | Four modules delivered: planning, waste, council tax, garden waste |
 | OBJ-02 | Achieve ≥55% resident adoption within 3 months of go-live | **On track (not yet measurable at closure)** | 41% adoption at end-Oct; 3-month measurement date = 15 Jan 2027. PIR scheduled Apr 2027 will confirm. |
 | OBJ-03 | Reduce contact-centre call volume for in-scope services by ≥20% | **On track (not yet measurable at closure)** | Call volume data to be measured at 3 months and 6 months post-go-live. Early indicators positive. |
-| OBJ-04 | Deliver within approved budget of £420,000 | **Fully achieved** | Final spend £411,400 — £8,600 underspend |
-| OBJ-05 | Achieve full WCAG 2.1 AA accessibility compliance | **Fully achieved** | Accessibility audit completed 19 Sep 2026; all 14 issues resolved; compliance confirmed |
-| OBJ-06 | Obtain UK GDPR compliance sign-off from DPO | **Fully achieved** | DPIA signed off by Claire Worthington 5 May 2026; final privacy notice approved before go-live |
+| OBJ-04 | Deliver within approved budget of £420,000 | **Fully achieved** | Final spend £374,800 — £45,200 underspend |
+| OBJ-05 | Achieve full WCAG 2.1 AA accessibility compliance | **Fully achieved** | Accessibility audit completed 26 Sep 2026; all 14 issues resolved; compliance confirmed |
+| OBJ-06 | Obtain UK GDPR compliance sign-off from DPO | **Fully achieved** | DPIA signed off by the Data Protection Officer on 5 May 2026; final privacy notice approved before go-live |
 
 ### Deliverables
 
@@ -99,7 +99,7 @@ The project is recommended for formal closure. Benefits realisation is being han
 |---|---|---|---|---|
 | DEL-01 | Discovery Report and UX Design Specification | Yes | 8 May 2026 | Approved at Gate 1 by Senior User and Senior Supplier |
 | DEL-02 | Integration Specification | Yes | 8 May 2026 | Approved by ICT Manager (Mark Pearce) at Gate 1 |
-| DEL-03 | Data Protection Impact Assessment | Yes | 5 May 2026 | Signed off by DPO (Claire Worthington) |
+| DEL-03 | Data Protection Impact Assessment | Yes | 5 May 2026 | Signed off by the Data Protection Officer |
 | DEL-04 | Planning application tracking module (live) | Yes | 15 Oct 2026 | Integration with UNIFORM (planning) — live |
 | DEL-05 | Missed waste collection reporting module (live) | Yes | 15 Oct 2026 | Integration with Civica (waste) — live |
 | DEL-06 | Council tax account / payment module (live) | Yes | 15 Oct 2026 | Integration with Capita (council tax) — live; security cert obtained Jul 2026 |
@@ -114,10 +114,11 @@ The project is recommended for formal closure. Benefits realisation is being han
 
 | CR No. | Description | Cost impact (£) | Schedule impact |
 |---|---|---|---|
-| CR-001 | Welsh language interface deferred to Phase 2 (agreed at initiation — not a change in execution phase) | £0 (never in scope for Phase 1) | None |
-| CR-002 | Additional accessibility testing round added following early audit findings | +£3,200 | None (absorbed in schedule float) |
-| CR-003 | Parking permit module deferred to Phase 2 (UNIFORM API incompatibility) | −£18,000 (removed from build scope; budget released to contingency) | None — go-live date maintained |
-| **Net scope change impact** | | **−£14,800** | **None** |
+| CR-001 | Welsh language interface deferred to Phase 2 | £0 (deferred; not funded in Phase 1) | None |
+| CR-002 | UNIFORM API rate-limit increase to support integration load | +£7,200 (contingency-funded) | None |
+| CR-003 | Parking permit module deferred to Phase 2 (UNIFORM API incompatibility) | −£18,000 (removed from build scope) | None — go-live date maintained |
+| CR-005 | Hypercare extended from 30 to 45 days | +£3,600 (contingency-funded) | None |
+| **Net scope change impact** | | **−£7,200** | **None** |
 
 [↑ Back to top](#table-of-contents)
 
@@ -130,13 +131,13 @@ The project is recommended for formal closure. Benefits realisation is being han
 | Gate 1 (Discovery and Design complete) | 8 May 2026 | 8 May 2026 | **0 days** |
 | Gate 2 (Build and Integration complete / UAT entry) | 11 Sep 2026 | 11 Sep 2026 | **0 days** |
 | UAT complete | 26 Sep 2026 | 26 Sep 2026 | **0 days** |
-| Accessibility audit and remediation complete | 3 Oct 2026 | 26 Sep 2026 | **+5 days (early)** |
-| Go-live | 15 Oct 2026 | 15 Oct 2026 | **0 days** |
+| Accessibility audit and remediation complete | 3 Oct 2026 | 26 Sep 2026 | **+7 days (early)** |
+| Go-live | 1 Oct 2026 | 15 Oct 2026 | **+14 days (late)** |
 | Project closure | 31 Oct 2026 | 31 Oct 2026 | **0 days** |
 
 **Schedule Performance Index (SPI) at closure**: 1.00
 
-**Commentary**: The project delivered every milestone on time. The 2-week schedule float between UAT completion and go-live was consumed by defect resolution (47 UAT defects — 18 medium, 29 low — resolved in 11 days). The float had been built in deliberately at the planning stage and performed exactly as intended. No corrective action was required at any stage.
+**Commentary**: The project closed on its baseline date of 31 October 2026. The go-live milestone itself slipped 14 days — from the planned 1 October to 15 October 2026 — as final UAT defect resolution (47 defects: 18 medium, 29 low) and the accessibility re-audit took longer than the float between UAT and launch allowed. Because the slip was contained within the overall schedule to formal closure (which included the hypercare buffer to 31 October), it did not delay closure and required no formal re-baselining. The SPI of 1.00 reflects completion of all planned scope by closure.
 
 [↑ Back to top](#table-of-contents)
 
@@ -146,19 +147,18 @@ The project is recommended for formal closure. Benefits realisation is being han
 
 | Item | Approved budget (£) | Actual spend (£) | Variance (£) | Variance (%) |
 |---|---|---|---|---|
-| GovTech platform licence and configuration | 240,000 | 231,800 | +8,200 | +3.4% |
-| ICT integration (internal — Tom Okafor) | 48,000 | 46,500 | +1,500 | +3.1% |
+| GovTech platform licence and configuration (net of CR-003 −£18,000) | 240,000 | 222,000 | +18,000 | +7.5% |
+| ICT / UNIFORM integration (internal — Tom Okafor) | 48,000 | 48,000 | 0 | 0% |
 | Project management (internal — Sarah Chen) | 42,000 | 42,000 | 0 | 0% |
-| Training and change (Diane Hughes + materials) | 20,000 | 19,400 | +600 | +3.0% |
-| Content / UX (GovTech + resident research) | 32,000 | 33,200 | −1,200 | −3.8% |
-| Additional accessibility testing (CR-002) | — | 3,200 | — | — |
-| **Contingency used** | 38,000 | **0** | **+38,000** | — |
-| **Parking permit savings (CR-003)** | — | **−18,000** | — | — |
-| **Total project** | **420,000** | **411,400** | **+8,600** | **+2.0%** |
+| Training and change (Diane Hughes + materials) | 20,000 | 20,000 | 0 | 0% |
+| Content / UX (GovTech + resident research) | 32,000 | 32,000 | 0 | 0% |
+| **Subtotal (base scope)** | **382,000** | **364,000** | **+18,000** | **+4.7%** |
+| Contingency — drawn for CR-002 (+£7,200) and CR-005 (+£3,600); £27,200 unused | 38,000 | 10,800 | +27,200 | — |
+| **Total project** | **420,000** | **374,800** | **+45,200** | **+10.8%** |
 
 **Cost Performance Index (CPI) at closure**: 1.02
 
-**Commentary**: The project closed with an £8,600 underspend (2.0%). The GovTech scope reduction from CR-003 (parking permit deferral, saving ~£18,000 of build cost) offset the additional accessibility testing spend (£3,200) and minor overspends in content/UX. **No contingency was drawn down** — a notable result given the UNIFORM integration issue and the payment gateway security audit. The underspent budget of £8,600 is returned to the Sponsor.
+**Commentary**: The project closed with a £45,200 underspend (10.8%). The largest single driver was the CR-003 parking-permit deferral, which removed ~£18,000 of GovTech build scope. Of the £38,000 contingency, only £10,800 was drawn — funding the CR-002 UNIFORM API uplift (£7,200) and the CR-005 hypercare extension (£3,600) — leaving £27,200 unused. The underspent budget of £45,200 is returned to the Sponsor, with £18,000 of the deferred parking-permit scope earmarked for the Phase 2 business case.
 
 [↑ Back to top](#table-of-contents)
 
@@ -177,7 +177,7 @@ The project is recommended for formal closure. Benefits realisation is being han
 | Peer-facing uptime (first 2 weeks post-launch) | ≥99.5% | 99.8% | ✅ Yes |
 | Staff training completion | 100% of in-scope staff | 54/54 (100%) | ✅ Yes |
 
-**Commentary**: All quality targets were met. The two-round accessibility audit approach (initial audit + remediation + re-audit) added £3,200 to cost (CR-002) but was the right decision — the portal launched fully WCAG 2.1 AA compliant, which is both a legal requirement and a reputational imperative for a public-sector service. GovTech's UAT entry quality was good — no critical defects at UAT entry.
+**Commentary**: All quality targets were met. The two-round accessibility audit approach (initial audit + remediation + re-audit) was absorbed within the existing content/UX budget and was the right decision — the portal launched fully WCAG 2.1 AA compliant, which is both a legal requirement and a reputational imperative for a public-sector service. GovTech's UAT entry quality was good — no critical defects at UAT entry.
 
 [↑ Back to top](#table-of-contents)
 
@@ -216,15 +216,15 @@ The project is recommended for formal closure. Benefits realisation is being han
 
 | Ref | Benefit | Baseline (pre-project) | Current measure (end-Oct 2026) | Expected full realisation | Benefit owner (BAU) |
 |---|---|---|---|---|---|
-| BEN-01 | Reduction in contact-centre call volume for in-scope services | 4,200 calls/month (reconstructed from 12-month average) | 3,800 calls/month (Oct 2026 — first month post-go-live) | June 2027 (steady state) | Sandra Obi, Service Director |
-| BEN-02 | Resident adoption rate ≥55% | 0% | 41% (end-Oct 2026, 2 weeks post-launch) | 15 January 2027 (3-month milestone) | Sandra Obi, Service Director |
+| BEN-01 | Reduction in contact-centre call volume for in-scope services | 4,200 calls/month (reconstructed from 12-month average) | 3,800 calls/month (Oct 2026 — first month post-go-live) | June 2027 (steady state) | Sandra Obi, Head of Customer Services |
+| BEN-02 | Resident adoption rate ≥55% | 0% | 41% (end-Oct 2026, 2 weeks post-launch) | 15 January 2027 (3-month milestone) | Sandra Obi, Head of Customer Services |
 | BEN-03 | Contact-centre staff time savings (FTE equivalent) | 1.4 FTE on in-scope queries | To be measured at 3 months | June 2027 | Mark Pearce, ICT / Operations Manager |
-| BEN-04 | Resident satisfaction score ≥75% | No baseline (new channel) | 81% satisfaction in exit survey (UAT pilot residents) | Ongoing — measured quarterly | Sandra Obi, Service Director |
+| BEN-04 | Resident satisfaction score ≥75% | No baseline (new channel) | 81% satisfaction in exit survey (UAT pilot residents) | Ongoing — measured quarterly | Sandra Obi, Head of Customer Services |
 | BEN-05 | Net Cashable Saving (Year 1) | — | — | March 2027 (year-end) | James Hartley, Sponsor |
 
 **Post-project benefits review date**: 28 April 2027 (Post-Implementation Review)
 
-**Benefits owner accepting responsibility at close**: Sandra Obi, Service Director (Customer and Digital Services)
+**Benefits owner accepting responsibility at close**: Sandra Obi, Head of Customer Services
 
 [↑ Back to top](#table-of-contents)
 
@@ -285,7 +285,7 @@ The project is recommended for formal closure. Benefits realisation is being han
 
 The Meridian Citizen Self-Service Portal project is recommended for **formal closure**.
 
-All deliverables have been completed and accepted. All issues are resolved. The portal is live and operating within agreed performance parameters. Benefits ownership has been formally transferred to Sandra Obi (Service Director). A Post-Implementation Review is scheduled for 28 April 2027.
+All deliverables have been completed and accepted. All issues are resolved. The portal is live and operating within agreed performance parameters. Benefits ownership has been formally transferred to Sandra Obi (Head of Customer Services). A Post-Implementation Review is scheduled for 28 April 2027.
 
 The parking permit module (CR-003) has been documented as a defined scope item for Phase 2, with the UNIFORM technical findings and recommended approach available to the Phase 2 project team.
 
@@ -299,8 +299,8 @@ The project should be archived in accordance with the Council's records manageme
 
 | Role | Name | Signed | Date |
 |---|---|---|---|
-| Project Sponsor | James Hartley, Deputy Chief Executive | *(signed)* | 31 Oct 2026 |
-| Senior Responsible Owner / Senior User | Sandra Obi, Service Director | *(signed)* | 31 Oct 2026 |
+| Project Sponsor | James Hartley, Director of Digital Services | *(signed)* | 31 Oct 2026 |
+| Senior Responsible Owner / Senior User | Sandra Obi, Head of Customer Services | *(signed)* | 31 Oct 2026 |
 | Project Manager | Sarah Chen | *(signed)* | 31 Oct 2026 |
 
 [↑ Back to top](#table-of-contents)

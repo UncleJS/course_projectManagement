@@ -27,7 +27,7 @@
   - [Benefits are the reason projects exist](#benefits-are-the-reason-projects-exist)
   - [The benefits lifecycle](#the-benefits-lifecycle)
   - [Benefits vs. outputs vs. outcomes](#benefits-vs-outputs-vs-outcomes)
-  - [Key artifacts](#key-artifacts)
+  - [Key artefacts](#key-artefacts)
 - [5. The Project Management Office (PMO)](#5-the-project-management-office-pmo)
   - [What is a PMO?](#what-is-a-pmo)
   - [PMO functions](#pmo-functions)
@@ -40,11 +40,11 @@
 - [7. Sustainability and ESG in Projects](#7-sustainability-and-esg-in-projects)
   - [Sustainability as a project dimension](#sustainability-as-a-project-dimension)
   - [Embedding sustainability in governance](#embedding-sustainability-in-governance)
-- [Artifacts](#artifacts)
+- [Artefacts](#artefacts)
 - [Exercises](#exercises)
-  - [Exercise 2.1 — Governance gap analysis](#exercise-21-governance-gap-analysis)
-  - [Exercise 2.2 — Benefits mapping](#exercise-22-benefits-mapping)
-  - [Exercise 2.3 — Tailoring decision](#exercise-23-tailoring-decision)
+  - [Exercise 2.1 — Governance gap analysis](#exercise-21--governance-gap-analysis)
+  - [Exercise 2.2 — Benefits mapping](#exercise-22--benefits-mapping)
+  - [Exercise 2.3 — Tailoring decision](#exercise-23--tailoring-decision)
 - [Quiz](#quiz)
 - [Related Modules](#related-modules)
 
@@ -119,7 +119,7 @@ Appointed by the project board, the project manager is responsible for day-to-da
 
 ### The Change Control Board (CCB)
 
-A CCB (also called a Change Advisory Board) is convened to review, evaluate, and decide on proposed changes to project baselines. On smaller projects, this function may sit with the project board or sponsor. On large programmes, it may be a dedicated standing group.
+A CCB is convened to review, evaluate, and decide on proposed changes to project baselines. (In IT service management an analogous body exists — the Change Advisory Board, or CAB — but it governs operational service changes, not project baselines, and is not a synonym for the CCB.) On smaller projects, this function may sit with the project board or sponsor. On large programmes, it may be a dedicated standing group.
 
 ### Terms of Reference
 
@@ -220,9 +220,9 @@ flowchart LR
 | Outcome | The change enabled by the output | Warehouse staff can process orders 40% faster |
 | Benefit | The value of the outcome | £1.2M per year in operational cost savings |
 
-### Key artifacts
+### Key artefacts
 
-| Artifact | Purpose |
+| Artefact | Purpose |
 |---|---|
 | **Benefits Register** | Catalogues all expected benefits with measurement criteria, realisation dates, and owners |
 | **Benefits Realisation Plan** | Describes when and how each benefit will be measured and by whom |
@@ -326,11 +326,11 @@ Organisations that build sustainability into project governance create compoundi
 
 ---
 
-## Artifacts
+## Artefacts
 
 The following artefacts are introduced or referenced in this module. Templates are available in the `/templates/` folder.
 
-| Artifact | Description | Template |
+| Artefact | Description | Template |
 |---|---|---|
 | **Project Governance Framework** | Defines the overall governance structure, roles, and escalation paths for the project | (describe in project charter) |
 | **Terms of Reference (ToR)** | Defines the mandate, membership, and operating rules of the project board or CCB | — |

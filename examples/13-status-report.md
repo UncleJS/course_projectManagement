@@ -138,7 +138,7 @@ One significant issue emerged during discovery: the UNIFORM system does not expo
 
 | ID | Issue | Severity | Owner | Status |
 |---|---|---|---|---|
-| ISS-04 (emerging) | UNIFORM parking permit data not queryable — CR-003 in preparation | High | Sarah Chen / Mark Pearce | Being addressed via change control |
+| ISS-03 (emerging) | UNIFORM parking permit data not queryable — CR-003 in preparation | High | Sarah Chen / Mark Pearce | Being addressed via change control |
 
 [↑ Back to top](#table-of-contents)
 

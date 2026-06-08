@@ -145,6 +145,9 @@ An EVM metric: CPI = EV ÷ AC. A value above 1.0 indicates cost efficiency; belo
 **Cost Variance (CV)**
 An EVM metric: CV = EV − AC. A positive value indicates under-budget performance.
 
+**Crashing**
+A schedule compression technique that adds resources to critical-path activities to shorten their duration. It typically increases cost and is applied only to activities on the critical path. Contrast with *Fast-tracking*.
+
 **Critical Path**
 The longest sequence of dependent activities in a project schedule that determines the minimum project duration. Any delay to a critical path activity delays the entire project.
 
@@ -472,6 +475,9 @@ A document that links requirements to their origin and traces them throughout th
 **Reserve**
 See *Contingency Reserve* and *Management Reserve*.
 
+**Residual Risk**
+The risk that remains after a risk response has been implemented. Mitigation or avoidance is rarely 100% effective, so some exposure usually persists and must still be monitored. Contrast with *Secondary Risk*.
+
 **Resource Calendar**
 A calendar that identifies the working days, shifts, hours, and availability of each project resource.
 
@@ -531,6 +537,9 @@ The uncontrolled expansion of project scope without corresponding adjustments to
 
 **Scope Statement**
 A document that describes the project scope — deliverables, assumptions, constraints, and what is explicitly excluded.
+
+**Secondary Risk**
+A new risk that arises as a direct result of implementing a response to another risk — for example, adding contractors to mitigate a resource risk creates a vendor-management risk. Contrast with *Residual Risk*.
 
 **Sponsor**
 The individual or group providing resources and support for the project and accountable for enabling its success at the organisational level. Also called executive sponsor or project executive.

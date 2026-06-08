@@ -55,7 +55,7 @@
 
 ## 1. Executive Summary
 
-Northgate District Council spends £310,000 per annum handling approximately 14,200 citizen enquiries that are routine and transactional in nature. The Meridian Portal project will deliver a citizen-facing self-service web platform enabling residents to manage planning enquiries, pay council tax, book bulky waste collections, and renew parking permits without staff intervention. Based on a conservative 55% digital deflection rate, the portal is projected to save £170,000 per annum by Year 2 of operation, recovering the full investment within 2.5 years. The project is recommended for approval at a total investment of £420,000.
+Northgate District Council spends £310,000 per annum handling approximately 14,200 citizen enquiries that are routine and transactional in nature. The Meridian Portal project will deliver a citizen-facing self-service web platform enabling residents to manage planning enquiries, pay council tax, book bulky waste collections, and renew parking permits without staff intervention. Based on a conservative 55% digital deflection rate, the portal is projected to save £123,820 per annum net by Year 2 of operation (£171,820 gross less £48,000 annual running cost), recovering the full investment within about 3.4 years. The project is recommended for approval at a total investment of £420,000.
 
 [↑ Back to top](#table-of-contents)
 
@@ -136,12 +136,12 @@ Transfer the contact-centre function to a shared-service provider. Estimated sav
 
 | Benefit | Category | Measure | Baseline | Target | Realisation date | Owner |
 |---|---|---|---|---|---|---|
-| Contact-centre cost reduction | Financial | £ saving per annum | £310,000 annual cost | £140,000 per annum (55% deflection × £22/contact × 14,200 contacts) | April 2027 (6 months post go-live) | Head of Customer Services |
+| Contact-centre cost reduction | Financial | £ saving per annum | £310,000 annual cost | £171,820 per annum gross (55% deflection × £22/contact × 14,200 contacts) | April 2027 (6 months post go-live) | Head of Customer Services |
 | Staff time redeployment | Financial | FTE equivalent released | 0 | 1.8 FTE (redeployed to complex casework) | April 2027 | HR Business Partner |
 | Resident digital satisfaction | Non-financial | NPS score | 34 | 54+ | October 2027 (12 months post go-live) | Head of Customer Services |
 | Digital transaction rate | Non-financial | % transactions completed digitally | 18% | 55% | April 2027 | Digital Services Manager |
 
-**Year 2 net annual saving:** £170,000 (cost reduction less residual SaaS licensing, maintenance, and support costs of approximately £28,000 per annum).
+**Year 2 net annual saving:** £123,820 (gross deflection saving of £171,820 less the £48,000 total annual running cost — GovTech support and internal administration).
 
 [↑ Back to top](#table-of-contents)
 
@@ -167,23 +167,23 @@ Transfer the contact-centre function to a shared-service provider. Estimated sav
 
 | Item | Annual Cost (£) |
 |---|---|
-| CivicConnect SaaS licence (Years 2+) | 28,000 |
+| GovTech CivicConnect SaaS licence and support (Years 2+) | 36,000 |
 | Internal support and administration | 12,000 |
-| **Total annual running cost** | **40,000** |
+| **Total annual running cost** | **48,000** |
 
 ### Financial Summary
 
 | Year | Investment (£) | Saving (£) | Net position (£) | Cumulative (£) |
 |---|---|---|---|---|
 | 2026 (project year) | -420,000 | 0 | -420,000 | -420,000 |
-| 2027 (Year 1 operational) | -40,000 | +170,000 | +130,000 | -290,000 |
-| 2028 (Year 2) | -40,000 | +170,000 | +130,000 | -160,000 |
-| 2029 (Year 3) | -40,000 | +170,000 | +130,000 | -30,000 |
-| 2030 (Year 4) | -40,000 | +170,000 | +130,000 | +100,000 |
+| 2027 (Year 1 operational) | -48,000 | +171,820 | +123,820 | -296,180 |
+| 2028 (Year 2) | -48,000 | +171,820 | +123,820 | -172,360 |
+| 2029 (Year 3) | -48,000 | +171,820 | +123,820 | -48,540 |
+| 2030 (Year 4) | -48,000 | +171,820 | +123,820 | +75,280 |
 
-- **Payback period:** ~2.5 years post go-live (mid-2029)
-- **ROI (3 years post go-live):** £390,000 net saving on £420,000 investment = 93%
-- **NPV (5% discount, 5 years):** +£68,000
+- **Payback period:** ~3.4 years post go-live (during 2030)
+- **ROI (3 years post go-live):** £371,460 net saving over three operational years on £420,000 investment = 88%
+- **NPV (5% discount, 5 years):** +£116,000
 
 [↑ Back to top](#table-of-contents)
 

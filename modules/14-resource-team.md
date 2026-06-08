@@ -63,11 +63,11 @@
   - [Psychological Safety](#psychological-safety)
   - [Sustainable Pace](#sustainable-pace)
   - [Wellbeing Practices for Project Managers](#wellbeing-practices-for-project-managers)
-- [Artifacts](#artifacts)
+- [Artefacts](#artefacts)
 - [Exercises](#exercises)
-  - [Exercise 1 — Tuckman Stage Diagnosis and Response](#exercise-1-tuckman-stage-diagnosis-and-response)
-  - [Exercise 2 — Motivation and Engagement](#exercise-2-motivation-and-engagement)
-  - [Exercise 3 — Conflict Resolution](#exercise-3-conflict-resolution)
+  - [Exercise 1 — Tuckman Stage Diagnosis and Response](#exercise-1--tuckman-stage-diagnosis-and-response)
+  - [Exercise 2 — Motivation and Engagement](#exercise-2--motivation-and-engagement)
+  - [Exercise 3 — Conflict Resolution](#exercise-3--conflict-resolution)
 - [Quiz](#quiz)
 - [Related Modules](#related-modules)
 
@@ -219,13 +219,13 @@ Understanding what motivates people helps project managers create conditions whe
 Abraham Maslow proposed that human needs form a hierarchy. Lower-level needs must be sufficiently satisfied before higher-level needs become motivating:
 
 ```mermaid
-flowchart TD
+flowchart BT
     SA["🔺 Self-Actualisation (realising potential)"]
     ES["Esteem (recognition, achievement)"]
     SO["Social / Belonging (team, relationships)"]
     SF["Safety (job security, safe environment)"]
     PH["Physiological (pay, working conditions)"]
-    SA --> ES --> SO --> SF --> PH
+    PH --> SF --> SO --> ES --> SA
 ```
 *Maslow's Hierarchy of Needs — lower-level needs must be sufficiently met before higher-level needs become motivating.*
 
@@ -473,7 +473,7 @@ Geert Hofstede's cultural dimensions model identifies axes along which national 
 | **Individualism vs Collectivism** | Team-first; group harmony | Individual achievement; personal initiative | Tailor recognition; adapt feedback style |
 | **Uncertainty Avoidance** | Comfortable with ambiguity | Need for rules, structure, certainty | Provide more documentation and process in high-UA teams |
 | **Long-term Orientation** | Short-term results | Long-term planning and patience | Align on time horizons; manage expectations on pace |
-| **Indulgence vs Restraint** | Work to live; celebrates achievements | Suppresses gratification; work-focused | Adapt celebration and social norms |
+| **Indulgence vs Restraint** | Suppresses gratification; work-focused | Work to live; celebrates achievements | Adapt celebration and social norms |
 
 **No culture is better or worse — awareness prevents misinterpretation.** What reads as "disengaged" in one culture may be "respectfully deferential" in another.
 
@@ -580,9 +580,9 @@ Signs the team is at unsustainable pace:
 
 ---
 
-## Artifacts
+## Artefacts
 
-| Artifact | Description | Template |
+| Artefact | Description | Template |
 |---|---|---|
 | Resource Management Plan | Strategy for acquiring, developing, and managing all project resources | — |
 | RACI Matrix | Roles and responsibilities mapped to tasks | [raci-matrix.md](../templates/raci-matrix.md) |

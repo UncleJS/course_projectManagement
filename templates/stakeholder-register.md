@@ -13,7 +13,7 @@
 - [Document Control](#document-control)
 - [Engagement Level Key](#engagement-level-key)
 - [Stakeholder Register](#stakeholder-register)
-- [Power / Interest Grid Summary](#power-interest-grid-summary)
+- [Power / Interest Grid Summary](#power--interest-grid-summary)
 - [Notes](#notes)
 
 ---

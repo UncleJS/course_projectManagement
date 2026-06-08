@@ -24,17 +24,17 @@
   - [Risk description format](#risk-description-format)
 - [4. Qualitative Risk Analysis](#4-qualitative-risk-analysis)
   - [Scoring risks](#scoring-risks)
-  - [Risk score = Probability × Impact](#risk-score-probability-impact)
+  - [Risk score = Probability × Impact](#risk-score--probability--impact)
   - [The Probability-Impact Matrix (Risk Heat Map)](#the-probability-impact-matrix-risk-heat-map)
   - [Risk scoring limitations](#risk-scoring-limitations)
 - [5. Quantitative Risk Analysis](#5-quantitative-risk-analysis)
   - [Monte Carlo Simulation](#monte-carlo-simulation)
   - [Sensitivity Analysis](#sensitivity-analysis)
   - [Decision Tree Analysis](#decision-tree-analysis)
-- [6. Risk Response Planning — Threats](#6-risk-response-planning-threats)
-  - [Contingency plans (fallback plans)](#contingency-plans-fallback-plans)
+- [6. Risk Response Planning — Threats](#6-risk-response-planning--threats)
+  - [Contingency and fallback plans](#contingency-and-fallback-plans)
   - [Residual and secondary risks](#residual-and-secondary-risks)
-- [7. Risk Response Planning — Opportunities](#7-risk-response-planning-opportunities)
+- [7. Risk Response Planning — Opportunities](#7-risk-response-planning--opportunities)
   - [Opportunity management is underused](#opportunity-management-is-underused)
 - [8. Risk Monitoring and Review](#8-risk-monitoring-and-review)
   - [The risk register is not a filing exercise](#the-risk-register-is-not-a-filing-exercise)
@@ -43,11 +43,11 @@
 - [9. Organisational Risk Culture and Appetite](#9-organisational-risk-culture-and-appetite)
   - [Risk appetite](#risk-appetite)
   - [Risk culture](#risk-culture)
-- [Artifacts](#artifacts)
+- [Artefacts](#artefacts)
 - [Exercises](#exercises)
-  - [Exercise 11.1 — Risk identification workshop](#exercise-111-risk-identification-workshop)
-  - [Exercise 11.2 — Score and respond](#exercise-112-score-and-respond)
-  - [Exercise 11.3 — Contingency calculation](#exercise-113-contingency-calculation)
+  - [Exercise 11.1 — Risk identification workshop](#exercise-111--risk-identification-workshop)
+  - [Exercise 11.2 — Score and respond](#exercise-112--score-and-respond)
+  - [Exercise 11.3 — Contingency calculation](#exercise-113--contingency-calculation)
 - [Quiz](#quiz)
 - [Related Modules](#related-modules)
 
@@ -277,12 +277,12 @@ Five strategies for managing threats:
 | **Avoid** | Eliminate the threat by changing the plan | High-probability, high-impact risks that can be avoided without unreasonable cost |
 | **Transfer** | Shift the impact to a third party (insurance, contract clauses) | Financial risks where cost certainty is worth the premium |
 | **Mitigate** | Reduce probability and/or impact | Most risks — the default active response |
-| **Accept** | Acknowledge the risk and take no proactive action | Low-impact risks below the response threshold |
+| **Accept** | Acknowledge the risk. *Passive acceptance*: take no action. *Active acceptance*: set aside a contingency reserve and/or prepare a contingency plan | Low-impact risks below the response threshold |
 | **Escalate** | Refer to a higher level of authority if it is outside the PM's authority to manage | Risks that exceed project tolerance; require organisational-level response |
 
-### Contingency plans (fallback plans)
+### Contingency and fallback plans
 
-For "accept" risks, develop a **contingency plan** — actions to take if the risk occurs. Having a plan ready reduces response time when the risk materialises.
+For actively accepted risks, develop a **contingency plan** — actions to take if the risk occurs. Having a plan ready reduces response time when the risk materialises. A **fallback plan** is distinct: it is the backup enacted only if the contingency plan proves insufficient.
 
 ### Residual and secondary risks
 
@@ -427,9 +427,9 @@ Poor risk culture — typically characterised by optimism bias, fear of escalati
 
 ---
 
-## Artifacts
+## Artefacts
 
-| Artifact | Description | Template |
+| Artefact | Description | Template |
 |---|---|---|
 | **Risk Management Plan** | How risk management will be performed | — |
 | **Risk Register** | Log of identified risks with scores, owners, responses | [risk-register.md](../templates/risk-register.md) |
@@ -545,7 +545,7 @@ Using Expected Monetary Value (EMV):
 <details>
 <summary>Reveal Answer</summary>
 
-**B) Poor risk culture — risks are being under-reported.** A project performing significantly below budget targets while reporting all risks as low is a classic indicator of optimism bias or suppression of bad news. The risk register does not reflect reality.
+**B) Poor risk culture — risks are being under-reported.** A project running significantly over budget (CPI 0.82 — only £0.82 of value earned per £1 spent) while reporting all risks as low is a classic indicator of optimism bias or suppression of bad news. The risk register does not reflect reality.
 
 </details>
 

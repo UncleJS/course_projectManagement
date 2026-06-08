@@ -45,11 +45,11 @@
   - [Pareto analysis](#pareto-analysis)
 - [9. Continuous Improvement: PDCA](#9-continuous-improvement-pdca)
   - [Applying PDCA in projects](#applying-pdca-in-projects)
-- [Artifacts](#artifacts)
+- [Artefacts](#artefacts)
 - [Exercises](#exercises)
-  - [Exercise 12.1 — Cost of quality analysis](#exercise-121-cost-of-quality-analysis)
-  - [Exercise 12.2 — Quality criteria definition](#exercise-122-quality-criteria-definition)
-  - [Exercise 12.3 — Root cause analysis](#exercise-123-root-cause-analysis)
+  - [Exercise 12.1 — Cost of quality analysis](#exercise-121--cost-of-quality-analysis)
+  - [Exercise 12.2 — Quality criteria definition](#exercise-122--quality-criteria-definition)
+  - [Exercise 12.3 — Root cause analysis](#exercise-123--root-cause-analysis)
 - [Quiz](#quiz)
 - [Related Modules](#related-modules)
 
@@ -355,15 +355,13 @@ The Pareto principle (80/20 rule) applied to defects: typically, 80% of defects 
 
 ```mermaid
 xychart-beta
-    title "Statistical Process Control — Defects per Sprint"
-    x-axis ["S1", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "S9", "S10"]
-    y-axis "Defects" 0 --> 20
-    line "UCL (8)" [8, 8, 8, 8, 8, 8, 8, 8, 8, 8]
-    line "Mean (4)" [4, 4, 4, 4, 4, 4, 4, 4, 4, 4]
-    line "LCL (0)" [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-    bar "Defects" [3, 5, 4, 6, 4, 3, 2, 9, 12, 7]
+    title "Pareto Analysis — Defect Causes by Frequency"
+    x-axis ["Validation errors", "Integration timeouts", "UI rendering", "Data mapping", "Other"]
+    y-axis "Count / Cumulative %" 0 --> 100
+    bar [45, 28, 15, 8, 4]
+    line [45, 73, 88, 96, 100]
 ```
-*Sprints 8–9 breach the Upper Control Limit (UCL) — a signal that the process is out of control and requires investigation, not just corrective action on individual defects.*
+*Defect causes ranked by frequency (bars) with the cumulative percentage (line). The first two causes account for ~73% of all defects, so fixing those two yields the greatest return — the 80/20 rule in action.*
 
 [↑ Back to top](#table-of-contents)
 
@@ -403,9 +401,9 @@ PDCA is not a one-time cycle — it repeats continuously. Each iteration builds 
 
 ---
 
-## Artifacts
+## Artefacts
 
-| Artifact | Description | Template |
+| Artefact | Description | Template |
 |---|---|---|
 | **Quality Management Plan** | Quality objectives, standards, roles, and activities | — |
 | **Quality Register** | Log of planned and completed quality activities and results | [quality-register.md](../templates/quality-register.md) |

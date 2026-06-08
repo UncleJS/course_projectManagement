@@ -65,12 +65,13 @@
 | Item | Amount (£) |
 |---|---|
 | Original contingency | 38,000 |
-| CR-002 drawdown | -7,200 |
-| CR-003 saving (returned to contingency) | +18,000 |
-| CR-005 drawdown | -3,600 |
-| **Remaining contingency** | **45,200** |
+| CR-002 drawdown (UNIFORM API uplift) | -7,200 |
+| CR-005 drawdown (hypercare extension) | -3,600 |
+| **Remaining contingency** | **27,200** |
+| CR-003 base-scope saving (parking permit deferral) | +18,000 |
+| **Total budget released vs £420,000** | **45,200** |
 
-> Note: CR-003 saved £18,000 from the GovTech contract (parking permits module deferred). This has been retained in contingency rather than returned to the general capital programme, pending Phase 2 planning.
+> Note: The CR-002 and CR-005 additions were funded from the £38,000 contingency, leaving £27,200 unused. CR-003 saved a separate £18,000 from the GovTech build contract (parking permit module deferred) — this is a base-scope saving, kept distinct from contingency, and earmarked for the Phase 2 business case rather than returned to the general capital programme. Total released against the £420,000 budget is therefore £45,200.
 
 [↑ Back to top](#table-of-contents)
 

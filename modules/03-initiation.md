@@ -38,11 +38,11 @@
 - [9. The Kick-off Meeting](#9-the-kick-off-meeting)
   - [Two types of kick-off](#two-types-of-kick-off)
   - [What a kick-off meeting covers](#what-a-kick-off-meeting-covers)
-- [Artifacts](#artifacts)
+- [Artefacts](#artefacts)
 - [Exercises](#exercises)
-  - [Exercise 3.1 — Write a business case summary](#exercise-31-write-a-business-case-summary)
-  - [Exercise 3.2 — Draft a project charter](#exercise-32-draft-a-project-charter)
-  - [Exercise 3.3 — Stakeholder identification sprint](#exercise-33-stakeholder-identification-sprint)
+  - [Exercise 3.1 — Write a business case summary](#exercise-31--write-a-business-case-summary)
+  - [Exercise 3.2 — Draft a project charter](#exercise-32--draft-a-project-charter)
+  - [Exercise 3.3 — Stakeholder identification sprint](#exercise-33--stakeholder-identification-sprint)
 - [Quiz](#quiz)
 - [Related Modules](#related-modules)
 
@@ -121,7 +121,7 @@ Risk level       20%       5 × 0.20     2 × 0.20
 Technical ease   15%       3 × 0.15     4 × 0.15
 Urgency          10%       2 × 0.10     4 × 0.10
                            ─────────    ─────────
-Weighted total             3.55         3.25
+Weighted total             3.60         3.25
 ```
 
 No model removes the need for human judgement — but they make the judgement explicit and auditable.
@@ -357,9 +357,9 @@ A kick-off meeting without a written agenda and documented minutes produces no l
 
 ---
 
-## Artifacts
+## Artefacts
 
-| Artifact | Description | Template |
+| Artefact | Description | Template |
 |---|---|---|
 | **Project Mandate** | Trigger document initiating pre-project work | — |
 | **Feasibility Study / Options Appraisal** | Assesses viability and alternatives | — |

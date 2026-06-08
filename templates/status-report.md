@@ -19,9 +19,9 @@
 - [Financials](#financials)
 - [Risks (Top 3 Active Risks)](#risks-top-3-active-risks)
 - [Issues (Open Issues)](#issues-open-issues)
-- [Decisions Required from Sponsor / Board](#decisions-required-from-sponsor-board)
+- [Decisions Required from Sponsor / Board](#decisions-required-from-sponsor--board)
 - [Change Requests Status](#change-requests-status)
-- [Notes / Commentary](#notes-commentary)
+- [Notes / Commentary](#notes--commentary)
 
 ---
 

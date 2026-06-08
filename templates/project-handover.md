@@ -16,7 +16,7 @@
 - [3. Training Completed](#3-training-completed)
 - [4. Support Arrangements](#4-support-arrangements)
 - [5. Outstanding Items](#5-outstanding-items)
-- [6. Known Issues / Defects at Handover](#6-known-issues-defects-at-handover)
+- [6. Known Issues / Defects at Handover](#6-known-issues--defects-at-handover)
 - [7. Risks Transferred to Operations](#7-risks-transferred-to-operations)
 - [8. Benefits Ownership Transfer](#8-benefits-ownership-transfer)
 - [9. Archive and Records](#9-archive-and-records)

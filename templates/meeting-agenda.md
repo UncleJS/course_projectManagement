@@ -12,7 +12,7 @@
 
 - [Meeting Details](#meeting-details)
 - [Meeting Purpose](#meeting-purpose)
-- [Pre-reading / Preparation](#pre-reading-preparation)
+- [Pre-reading / Preparation](#pre-reading--preparation)
 - [Agenda](#agenda)
   - [Item Types](#item-types)
 - [Decisions Required](#decisions-required)

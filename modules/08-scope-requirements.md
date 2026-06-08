@@ -39,11 +39,11 @@
   - [What are acceptance criteria?](#what-are-acceptance-criteria)
   - [Writing good acceptance criteria](#writing-good-acceptance-criteria)
   - [Acceptance criteria must be agreed before work starts](#acceptance-criteria-must-be-agreed-before-work-starts)
-- [Artifacts](#artifacts)
+- [Artefacts](#artefacts)
 - [Exercises](#exercises)
-  - [Exercise 8.1 — Improve vague requirements](#exercise-81-improve-vague-requirements)
-  - [Exercise 8.2 — MoSCoW prioritisation](#exercise-82-moscow-prioritisation)
-  - [Exercise 8.3 — Build a mini RTM](#exercise-83-build-a-mini-rtm)
+  - [Exercise 8.1 — Improve vague requirements](#exercise-81--improve-vague-requirements)
+  - [Exercise 8.2 — MoSCoW prioritisation](#exercise-82--moscow-prioritisation)
+  - [Exercise 8.3 — Build a mini RTM](#exercise-83--build-a-mini-rtm)
 - [Quiz](#quiz)
 - [Related Modules](#related-modules)
 
@@ -385,9 +385,9 @@ Criteria defined after a deliverable is built often reflect what was actually bu
 
 ---
 
-## Artifacts
+## Artefacts
 
-| Artifact | Description | Template |
+| Artefact | Description | Template |
 |---|---|---|
 | **Requirements Documentation (BRD)** | Elicited and analysed requirements | — |
 | **Requirements Traceability Matrix (RTM)** | Links requirements to design, build, test, and status | — |
