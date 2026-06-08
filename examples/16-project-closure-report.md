@@ -129,15 +129,15 @@ The project is recommended for formal closure. Benefits realisation is being han
 | Item | Baseline | Actual | Variance |
 |---|---|---|---|
 | Gate 1 (Discovery and Design complete) | 8 May 2026 | 8 May 2026 | **0 days** |
-| Gate 2 (Build and Integration complete / UAT entry) | 11 Sep 2026 | 11 Sep 2026 | **0 days** |
-| UAT complete | 26 Sep 2026 | 26 Sep 2026 | **0 days** |
+| Gate 2 (Build and Integration complete / UAT entry) | 7 Aug 2026 | 11 Sep 2026 | **+35 days (late)** |
+| UAT complete | 19 Sep 2026 | 26 Sep 2026 | **+7 days (late)** |
 | Accessibility audit and remediation complete | 3 Oct 2026 | 26 Sep 2026 | **+7 days (early)** |
 | Go-live | 1 Oct 2026 | 15 Oct 2026 | **+14 days (late)** |
 | Project closure | 31 Oct 2026 | 31 Oct 2026 | **0 days** |
 
 **Schedule Performance Index (SPI) at closure**: 1.00
 
-**Commentary**: The project closed on its baseline date of 31 October 2026. The go-live milestone itself slipped 14 days — from the planned 1 October to 15 October 2026 — as final UAT defect resolution (47 defects: 18 medium, 29 low) and the accessibility re-audit took longer than the float between UAT and launch allowed. Because the slip was contained within the overall schedule to formal closure (which included the hypercare buffer to 31 October), it did not delay closure and required no formal re-baselining. The SPI of 1.00 reflects completion of all planned scope by closure.
+**Commentary**: The build phase ran over: Gate 2 (build and integration complete) was reached on 11 September 2026, 35 days later than the 7 August baseline, principally due to UNIFORM integration complexity — the parking-permit data limitation (CR-003) and the unplanned Capita payment-gateway security audit (ISS-04). Much of the slip was recovered by compressing the UAT and remediation window, so UAT completed only 7 days late (26 September) and go-live slipped 14 days to 15 October. The slip was contained within the overall schedule to formal closure — which included the hypercare buffer to 31 October — so closure held its baseline date. The SPI of 1.00 reflects completion of all planned scope by closure. The principal lesson (build-phase estimation for legacy-system integration) is captured in the lessons-learned log.
 
 [↑ Back to top](#table-of-contents)
 
