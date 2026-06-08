@@ -30,7 +30,7 @@
 
 Northgate District Council currently handles over 14,000 citizen enquiries per year by phone and in-person visit. 68% of these relate to planning applications, bin collection schedules, council tax queries, and parking permits — all of which could be handled digitally. Staff costs for contact-centre handling are £310,000 per annum.
 
-The **Meridian Portal** project will deliver a citizen-facing self-service web portal allowing residents to track planning applications, pay council tax, request bulky waste collections, and renew parking permits online, without staff intervention.
+The **Meridian Portal** project will deliver a citizen-facing self-service web portal allowing residents to track planning applications, pay council tax, report missed and garden waste, and renew parking permits online, without staff intervention.
 
 ### Expected Benefits
 

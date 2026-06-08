@@ -12,6 +12,7 @@
 
 - [Meeting Details](#meeting-details)
 - [Attendees](#attendees)
+- [Actions from Previous Meeting](#actions-from-previous-meeting)
 - [Agenda Item 1 — Welcome and Introductions](#agenda-item-1--welcome-and-introductions)
 - [Agenda Item 2 — Why This Project Matters](#agenda-item-2--why-this-project-matters)
 - [Agenda Item 3 — Project Scope and Objectives](#agenda-item-3--project-scope-and-objectives)
@@ -20,7 +21,8 @@
 - [Agenda Item 6 — Governance](#agenda-item-6--governance)
 - [Agenda Item 7 — Q&A](#agenda-item-7--qa)
 - [Agenda Item 8 — Actions and Close](#agenda-item-8--actions-and-close)
-- [Decisions Made](#decisions-made)
+- [Action Log (This Meeting)](#action-log-this-meeting)
+- [Decisions Record](#decisions-record)
 - [Next Meeting](#next-meeting)
 
 ---
@@ -32,9 +34,12 @@
 | **Meeting title** | Meridian Portal — Project Kick-off Meeting |
 | **Date** | Thursday 5 February 2026 |
 | **Time** | 10:00 – 12:05 |
-| **Location** | Council Chamber Room 2B / MS Teams |
-| **Facilitator** | Sarah Chen |
-| **Minutes prepared by** | Diane Hughes |
+| **Location / link** | Council Chamber Room 2B / MS Teams |
+| **Chair** | Sarah Chen |
+| **Note-taker** | Diane Hughes |
+| **Present** | 8 attendees — see Attendees below |
+| **Apologies** | None |
+| **Distribution** | All attendees; Highlight Report distribution list |
 | **Minutes circulated** | 6 February 2026 |
 
 [↑ Back to top](#table-of-contents)
@@ -55,6 +60,14 @@
 | GovTech Solutions representative | Supplier observer | Yes (MS Teams) |
 
 **Apologies:** None.
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## Actions from Previous Meeting
+
+Not applicable — this is the first meeting of the project (kick-off). No prior actions to review.
 
 [↑ Back to top](#table-of-contents)
 
@@ -92,7 +105,7 @@ Sarah Chen walked through the Project Charter scope sections:
 **In scope (confirmed):**
 - Planning application tracking
 - Council tax payment and account management
-- Bulky waste collection booking
+- Waste collection (missed and garden waste reporting)
 - Parking permit renewal
 - UNIFORM back-office integration
 
@@ -168,20 +181,28 @@ Sarah Chen confirmed the governance arrangements:
 
 ## Agenda Item 8 — Actions and Close
 
-| Ref | Action | Owner | Due |
-|---|---|---|---|
-| A-01 | Identify and confirm Business Change Manager for project | Sarah Chen / HR | 1 April 2026 |
-| A-02 | Arrange supplier contract signing meeting with GovTech and Legal | Sarah Chen | 20 February 2026 |
-| A-03 | Confirm first Project Board meeting date (proposed 5 March 2026) with all board members | Sarah Chen | 10 February 2026 |
-| A-04 | Brief contact-centre team about the project and redeployment message | Sandra Obi | By end of March 2026 |
-| A-05 | Issue Highlight Report No. 1 (baseline report) to agreed distribution list | Sarah Chen | 13 February 2026 |
-| A-06 | Confirm ICT Developer name for UNIFORM integration (Mark's team) | Mark Pearce | 1 March 2026 |
+Sarah Chen summarised the agreed actions (consolidated in the Action Log below) and confirmed next steps. James Hartley thanked attendees and closed the meeting at 12:05.
 
 [↑ Back to top](#table-of-contents)
 
 ---
 
-## Decisions Made
+## Action Log (This Meeting)
+
+| Ref | Action | Owner | Due date | Priority |
+|---|---|---|---|---|
+| A-01 | Identify and confirm Business Change Manager for project | Sarah Chen / HR | 1 April 2026 | H |
+| A-02 | Arrange supplier contract signing meeting with GovTech and Legal | Sarah Chen | 20 February 2026 | H |
+| A-03 | Confirm first Project Board meeting date (proposed 5 March 2026) with all board members | Sarah Chen | 10 February 2026 | M |
+| A-04 | Brief contact-centre team about the project and redeployment message | Sandra Obi | By end of March 2026 | M |
+| A-05 | Issue Highlight Report No. 1 (baseline report) to agreed distribution list | Sarah Chen | 13 February 2026 | M |
+| A-06 | Confirm ICT Developer name for UNIFORM integration (Mark's team) | Mark Pearce | 1 March 2026 | H |
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## Decisions Record
 
 | Decision | Made by | Date |
 |---|---|---|

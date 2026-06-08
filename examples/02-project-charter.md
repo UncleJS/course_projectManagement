@@ -58,7 +58,7 @@ The Meridian Portal project will deliver a citizen-facing self-service web porta
 | Ref | Objective | Success Measure |
 |---|---|---|
 | OBJ-01 | Deliver a fully operational citizen self-service portal | Portal live and accessible to all Northgate residents by 1 October 2026 |
-| OBJ-02 | Enable digital self-service for planning enquiries, council tax payments, bulky waste bookings, and parking permit renewals | All four service areas available on portal at go-live |
+| OBJ-02 | Enable digital self-service for planning enquiries, council tax payments, waste reporting, and parking permit renewals | All four service areas available on portal at go-live |
 | OBJ-03 | Integrate with the Northgate UNIFORM back-office system | Integration tested and signed off by ICT Manager prior to go-live |
 | OBJ-04 | Achieve project delivery within approved budget | Outturn ≤ £420,000 |
 | OBJ-05 | Complete user acceptance testing with resident involvement | At least 30 residents complete UAT; issues resolved or documented prior to go-live |
@@ -72,8 +72,8 @@ The Meridian Portal project will deliver a citizen-facing self-service web porta
 ### In Scope
 
 - Procurement and configuration of GovTech CivicConnect SaaS platform for Northgate
-- Integration with Northgate UNIFORM back-office system (read data and update status for planning, council tax, bulky waste, parking permits)
-- Four citizen-facing service modules: (1) Planning application tracking, (2) Council tax payment and account management, (3) Bulky waste collection booking, (4) Parking permit renewal
+- Integration with Northgate UNIFORM back-office system (read data and update status for planning, council tax, waste, parking permits)
+- Four citizen-facing service modules: (1) Planning application tracking, (2) Council tax payment and account management, (3) Waste reporting (missed and garden waste), (4) Parking permit renewal
 - User experience design and content writing for all four modules
 - Resident-facing communications and awareness campaign (digital and in-print)
 - Staff training for contact-centre team on portal management and resident support

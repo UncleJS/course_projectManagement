@@ -91,8 +91,8 @@
 | Build and configure CivicConnect platform | C | I | I | C | A/R | — | — |
 | Build Planning Application Tracking module | C | I | C | C | A/R | — | — |
 | Build Council Tax module | C | I | C | C | A/R | — | — |
-| Build Bulky Waste module | C | I | C | C | A/R | — | — |
-| Build Parking Permit module | C | I | C | C | A/R | — | — |
+| Build Missed Waste module | C | I | C | C | A/R | — | — |
+| Build Garden Waste module | C | I | C | C | A/R | — | — |
 | Build and test UNIFORM integration | C | I | I | A/R | R | — | — |
 | Approve build complete (Gate 2) | C | A/R | C | C | I | — | — |
 | **Content and Accessibility** | | | | | | | |

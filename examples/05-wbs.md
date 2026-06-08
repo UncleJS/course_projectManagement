@@ -12,8 +12,8 @@
 
 - [Document Control](#document-control)
 - [WBS Overview](#wbs-overview)
-- [WBS Structure](#wbs-structure)
-- [WBS Dictionary (Selected Entries)](#wbs-dictionary-selected-entries)
+- [WBS — Hierarchical View](#wbs--hierarchical-view)
+- [WBS Dictionary (Work Package Descriptions)](#wbs-dictionary-work-package-descriptions)
   - [1.2.3 — Discovery Report](#123--discovery-report)
   - [1.3.6 — UNIFORM Integration (Tested)](#136--uniform-integration-tested)
   - [1.5.4 — User Acceptance Testing Sign-off](#154--user-acceptance-testing-sign-off)
@@ -27,7 +27,8 @@
 | **Project Title** | Meridian — Citizen Self-Service Portal |
 | **Version** | 1.1 |
 | **Date** | 20 February 2026 |
-| **Owner** | Sarah Chen, Project Manager |
+| **Prepared by** | Sarah Chen, Project Manager |
+| **Approved by** | James Hartley, Sponsor |
 
 [↑ Back to top](#table-of-contents)
 
@@ -43,7 +44,7 @@ The WBS is a hierarchical decomposition of project scope into deliverables. It f
 
 ---
 
-## WBS Structure
+## WBS — Hierarchical View
 
 ```
 1.0  MERIDIAN PORTAL
@@ -67,7 +68,7 @@ The WBS is a hierarchical decomposition of project scope into deliverables. It f
  │    ├── 1.3.1  Configured CivicConnect Platform (test environment)
  │    ├── 1.3.2  Planning Application Tracking Module
  │    ├── 1.3.3  Council Tax Payment and Account Management Module
- │    ├── 1.3.4  Bulky Waste Collection Booking Module
+ │    ├── 1.3.4  Waste Reporting Module (Missed and Garden Waste)
  │    ├── 1.3.5  Parking Permit Renewal Module
  │    └── 1.3.6  UNIFORM Integration (tested)
  │
@@ -98,7 +99,7 @@ The WBS is a hierarchical decomposition of project scope into deliverables. It f
 
 ---
 
-## WBS Dictionary (Selected Entries)
+## WBS Dictionary (Work Package Descriptions)
 
 ### 1.2.3 — Discovery Report
 
@@ -106,7 +107,7 @@ The WBS is a hierarchical decomposition of project scope into deliverables. It f
 |---|---|
 | **WBS Code** | 1.2.3 |
 | **Title** | Discovery Report |
-| **Scope of work** | A report summarising the outputs of the discovery phase: current-state analysis of the four service areas, resident research findings (interviews and surveys), technical integration requirements, and prioritised feature list for the portal. |
+| **Description** | A report summarising the outputs of the discovery phase: current-state analysis of the four service areas, resident research findings (interviews and surveys), technical integration requirements, and prioritised feature list for the portal. |
 | **Acceptance criteria** | (1) Covers all four service modules; (2) Includes at least 15 resident research participants; (3) Identifies and documents all UNIFORM data fields required for each service module; (4) Reviewed and approved by Senior User (Sandra Obi) and Senior Supplier (Mark Pearce); (5) Presented to Project Board at Gate 1. |
 | **Owner** | GovTech Solutions Ltd (with council sign-off) |
 | **Assumptions** | Council staff are available for discovery interviews (estimated 10 interviews across 3 departments). |
@@ -124,7 +125,7 @@ The WBS is a hierarchical decomposition of project scope into deliverables. It f
 |---|---|
 | **WBS Code** | 1.3.6 |
 | **Title** | UNIFORM Integration (Tested) |
-| **Scope of work** | A fully tested, bidirectional integration between the CivicConnect portal and the Northgate UNIFORM back-office system. The integration must enable: (1) portal to read live data from UNIFORM (planning status, council tax balance, parking permit expiry); (2) portal to trigger actions in UNIFORM (payment confirmation, waste booking creation, permit renewal). |
+| **Description** | A fully tested, bidirectional integration between the CivicConnect portal and the Northgate UNIFORM back-office system. The integration must enable: (1) portal to read live data from UNIFORM (planning status, council tax balance, parking permit expiry); (2) portal to trigger actions in UNIFORM (payment confirmation, waste booking creation, permit renewal). |
 | **Acceptance criteria** | (1) All four service modules successfully exchange data with UNIFORM in a test environment; (2) No data loss or corruption in integration tests across 500+ test transactions; (3) Integration does not cause degradation in UNIFORM response times (< 2-second API response time under load); (4) Signed off by Mark Pearce (ICT Manager). |
 | **Owner** | GovTech Solutions Ltd (build) and Mark Pearce / ICT (acceptance) |
 | **Assumptions** | GovTech UNIFORM API connector requires configuration only (ASM-05); ICT test environment is available from July 2026. |
@@ -142,7 +143,7 @@ The WBS is a hierarchical decomposition of project scope into deliverables. It f
 |---|---|
 | **WBS Code** | 1.5.4 |
 | **Title** | User Acceptance Testing Sign-off |
-| **Scope of work** | A formal document confirming that user acceptance testing has been completed satisfactorily. UAT to be conducted by a minimum of 30 Northgate residents (including at least 5 digitally less-confident users) and representatives from the contact-centre team. All Priority 1 (critical) defects resolved before sign-off; Priority 2 defects either resolved or deferred with documented rationale. |
+| **Description** | A formal document confirming that user acceptance testing has been completed satisfactorily. UAT to be conducted by a minimum of 30 Northgate residents (including at least 5 digitally less-confident users) and representatives from the contact-centre team. All Priority 1 (critical) defects resolved before sign-off; Priority 2 defects either resolved or deferred with documented rationale. |
 | **Acceptance criteria** | (1) Minimum 30 residents have completed end-to-end testing of at least one service module; (2) All P1 defects resolved and regression-tested; (3) P2 defect list reviewed and dispositioned; (4) Signed by Sandra Obi (Senior User) and James Hartley (Sponsor). |
 | **Owner** | Sarah Chen (coordination) / Sandra Obi (sign-off authority) |
 | **Assumptions** | Resident UAT panel recruited by August 2026 (Council comms team). |

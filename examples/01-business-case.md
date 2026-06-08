@@ -12,7 +12,7 @@
 
 - [Document Control](#document-control)
 - [1. Executive Summary](#1-executive-summary)
-- [2. Background](#2-background)
+- [2. Background and Context](#2-background-and-context)
   - [Problem Statement](#problem-statement)
   - [Strategic Context](#strategic-context)
   - [Why Now](#why-now)
@@ -27,14 +27,15 @@
 - [7. Costs](#7-costs)
   - [Capital Investment](#capital-investment)
   - [Ongoing Operational Costs (Post Go-Live)](#ongoing-operational-costs-post-go-live)
+- [8. Return on Investment](#8-return-on-investment)
   - [Financial Summary](#financial-summary)
-- [8. Risks](#8-risks)
-- [9. Timescale](#9-timescale)
-- [10. Constraints and Assumptions](#10-constraints-and-assumptions)
+- [9. Risks](#9-risks)
+- [10. Timescale](#10-timescale)
+- [11. Constraints and Assumptions](#11-constraints-and-assumptions)
   - [Constraints](#constraints)
   - [Assumptions](#assumptions)
-- [11. Recommendation](#11-recommendation)
-- [Authorisation](#authorisation)
+- [12. Recommendation](#12-recommendation)
+- [Approval](#approval)
 
 ---
 
@@ -55,13 +56,13 @@
 
 ## 1. Executive Summary
 
-Northgate District Council spends £310,000 per annum handling approximately 14,200 citizen enquiries that are routine and transactional in nature. The Meridian Portal project will deliver a citizen-facing self-service web platform enabling residents to manage planning enquiries, pay council tax, book bulky waste collections, and renew parking permits without staff intervention. Based on a conservative 55% digital deflection rate, the portal is projected to save £123,820 per annum net by Year 2 of operation (£171,820 gross less £48,000 annual running cost), recovering the full investment within about 3.4 years. The project is recommended for approval at a total investment of £420,000.
+Northgate District Council spends £310,000 per annum handling approximately 14,200 citizen enquiries that are routine and transactional in nature. The Meridian Portal project will deliver a citizen-facing self-service web platform enabling residents to manage planning enquiries, pay council tax, report missed and garden waste, and renew parking permits without staff intervention. Based on a conservative 55% digital deflection rate, the portal is projected to save £123,820 per annum net by Year 2 of operation (£171,820 gross less £48,000 annual running cost), recovering the full investment within about 3.4 years. The project is recommended for approval at a total investment of £420,000.
 
 [↑ Back to top](#table-of-contents)
 
 ---
 
-## 2. Background
+## 2. Background and Context
 
 ### Problem Statement
 
@@ -171,6 +172,12 @@ Transfer the contact-centre function to a shared-service provider. Estimated sav
 | Internal support and administration | 12,000 |
 | **Total annual running cost** | **48,000** |
 
+[↑ Back to top](#table-of-contents)
+
+---
+
+## 8. Return on Investment
+
 ### Financial Summary
 
 | Year | Investment (£) | Saving (£) | Net position (£) | Cumulative (£) |
@@ -189,7 +196,7 @@ Transfer the contact-centre function to a shared-service provider. Estimated sav
 
 ---
 
-## 8. Risks
+## 9. Risks
 
 | Risk | Likelihood | Impact | Mitigation |
 |---|---|---|---|
@@ -205,7 +212,7 @@ Full detail in the project Risk Register (see [`14-risk-register.md`](14-risk-re
 
 ---
 
-## 9. Timescale
+## 10. Timescale
 
 | Milestone | Target Date |
 |---|---|
@@ -221,7 +228,7 @@ Full detail in the project Risk Register (see [`14-risk-register.md`](14-risk-re
 
 ---
 
-## 10. Constraints and Assumptions
+## 11. Constraints and Assumptions
 
 ### Constraints
 
@@ -240,7 +247,7 @@ Full detail in the project Risk Register (see [`14-risk-register.md`](14-risk-re
 
 ---
 
-## 11. Recommendation
+## 12. Recommendation
 
 The business case for the Meridian Portal is strong. The investment is proportionate, the risks are manageable, the technology is proven, and the project directly delivers against the Council Plan 2024–2028 commitment to digital service transformation.
 
@@ -250,7 +257,7 @@ The business case for the Meridian Portal is strong. The investment is proportio
 
 ---
 
-## Authorisation
+## Approval
 
 | Role | Name | Signature | Date |
 |---|---|---|---|
