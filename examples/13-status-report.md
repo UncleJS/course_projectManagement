@@ -11,16 +11,18 @@
 ## Table of Contents
 
 - [Document Control](#document-control)
-- [RAG Status Summary](#rag-status-summary)
+- [Overall RAG Status](#overall-rag-status)
+  - [RAG Definitions](#rag-definitions)
 - [Period Summary](#period-summary)
 - [Progress This Period (2–8 May 2026)](#progress-this-period-28-may-2026)
 - [Planned for Next Period (9 May – 5 June 2026)](#planned-for-next-period-9-may--5-june-2026)
 - [Financials](#financials)
   - [Earned Value Management (EVM) Summary](#earned-value-management-evm-summary)
-- [Top Risks](#top-risks)
-- [Open Issues](#open-issues)
-- [Decisions Required from Sponsor/Project Board](#decisions-required-from-sponsorproject-board)
-- [Notes](#notes)
+- [Risks (Top 3 Active Risks)](#risks-top-3-active-risks)
+- [Issues (Open Issues)](#issues-open-issues)
+- [Decisions Required from Sponsor / Board](#decisions-required-from-sponsor--board)
+- [Change Requests Status](#change-requests-status)
+- [Notes / Commentary](#notes--commentary)
 
 ---
 
@@ -39,7 +41,7 @@
 
 ---
 
-## RAG Status Summary
+## Overall RAG Status
 
 | Dimension | RAG | Notes |
 |---|---|---|
@@ -50,7 +52,13 @@
 | **Risk** | 🟡 AMBER | RSK-01 partially materialised (parking permits); full picture emerging |
 | **Stakeholders** | 🟢 GREEN | Contact-centre team briefed; BCM (Diane Hughes) confirmed |
 
-> **RAG Definitions:** 🟢 GREEN = On track; 🟡 AMBER = Under pressure / manageable risk; 🔴 RED = Off track; requires escalation / corrective action.
+### RAG Definitions
+
+| Status | Meaning |
+|---|---|
+| 🟢 **Green** | On track; no significant issues |
+| 🟡 **Amber** | Under pressure / manageable risk; sponsor should be aware |
+| 🔴 **Red** | Off track; requires escalation / corrective action |
 
 [↑ Back to top](#table-of-contents)
 
@@ -85,8 +93,8 @@ One significant issue emerged during discovery: the UNIFORM system does not expo
 - GovTech Development Sprint 1: Planning application tracking module build begins
 - ICT Developer (Tom Okafor) begins UNIFORM integration configuration for planning module
 - Business Change Manager (Diane Hughes) begins staff engagement planning
-- CR-003 finalised and submitted to Project Board
-- Project Board Meeting 4 — 4 June 2026
+- CR-003 prepared for submission to the July Project Board once integration testing confirms the UNIFORM limitation
+- Project Board Meeting 4 — 4 June 2026 (routine progress review)
 
 [↑ Back to top](#table-of-contents)
 
@@ -122,7 +130,7 @@ One significant issue emerged during discovery: the UNIFORM system does not expo
 
 ---
 
-## Top Risks
+## Risks (Top 3 Active Risks)
 
 | Ref | Risk | Current score | Trend | Response |
 |---|---|---|---|---|
@@ -134,7 +142,7 @@ One significant issue emerged during discovery: the UNIFORM system does not expo
 
 ---
 
-## Open Issues
+## Issues (Open Issues)
 
 | ID | Issue | Severity | Owner | Status |
 |---|---|---|---|---|
@@ -144,15 +152,25 @@ One significant issue emerged during discovery: the UNIFORM system does not expo
 
 ---
 
-## Decisions Required from Sponsor/Project Board
+## Decisions Required from Sponsor / Board
 
-1. **CR-003 (Parking Permit Deferral)** — Decision required by Project Board by **4 June 2026** (Project Board Meeting 4). Full change request will be circulated by 26 May 2026.
+1. **CR-003 (Parking Permit Deferral)** — A formal Change Request will be prepared once early integration testing confirms the UNIFORM limitation, and submitted to the **July Project Board** for decision. The Board is asked to note the emerging issue now and the intended deferral approach.
 
 [↑ Back to top](#table-of-contents)
 
 ---
 
-## Notes
+## Change Requests Status
+
+| CR No. | Description | Status | Cost impact (£) | Schedule impact |
+|---|---|---|---|---|
+| CR-003 (draft) | Defer parking permit module to Phase 2 (UNIFORM API limitation) | In preparation — to July Project Board | −£18,000 (released from build scope) | None — go-live date protected |
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## Notes / Commentary
 
 The project is in a solid position at Gate 1. The parking permit issue, while significant, was identified early through rigorous technical discovery — exactly as intended. The recommended response (deferral to Phase 2) is proportionate and protects the go-live date. The remaining three service modules have no equivalent UNIFORM compatibility issues.
 

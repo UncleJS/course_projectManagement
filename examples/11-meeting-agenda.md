@@ -12,11 +12,12 @@
 
 - [Meeting Details](#meeting-details)
 - [Attendees](#attendees)
-- [Purpose](#purpose)
-- [Pre-reading](#pre-reading)
+- [Meeting Purpose](#meeting-purpose)
+- [Pre-reading / Preparation](#pre-reading--preparation)
 - [Agenda](#agenda)
-- [Decisions Required at This Meeting](#decisions-required-at-this-meeting)
-- [Ground Rules](#ground-rules)
+  - [Item Types](#item-types)
+- [Decisions Required](#decisions-required)
+- [Ground Rules (standing)](#ground-rules-standing)
 
 ---
 
@@ -27,9 +28,9 @@
 | **Meeting title** | Meridian Portal — Project Kick-off Meeting |
 | **Date** | Thursday 5 February 2026 |
 | **Time** | 10:00 – 12:00 |
-| **Location** | Council Chamber Room 2B / MS Teams (hybrid) |
-| **Facilitator** | Sarah Chen, Project Manager |
-| **Note-taker** | Diane Hughes, Digital Comms |
+| **Location / link** | Council Chamber Room 2B / MS Teams (hybrid) |
+| **Chair** | Sarah Chen, Project Manager |
+| **Note-taker** | Diane Hughes, Business Change Manager |
 
 [↑ Back to top](#table-of-contents)
 
@@ -54,7 +55,7 @@
 
 ---
 
-## Purpose
+## Meeting Purpose
 
 To formally launch the Meridian Portal project; align all stakeholders on the project objectives, scope, and approach; confirm roles and responsibilities; and set up the working arrangements that will govern the project.
 
@@ -62,7 +63,7 @@ To formally launch the Meridian Portal project; align all stakeholders on the pr
 
 ---
 
-## Pre-reading
+## Pre-reading / Preparation
 
 Attendees are asked to read the following before the meeting:
 
@@ -78,22 +79,31 @@ Attendees are asked to read the following before the meeting:
 
 ## Agenda
 
-| # | Item | Owner | Time |
-|---|---|---|---|
-| 1 | Welcome and introductions | James Hartley (Sponsor) | 10:00 – 10:10 |
-| 2 | Why this project matters — strategic context and business case | James Hartley | 10:10 – 10:25 |
-| 3 | Project scope and objectives walkthrough | Sarah Chen | 10:25 – 10:45 |
-| 4 | Roles and responsibilities (RACI overview) | Sarah Chen | 10:45 – 10:55 |
-| 5 | Project approach and key milestones | Sarah Chen | 10:55 – 11:10 |
-| 6 | Governance: how we will manage this project | Sarah Chen | 11:10 – 11:25 |
-| 7 | Q&A and open discussion | All | 11:25 – 11:50 |
-| 8 | Actions, next steps, and close | Sarah Chen | 11:50 – 12:00 |
+| # | Item | Lead | Type | Time |
+|---|---|---|---|---|
+| 1 | Welcome and introductions | James Hartley (Sponsor) | Admin | 10:00 – 10:10 |
+| 2 | Why this project matters — strategic context and business case | James Hartley | FYI | 10:10 – 10:25 |
+| 3 | Project scope and objectives walkthrough | Sarah Chen | Discussion | 10:25 – 10:45 |
+| 4 | Roles and responsibilities (RACI overview) | Sarah Chen | Discussion | 10:45 – 10:55 |
+| 5 | Project approach and key milestones | Sarah Chen | Discussion | 10:55 – 11:10 |
+| 6 | Governance: how we will manage this project | Sarah Chen | Discussion | 11:10 – 11:25 |
+| 7 | Q&A and open discussion | All | Discussion | 11:25 – 11:50 |
+| 8 | Actions, next steps, and close | Sarah Chen | **Decision** | 11:50 – 12:00 |
+
+### Item Types
+
+| Type | What is expected |
+|---|---|
+| **FYI** | Information only — no discussion required |
+| **Discussion** | Input sought; no decision required at this meeting |
+| **Decision** | A specific decision must be made and recorded |
+| **Admin** | Meeting administration (welcome, actions, close) |
 
 [↑ Back to top](#table-of-contents)
 
 ---
 
-## Decisions Required at This Meeting
+## Decisions Required
 
 1. Formal confirmation by Sponsor that the project is authorised to proceed (Project Charter already signed; verbal affirmation in front of the group).
 2. Agreement on the fortnightly Highlight Report distribution list.
@@ -103,7 +113,7 @@ Attendees are asked to read the following before the meeting:
 
 ---
 
-## Ground Rules
+## Ground Rules (standing)
 
 - Please arrive (or connect) on time.
 - All devices on silent; limit laptop use to note-taking.
