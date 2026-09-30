@@ -27,7 +27,7 @@
 |---|---|
 | **Project Title** | Meridian — Citizen Self-Service Portal |
 | **Version** | 1.1 |
-| **Date** | February 14, 2026 |
+| **Date** | February 13, 2026 |
 | **Owner** | Sarah Chen, Project Manager |
 | **Review frequency** | Monthly at Project Board; immediately when status changes |
 
@@ -49,7 +49,7 @@
 | ID | Date raised | Assumption statement | Basis | Confidence (H/M/L) | Impact if wrong | Owner | Review date | Status | Associated risks |
 |---|---|---|---|---|---|---|---|---|---|
 | ASM-01 | January 14, 2026 | The GovTech Solutions framework agreement (awarded 2024) remains valid and can be used for this project without a new competitive tender | GovTech framework awarded 2024; Legal review | H | New competitive tender required — 3–4 month delay | Claire Worthington / Sarah Chen | N/A (confirmed) | Confirmed — Legal verified January 28, 2026 | None |
-| ASM-02 | January 14, 2026 | ICT team can provide 0.4 FTE to LandWorks integration work from June through August 2026 | Verbal agreement with ICT; not yet allocated in resource plan | M | Integration work delayed; Gate 2 at risk | Mark Pearce | March 7, 2026 | Open | RSK-03 |
+| ASM-02 | January 14, 2026 | ICT team can provide 0.4 FTE to LandWorks integration work from June through August 2026 | Verbal agreement with ICT; not yet allocated in resource plan | M | Integration work delayed; Gate 2 at risk | Mark Pearce | March 6, 2026 | Open | RSK-03 |
 | ASM-03 | January 14, 2026 | 89% internet access rate in the City of Northgate (U.S. Census Bureau 2024 data) supports a 55% digital deflection target | U.S. Census Bureau 2024 published data; not tested against Northgate-specific demographics | M | Deflection target missed; benefits shortfall | Digital Services | April 2027 (PIR) | Open | RSK-05 |
 | ASM-04 | January 14, 2026 | Staff released from contact-center transaction handling will be redeployable within the city — no layoff costs anticipated | HR verbal agreement; not yet documented in workforce plan | M | Layoff costs; benefits case weakened | Sandra Obi / HR | April 2026 | Open | RSK-04 |
 | ASM-05 | February 3, 2026 | GovTech CivicConnect API connector for Northgate LandWorks is available as a pre-built integration and requires only configuration, not custom development | GovTech pre-sales confirmation; to be validated in Discovery | M | Custom development needed; cost and schedule overrun | Mark Pearce / GovTech | May 8, 2026 (Gate 1) | Open | RSK-01 |
@@ -110,7 +110,7 @@ All assumptions must be reviewed at each Gate review. By Gate 1 (May 8, 2026), A
 | Version | Date | Changed by | Summary of change |
 |---|---|---|---|
 | 1.0 | January 14, 2026 | Sarah Chen | Initial version — assumptions and constraints captured at business case approval |
-| 1.1 | February 14, 2026 | Sarah Chen | Added ASM-05–07 and CON-03–06 after charter approval; ASM-01 and ASM-06 confirmed |
+| 1.1 | February 13, 2026 | Sarah Chen | Added ASM-05–07 and CON-03–06 after charter approval; ASM-01 and ASM-06 confirmed |
 
 [↑ Back to top](#table-of-contents)
 

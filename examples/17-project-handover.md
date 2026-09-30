@@ -184,7 +184,7 @@ All project and operational documentation has been archived in City of Northgate
 | Privacy Impact Assessment | 1.0 | Meridian/Data Protection |
 | Risk Register (final) | 2.3 | Meridian/Risk and Issues |
 | Change Log (final) | 1.5 | Meridian/Change Control |
-| Issue log (snapshot v1.4, August 15, 2026) | 1.4 | Meridian/Risk and Issues |
+| Issue log (snapshot v1.4, August 14, 2026) | 1.4 | Meridian/Risk and Issues |
 | Lessons Learned Log (final) | 1.0 | Meridian/Lessons / PMO |
 | UAT Test Report | 1.0 | Meridian/Quality |
 | Accessibility Audit Report | 2.0 | Meridian/Quality |

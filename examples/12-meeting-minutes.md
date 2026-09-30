@@ -199,7 +199,7 @@ Sarah Chen summarized the agreed actions (consolidated in the Action Log below) 
 | A-03 | Confirm first Project Board meeting date (proposed March 5, 2026) with all board members | Sarah Chen | February 10, 2026 | M |
 | A-04 | Brief contact-center team about the project and redeployment message | Sandra Obi | By end of March 2026 | M |
 | A-05 | Issue Highlight Report No. 1 (baseline report) to agreed distribution list | Sarah Chen | February 13, 2026 | M |
-| A-06 | Confirm ICT Developer name for LandWorks integration (Mark's team) | Mark Pearce | March 1, 2026 | H |
+| A-06 | Confirm ICT Developer name for LandWorks integration (Mark's team) | Mark Pearce | March 2, 2026 | H |
 
 [↑ Back to top](#table-of-contents)
 

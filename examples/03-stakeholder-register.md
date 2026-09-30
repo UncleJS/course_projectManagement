@@ -24,7 +24,7 @@
 |---|---|
 | **Project Title** | Meridian — Citizen Self-Service Portal |
 | **Version** | 1.2 |
-| **Date** | February 14, 2026 |
+| **Date** | February 13, 2026 |
 | **Owner** | Sarah Chen, Project Manager |
 | **Review frequency** | Monthly (or after any significant stakeholder event) |
 

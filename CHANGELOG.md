@@ -1,7 +1,7 @@
 # Changelog
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
-![Version](https://img.shields.io/badge/Version-2.3.9-blue)
+![Version](https://img.shields.io/badge/Version-2.3.10-blue)
 ![Keep a Changelog](https://img.shields.io/badge/Keep%20a%20Changelog-1.1.0-orange)
 ![Semantic Versioning](https://img.shields.io/badge/Semver-2.0.0-informational)
 
@@ -19,6 +19,7 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## Table of Contents
 
 - [Unreleased](#unreleased)
+- [2.3.10 — 2026-09-30](#2310--2026-09-30)
 - [2.3.9 — 2026-09-30](#239--2026-09-30)
 - [2.3.8 — 2026-09-30](#238--2026-09-30)
 - [2.3.7 — 2026-09-30](#237--2026-09-30)
@@ -43,6 +44,20 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## [Unreleased]
 
 *No unreleased changes.*
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## [2.3.10] — 2026-09-30
+
+Moved Meridian work off weekend dates that were not required by a day count. Historical notes in this changelog, and the v2.1.3 findings in `COURSE-REVIEW.md`, are unchanged.
+
+### Fixed
+
+- **Business days.** The ICT developer was due on Monday, March 2. ISS-01 was raised on Monday, March 9, and ISS-02 on Monday, April 6. The privacy assessment was completed on Monday, May 4. The accessibility audit was planned for Monday, September 7, and held on Tuesday, September 8. The May status report covers Monday, May 4, through Friday, May 8, and the next period starts Monday, May 11. The stakeholder register and the assumption log are dated Friday, February 13. The mid-project logs are dated Friday, August 14.
+- **Day-count dates.** October 31 remains closure: Saturday, month-end, and day 30 after October 1. November 15 remains the planned hypercare end from October 1, and November 22 remains the actual hypercare end from October 8. Both are Sundays because 45 days after a Thursday lands on Sunday.
+- **Audits.** None of the three formal audits hit its planned date. The quality register and the closure report use the business-day dates above.
 
 [↑ Back to top](#table-of-contents)
 
