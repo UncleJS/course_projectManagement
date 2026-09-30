@@ -116,7 +116,7 @@ Sarah Chen walked through the Project Charter scope sections:
 - Mobile app
 - LandWorks system changes beyond integration points
 
-*Mark Pearce asked for clarification on the LandWorks integration: "We need to be very careful about what we change in LandWorks — it underpins eight other city systems." Sarah confirmed the scope is read-only plus payment confirmation triggers, and that a detailed integration specification will be produced in the Discovery phase. Mark acknowledged this as acceptable.*
+*Mark Pearce asked for clarification on the LandWorks integration: "We need to be very careful about what we change in LandWorks — it underpins eight other city systems." Sarah confirmed that LandWorks scope is read access for planning and parking-permit data, plus status updates at the agreed touchpoints. Waste uses Civica Waste. Property tax payments use Harbor Payments. A detailed integration specification will be produced in the Discovery phase. Mark acknowledged this as acceptable.*
 
 *Sandra Obi raised a concern about the property tax module — residents occasionally have complex accounts (multiple properties, split liability). She asked whether the portal would handle edge cases. Sarah Chen confirmed that the portal will handle standard accounts initially; complex cases will remain via the contact center. This is reflected in the out-of-scope section.*
 

@@ -127,7 +127,7 @@ Transfer the contact-center function to a shared-service provider. Estimated sav
 - Procurement route already established; no competitive tender required under the framework agreement.
 - Shorter timeline (9 months vs 18 months for bespoke build) reduces exposure.
 - Lower total cost than bespoke development.
-- Integrates with the existing Northgate LandWorks back-office system via a supported API connector.
+- Integrates with LandWorks (planning and parking permits), Civica Waste (missed trash and yard waste), and Harbor Payments (property tax payments).
 
 [↑ Back to top](#table-of-contents)
 
@@ -234,7 +234,7 @@ Full detail in the project Risk Register (see [`14-risk-register.md`](14-risk-re
 
 - Budget ceiling: $420,000 (including contingency). No additional funding is available.
 - Go-live date: October 1, 2026 is fixed — it aligns with the city's new fiscal-year contact volume reporting cycle.
-- Platform must integrate with the existing Northgate LandWorks system (no replacement of back-office system in scope).
+- Platform must integrate with LandWorks, Civica Waste, and Harbor Payments (no replacement of those back-office systems).
 
 ### Assumptions
 

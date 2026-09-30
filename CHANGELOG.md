@@ -1,7 +1,7 @@
 # Changelog
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
-![Version](https://img.shields.io/badge/Version-2.3.15-blue)
+![Version](https://img.shields.io/badge/Version-2.3.16-blue)
 ![Keep a Changelog](https://img.shields.io/badge/Keep%20a%20Changelog-1.1.0-orange)
 ![Semantic Versioning](https://img.shields.io/badge/Semver-2.0.0-informational)
 
@@ -19,6 +19,7 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## Table of Contents
 
 - [Unreleased](#unreleased)
+- [2.3.16 — 2026-09-30](#2316--2026-09-30)
 - [2.3.15 — 2026-09-30](#2315--2026-09-30)
 - [2.3.14 — 2026-09-30](#2314--2026-09-30)
 - [2.3.13 — 2026-09-30](#2313--2026-09-30)
@@ -49,6 +50,20 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## [Unreleased]
 
 *No unreleased changes.*
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## [2.3.16] — 2026-09-30
+
+Named the three back-office integrations in the early Meridian documents. Historical notes in this changelog, and the v2.1.3 findings in `COURSE-REVIEW.md`, are unchanged.
+
+### Fixed
+
+- **Integrations.** The charter, the business case, the kick-off minutes, and WBS 1.3.6 name LandWorks for planning and parking permits, Civica Waste for missed trash and yard waste, and Harbor Payments for property tax payments. The $48,000 ICT integration line stays labeled LandWorks.
+- **Training scope.** The charter names staff training for the 54 in-scope service staff.
+- **Discovery research.** The lesson records 15 residents and 8 planning officers, meeting the Discovery Report criterion. The UAT count of 12 resident testers is unchanged.
 
 [↑ Back to top](#table-of-contents)
 

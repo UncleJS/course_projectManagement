@@ -125,8 +125,8 @@ The WBS is a hierarchical decomposition of project scope into deliverables. It f
 |---|---|
 | **WBS Code** | 1.3.6 |
 | **Title** | LandWorks Integration (Tested) |
-| **Description** | A fully tested, bidirectional integration between the CivicConnect portal and the Northgate LandWorks back-office system. The integration must enable: (1) portal to read live data from LandWorks (planning status, property tax balance, parking permit expiry); (2) portal to trigger actions in LandWorks (payment confirmation, waste booking creation, permit renewal). |
-| **Acceptance criteria** | (1) All four service modules successfully exchange data with LandWorks in a test environment; (2) No data loss or corruption in integration tests across 500+ test transactions; (3) Integration does not cause degradation in LandWorks response times (< 2-second API response time under load); (4) Signed off by Mark Pearce (ICT Manager). |
+| **Description** | Tested integrations for the four service modules. LandWorks supplies planning status and parking-permit data. Civica Waste handles missed-trash reports and yard-waste renewals. Harbor Payments handles property tax payments. |
+| **Acceptance criteria** | (1) Planning and parking-permit data exchange with LandWorks; missed trash and yard waste exchange with Civica Waste; property tax payments exchange with Harbor Payments; (2) No data loss or corruption in integration tests across 500+ test transactions; (3) Integration does not cause degradation in LandWorks response times (< 2-second API response time under load); (4) Signed off by Mark Pearce (ICT Manager). |
 | **Owner** | GovTech Solutions Inc. (build) and Mark Pearce / ICT (acceptance) |
 | **Assumptions** | GovTech LandWorks API connector requires configuration only (ASM-05); ICT test environment is available from July 2026. |
 | **Estimated duration** | 8 weeks build + 2 weeks test (June – August 2026) |

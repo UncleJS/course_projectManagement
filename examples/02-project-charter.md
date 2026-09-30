@@ -72,11 +72,11 @@ The Meridian Portal project will deliver a citizen-facing self-service web porta
 ### In Scope
 
 - Procurement and configuration of GovTech CivicConnect SaaS platform for Northgate
-- Integration with Northgate LandWorks back-office system (read data and update status for planning, property tax, waste, parking permits)
+- Integration with LandWorks (planning and parking permits), Civica Waste (missed trash and yard waste), and Harbor Payments (property tax payments)
 - Four citizen-facing service modules: (1) Planning and zoning application tracking, (2) Property tax payment and account management, (3) Waste reporting (missed trash and yard waste), (4) Parking permit renewal
 - User experience design and content writing for all four modules
 - Resident-facing communications and awareness campaign (digital and in-print)
-- Staff training for contact-center team on portal management and resident support
+- Staff training for the 54 in-scope service staff on portal use and resident support
 - User acceptance testing with resident panel
 - Post-go-live hypercare support (30 days)
 
@@ -86,7 +86,7 @@ The Meridian Portal project will deliver a citizen-facing self-service web porta
 - Online planning and zoning application submission (this is a future phase — Phase 2)
 - Housing repairs or housing benefit inquiries (separate project — Housing Digital)
 - Mobile app development (web-responsive portal only in this phase)
-- Integration with any system other than LandWorks
+- Integration with any system other than LandWorks, Civica Waste, and Harbor Payments
 
 [↑ Back to top](#table-of-contents)
 
