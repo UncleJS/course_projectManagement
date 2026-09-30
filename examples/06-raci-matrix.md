@@ -80,7 +80,7 @@
 | Convene and chair Project Board | C | A/R | C | C | — | — | — |
 | Approve changes (zero cost) | A/R | I | C | C | I | — | — |
 | Approve changes (≤$20k, cost impact) | C | A/R | C | C | I | — | — |
-| Approve changes (>$20k) | C | A/R | C | C | I | — | — |
+| Approve changes (>$20k) | C | A | R | R | I | — | — |
 | **Initiation and Design** | | | | | | | |
 | Sign supplier contract | C | A/R | — | C | R | — | — |
 | Complete Privacy Impact Assessment | R | I | I | C | C | — | A |
@@ -127,6 +127,7 @@
 - **Chief Privacy Officer** involvement is limited to the PIA and any data-related decisions. No ongoing project management accountability.
 - **BCM** (Business Change Manager) is primarily responsible for staff engagement and resident communications — they share the delivery of training with Sandra Obi's team.
 - Where SC (PM) is A/R on a task, this reflects delivery accountability. For deliverables owned by GT (GovTech), SC remains accountable to the Project Board but GovTech does the work.
+- Changes above $20,000 are a Project Board decision. James Hartley is accountable as chair. Sandra Obi and Mark Pearce must approve with him.
 
 [↑ Back to top](#table-of-contents)
 

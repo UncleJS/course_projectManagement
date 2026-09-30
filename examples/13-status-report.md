@@ -76,7 +76,7 @@ Parking-permit renewal is still in Phase 1 scope. Whether LandWorks can supply p
 
 ## Progress This Period (April 27 – May 8, 2026)
 
-Highlight reports are issued every two weeks, on Friday. Report No. 1 was February 13, 2026, so this Friday, May 8 report is No. 7. The period is the working fortnight since Report No. 6 on April 24.
+Highlight reports are issued every two weeks, on Friday. Report No. 1 was February 13, 2026, so this Friday, May 8 report is No. 7. The period is the working fortnight since Report No. 6 on April 24. Sarah Chen was on leave April 27–May 1, and that week had no critical-path work. The achievements below are from May 4–8, after she returned.
 
 - ✅ Project Board Meeting 3 held May 7, 2026 (first Thursday of the month)
 - ✅ Gate 1 review conducted and passed (May 8, 2026)

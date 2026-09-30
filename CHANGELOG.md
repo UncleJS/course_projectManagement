@@ -1,7 +1,7 @@
 # Changelog
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
-![Version](https://img.shields.io/badge/Version-2.3.12-blue)
+![Version](https://img.shields.io/badge/Version-2.3.13-blue)
 ![Keep a Changelog](https://img.shields.io/badge/Keep%20a%20Changelog-1.1.0-orange)
 ![Semantic Versioning](https://img.shields.io/badge/Semver-2.0.0-informational)
 
@@ -19,6 +19,7 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## Table of Contents
 
 - [Unreleased](#unreleased)
+- [2.3.13 — 2026-09-30](#2313--2026-09-30)
 - [2.3.12 — 2026-09-30](#2312--2026-09-30)
 - [2.3.11 — 2026-09-30](#2311--2026-09-30)
 - [2.3.10 — 2026-09-30](#2310--2026-09-30)
@@ -46,6 +47,20 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## [Unreleased]
 
 *No unreleased changes.*
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## [2.3.13] — 2026-09-30
+
+Aligned the Project Board with the charter. Historical notes in this changelog, and the v2.1.3 findings in `COURSE-REVIEW.md`, are unchanged.
+
+### Fixed
+
+- **Chair.** James Hartley chairs the Project Board. Sarah Chen prepares the papers. The communications plan matches the charter, the kick-off minutes, and the RACI matrix.
+- **Changes above $20,000.** The RACI matrix records these as a Project Board decision. James Hartley is accountable as chair. Sandra Obi and Mark Pearce must approve with him.
+- **Leave.** Highlight Report No. 7 notes that Sarah Chen was on leave April 27–May 1. The achievements in that report are from May 4–8.
 
 [↑ Back to top](#table-of-contents)
 
