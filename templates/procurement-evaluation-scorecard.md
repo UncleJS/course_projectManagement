@@ -17,7 +17,7 @@
 - [Section 3 — Combined Evaluation](#section-3--combined-evaluation)
 - [Section 4 — Moderation Record](#section-4--moderation-record)
 - [Section 5 — Selection Decision](#section-5--selection-decision)
-- [Authorisation](#authorisation)
+- [Authorization](#authorization)
 
 ---
 
@@ -82,7 +82,7 @@
 
 **Bidder name**: ___________________________
 
-| Item | Bidder total price (£) | Notes |
+| Item | Bidder total price ($) | Notes |
 |---|---|---|
 | Total tendered price | | |
 | Year 1 operating cost | | |
@@ -94,7 +94,7 @@
 - [ ] Fixed price evaluation against budget envelope
 - [ ] Other (describe): ___________________________
 
-| Bidder | Total price (£) | Commercial score (0–100) |
+| Bidder | Total price ($) | Commercial score (0–100) |
 |---|---|---|
 | | | |
 | | | |
@@ -148,7 +148,7 @@
 
 [↑ Back to top](#table-of-contents)
 
-## Authorisation
+## Authorization
 
 | Role | Name | Signature | Date |
 |---|---|---|---|

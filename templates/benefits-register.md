@@ -15,7 +15,7 @@
 - [Benefits Register](#benefits-register)
 - [Status Values](#status-values)
 - [Financial Benefits Summary](#financial-benefits-summary)
-- [Benefits Realisation Milestones](#benefits-realisation-milestones)
+- [Benefits Realization Milestones](#benefits-realization-milestones)
 - [Post-Implementation Review (PIR) Summary](#post-implementation-review-pir-summary)
 
 ---
@@ -40,8 +40,8 @@
 |---|---|
 | **Financial — cashable** | Savings that can be removed from budget or headcount |
 | **Financial — non-cashable** | Efficiency gains not directly removed from budget (e.g., time released) |
-| **Non-financial — quantifiable** | Measurable but not in £ (e.g., processing time, error rate, satisfaction score) |
-| **Non-financial — qualitative** | Measurable only by assessment or judgement (e.g., improved public trust, staff morale) |
+| **Non-financial — quantifiable** | Measurable but not in $ (e.g., processing time, error rate, satisfaction score) |
+| **Non-financial — qualitative** | Measurable only by assessment or judgment (e.g., improved public trust, staff morale) |
 
 ---
 
@@ -66,11 +66,11 @@
 | Status | Meaning |
 |---|---|
 | Not yet measurable | Project not yet delivered; benefit cannot yet be measured |
-| In realisation | Project delivered; benefit measurement underway |
-| On track | Measurement shows progress towards target |
+| In realization | Project delivered; benefit measurement underway |
+| On track | Measurement shows progress toward target |
 | At risk | Measurement shows benefit may not be achieved |
 | Achieved | Target measure met and sustained |
-| Not achieved | Benefit not realised; lessons captured |
+| Not achieved | Benefit not realized; lessons captured |
 | Superseded | Benefit definition changed; see revised entry |
 
 ---
@@ -79,7 +79,7 @@
 
 ## Financial Benefits Summary
 
-| Benefit ID | Year 1 (£) | Year 2 (£) | Year 3 (£) | Total (£) |
+| Benefit ID | Year 1 ($) | Year 2 ($) | Year 3 ($) | Total ($) |
 |---|---|---|---|---|
 | BEN-01 | | | | |
 | BEN-02 | | | | |
@@ -89,7 +89,7 @@
 
 [↑ Back to top](#table-of-contents)
 
-## Benefits Realisation Milestones
+## Benefits Realization Milestones
 
 | Milestone | Date | Description | Owner |
 |---|---|---|---|
@@ -111,7 +111,7 @@
 |---|---|
 | **PIR date** | |
 | **PIR lead** | |
-| **Total financial benefits achieved (£)** | |
+| **Total financial benefits achieved ($)** | |
 | **Benefits on track** | |
 | **Benefits at risk** | |
 | **Benefits not achieved** | |

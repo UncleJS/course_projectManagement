@@ -5,7 +5,7 @@
 ![Level](https://img.shields.io/badge/Level-Mixed%2FGeneral-green)
 ![Author](https://img.shields.io/badge/Author-UncleJs-orange)
 
-> **A project manager who masters one knowledge area is a specialist. One who integrates all of them — adapting to context, reading the environment, and making sound judgements under uncertainty — is a professional.** This module brings together integration management, organisational change, and hybrid/agile delivery.
+> **A project manager who masters one knowledge area is a specialist. One who integrates all of them — adapting to context, reading the environment, and making sound judgments under uncertainty — is a professional.** This module brings together integration management, organizational change, and hybrid/agile delivery.
 
 > **This module is Part 1 of the Capstone.** See also: [Module 15b — Professional Practice and Career Development](15b-professional-practice.md)
 
@@ -17,10 +17,10 @@
   - [What Integration Means in Practice](#what-integration-means-in-practice)
   - [The Project Management Plan as an Integrated Document](#the-project-management-plan-as-an-integrated-document)
   - [Integrated Change Control](#integrated-change-control)
-  - [Project Work Authorisation](#project-work-authorisation)
-- [2. Organisational Change vs Project Change Control](#2-organisational-change-vs-project-change-control)
+  - [Project Work Authorization](#project-work-authorization)
+- [2. Organizational Change vs Project Change Control](#2-organizational-change-vs-project-change-control)
   - [Project Change Control](#project-change-control)
-  - [Organisational Change Management](#organisational-change-management)
+  - [Organizational Change Management](#organizational-change-management)
   - [Why Both Matter](#why-both-matter)
 - [3. Hybrid and Adaptive Approaches](#3-hybrid-and-adaptive-approaches)
   - [The Waterfall–Agile Spectrum](#the-waterfallagile-spectrum)
@@ -35,7 +35,7 @@
   - [SAFe (Scaled Agile Framework)](#safe-scaled-agile-framework)
   - [LeSS (Large-Scale Scrum)](#less-large-scale-scrum)
   - [Practical Scaling Principles](#practical-scaling-principles)
-- [Artefacts](#artefacts)
+- [Artifacts](#artifacts)
 - [Exercises](#exercises)
   - [Exercise 1 — Integration Failure Analysis](#exercise-1--integration-failure-analysis)
   - [Exercise 2 — Lifecycle Selection](#exercise-2--lifecycle-selection)
@@ -119,7 +119,7 @@ mindmap
       Engagement plan
       Power/Interest
     Benefits
-      Realisation plan
+      Realization plan
       Measurement
 ```
 *All subsidiary plans feed into — and must remain consistent with — the integrated Project Management Plan.*
@@ -137,19 +137,19 @@ Any proposed change to a project baseline passes through **Integrated Change Con
 
 The word "integrated" is critical — a scope change that is approved without assessing its cost, schedule, and risk implications is not change control; it is wishful thinking.
 
-### Project Work Authorisation
+### Project Work Authorization
 
-Work should only proceed when formally authorised. The **Work Authorisation System** ensures that:
+Work should only proceed when formally authorized. The **Work Authorization System** ensures that:
 
 - The right work is done at the right time in the right sequence.
 - No work begins outside the approved baseline.
-- Work package owners know when they are authorised to start and what the criteria for completion are.
+- Work package owners know when they are authorized to start and what the criteria for completion are.
 
 [↑ Back to top](#table-of-contents)
 
 ---
 
-## 2. Organisational Change vs Project Change Control
+## 2. Organizational Change vs Project Change Control
 
 A frequent point of confusion: there are two distinct disciplines called "change management" that intersect in project environments.
 
@@ -162,26 +162,26 @@ Covered extensively in Module 05 and Module 06. This is the process for managing
 - Approved/rejected by a defined authority.
 - Documented in the change log.
 
-### Organisational Change Management
+### Organizational Change Management
 
-This is the discipline of managing the **human side of change** — helping people in the organisation transition from current state to future state. Projects deliver outputs; organisational change management ensures those outputs are adopted and produce the intended benefits.
+This is the discipline of managing the **human side of change** — helping people in the organization transition from current state to future state. Projects deliver outputs; organizational change management ensures those outputs are adopted and produce the intended benefits.
 
 Key frameworks include:
 
 - **Kotter's 8-Step Model**: Create urgency → Build coalition → Form vision → Communicate vision → Remove barriers → Create short-term wins → Sustain acceleration → Institute change.
 - **ADKAR Model** (Prosci): Awareness → Desire → Knowledge → Ability → Reinforcement. People must move through all five stages to successfully adopt change.
-- **Lewin's Change Model**: Unfreeze (destabilise current state) → Change (transition) → Refreeze (embed new state).
+- **Lewin's Change Model**: Unfreeze (destabilize current state) → Change (transition) → Refreeze (embed new state).
 
 ### Why Both Matter
 
-A technically successful project that is resisted or ignored by its users has failed in practice. The digital planning portal may be built perfectly — but if planning officers don't understand it, don't trust it, or weren't adequately involved in its design, adoption will be poor and benefits will not be realised.
+A technically successful project that is resisted or ignored by its users has failed in practice. The digital planning portal may be built perfectly — but if planning officers don't understand it, don't trust it, or weren't adequately involved in its design, adoption will be poor and benefits will not be realized.
 
-The **business change manager** role (common in PRINCE2 environments) bridges project delivery and organisational adoption, working alongside the project manager.
+The **business change manager** role (common in PRINCE2 environments) bridges project delivery and organizational adoption, working alongside the project manager.
 
 | Project Manager | Business Change Manager |
 |---|---|
 | Manages delivery of outputs | Manages adoption of outputs |
-| Owns the project management plan | Owns the benefits realisation plan |
+| Owns the project management plan | Owns the benefits realization plan |
 | Focuses on scope, schedule, cost, quality | Focuses on people, culture, readiness |
 | Reports on project progress | Reports on benefits and adoption progress |
 
@@ -233,7 +233,7 @@ Neither is universally superior. The appropriate approach depends on the nature 
 Many real-world projects blend both approaches:
 
 - **Phased delivery with iterative development**: Overall project is governed predictively (business case, stage gates, formal change control), while the development phase uses agile sprints.
-- **Agile within a waterfall programme**: Agile delivery teams nested within a programme managed to a fixed timeline and budget.
+- **Agile within a waterfall program**: Agile delivery teams nested within a program managed to a fixed timeline and budget.
 - **Rolling wave planning**: Detailed planning for near-term phases; high-level planning for future phases, refined as more is known.
 
 Hybrid approaches work well when governance and delivery work to compatible rhythms. They fail when predictive governance (monthly steering committees, annual budgets) is imposed on agile teams at a cadence that undermines their ability to respond.
@@ -255,7 +255,7 @@ The Agile Manifesto (Beck et al., 2001) articulates four values:
 
 *"That is, while there is value in the items on the right, we value the items on the left more."*
 
-The manifesto's 12 principles elaborate: deliver working software frequently; welcome changing requirements; build projects around motivated individuals; face-to-face communication is most effective; sustainable pace; technical excellence; simplicity; self-organising teams; reflect and adjust regularly.
+The manifesto's 12 principles elaborate: deliver working software frequently; welcome changing requirements; build projects around motivated individuals; face-to-face communication is most effective; sustainable pace; technical excellence; simplicity; self-organizing teams; reflect and adjust regularly.
 
 ### Scrum in Brief
 
@@ -263,21 +263,21 @@ Scrum is the most widely used agile framework. Key elements:
 
 | Element | Description |
 |---|---|
-| **Product Backlog** | Prioritised list of all desired product features (owned by Product Owner) |
+| **Product Backlog** | Prioritized list of all desired product features (owned by Product Owner) |
 | **Sprint** | Time-boxed iteration (1–4 weeks) producing a potentially shippable increment |
 | **Sprint Planning** | Team selects backlog items to deliver in the Sprint |
-| **Daily Standup** | 15-minute daily synchronisation: what did I do, what will I do, what's blocking me |
+| **Daily Standup** | 15-minute daily synchronization: what did I do, what will I do, what's blocking me |
 | **Sprint Review** | Demonstrate increment to stakeholders; update backlog |
 | **Sprint Retrospective** | Team reflects on process; agrees improvements |
-| **Product Owner** | Prioritises backlog; represents customer/stakeholder value |
+| **Product Owner** | Prioritizes backlog; represents customer/stakeholder value |
 | **Scrum Master** | Facilitates; removes impediments; coaches the team |
-| **Development Team** | Self-organising; cross-functional; delivers the increment |
+| **Development Team** | Self-organizing; cross-functional; delivers the increment |
 
 ### Kanban in Brief
 
-Kanban visualises work as cards on a board, flowing through columns (e.g., To Do → In Progress → Done). Key principles:
+Kanban visualizes work as cards on a board, flowing through columns (e.g., To Do → In Progress → Done). Key principles:
 
-- Visualise the workflow.
+- Visualize the workflow.
 - Limit Work in Progress (WIP) — focus beats multitasking.
 - Manage flow (reduce cycle time; identify bottlenecks).
 - Make policies explicit.
@@ -300,22 +300,22 @@ Single-team agile (e.g., one Scrum team of 7) is straightforward. Large projects
 The most widely adopted enterprise scaling framework. Key levels:
 
 - **Team level**: Standard Scrum/Kanban teams delivering in 2-week sprints.
-- **Programme level (ART — Agile Release Train)**: Multiple teams aligned to a Programme Increment (PI) — typically 10 weeks of 4 sprints + 1 Innovation & Planning sprint.
+- **Program level (ART — Agile Release Train)**: Multiple teams aligned to a Program Increment (PI) — typically 10 weeks of 4 sprints + 1 Innovation & Planning sprint.
 - **Portfolio level**: Strategic alignment; investment themes; Lean portfolio management.
 
-SAFe introduces significant ceremony. It is most appropriate for large organisations with mature agile practices. Applying it to a small project creates overhead without benefit.
+SAFe introduces significant ceremony. It is most appropriate for large organizations with mature agile practices. Applying it to a small project creates overhead without benefit.
 
 ### LeSS (Large-Scale Scrum)
 
-LeSS is a minimalist scaling approach: apply Scrum with as few additional roles and artefacts as possible. Up to 8 teams share a single Product Backlog and Product Owner. Favoured by organisations that want to scale without bureaucratic overhead.
+LeSS is a minimalist scaling approach: apply Scrum with as few additional roles and artifacts as possible. Up to 8 teams share a single Product Backlog and Product Owner. Favored by organizations that want to scale without bureaucratic overhead.
 
 ### Practical Scaling Principles
 
 Regardless of framework, successful scaling requires:
 
 - A shared definition of done across teams.
-- Frequent cross-team synchronisation (daily or at sprint boundaries).
-- Dependency management (visualised and tracked explicitly).
+- Frequent cross-team synchronization (daily or at sprint boundaries).
+- Dependency management (visualized and tracked explicitly).
 - A single integrated product backlog (or clearly aligned backlog hierarchy).
 - A clear integration and test strategy — integrating multiple teams' work is the hardest part.
 
@@ -323,13 +323,13 @@ Regardless of framework, successful scaling requires:
 
 ---
 
-## Artefacts
+## Artifacts
 
-| Artefact | Description | Template |
+| Artifact | Description | Template |
 |---|---|---|
 | Project Management Plan (integrated) | Consolidated plan linking all subsidiary plans and baselines | — |
 | Change Log | All changes across the project lifecycle | [change-log.md](../templates/change-log.md) |
-| Sprint Backlog | Prioritised list of user stories for the current sprint (agile) | — |
+| Sprint Backlog | Prioritized list of user stories for the current sprint (agile) | — |
 | Sprint Review Notes | Output of sprint review: what was demonstrated, accepted, and rejected | — |
 | Retrospective Action Log | Team improvement actions from sprint retrospective | — |
 
@@ -345,7 +345,7 @@ Regardless of framework, successful scaling requires:
 
 - The portal works technically but adoption by planning officers is only 34% (target was 80% by month 3).
 - Three significant features were descoped during execution; the business case benefits assumed all features would be delivered.
-- The supplier has submitted a £45,000 claim for a scope change that was verbally agreed by the PM but never formally raised as a change request.
+- The supplier has submitted a $45,000 claim for a scope change that was verbally agreed by the PM but never formally raised as a change request.
 - The lessons-learned session was never held — the team dispersed immediately after go-live.
 
 **Task**: For each of the four failure points above, identify: (1) which project management process or knowledge area failed, (2) what specific failure occurred, (3) what the PM should have done instead, and (4) which module in this course addresses it. Conclude with a 150-word reflection on what "integration failure" means in this context.
@@ -358,11 +358,11 @@ Regardless of framework, successful scaling requires:
 
 **Scenario**: You are advising a project management office. Three projects are seeking approval:
 
-1. **Project Alpha**: Replace a 20-year-old payroll system with an off-the-shelf SaaS solution for 3,000 employees. The software is proven; configuration is the main work. Go-live date is fixed (new tax year). Budget is £380,000.
+1. **Project Alpha**: Replace a 20-year-old payroll system with an off-the-shelf SaaS solution for 3,000 employees. The software is proven; configuration is the main work. Go-live date is fixed (new tax year). Budget is $380,000.
 
-2. **Project Beta**: Develop a new mobile app to help citizens report environmental issues to the council. The user need is validated but the features are not yet defined. The council wants to test with real users as early as possible. Budget is indicative (£200,000–£300,000).
+2. **Project Beta**: Develop a new mobile app to help citizens report environmental issues to the city. The user need is validated but the features are not yet defined. The city wants to test with real users as early as possible. Budget is indicative ($200,000–$300,000).
 
-3. **Project Gamma**: Design and build a pedestrian bridge across a canal. Full planning permission has been obtained. Structural engineering design is complete. Construction is to a fixed specification. Budget is £1.2m.
+3. **Project Gamma**: Design and build a pedestrian bridge across a canal. Full planning permission has been obtained. Structural engineering design is complete. Construction is to a fixed specification. Budget is $1.2m.
 
 **Task**: For each project, recommend a lifecycle approach (predictive, adaptive, or hybrid) and justify your recommendation using the lifecycle selection factors from this module. Identify the two biggest risks in each project and explain how the chosen lifecycle mitigates them.
 
@@ -372,9 +372,9 @@ Regardless of framework, successful scaling requires:
 
 ### Exercise 3 — Hybrid Governance Design
 
-**Scenario**: The Meridian portal project is planning its build phase. GovTech Solutions has proposed using 4-week Scrum sprints for the development work, while the Council's project governance runs on monthly Project Board meetings aligned to PRINCE2 stage gates.
+**Scenario**: The Meridian portal project is planning its build phase. GovTech Solutions has proposed using 4-week Scrum sprints for the development work, while the City's project governance runs on monthly Project Board meetings aligned to PRINCE2 stage gates.
 
-**Task**: Design a hybrid governance model that allows GovTech to work in agile sprints while the Council maintains appropriate predictive oversight. Your model should address: (1) how sprint outputs are reported to the Project Board; (2) how change requests arising mid-sprint are handled; (3) how the PM maintains a consistent view of schedule and cost across sprint boundaries; (4) what the stage gate criteria are at the end of the build phase (Gate 2).
+**Task**: Design a hybrid governance model that allows GovTech to work in agile sprints while the City maintains appropriate predictive oversight. Your model should address: (1) how sprint outputs are reported to the Project Board; (2) how change requests arising mid-sprint are handled; (3) how the PM maintains a consistent view of schedule and cost across sprint boundaries; (4) what the stage gate criteria are at the end of the build phase (Gate 2).
 
 **Expected output**: A hybrid governance model with a brief Mermaid diagram showing the relationship between sprint cycles and Project Board meetings, plus a Gate 2 acceptance criteria checklist.
 
@@ -394,11 +394,11 @@ Integrated Change Control ensures that proposed changes are evaluated for their 
 
 ---
 
-**2. What is the difference between project change control and organisational change management?**
+**2. What is the difference between project change control and organizational change management?**
 
 <details><summary>Reveal Answer</summary>
 
-**Project change control** manages changes to the project's scope, schedule, cost, or baselines — it is a technical/governance process. **Organisational change management** manages the human transition from current state to future state — it ensures that the project's outputs are adopted and that intended benefits are realised. Both are needed: a technically perfect delivery that is resisted by users has failed in practice.
+**Project change control** manages changes to the project's scope, schedule, cost, or baselines — it is a technical/governance process. **Organizational change management** manages the human transition from current state to future state — it ensures that the project's outputs are adopted and that intended benefits are realized. Both are needed: a technically perfect delivery that is resisted by users has failed in practice.
 
 </details>
 
@@ -433,7 +433,7 @@ Predictive is more appropriate when: requirements are well-defined and stable; t
 
 <details><summary>Reveal Answer</summary>
 
-**Scrum** uses time-boxed sprints (1–4 weeks) with defined ceremonies (planning, daily standup, review, retrospective) and roles (Product Owner, Scrum Master, Development Team). Work is committed to in sprint. **Kanban** visualises continuous flow on a board with WIP limits; there are no sprints or prescribed ceremonies. Kanban suits ongoing or unpredictable work; Scrum suits iterative development with regular delivery cadence.
+**Scrum** uses time-boxed sprints (1–4 weeks) with defined ceremonies (planning, daily standup, review, retrospective) and roles (Product Owner, Scrum Master, Development Team). Work is committed to in sprint. **Kanban** visualizes continuous flow on a board with WIP limits; there are no sprints or prescribed ceremonies. Kanban suits ongoing or unpredictable work; Scrum suits iterative development with regular delivery cadence.
 
 </details>
 
@@ -444,10 +444,10 @@ Predictive is more appropriate when: requirements are well-defined and stable; t
 <details><summary>Reveal Answer</summary>
 
 1. **Team level**: Standard Scrum/Kanban teams delivering in 2-week sprints.
-2. **Programme level (ART)**: Multiple teams aligned in a Programme Increment (PI) — typically 10 weeks of 4 sprints + 1 Innovation & Planning sprint.
+2. **Program level (ART)**: Multiple teams aligned in a Program Increment (PI) — typically 10 weeks of 4 sprints + 1 Innovation & Planning sprint.
 3. **Portfolio level**: Strategic alignment; investment themes; Lean portfolio management.
 
-SAFe is most appropriate for large organisations with mature agile practices; it introduces significant ceremony that is disproportionate for small projects.
+SAFe is most appropriate for large organizations with mature agile practices; it introduces significant ceremony that is disproportionate for small projects.
 
 </details>
 
@@ -457,7 +457,7 @@ SAFe is most appropriate for large organisations with mature agile practices; it
 
 <details><summary>Reveal Answer</summary>
 
-ADKAR (Prosci) describes the stages an individual must pass through to successfully adopt change: **A**wareness → **D**esire → **K**nowledge → **A**bility → **R**einforcement. It is used in **organisational change management** — ensuring that project outputs are actually adopted and used. It is not a project change control model.
+ADKAR (Prosci) describes the stages an individual must pass through to successfully adopt change: **A**wareness → **D**esire → **K**nowledge → **A**bility → **R**einforcement. It is used in **organizational change management** — ensuring that project outputs are actually adopted and used. It is not a project change control model.
 
 </details>
 

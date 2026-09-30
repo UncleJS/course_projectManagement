@@ -50,7 +50,7 @@
   - [What is an escalation protocol?](#what-is-an-escalation-protocol)
   - [Escalation levels](#escalation-levels)
   - [Escalation culture](#escalation-culture)
-- [Artefacts](#artefacts)
+- [Artifacts](#artifacts)
 - [Exercises](#exercises)
   - [Exercise 10.1 — Build a Communication Matrix](#exercise-101--build-a-communication-matrix)
   - [Exercise 10.2 — Write a Highlight Report](#exercise-102--write-a-highlight-report)
@@ -108,7 +108,7 @@ Every communication should have a defined purpose:
 - **Request** — ask for input, feedback, or approval
 - **Update** — provide revised status or information
 - **Escalate** — flag a problem requiring a decision
-- **Celebrate** — recognise achievement
+- **Celebrate** — recognize achievement
 
 [↑ Back to top](#table-of-contents)
 
@@ -231,7 +231,7 @@ mindmap
 2. **Know your audience** — a technical report for the development team is different from an executive summary for the board
 3. **Be concise** — every sentence should justify its presence
 4. **Use structure** — headings, bullet points, and tables aid scanability
-5. **Be specific** — "the project is behind schedule" is less useful than "Phase 2 testing is 8 days behind, impacting the Go Live milestone on 15 March"
+5. **Be specific** — "the project is behind schedule" is less useful than "Phase 2 testing is 8 days behind, impacting the Go Live milestone on March 15"
 6. **State what you need** — if you are requesting a decision or action, make that explicit
 
 ### Common project reports
@@ -273,7 +273,7 @@ For any document read by senior stakeholders, a one-page executive summary is es
 
 ### Meetings are not free
 
-A one-hour meeting with 10 participants costs 10 person-hours. At an average fully-loaded cost of £50/hour, that is £500 per meeting. A project with 5 weekly standing meetings running for a year costs over £125,000 in meeting time alone.
+A one-hour meeting with 10 participants costs 10 person-hours. At an average fully-loaded cost of $50/hour, that is $500 per meeting. A project with 5 weekly standing meetings running for a year costs over $125,000 in meeting time alone.
 
 This does not mean avoid meetings — it means make every meeting earn its cost.
 
@@ -411,14 +411,14 @@ An escalation protocol defines the path for raising issues, exceptions, and deci
 Team member → Work Package issue → Team Leader
 Team Leader → Work Package cannot be resolved → Project Manager
 Project Manager → Tolerance breached / cannot resolve → Project Board
-Project Board → Programme-level issue → Programme Manager / Executive Board
+Project Board → Program-level issue → Program Manager / Executive Board
 ```
 
 ### Escalation culture
 
 Many teams resist escalation because it feels like failure. Effective PMs establish a culture in which early escalation is valued:
 
-- "Escalating early" is professional behaviour, not weakness
+- "Escalating early" is professional behavior, not weakness
 - Holding a problem at a level where it cannot be resolved is the real failure
 - Surprises at senior level — caused by failure to escalate — damage trust far more than proactive escalation
 
@@ -426,9 +426,9 @@ Many teams resist escalation because it feels like failure. Effective PMs establ
 
 ---
 
-## Artefacts
+## Artifacts
 
-| Artefact | Description | Template |
+| Artifact | Description | Template |
 |---|---|---|
 | **Communications Management Plan** | Who gets what information, when, how, and from whom | [communications-plan.md](../templates/communications-plan.md) |
 | **Communication Matrix** | Audience × message × frequency × channel × owner | — |
@@ -460,7 +460,7 @@ Produce a Communication Matrix that covers:
 
 ### Exercise 10.2 — Write a Highlight Report
 
-Using the data from the EVM exercise in Module 06 (project at month 4, SPI 0.80, CPI 0.89, EAC £112,360), write a Highlight Report for the project sponsor. The project is a system integration project for a healthcare provider.
+Using the week-10 worked example in Module 06 (20-week project, BAC $100,000, SPI 0.80, CPI 0.89, EAC $112,360), write a Highlight Report for the project sponsor. The project is a system integration project for a healthcare provider. These figures are the worked example, not Exercise 6.1.
 
 Include all standard sections: period covered, RAG status, progress, plan, risks, issues, decisions required.
 

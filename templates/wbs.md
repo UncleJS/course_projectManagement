@@ -117,7 +117,7 @@ The WBS must capture **100% of the scope**. The sum of all work at each level eq
 | By **phase** (initiation, design, build, test, deploy) | Sequential, predictive projects |
 | By **deliverable** (system, documentation, training, infrastructure) | Complex multi-output projects |
 | By **location / geography** | Multi-site or multi-region projects |
-| By **subproject** | Programmes with distinct workstreams |
+| By **subproject** | Programs with distinct workstreams |
 
 ---
 

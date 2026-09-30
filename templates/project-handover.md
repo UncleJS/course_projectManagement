@@ -139,7 +139,7 @@
 
 ## 8. Benefits Ownership Transfer
 
-*Confirm handover of benefits realisation responsibility.*
+*Confirm handover of benefits realization responsibility.*
 
 | Benefit | Current measure | Target measure | Target date | BAU owner |
 |---|---|---|---|---|

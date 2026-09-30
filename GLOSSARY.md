@@ -71,7 +71,7 @@ A structured, independent review of project processes, deliverables, or records 
 ## B
 
 **Backlog**
-An ordered list of work items (features, tasks, fixes) to be completed in an adaptive or hybrid project. Usually prioritised by the product owner or sponsor. Not a concept exclusive to any one framework.
+An ordered list of work items (features, tasks, fixes) to be completed in an adaptive or hybrid project. Usually prioritized by the product owner or sponsor. Not a concept exclusive to any one framework.
 
 **Baseline**
 The approved version of a plan (scope, schedule, or cost) against which actual performance is measured. Changes to a baseline require formal approval.
@@ -79,13 +79,13 @@ The approved version of a plan (scope, schedule, or cost) against which actual p
 **Benefit**
 A measurable improvement resulting from an outcome of a project that is perceived as positive by one or more stakeholders.
 
-**Benefits Realisation**
-The process of identifying, planning for, measuring, and confirming the achievement of intended benefits from a project or programme.
+**Benefits Realization**
+The process of identifying, planning for, measuring, and confirming the achievement of intended benefits from a project or program.
 
 **Benefits Register**
-A document that identifies, categorises, and tracks the benefits expected from a project, including their measurement criteria and the responsible party for realisation.
+A document that identifies, categorizes, and tracks the benefits expected from a project, including their measurement criteria and the responsible party for realization.
 
-**Benefits Realisation Plan**
+**Benefits Realization Plan**
 A document that defines when and how benefits will be measured and by whom, and which assigns accountability for post-project benefit tracking.
 
 **Bottom-up Estimating**
@@ -110,7 +110,7 @@ A document that justifies undertaking a project by presenting the rationale, exp
 A formal process for managing proposed changes to the project scope, schedule, cost, or other baselines. Ensures changes are evaluated, approved (or rejected), and documented before implementation.
 
 **Change Control Board (CCB)**
-A formally constituted group responsible for reviewing, evaluating, approving, deferring, or rejecting changes to the project. Also called a Change Advisory Board.
+A formally constituted group responsible for reviewing, evaluating, approving, deferring, or rejecting changes to the project. Not the same thing as a Change Advisory Board, which is an IT service-management body for operational changes.
 
 **Change Log**
 A record of all change requests raised on a project, including their status, decision, and impact.
@@ -131,7 +131,7 @@ The process of identifying, recording, and controlling the characteristics of pr
 A limiting factor that affects the execution of a project — for example, a fixed end date, budget ceiling, or regulatory requirement.
 
 **Contingency Reserve**
-Budget or time held in reserve to address known risks that may materialise. Distinct from management reserve, which covers unknown risks.
+Budget or time held in reserve to address known risks that may materialize. Distinct from management reserve, which covers unknown risks.
 
 **Contract**
 A legally binding agreement between two or more parties that defines obligations, deliverables, timelines, and payment terms.
@@ -182,13 +182,13 @@ A logical relationship between two activities or tasks that determines sequencin
 ## E
 
 **Earned Value (EV)**
-The measure of work performed expressed in terms of the budget authorised for that work. EV = % complete × BAC.
+The measure of work performed expressed in terms of the budget authorized for that work. EV = % complete × BAC.
 
 **Earned Value Management (EVM)**
 An integrated methodology for measuring project performance and progress against scope, schedule, and cost baselines simultaneously.
 
 **End Stage Report**
-A report produced at the end of a project stage or phase summarising performance, risks, and issues, and providing a recommendation for whether to continue to the next stage.
+A report produced at the end of a project stage or phase summarizing performance, risks, and issues, and providing a recommendation for whether to continue to the next stage.
 
 **Estimate at Completion (EAC)**
 The expected total cost of completing all project work. Several EAC formulas exist depending on assumptions about future performance.
@@ -212,13 +212,13 @@ The collection of processes performed to complete the work defined in the projec
 A schedule compression technique in which activities normally done sequentially are performed in parallel or with increased overlap to shorten the project duration.
 
 **Feasibility Study**
-An assessment of the technical, financial, operational, and strategic viability of a proposed project before it is formally authorised.
+An assessment of the technical, financial, operational, and strategic viability of a proposed project before it is formally authorized.
 
 **Float (Slack)**
 The amount of time an activity can be delayed without delaying the project end date (total float) or the start of the next activity (free float).
 
-**Functional Organisation**
-An organisational structure in which staff are grouped by specialisation (e.g., finance, IT, operations) and the project manager has limited authority.
+**Functional Organization**
+An organizational structure in which staff are grouped by specialization (e.g., finance, IT, operations) and the project manager has limited authority.
 
 [↑ Back to top](#table-of-contents)
 
@@ -230,7 +230,7 @@ An organisational structure in which staff are grouped by specialisation (e.g., 
 A horizontal bar chart that illustrates a project schedule, showing activities, their durations, start and end dates, and dependencies.
 
 **Governance**
-The framework of authority, accountability, decision-making, and oversight applied to a project or programme. Defines who has the right to make which decisions.
+The framework of authority, accountability, decision-making, and oversight applied to a project or program. Defines who has the right to make which decisions.
 
 **Grade**
 A category or rank given to deliverables or products having the same functional use but different technical characteristics. Grade and quality are different: a low-grade product may be high quality if it consistently meets its (low) specifications.
@@ -242,7 +242,7 @@ A category or rank given to deliverables or products having the same functional 
 ## H
 
 **Highlight Report**
-A periodic progress report produced by the project manager for the project board or sponsor, summarising status, risks, issues, and forecasts.
+A periodic progress report produced by the project manager for the project board or sponsor, summarizing status, risks, issues, and forecasts.
 
 **Hybrid Lifecycle**
 A project delivery approach that combines elements of both predictive (planned) and adaptive (agile) methods, tailored to the needs of the specific project.
@@ -254,10 +254,10 @@ A project delivery approach that combines elements of both predictive (planned) 
 ## I
 
 **Impact**
-The effect on project objectives if a risk event materialises. Usually assessed on a scale (e.g., low, medium, high) for each objective affected.
+The effect on project objectives if a risk event materializes. Usually assessed on a scale (e.g., low, medium, high) for each objective affected.
 
 **Initiating Process Group**
-The collection of processes performed to define a new project or a new phase, and to obtain authorisation to begin.
+The collection of processes performed to define a new project or a new phase, and to obtain authorization to begin.
 
 **Issue**
 A point or matter that has already occurred and requires a decision or action to resolve it. Contrast with *Risk*, which is a future uncertainty.
@@ -305,7 +305,7 @@ Knowledge gained during a project — both what went well and what went poorly �
 A living document maintained throughout the project to capture lessons as they are identified. Consolidated into the *Lessons Learned Report* at project close.
 
 **Lessons Learned Report**
-A final document produced at project closure summarising all lessons identified, with recommendations for the organisation.
+A final document produced at project closure summarizing all lessons identified, with recommendations for the organization.
 
 **Lifecycle**
 See *Project Lifecycle*.
@@ -322,8 +322,8 @@ A governance principle in which authority is delegated to a lower level with def
 **Management Reserve**
 An amount of the project budget withheld for management control and reserved for unknown risks (unforeseen scope). Distinct from *Contingency Reserve*.
 
-**Matrix Organisation**
-An organisational structure in which project team members report to both a functional manager and a project manager simultaneously. Can be weak, balanced, or strong depending on the relative authority of each.
+**Matrix Organization**
+An organizational structure in which project team members report to both a functional manager and a project manager simultaneously. Can be weak, balanced, or strong depending on the relative authority of each.
 
 **Milestone**
 A significant point or event in a project, often marking the completion of a major deliverable or phase transition. Milestones have zero duration on a Gantt chart.
@@ -331,8 +331,8 @@ A significant point or event in a project, often marking the completion of a maj
 **Monitoring and Controlling Process Group**
 The processes required to track, review, and regulate the progress and performance of the project, and to identify areas requiring changes.
 
-**MoSCoW Prioritisation**
-A requirements prioritisation technique: **M**ust have, **S**hould have, **C**ould have, **W**on't have (this time). Used to differentiate essential from desirable features.
+**MoSCoW Prioritization**
+A requirements prioritization technique: **M**ust have, **S**hould have, **C**ould have, **W**on't have (this time). Used to differentiate essential from desirable features.
 
 [↑ Back to top](#table-of-contents)
 
@@ -355,11 +355,11 @@ A document that records a product or process that fails to meet specified qualit
 **Opportunity**
 A risk event with a positive potential impact on project objectives. Contrast with *Threat*.
 
-**Organisational Breakdown Structure (OBS)**
-A hierarchical representation of the project organisation that shows the relationship between project activities and the organisational units responsible for them.
+**Organizational Breakdown Structure (OBS)**
+A hierarchical representation of the project organization that shows the relationship between project activities and the organizational units responsible for them.
 
 **Outcome**
-The result of change produced by a project's output; typically a new or improved capability. Contrast with *Output* (the deliverable) and *Benefit* (the value realised from the outcome).
+The result of change produced by a project's output; typically a new or improved capability. Contrast with *Output* (the deliverable) and *Benefit* (the value realized from the outcome).
 
 **Output**
 A tangible or intangible product, result, or service created by the project. Also called a deliverable.
@@ -371,7 +371,7 @@ A tangible or intangible product, result, or service created by the project. Als
 ## P
 
 **Parametric Estimating**
-An estimation technique that uses a statistical relationship between historical data and other variables to calculate an estimate (e.g., cost per square metre, hours per function point).
+An estimation technique that uses a statistical relationship between historical data and other variables to calculate an estimate (e.g., cost per square meter, hours per function point).
 
 **Phase**
 A collection of logically related project activities that culminate in the completion of one or more deliverables. Projects are often divided into sequential phases (e.g., initiation, planning, execution, closure).
@@ -380,7 +380,7 @@ A collection of logically related project activities that culminate in the compl
 A review point at the end of a project phase at which a decision is made to continue, modify, or stop the project.
 
 **Planned Value (PV)**
-The authorised budget assigned to the scheduled work at a given point in time. Used in Earned Value Management.
+The authorized budget assigned to the scheduled work at a given point in time. Used in Earned Value Management.
 
 **Post-Implementation Review (PIR)**
 A review conducted after a project's deliverables have been in operational use for a period, to assess whether intended benefits have been achieved.
@@ -400,17 +400,17 @@ A deliverable that is the subject of a project — the tangible or intangible ou
 **Product Breakdown Structure (PBS)**
 A hierarchy of all the products (deliverables) required to complete a project. Used in product-based planning as the basis for the Work Breakdown Structure.
 
-**Programme**
+**Program**
 A group of related projects managed in a coordinated way to obtain benefits and control not available from managing them individually.
 
 **Project**
-A temporary endeavour undertaken to create a unique product, service, or result. Characterised by a defined start and end, specific objectives, and resources.
+A temporary endeavor undertaken to create a unique product, service, or result. Characterized by a defined start and end, specific objectives, and resources.
 
 **Project Board**
 A group responsible for overall direction, governance, and decision-making on a project. Typically includes the executive sponsor, senior user, and senior supplier.
 
 **Project Charter**
-A document that formally authorises a project's existence and grants the project manager authority to apply resources. Also called a project brief or project initiation document.
+A document that formally authorizes a project's existence and grants the project manager authority to apply resources. Also called a project brief or project initiation document.
 
 **Project Governance**
 See *Governance*.
@@ -428,16 +428,16 @@ The application of knowledge, skills, tools, and techniques to project activitie
 The tools, processes, and systems used to collect, integrate, and disseminate project information.
 
 **Project Management Office (PMO)**
-An organisational unit that standardises project-related governance processes and facilitates the sharing of resources, methodologies, tools, and techniques.
+An organizational unit that standardizes project-related governance processes and facilitates the sharing of resources, methodologies, tools, and techniques.
 
 **Project Management Plan**
 The master document that describes how the project will be executed, monitored, controlled, and closed. Integrates all subsidiary management plans.
 
 **Project Manager**
-The person assigned by the performing organisation to lead the team responsible for achieving the project objectives.
+The person assigned by the performing organization to lead the team responsible for achieving the project objectives.
 
-**Projectised Organisation**
-An organisational structure in which project managers have full authority and resources are dedicated to projects rather than functional departments.
+**Projectized Organization**
+An organizational structure in which project managers have full authority and resources are dedicated to projects rather than functional departments.
 
 [↑ Back to top](#table-of-contents)
 
@@ -446,7 +446,7 @@ An organisational structure in which project managers have full authority and re
 ## Q
 
 **Quality**
-The degree to which a set of inherent characteristics fulfils stated or implied requirements. Quality is about fitness for purpose and conformance to specification.
+The degree to which a set of inherent characteristics fulfills stated or implied requirements. Quality is about fitness for purpose and conformance to specification.
 
 **Quality Assurance (QA)**
 The proactive process of auditing quality requirements and the results from quality control measurements to ensure appropriate quality standards and operational definitions are being used.
@@ -481,23 +481,23 @@ The risk that remains after a risk response has been implemented. Mitigation or 
 **Resource Calendar**
 A calendar that identifies the working days, shifts, hours, and availability of each project resource.
 
-**Resource Levelling**
-A schedule optimisation technique that adjusts start and end dates of activities to address resource constraints. May extend the project duration.
+**Resource Leveling**
+A schedule optimization technique that adjusts start and end dates of activities to address resource constraints. May extend the project duration.
 
 **Resource Smoothing**
-A schedule optimisation technique that adjusts activity scheduling within their available float to avoid resource peaks, without changing the project end date.
+A schedule optimization technique that adjusts activity scheduling within their available float to avoid resource peaks, without changing the project end date.
 
 **Risk**
 An uncertain event or condition that, if it occurs, has a positive or negative effect on project objectives. Risks with positive effects are *opportunities*; those with negative effects are *threats*.
 
 **Risk Appetite**
-The level and type of risk an organisation or project is willing to accept in pursuit of its objectives.
+The level and type of risk an organization or project is willing to accept in pursuit of its objectives.
 
 **Risk Management Plan**
 A component of the project management plan that describes how risk management activities will be structured and performed.
 
 **Risk Owner**
-The person responsible for managing a risk — monitoring it and ensuring that responses are implemented if the risk materialises.
+The person responsible for managing a risk — monitoring it and ensuring that responses are implemented if the risk materializes.
 
 **Risk Register**
 A document in which identified risks are recorded together with probability, impact, response strategies, owners, and current status.
@@ -530,7 +530,7 @@ An EVM metric: SPI = EV ÷ PV. A value above 1.0 indicates ahead-of-schedule per
 An EVM metric: SV = EV − PV. A positive value indicates ahead-of-schedule performance.
 
 **Scope**
-The sum of the products, services, and results to be provided by a project (project scope), and the features and functions that characterise a product (product scope).
+The sum of the products, services, and results to be provided by a project (project scope), and the features and functions that characterize a product (product scope).
 
 **Scope Creep**
 The uncontrolled expansion of project scope without corresponding adjustments to time, cost, or resources.
@@ -542,13 +542,13 @@ A document that describes the project scope — deliverables, assumptions, const
 A new risk that arises as a direct result of implementing a response to another risk — for example, adding contractors to mitigate a resource risk creates a vendor-management risk. Contrast with *Residual Risk*.
 
 **Sponsor**
-The individual or group providing resources and support for the project and accountable for enabling its success at the organisational level. Also called executive sponsor or project executive.
+The individual or group providing resources and support for the project and accountable for enabling its success at the organizational level. Also called executive sponsor or project executive.
 
 **Stage**
 A collection of activities and deliverables that are managed together as a unit within a project. Decision points (stage gates) occur between stages.
 
 **Stakeholder**
-Any individual, group, or organisation that may affect, be affected by, or perceive itself to be affected by a project.
+Any individual, group, or organization that may affect, be affected by, or perceive itself to be affected by a project.
 
 **Stakeholder Engagement**
 The process of communicating and working with stakeholders to meet their needs and expectations, address issues, and foster appropriate involvement.
@@ -569,7 +569,7 @@ A component of the project management plan that covers a specific aspect of proj
 ## T
 
 **Tailoring**
-The process of adapting project management practices, methods, and artefacts to suit the specific context, complexity, scale, and risk of a project.
+The process of adapting project management practices, methods, and artifacts to suit the specific context, complexity, scale, and risk of a project.
 
 **Threat**
 A risk event with a negative potential impact on project objectives. Contrast with *Opportunity*.
@@ -611,7 +611,7 @@ An EVM metric: VAC = BAC − EAC. Represents the expected final budget overspend
 In adaptive projects, the amount of work a team completes in a fixed iteration (sprint). Used to forecast future delivery.
 
 **Version Control**
-The management of changes to documents, code, or other artefacts so that previous versions can be retrieved and changes are tracked.
+The management of changes to documents, code, or other artifacts so that previous versions can be retrieved and changes are tracked.
 
 [↑ Back to top](#table-of-contents)
 
@@ -620,7 +620,7 @@ The management of changes to documents, code, or other artefacts so that previou
 ## W
 
 **Work Breakdown Structure (WBS)**
-A hierarchical decomposition of the total scope of work to be carried out by the project team to accomplish the project objectives and create the required deliverables. The WBS organises and defines the total scope.
+A hierarchical decomposition of the total scope of work to be carried out by the project team to accomplish the project objectives and create the required deliverables. The WBS organizes and defines the total scope.
 
 **WBS Dictionary**
 A document that provides detailed information about each component in the WBS, including scope description, acceptance criteria, assumptions, owner, and schedule milestones.

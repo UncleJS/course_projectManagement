@@ -50,7 +50,7 @@
 
 ## Stakeholder Register
 
-| ID | Name | Organisation / Role | Interest in project | Influence (H/M/L) | Impact (H/M/L) | C | D | Key concerns / needs | Engagement approach | Owner | Last reviewed |
+| ID | Name | Organization / Role | Interest in project | Influence (H/M/L) | Impact (H/M/L) | C | D | Key concerns / needs | Engagement approach | Owner | Last reviewed |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | STK-01 | | | | | | | | | | | |
 | STK-02 | | | | | | | | | | | |

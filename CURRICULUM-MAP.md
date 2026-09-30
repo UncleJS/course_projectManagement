@@ -92,7 +92,7 @@ Each module's prerequisites and what it unlocks:
 | **04** Planning | 03 | 08, 11, 14 for depth | 05, 06 |
 | **05** Execution | 04 | 09, 10, 13, 14 for depth | 06 |
 | **06** Monitoring & Control | 04, 05 | 11, 12 for depth | 07 |
-| **07** Closing | 05, 06 | — | 15a, 15b (synthesises all) |
+| **07** Closing | 05, 06 | — | 15a, 15b (synthesizes all) |
 | **08** Scope & Requirements | 04 | — | Deepens 04, 05 |
 | **09** Stakeholder Management | 03 | — | Deepens 05, 10 |
 | **10** Communications | 05 | 09 | Deepens 05, 06 |
@@ -131,9 +131,9 @@ Estimated total time: 20–30 hours
 ```
 
 **Notes:**
-- Skip or skim Modules 03–07 unless you want to formalise lifecycle knowledge.
+- Skip or skim Modules 03–07 unless you want to formalize lifecycle knowledge.
 - Focus on the knowledge domains most relevant to your current gaps.
-- Modules 15a and 15b synthesise and frame professional practice — do not skip these.
+- Modules 15a and 15b synthesize and frame professional practice — do not skip these.
 
 ---
 
@@ -195,19 +195,19 @@ Estimated total time: 4–6 hours
 **Notes:**
 - This path builds enough vocabulary and frameworks to sponsor projects effectively.
 - Focus on understanding: why projects fail, what governance is, how to read a status report, and what risk management involves.
-- Not a substitute for the full programme for practising PMs.
+- Not a substitute for the full program for practicing PMs.
 
 ---
 
 ## Module Summary Table
 
-| # | Module | Tier | Key Concepts | Core Artefacts | Est. Time |
+| # | Module | Tier | Key Concepts | Core Artifacts | Est. Time |
 |---|---|---|---|---|---|
 | 01 | Foundations of Project Management | Foundations | Project definition, triple constraint, PM role, value chain, ethics | — | 2–3 hrs |
-| 02 | Governance & Organisational Context | Foundations | Governance framework, PMO, benefits management, tailoring, ESG | Benefits Register | 2–3 hrs |
+| 02 | Governance & Organizational Context | Foundations | Governance framework, PMO, benefits management, tailoring, ESG | Benefits Register | 2–3 hrs |
 | 03 | Project Initiation | Lifecycle | Business case, feasibility, project charter, stakeholder identification, kick-off | Business Case, Project Charter, Stakeholder Register, Assumption Log | 3–4 hrs |
 | 04 | Project Planning | Lifecycle | WBS, schedule, critical path, cost estimating, resource planning, PMP | WBS, RACI, Resource Calendar | 4–5 hrs |
-| 05 | Project Execution | Lifecycle | Work authorisation, team management, issue management, change control, quality assurance | Change Request, Change Log, Issue Log | 3–4 hrs |
+| 05 | Project Execution | Lifecycle | Work authorization, team management, issue management, change control, quality assurance | Change Request, Change Log, Issue Log | 3–4 hrs |
 | 06 | Monitoring & Control | Lifecycle | EVM (SV, CV, SPI, CPI), scope/schedule/cost control, reporting, configuration | Status Report | 3–4 hrs |
 | 07 | Project Closing | Lifecycle | Acceptance, handover, lessons learned, administrative closure, post-implementation review | Closure Report, Handover Doc, Lessons Learned Log | 2–3 hrs |
 | 08 | Scope & Requirements Management | Knowledge | Requirements lifecycle, MoSCoW, RTM, acceptance criteria, scope creep | (RTM — referenced) | 2–3 hrs |

@@ -45,7 +45,7 @@
   - [Pareto analysis](#pareto-analysis)
 - [9. Continuous Improvement: PDCA](#9-continuous-improvement-pdca)
   - [Applying PDCA in projects](#applying-pdca-in-projects)
-- [Artefacts](#artefacts)
+- [Artifacts](#artifacts)
 - [Exercises](#exercises)
   - [Exercise 12.1 — Cost of quality analysis](#exercise-121--cost-of-quality-analysis)
   - [Exercise 12.2 — Quality criteria definition](#exercise-122--quality-criteria-definition)
@@ -59,7 +59,7 @@
 
 ### What is quality?
 
-**Quality** is the degree to which a set of inherent characteristics fulfils stated or implied requirements. In project management, this means:
+**Quality** is the degree to which a set of inherent characteristics fulfills stated or implied requirements. In project management, this means:
 
 - **Conformance to specification**: the deliverable does what it was designed to do
 - **Fitness for purpose**: the deliverable actually serves the user's real need
@@ -90,7 +90,7 @@ Prevention is always cheaper. Fixing a requirement error during elicitation cost
 
 ## 2. Cost of Quality
 
-The **Cost of Quality (CoQ)** framework categorises quality-related costs:
+The **Cost of Quality (CoQ)** framework categorizes quality-related costs:
 
 ### Prevention costs
 
@@ -124,7 +124,7 @@ External failure costs are typically 10–100× higher than the cost of preventi
 
 ### The optimal quality point
 
-There is a theoretical optimal point where the total cost of quality (prevention + appraisal + failure) is minimised. In practice:
+There is a theoretical optimal point where the total cost of quality (prevention + appraisal + failure) is minimized. In practice:
 
 - Under-investing in prevention = high failure costs
 - Over-investing in prevention = diminishing returns
@@ -146,11 +146,11 @@ ISO 9001 is the international standard for Quality Management Systems (QMS). It 
 - Continuous improvement
 - Customer focus
 
-Organisations certified to ISO 9001 have externally audited quality management systems. Projects operating within such organisations must align with the organisational QMS.
+Organizations certified to ISO 9001 have externally audited quality management systems. Projects operating within such organizations must align with the organizational QMS.
 
 ### Industry-specific standards
 
-Quality requirements vary significantly by industry. Familiarise yourself with standards relevant to your project's domain:
+Quality requirements vary significantly by industry. Familiarize yourself with standards relevant to your project's domain:
 
 | Industry | Relevant Standards |
 |---|---|
@@ -178,7 +178,7 @@ Quality requirements vary significantly by industry. Familiarise yourself with s
 | Section | Content |
 |---|---|
 | **Quality objectives** | Specific, measurable targets (e.g., "defect rate < 0.1% at UAT") |
-| **Quality standards** | Which standards apply (organisational, regulatory, industry) |
+| **Quality standards** | Which standards apply (organizational, regulatory, industry) |
 | **Quality roles** | Who is responsible for QA, QC, and quality decisions |
 | **Quality activities** | Reviews, audits, inspections, testing — when and how |
 | **Quality metrics** | How quality will be measured (defect rate, rework %, test pass rate, customer satisfaction) |
@@ -226,7 +226,7 @@ QA is most effective when performed independently — by someone who is not prod
 Audit findings should be:
 
 - Documented in an **Audit Report**
-- Categorised as findings (must fix), observations (should consider), and commendations (good practice to share)
+- Categorized as findings (must fix), observations (should consider), and commendations (good practice to share)
 - Responded to with an action plan within an agreed timeframe
 - Followed up at a subsequent audit
 
@@ -401,9 +401,9 @@ PDCA is not a one-time cycle — it repeats continuously. Each iteration builds 
 
 ---
 
-## Artefacts
+## Artifacts
 
-| Artefact | Description | Template |
+| Artifact | Description | Template |
 |---|---|---|
 | **Quality Management Plan** | Quality objectives, standards, roles, and activities | — |
 | **Quality Register** | Log of planned and completed quality activities and results | [quality-register.md](../templates/quality-register.md) |
@@ -425,12 +425,12 @@ PDCA is not a one-time cycle — it repeats continuously. Each iteration builds 
 
 You are managing a 6-month software development project. The following quality-related events occurred:
 
-1. Requirements review workshop (4 hours, 6 people at £50/hr average) — prevented 3 estimated defects
+1. Requirements review workshop (4 hours, 6 people at $50/hr average) — prevented 3 estimated defects
 2. Code review process (estimated 0.5 days per developer per week, 3 developers, 6 months) — estimated 40% defect reduction
-3. 85 defects found during UAT — each took an average 4 hours to fix (developer at £60/hr)
-4. 12 defects escaped to production — average cost to fix in production: £2,000 each
+3. 85 defects found during UAT — each took an average 4 hours to fix (developer at $60/hr)
+4. 12 defects escaped to production — average cost to fix in production: $2,000 each
 
-Categorise each as prevention, appraisal, internal failure, or external failure. Calculate the cost of each. What does this analysis tell you about where to invest in the next project?
+Categorize each as prevention, appraisal, internal failure, or external failure. Calculate the cost of each. What does this analysis tell you about where to invest in the next project?
 
 **Expected output:** A cost of quality table and a 200-word analysis.
 

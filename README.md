@@ -23,7 +23,7 @@
   - [Tier 3: Knowledge Domains](#tier-3-knowledge-domains)
   - [Tier 4: Capstone](#tier-4-capstone)
 - [Worked Examples](#worked-examples)
-- [Artefact Templates](#artefact-templates)
+- [Artifact Templates](#artifact-templates)
 - [Instructor and Navigation Resources](#instructor-and-navigation-resources)
 - [Glossary](#glossary)
 - [License](#license)
@@ -32,14 +32,14 @@
 
 ## About This Course
 
-This course teaches project management as a discipline grounded in **universally accepted principles** — not tied to any single branded methodology. Concepts and artefacts are drawn from the intersection of:
+This course teaches project management as a discipline grounded in **universally accepted principles** — not tied to any single branded methodology. Concepts and artifacts are drawn from the intersection of:
 
 - **PMBOK** (Project Management Body of Knowledge) — process groups and knowledge areas
 - **PRINCE2** — governance, business-case-driven management, management by exception
 - **ISO 21500 / 21502** — international standard subject groups
 - **General practice** — earned value, RACI, stakeholder analysis, quality control
 
-No certification track is prescribed. The goal is to build **genuine PM competence** that transfers across industries, organisation sizes, and delivery approaches — whether predictive, adaptive, or hybrid.
+No certification track is prescribed. The goal is to build **genuine PM competence** that transfers across industries, organization sizes, and delivery approaches — whether predictive, adaptive, or hybrid.
 
 [↑ Back to top](#table-of-contents)
 
@@ -50,12 +50,12 @@ No certification track is prescribed. The goal is to build **genuine PM competen
 | Background | Benefit |
 |---|---|
 | New project managers | Build a solid conceptual and practical foundation |
-| Experienced practitioners | Formalise knowledge; fill gaps; gain a framework-neutral vocabulary |
+| Experienced practitioners | Formalize knowledge; fill gaps; gain a framework-neutral vocabulary |
 | Team leads stepping into PM | Understand the full scope of the PM role |
 | Business analysts / coordinators | Understand the project context around your work |
 | Students | Academic and practical grounding before entering the workforce |
 
-No prior project management experience is assumed, though basic workplace experience will help contextualise examples.
+No prior project management experience is assumed, though basic workplace experience will help contextualize examples.
 
 [↑ Back to top](#table-of-contents)
 
@@ -67,8 +67,8 @@ No prior project management experience is assumed, though basic workplace experi
 2. **Use knowledge domain modules (8–14) as references** — Return to them when the lifecycle module mentions the topic.
 3. **Do the exercises** — Each module contains 2–3 scenario-based exercises. Work through them; they build on each other across modules.
 4. **Test yourself** — Each module ends with a quiz. Answers are hidden in collapsible blocks so you can attempt questions honestly.
-5. **Use the templates** — The `/templates/` folder contains blank, ready-to-fill artefact templates referenced throughout the modules.
-6. **Study the worked examples** — The `/examples/` folder contains 21 fully completed artefacts based on the **Meridian Portal** scenario, demonstrating how each template is applied in practice.
+5. **Use the templates** — The `/templates/` folder contains blank, ready-to-fill artifact templates referenced throughout the modules.
+6. **Study the worked examples** — The `/examples/` folder contains 21 fully completed artifacts based on the **Meridian Portal** scenario, demonstrating how each template is applied in practice.
 7. **Consult the glossary** — [`GLOSSARY.md`](GLOSSARY.md) defines every technical term used in the course.
 8. **Use the Related Modules section** at the foot of each module to explore connected topics.
 
@@ -83,7 +83,7 @@ No prior project management experience is assumed, though basic workplace experi
 | # | Module | Description |
 |---|---|---|
 | 01 | [Foundations of Project Management](modules/01-foundations.md) | What is a project, the PM role, ethics, value delivery |
-| 02 | [Project Governance and Organisational Context](modules/02-governance.md) | Governance frameworks, organisational structures, benefits management, PMO, tailoring |
+| 02 | [Project Governance and Organizational Context](modules/02-governance.md) | Governance frameworks, organizational structures, benefits management, PMO, tailoring |
 
 [↑ Back to top](#table-of-contents)
 
@@ -134,7 +134,7 @@ No prior project management experience is assumed, though basic workplace experi
 
 ## Worked Examples
 
-All 21 worked examples are based on the **Meridian Portal** scenario — a citizen self-service web portal commissioned by Northgate District Council (PM: Sarah Chen, Sponsor: James Hartley, Budget: £420,000, February–October 2026).
+All 21 worked examples are based on the **Meridian Portal** scenario — a citizen self-service web portal commissioned by the City of Northgate (PM: Sarah Chen, Sponsor: James Hartley, Budget: $420,000, February–October 2026).
 
 See [`examples/README.md`](examples/README.md) for the full scenario overview and index.
 
@@ -166,15 +166,15 @@ See [`examples/README.md`](examples/README.md) for the full scenario overview an
 
 ---
 
-## Artefact Templates
+## Artifact Templates
 
-Ready-to-use blank templates for every major project management artefact. Referenced throughout the modules.
+Ready-to-use blank templates for every major project management artifact. Referenced throughout the modules.
 
 | Template | Description |
 |---|---|
 | [Business Case](templates/business-case.md) | Justifies the project; decision input for sponsors |
-| [Project Charter](templates/project-charter.md) | Formally authorises the project and the PM |
-| [Stakeholder Register](templates/stakeholder-register.md) | Catalogue of all stakeholders with analysis data |
+| [Project Charter](templates/project-charter.md) | Formally authorizes the project and the PM |
+| [Stakeholder Register](templates/stakeholder-register.md) | Catalog of all stakeholders with analysis data |
 | [Assumption and Constraint Log](templates/assumption-constraint-log.md) | Records project assumptions and constraints |
 | [WBS Template](templates/wbs.md) | Work Breakdown Structure framework |
 | [RACI Matrix](templates/raci-matrix.md) | Responsibility assignment across roles and deliverables |
@@ -191,7 +191,7 @@ Ready-to-use blank templates for every major project management artefact. Refere
 | [Quality Register](templates/quality-register.md) | Log of planned and completed quality activities |
 | [Procurement Evaluation Scorecard](templates/procurement-evaluation-scorecard.md) | Weighted scoring for vendor/proposal selection |
 | [Resource Calendar](templates/resource-calendar.md) | Availability and allocation of project resources |
-| [Benefits Register](templates/benefits-register.md) | Tracks expected and realised project benefits |
+| [Benefits Register](templates/benefits-register.md) | Tracks expected and realized project benefits |
 | [Project Handover Document](templates/project-handover.md) | Transitions deliverables to operations/BAU |
 
 [↑ Back to top](#table-of-contents)
@@ -224,4 +224,4 @@ See [`GLOSSARY.md`](GLOSSARY.md) for definitions of all technical terms used in 
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-You are free to **share** and **adapt** this material for non-commercial purposes, provided you give appropriate credit and distribute any derivatives under the same licence.
+You are free to **share** and **adapt** this material for non-commercial purposes, provided you give appropriate credit and distribute any derivatives under the same license.

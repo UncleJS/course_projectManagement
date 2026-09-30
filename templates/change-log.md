@@ -33,7 +33,7 @@
 
 ## Change Log
 
-| CR No. | Date submitted | Submitted by | Description | Baselines affected | Cost impact (£) | Schedule impact | Priority | Decision | Decision by | Decision date | Implementation status | Notes |
+| CR No. | Date submitted | Submitted by | Description | Baselines affected | Cost impact ($) | Schedule impact | Priority | Decision | Decision by | Decision date | Implementation status | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | CR-001 | | | | | | | | | | | | |
 | CR-002 | | | | | | | | | | | | |
@@ -79,7 +79,7 @@
 
 | Metric | Approved baseline | Total approved changes | Revised baseline |
 |---|---|---|---|
-| **Budget** | £ | £ | £ |
+| **Budget** | $ | $ | $ |
 | **End date** | | +/- days | |
 | **Scope items added** | — | | — |
 | **Scope items removed** | — | | — |

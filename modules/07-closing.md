@@ -23,10 +23,10 @@
   - [Why handover matters](#why-handover-matters)
   - [The Project Handover Document](#the-project-handover-document)
   - [Transition period](#transition-period)
-- [4. Benefits Realisation Handover](#4-benefits-realisation-handover)
-  - [The project delivers outputs; operations realises benefits](#the-project-delivers-outputs-operations-realises-benefits)
+- [4. Benefits Realization Handover](#4-benefits-realization-handover)
+  - [The project delivers outputs; operations realizes benefits](#the-project-delivers-outputs-operations-realizes-benefits)
   - [What to hand over](#what-to-hand-over)
-  - [If benefits are already being realised](#if-benefits-are-already-being-realised)
+  - [If benefits are already being realized](#if-benefits-are-already-being-realized)
 - [5. Lessons Learned](#5-lessons-learned)
   - [The most neglected PM activity](#the-most-neglected-pm-activity)
   - [What "lessons learned" means](#what-lessons-learned-means)
@@ -47,7 +47,7 @@
 - [9. Post-Implementation Review](#9-post-implementation-review)
   - [What is a PIR?](#what-is-a-pir)
   - [Why PIRs are valuable](#why-pirs-are-valuable)
-- [Artefacts](#artefacts)
+- [Artifacts](#artifacts)
 - [Exercises](#exercises)
   - [Exercise 7.1 — Lessons learned workshop simulation](#exercise-71--lessons-learned-workshop-simulation)
   - [Exercise 7.2 — Write a closure report](#exercise-72--write-a-closure-report)
@@ -75,22 +75,22 @@ Projects are sometimes closed before planned completion:
 | **Unresolvable technical issues** | The solution cannot be built as envisioned |
 | **Risk too high** | New information makes the project unacceptably risky |
 
-Premature closure is not failure — continuing a project that no longer serves the organisation is the real failure. Closing a project well when it must stop is a professional and valuable act.
+Premature closure is not failure — continuing a project that no longer serves the organization is the real failure. Closing a project well when it must stop is a professional and valuable act.
 
 ```mermaid
 flowchart TD
     ACC["✅ Scope Verification & Formal Acceptance (written sign-off)"]
     HO["📦 Transition & Handover (operations briefed, trained, equipped)"]
-    BR["💡 Benefits Realisation Handover (benefit owner named & briefed)"]
+    BR["💡 Benefits Realization Handover (benefit owner named & briefed)"]
     LL["📚 Lessons Learned (workshop, log, PMO submission)"]
     CC["📄 Contract Closure (all supplier contracts formally closed)"]
     AC["🗃 Administrative Closure (financial reconciliation, records archived, PMIS closed)"]
-    TR["🎉 Team Recognition & Release (acknowledgement, references, resource return)"]
+    TR["🎉 Team Recognition & Release (acknowledgment, references, resource return)"]
     PIR["🔍 Post-Implementation Review (3–6 months post go-live)"]
     ACC --> HO --> BR --> LL --> CC --> AC --> TR
     TR -.->|"scheduled for later"| PIR
 ```
-*Closure is a deliberate, managed process — not the moment work stops. Every step preserves value or protects the organisation.*
+*Closure is a deliberate, managed process — not the moment work stops. Every step preserves value or protects the organization.*
 
 ### Closure vs. abandonment
 
@@ -129,7 +129,7 @@ If the customer disputes whether a deliverable meets acceptance criteria:
 - If criteria were ambiguous, negotiate in good faith
 - Escalate to the project board if agreement cannot be reached
 
-Well-written acceptance criteria at the start of the project are the best defence against disputes at the end.
+Well-written acceptance criteria at the start of the project are the best defense against disputes at the end.
 
 [↑ Back to top](#table-of-contents)
 
@@ -157,12 +157,12 @@ The **Handover Document** (also called Operations Handover Pack or Service Trans
 | **Known issues and workarounds** | Any known defects or limitations and how to handle them |
 | **Support contacts** | Who to call for different types of problems |
 | **SLAs and performance standards** | What performance levels are expected |
-| **Benefits ownership** | Who is responsible for realising and measuring benefits |
+| **Benefits ownership** | Who is responsible for realizing and measuring benefits |
 | **Escalation procedures** | How to escalate if serious issues arise |
 
 ### Transition period
 
-Many projects include a **stabilisation period** after go-live — typically 2–4 weeks — during which project team members are available to support the operational team. Define:
+Many projects include a **stabilization period** after go-live — typically 2–4 weeks — during which project team members are available to support the operational team. Define:
 
 - How long the transition period lasts
 - Which project team members will be available and in what capacity
@@ -172,11 +172,11 @@ Many projects include a **stabilisation period** after go-live — typically 2�
 
 ---
 
-## 4. Benefits Realisation Handover
+## 4. Benefits Realization Handover
 
-### The project delivers outputs; operations realises benefits
+### The project delivers outputs; operations realizes benefits
 
-Benefits are typically realised months or years after the project ends. It is essential that someone in the organisation is explicitly accountable for measuring and reporting on benefit realisation after the project team has disbanded.
+Benefits are typically realized months or years after the project ends. It is essential that someone in the organization is explicitly accountable for measuring and reporting on benefit realization after the project team has disbanded.
 
 ### What to hand over
 
@@ -188,9 +188,9 @@ At closure, the PM should:
 4. Agree a review schedule for post-project benefit measurement
 5. Hand over responsibility formally, with a written record
 
-### If benefits are already being realised
+### If benefits are already being realized
 
-On long projects, some benefits may begin to materialise during the project. These should be measured and recorded — they strengthen the business case and demonstrate early value delivery.
+On long projects, some benefits may begin to materialize during the project. These should be measured and recorded — they strengthen the business case and demonstrate early value delivery.
 
 [↑ Back to top](#table-of-contents)
 
@@ -206,7 +206,7 @@ Lessons learned is consistently cited by PMs as important yet consistently under
 - "Everyone moves on to the next project immediately"
 - "The lessons register from the last project was never read anyway"
 
-These are understandable — and must be overcome. Organisations that systematically capture and apply lessons improve project performance over time. Those that don't repeat the same mistakes.
+These are understandable — and must be overcome. Organizations that systematically capture and apply lessons improve project performance over time. Those that don't repeat the same mistakes.
 
 ### What "lessons learned" means
 
@@ -241,7 +241,7 @@ A lessons learned report that sits in a file server is worthless. To create valu
 - Submit to the PMO's lessons learned repository
 - Reference during the initiation of similar future projects
 - Brief future project managers on relevant lessons
-- Update organisational templates and standards based on recurring lessons
+- Update organizational templates and standards based on recurring lessons
 
 [↑ Back to top](#table-of-contents)
 
@@ -255,13 +255,13 @@ A lessons learned report that sits in a file server is worthless. To create valu
 |---|---|
 | **Final financial reconciliation** | Close purchase orders, process final invoices, reconcile actuals to budget |
 | **Release of resources** | Formally release team members back to their home departments or next assignments |
-| **Archive project records** | Organise and store all project documentation in a retrievable format |
+| **Archive project records** | Organize and store all project documentation in a retrievable format |
 | **Close the project in the PMIS** | Mark the project as closed in the project management information system |
 | **Produce final performance report** | Document final actual vs. planned performance on scope, schedule, and cost |
 
 ### Records retention
 
-Project records should be retained in line with organisational and regulatory requirements. At a minimum, retain:
+Project records should be retained in line with organizational and regulatory requirements. At a minimum, retain:
 
 - Project charter and business case
 - Approved baselines and change log
@@ -307,7 +307,7 @@ An open contract is an open liability. Leaving contracts informally "done" witho
 
 ### How you end the team matters
 
-Team members invest significant effort and often personal commitment in a project. How the project ends affects their willingness to engage on future projects, their sense of professional satisfaction, and their view of the organisation.
+Team members invest significant effort and often personal commitment in a project. How the project ends affects their willingness to engage on future projects, their sense of professional satisfaction, and their view of the organization.
 
 ### Recognition
 
@@ -337,7 +337,7 @@ Coordinate release of team members with their home department managers or HR:
 A **Post-Implementation Review (PIR)** is conducted after the project's outputs have been in operational use for a period — typically 3–6 months — to assess whether:
 
 - The product is working as intended
-- The expected benefits are being realised
+- The expected benefits are being realized
 - Any unintended consequences have emerged
 - Further action is needed
 
@@ -345,7 +345,7 @@ The PIR is distinct from the project's own closing activities — it is conducte
 
 ### Why PIRs are valuable
 
-The PIR closes the loop between project delivery and business value. Without it, the organisation never knows whether projects are actually delivering what was promised in the business case.
+The PIR closes the loop between project delivery and business value. Without it, the organization never knows whether projects are actually delivering what was promised in the business case.
 
 PIR findings should feed back into:
 
@@ -385,9 +385,9 @@ timeline
 
 ---
 
-## Artefacts
+## Artifacts
 
-| Artefact | Description | Template |
+| Artifact | Description | Template |
 |---|---|---|
 | **Customer Acceptance Form** | Written sign-off by customer/sponsor on delivered scope | — |
 | **Project Handover Document** | Transitions deliverables to operations | [project-handover.md](../templates/project-handover.md) |
@@ -415,7 +415,7 @@ Prepare and facilitate a lessons learned workshop:
 1. Draft a workshop agenda (45-minute session)
 2. Prepare 3 discussion questions that will surface genuine insights (not just "what went wrong")
 3. Write up at least 4 lessons in the correct format: what happened / why / recommendation
-4. Identify which lessons should be escalated to the PMO as organisational changes
+4. Identify which lessons should be escalated to the PMO as organizational changes
 
 **Expected output:** Workshop agenda, 4 lesson entries, and a short escalation note to the PMO.
 
@@ -440,7 +440,7 @@ Using the digital planning portal project, produce a project closure report cove
 
 ### Exercise 7.3 — Premature closure scenario
 
-The project board of a 12-month, £500,000 HR system implementation has just informed you that the company has been acquired and the new parent company already has an HR system. Your project is 6 months in, with £280,000 spent, and approximately 50% of deliverables complete.
+The project board of a 12-month, $500,000 HR system implementation has just informed you that the company has been acquired and the new parent company already has an HR system. Your project is 6 months in, with $280,000 spent, and approximately 50% of deliverables complete.
 
 1. What steps should you take to close the project responsibly?
 2. What value (if any) can be preserved from the work done so far?
@@ -471,7 +471,7 @@ The project board of a 12-month, £500,000 HR system implementation has just inf
 
 ---
 
-**Question 2:** Who is typically responsible for realising project benefits after the project has closed?
+**Question 2:** Who is typically responsible for realizing project benefits after the project has closed?
 
 - A) The project manager
 - B) The project team
@@ -481,7 +481,7 @@ The project board of a 12-month, £500,000 HR system implementation has just inf
 <details>
 <summary>Reveal Answer</summary>
 
-**C) A named operational benefit owner.** Benefits are realised during operations, not during the project. A specific individual in operations must own measurement and reporting of benefits post-handover.
+**C) A named operational benefit owner.** Benefits are realized during operations, not during the project. A specific individual in operations must own measurement and reporting of benefits post-handover.
 
 </details>
 
@@ -529,7 +529,7 @@ The project board of a 12-month, £500,000 HR system implementation has just inf
 <details>
 <summary>Reveal Answer</summary>
 
-**C) 3–6 months after the project's outputs are in operational use.** The PIR requires time for the product to bed in and for benefit indicators to show measurable trends. Conducting it immediately at closure is too soon to assess benefit realisation.
+**C) 3–6 months after the project's outputs are in operational use.** The PIR requires time for the product to bed in and for benefit indicators to show measurable trends. Conducting it immediately at closure is too soon to assess benefit realization.
 
 </details>
 
@@ -563,7 +563,7 @@ The project board of a 12-month, £500,000 HR system implementation has just inf
 | Module | Relationship |
 |---|---|
 | [Module 06 — Monitoring and Controlling](06-monitoring-control.md) | Closure formally ends the control processes; final performance reporting draws on monitoring data |
-| [Module 02 — Governance, Frameworks, and Methodologies](02-governance.md) | Governance structures define the closure gate criteria; the project board formally approves closure |
+| [Module 02 — Governance and Organizational Context](02-governance.md) | Governance structures define the closure gate criteria; the project board formally approves closure |
 | [Module 15b — Professional Practice and Career Development](15b-professional-practice.md) | Covers lessons-learned culture, ethical handover obligations, and the PM's responsibilities at project end |
 
 ---

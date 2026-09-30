@@ -53,7 +53,7 @@
 | COM-01 | Weekly Highlight Report | Progress, RAG status, risks, actions | Project Sponsor, Steering Group | Structured report (template) | Weekly — every [day] | PM | Email | |
 | COM-02 | Steering Committee Meeting | Decisions, escalations, progress review | Project Board | Agenda + papers + minutes | Monthly | PM / Sponsor | Meeting + email | |
 | COM-03 | Team Meeting / Stand-up | Coordination, blockers, actions | Project Team | Verbal + action log | Weekly / Daily | PM | In person / video | |
-| COM-04 | Stakeholder Update | Engagement; progress towards objectives | Named stakeholders (see register) | Email newsletter or briefing | [Frequency] | PM / Comms lead | Email | |
+| COM-04 | Stakeholder Update | Engagement; progress toward objectives | Named stakeholders (see register) | Email newsletter or briefing | [Frequency] | PM / Comms lead | Email | |
 | COM-05 | Exception Report | Alert to deviation from plan | Sponsor | Exception report (template) | When triggered | PM | Email | As needed |
 | COM-06 | Project Closure Report | Final performance summary | Sponsor, Steering Group, PMO | Formal report | At project end | PM | Email + meeting | |
 | COM-07 | Lessons Learned Report | Knowledge sharing | PMO, future project teams | Report + workshop | At each stage gate and at close | PM | Workshop + document | |

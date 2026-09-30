@@ -5,7 +5,7 @@
 ![Level](https://img.shields.io/badge/Level-Mixed%2FGeneral-green)
 ![Author](https://img.shields.io/badge/Author-UncleJs-orange)
 
-> **Procurement is not just buying — it is managing relationships, risk, and accountability across organisational boundaries.** This module covers the full procurement lifecycle from make-or-buy decisions through contract closure.
+> **Procurement is not just buying — it is managing relationships, risk, and accountability across organizational boundaries.** This module covers the full procurement lifecycle from make-or-buy decisions through contract closure.
 
 ---
 
@@ -17,8 +17,8 @@
     - [The Buyer–Seller Relationship](#the-buyerseller-relationship)
     - [Procurement vs Purchasing](#procurement-vs-purchasing)
   - [2. Make-or-Buy Analysis](#2-make-or-buy-analysis)
-    - [Factors Favouring Internal Delivery ("Make")](#factors-favouring-internal-delivery-make)
-    - [Factors Favouring External Delivery ("Buy")](#factors-favouring-external-delivery-buy)
+    - [Factors Favoring Internal Delivery ("Make")](#factors-favoring-internal-delivery-make)
+    - [Factors Favoring External Delivery ("Buy")](#factors-favoring-external-delivery-buy)
     - [Total Cost of Ownership](#total-cost-of-ownership)
     - [Hybrid Approaches](#hybrid-approaches)
   - [3. Procurement Planning](#3-procurement-planning)
@@ -61,7 +61,7 @@
     - [Ethical Obligations](#ethical-obligations)
     - [Public Sector Obligations](#public-sector-obligations)
     - [Sustainability in Procurement](#sustainability-in-procurement)
-  - [Artefacts](#artefacts)
+  - [Artifacts](#artifacts)
   - [Exercises](#exercises)
     - [Exercise 1 — Make-or-Buy Analysis](#exercise-1--make-or-buy-analysis)
     - [Exercise 2 — Contract Type Selection](#exercise-2--contract-type-selection)
@@ -73,18 +73,18 @@
 
 ## 1. Why Procurement Matters in Projects
 
-Modern projects rarely deliver everything in-house. Specialist skills, equipment, software licences, construction works, and professional services are routinely sourced externally. Procurement management ensures that:
+Modern projects rarely deliver everything in-house. Specialist skills, equipment, software licenses, construction works, and professional services are routinely sourced externally. Procurement management ensures that:
 
 - External suppliers deliver what was agreed, on time, within budget, and to the required quality.
 - Contractual obligations are met on both sides.
 - Risk is allocated appropriately between buyer and seller.
-- Public accountability, competition, and value-for-money obligations are honoured (especially in the public sector).
+- Public accountability, competition, and value-for-money obligations are honored (especially in the public sector).
 
 ### The Buyer–Seller Relationship
 
-From the project manager's perspective, the organisation is usually the **buyer** (also called client, owner, or contracting authority). The external party is the **seller** (also called supplier, vendor, contractor, or service provider).
+From the project manager's perspective, the organization is usually the **buyer** (also called client, owner, or contracting authority). The external party is the **seller** (also called supplier, vendor, contractor, or service provider).
 
-In complex projects, an organisation can be a buyer for some contracts and a seller (sub-contractor) for others simultaneously.
+In complex projects, an organization can be a buyer for some contracts and a seller (sub-contractor) for others simultaneously.
 
 ### Procurement vs Purchasing
 
@@ -115,19 +115,19 @@ flowchart TD
 
 Before procuring anything, the project must decide whether to produce internally or buy externally.
 
-### Factors Favouring Internal Delivery ("Make")
+### Factors Favoring Internal Delivery ("Make")
 
 - The capability exists in-house and is available.
 - The work is strategically sensitive or contains proprietary information.
 - Internal delivery is cost-competitive over the full lifecycle.
 - Greater control over quality, schedule, or integration is required.
-- The organisation wants to build or retain internal capability.
+- The organization wants to build or retain internal capability.
 
-### Factors Favouring External Delivery ("Buy")
+### Factors Favoring External Delivery ("Buy")
 
 - The skill or capacity does not exist internally.
 - External specialists can deliver faster or at lower cost.
-- The organisation wants to transfer risk to a party better placed to manage it.
+- The organization wants to transfer risk to a party better placed to manage it.
 - The work is non-core and does not justify internal investment.
 - Regulatory, public procurement, or policy requirements mandate competition.
 
@@ -135,7 +135,7 @@ Before procuring anything, the project must decide whether to produce internally
 
 Make-or-buy analysis must consider the **total cost of ownership (TCO)**, not just the purchase price:
 
-- Acquisition cost (price, licence fees, installation)
+- Acquisition cost (price, license fees, installation)
 - Operating and maintenance costs
 - Integration and change-management costs
 - Training and support costs
@@ -163,7 +163,7 @@ The procurement management plan (a component of the overall project management p
 |---|---|
 | **Procurement strategy** | Approach to market (open competition, restricted, single source) |
 | **Contract types** | Which contract type for each package |
-| **Procurement schedule** | Key dates: RFP issue, tender close, evaluation, award, mobilisation |
+| **Procurement schedule** | Key dates: RFP issue, tender close, evaluation, award, mobilization |
 | **Roles and responsibilities** | Who leads procurement, who is technical evaluator, who signs contracts |
 | **Risk allocation** | Which risks are transferred, shared, or retained |
 | **Governance** | Approvals required, thresholds, legal review triggers |
@@ -210,7 +210,7 @@ The seller agrees to deliver the defined scope for an agreed price. Cost overrun
 | Sub-type | Description | When to use |
 |---|---|---|
 | **Firm Fixed Price (FFP)** | Single agreed price; no adjustment | Well-defined scope, stable requirements |
-| **Fixed Price Incentive Fee (FPIF)** | Fixed target price with sharing formula; seller earns bonus for outperformance | Clear scope but seller efficiency can be incentivised |
+| **Fixed Price Incentive Fee (FPIF)** | Fixed target price with sharing formula; seller earns bonus for outperformance | Clear scope but seller efficiency can be incentivized |
 | **Fixed Price with Economic Price Adjustment (FPEPA)** | Price adjusted for inflation indices | Long-duration contracts exposed to market price changes |
 
 **Buyer risk is low; seller risk is high.** Sellers price risk into their bids — a buyer may pay a premium for certainty.
@@ -222,14 +222,14 @@ The buyer reimburses the seller's allowable costs plus a fee. Cost risk sits pri
 | Sub-type | Description | When to use |
 |---|---|---|
 | **Cost Plus Fixed Fee (CPFF)** | Actual costs + fixed fee regardless of final cost | R&D or exploratory work where scope is uncertain |
-| **Cost Plus Incentive Fee (CPIF)** | Actual costs + fee adjusted by sharing formula against target cost | Uncertain scope but seller efficiency can be incentivised |
+| **Cost Plus Incentive Fee (CPIF)** | Actual costs + fee adjusted by sharing formula against target cost | Uncertain scope but seller efficiency can be incentivized |
 | **Cost Plus Award Fee (CPAF)** | Actual costs + subjective award fee based on buyer evaluation | Service quality or performance difficult to objectively measure |
 
 **Buyer risk is high; seller risk is low.** Requires robust cost monitoring and audit rights.
 
 ### Time and Materials (T&M)
 
-A hybrid: labour charged at agreed rates per unit of time; materials reimbursed at cost. Scope may not be fully defined. Risk is shared.
+A hybrid: labor charged at agreed rates per unit of time; materials reimbursed at cost. Scope may not be fully defined. Risk is shared.
 
 - Suitable for short engagements, consultancy, or staff augmentation.
 - Requires active management — there is limited natural incentive for sellers to be efficient.
@@ -396,13 +396,13 @@ Not all procurement routes end in a formal tender. Negotiated or single-source p
 | **Price** | Target cost, ceiling price, day rates, volume discounts |
 | **Payment terms** | Milestone triggers, advance payment, retentions |
 | **Risk allocation** | Liability caps, indemnities, insurance requirements |
-| **Intellectual property** | Ownership of deliverables, licences, background IP |
+| **Intellectual property** | Ownership of deliverables, licenses, background IP |
 | **Performance standards** | KPIs, service levels, remedies for failure |
 | **Exit and termination** | Termination for convenience, data portability, transition |
 
 ### Key Principle: Never Agree to Undefined Scope
 
-A common trap: agreeing a price before scope is fully defined. This shifts risk to the buyer and invites claims later. Finalise the Statement of Work before agreeing the price.
+A common trap: agreeing a price before scope is fully defined. This shifts risk to the buyer and invites claims later. Finalize the Statement of Work before agreeing the price.
 
 [↑ Back to top](#table-of-contents)
 
@@ -410,16 +410,16 @@ A common trap: agreeing a price before scope is fully defined. This shifts risk 
 
 ## 8. Contract Administration
 
-Once a contract is signed, the project manager becomes the contract's **intelligent client** — responsible for ensuring both parties honour their obligations.
+Once a contract is signed, the project manager becomes the contract's **intelligent client** — responsible for ensuring both parties honor their obligations.
 
 ### Contract Administration Responsibilities
 
 **Buyer-side (project manager's team):**
 
-- Issue formal instructions, variations, and authorisations in accordance with contract terms.
+- Issue formal instructions, variations, and authorizations in accordance with contract terms.
 - Review and approve deliverables against acceptance criteria.
 - Process invoices and payment certificates.
-- Monitor the supplier's programme and raise concerns early.
+- Monitor the supplier's program and raise concerns early.
 - Manage the change process for scope variations.
 - Maintain a contract file (correspondence, instructions, claims, payments).
 
@@ -565,9 +565,9 @@ These criteria must be built into the specification and evaluation — not added
 
 ---
 
-## Artefacts
+## Artifacts
 
-| Artefact | Description | Template |
+| Artifact | Description | Template |
 |---|---|---|
 | Procurement Management Plan | Strategy, schedule, roles, governance for all procurement activity | — |
 | Statement of Work (SoW) | Detailed scope, deliverables, and acceptance criteria for each contract | — |
@@ -587,11 +587,11 @@ These criteria must be built into the specification and evaluation — not added
 
 ### Exercise 1 — Make-or-Buy Analysis
 
-**Scenario**: The digital planning portal project (regional council) needs a GIS mapping layer integrated into the public-facing application. Three options are available:
+**Scenario**: A city's digital planning portal project needs a GIS mapping layer integrated into the public-facing application. Three options are available:
 
-- **Option A**: Use the council's internal GIS team (4 staff, currently at 80% capacity on other work).
-- **Option B**: Licence a SaaS mapping platform (£18,000/year; 3-year minimum commitment; no customisation).
-- **Option C**: Commission a specialist GIS consultancy to build a bespoke layer (estimated £65,000; one-off; fully owned by the council).
+- **Option A**: Use the city's internal GIS team (4 staff, currently at 80% capacity on other work).
+- **Option B**: License a SaaS mapping platform ($18,000/year; 3-year minimum commitment; no customization).
+- **Option C**: Commission a specialist GIS consultancy to build a bespoke layer (estimated $65,000; one-off; fully owned by the city).
 
 **Task**: Conduct a make-or-buy analysis. For each option, identify: cost factors (including TCO over 3 years), risk factors, control/quality factors, and strategic factors. Recommend an option with a written justification of no more than 200 words.
 
@@ -601,7 +601,7 @@ These criteria must be built into the specification and evaluation — not added
 
 ### Exercise 2 — Contract Type Selection
 
-**Scenario**: The council is procuring three separate packages for the portal project:
+**Scenario**: The city is procuring three separate packages for the portal project:
 
 1. **Software development**: A custom-built case management module. Requirements are ~70% defined; the remainder will emerge during an agile delivery phase.
 2. **Data migration**: Moving 12 years of planning records from a legacy system to the new platform. Scope is fully defined; volume risk sits with the supplier.
@@ -620,7 +620,7 @@ These criteria must be built into the specification and evaluation — not added
 - 3 of the last 4 sprint deliveries have been late (by 3–8 days each).
 - Defect rate has risen from 2% to 9% over the past two sprints.
 - The supplier's project manager has changed twice; the new one is inexperienced.
-- The supplier has submitted a claim for additional cost, citing "requirements instability" — the council disputes this.
+- The supplier has submitted a claim for additional cost, citing "requirements instability" — the city disputes this.
 
 The contract contains KPI targets (95% on-time delivery; <5% defect rate), a performance notice clause, and a right to terminate for cause after two unresolved formal notices.
 
@@ -680,7 +680,7 @@ A SoW is the document that defines exactly what a supplier must deliver under a 
 
 <details><summary>Reveal Answer</summary>
 
-Publishing criteria upfront is fair (bidders can tailor their response to what is valued), transparent (reduces risk of challenge), and defines "best value" in advance so the evaluation is objective and defensible. It also protects the buyer from accusations of post-hoc rationalisation.
+Publishing criteria upfront is fair (bidders can tailor their response to what is valued), transparent (reduces risk of challenge), and defines "best value" in advance so the evaluation is objective and defensible. It also protects the buyer from accusations of post-hoc rationalization.
 
 </details>
 
@@ -700,7 +700,7 @@ A period between notifying the preferred supplier of their selection and formall
 
 <details><summary>Reveal Answer</summary>
 
-A variation is a formal change to the agreed scope, time, or cost of a contract. It must be issued in writing because verbal instructions have no legal standing, create uncontrolled cost exposure, and leave no audit trail. All additional work must be authorised by a signed variation before it begins.
+A variation is a formal change to the agreed scope, time, or cost of a contract. It must be issued in writing because verbal instructions have no legal standing, create uncontrolled cost exposure, and leave no audit trail. All additional work must be authorized by a signed variation before it begins.
 
 </details>
 

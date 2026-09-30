@@ -15,13 +15,13 @@
   - [Why "temporary" matters](#why-temporary-matters)
   - [Why "unique" matters](#why-unique-matters)
   - [The triple constraint](#the-triple-constraint)
-- [2. Projects vs. Operations vs. Programmes vs. Portfolios](#2-projects-vs-operations-vs-programmes-vs-portfolios)
+- [2. Projects vs. Operations vs. Programs vs. Portfolios](#2-projects-vs-operations-vs-programs-vs-portfolios)
   - [Projects vs. Operations](#projects-vs-operations)
-  - [Programmes](#programmes)
+  - [Programs](#programs)
   - [Portfolios](#portfolios)
 - [3. The Project Environment](#3-the-project-environment)
-  - [Organisational structures](#organisational-structures)
-  - [Organisational culture](#organisational-culture)
+  - [Organizational structures](#organizational-structures)
+  - [Organizational culture](#organizational-culture)
   - [The project environment model](#the-project-environment-model)
 - [4. Overview of Project Management Frameworks](#4-overview-of-project-management-frameworks)
   - [Why no single methodology?](#why-no-single-methodology)
@@ -39,7 +39,7 @@
   - [Core ethical principles](#core-ethical-principles)
   - [Common ethical challenges in PM](#common-ethical-challenges-in-pm)
   - [Professional codes](#professional-codes)
-- [Artefacts](#artefacts)
+- [Artifacts](#artifacts)
 - [Exercises](#exercises)
   - [Exercise 1.1 — Is it a project?](#exercise-11--is-it-a-project)
   - [Exercise 1.2 — Mapping the environment](#exercise-12--mapping-the-environment)
@@ -51,14 +51,14 @@
 
 ## 1. What Is a Project?
 
-A **project** is a **temporary endeavour** undertaken to create a **unique product, service, or result**.
+A **project** is a **temporary endeavor** undertaken to create a **unique product, service, or result**.
 
 Three characteristics define every project:
 
 | Characteristic | What It Means |
 |---|---|
 | **Temporary** | A definite start and a definite end — it does not go on forever |
-| **Unique** | The outcome is different from anything else the organisation has produced before, even if similar work has been done |
+| **Unique** | The outcome is different from anything else the organization has produced before, even if similar work has been done |
 | **Progressive elaboration** | Details are developed incrementally as the project moves forward and understanding deepens |
 
 ### Why "temporary" matters
@@ -94,7 +94,7 @@ Modern practice adds **quality**, **risk**, **resources**, and **stakeholder sat
 
 ---
 
-## 2. Projects vs. Operations vs. Programmes vs. Portfolios
+## 2. Projects vs. Operations vs. Programs vs. Portfolios
 
 ### Projects vs. Operations
 
@@ -105,21 +105,21 @@ Modern practice adds **quality**, **risk**, **resources**, and **stakeholder sat
 | Purpose | Create change | Sustain current state |
 | Examples | Build a new warehouse | Run the warehouse |
 
-Operations are the day-to-day activities that keep an organisation running. Projects are the vehicles for change. Most organisations run both simultaneously — and managing the **interface** between them is a critical PM skill.
+Operations are the day-to-day activities that keep an organization running. Projects are the vehicles for change. Most organizations run both simultaneously — and managing the **interface** between them is a critical PM skill.
 
-### Programmes
+### Programs
 
-A **programme** is a group of related projects managed in a coordinated way to obtain benefits that could not be achieved by managing each individually. A programme has a unifying strategic purpose. Example: a digital transformation programme containing separate projects for CRM replacement, staff training, and data migration.
+A **program** is a group of related projects managed in a coordinated way to obtain benefits that could not be achieved by managing each individually. A program has a unifying strategic purpose. Example: a digital transformation program containing separate projects for CRM replacement, staff training, and data migration.
 
 ### Portfolios
 
-A **portfolio** is a collection of programmes, projects, and operational work grouped together to achieve a strategic objective. Portfolio management is about selecting the right projects to fund and ensuring the mix aligns with organisational strategy.
+A **portfolio** is a collection of programs, projects, and operational work grouped together to achieve a strategic objective. Portfolio management is about selecting the right projects to fund and ensuring the mix aligns with organizational strategy.
 
 ```mermaid
 flowchart TD
     PF["🗂 Portfolio (strategic alignment)"]
-    PA["📦 Programme A (coordinated benefits)"]
-    PB["📦 Programme B"]
+    PA["📦 Program A (coordinated benefits)"]
+    PB["📦 Program B"]
     P1["✅ Project 1"]
     P2["✅ Project 2"]
     P3["✅ Project 3"]
@@ -131,7 +131,7 @@ flowchart TD
     PA --> P2
     PB --> P3
 ```
-*Portfolios contain programmes and standalone projects; programmes coordinate related projects to realise shared benefits.*
+*Portfolios contain programs and standalone projects; programs coordinate related projects to realize shared benefits.*
 
 [↑ Back to top](#table-of-contents)
 
@@ -139,9 +139,9 @@ flowchart TD
 
 ## 3. The Project Environment
 
-### Organisational structures
+### Organizational structures
 
-The structure of the host organisation has a direct impact on the project manager's authority and access to resources.
+The structure of the host organization has a direct impact on the project manager's authority and access to resources.
 
 | Structure | PM Authority | Resource Control |
 |---|---|---|
@@ -149,11 +149,11 @@ The structure of the host organisation has a direct impact on the project manage
 | **Weak Matrix** | Low to moderate | Shared between PM and functional manager |
 | **Balanced Matrix** | Moderate | Negotiated |
 | **Strong Matrix** | Moderate to high | PM has significant influence |
-| **Projectised** | High — PM is the boss | PM controls resources |
+| **Projectized** | High — PM is the boss | PM controls resources |
 
-Most real organisations are hybrid — the PM must understand and navigate the specific power dynamics in their context.
+Most real organizations are hybrid — the PM must understand and navigate the specific power dynamics in their context.
 
-### Organisational culture
+### Organizational culture
 
 Culture determines how communication happens, how conflict is handled, how decisions are made, and how much autonomy the project manager is granted. Culture is often invisible until it creates friction. A PM who ignores culture will struggle; one who reads it well will accelerate.
 
@@ -162,14 +162,14 @@ Culture determines how communication happens, how conflict is handled, how decis
 ```mermaid
 flowchart TD
     EE["🌐 External Environment (regulations, markets, society, technology)"]
-    OE["🏢 Organisational Environment (culture, governance, strategy)"]
+    OE["🏢 Organizational Environment (culture, governance, strategy)"]
     PE["📋 Project Environment (sponsor, stakeholders, constraints)"]
     PT["👥 Project Team"]
     EE --> OE --> PE --> PT
 ```
-*Projects are nested inside organisations, which are nested inside an external environment. The PM must navigate all three layers.*
+*Projects are nested inside organizations, which are nested inside an external environment. The PM must navigate all three layers.*
 
-Projects are nested inside organisations, which are nested inside an external environment of regulations, market forces, technology change, and societal expectations. The PM must be aware of all three layers.
+Projects are nested inside organizations, which are nested inside an external environment of regulations, market forces, technology change, and societal expectations. The PM must be aware of all three layers.
 
 [↑ Back to top](#table-of-contents)
 
@@ -221,7 +221,7 @@ The project manager is the person assigned responsibility for leading the projec
 
 ### Authority vs. influence
 
-In many organisations, the project manager does not have formal line management authority over team members. They must achieve results through **influence** — building relationships, demonstrating competence, and creating clarity. This is one of the most challenging aspects of the role.
+In many organizations, the project manager does not have formal line management authority over team members. They must achieve results through **influence** — building relationships, demonstrating competence, and creating clarity. This is one of the most challenging aspects of the role.
 
 ### The PM is not the expert
 
@@ -235,7 +235,7 @@ The project manager does not need to be the technical expert on every aspect of 
 
 ### Why projects exist
 
-Projects are not ends in themselves. They exist to deliver **value** to the organisation and its stakeholders. A project that delivers its scope on time and on budget but produces no value is a failure.
+Projects are not ends in themselves. They exist to deliver **value** to the organization and its stakeholders. A project that delivers its scope on time and on budget but produces no value is a failure.
 
 The chain from investment to value looks like this:
 
@@ -243,17 +243,17 @@ The chain from investment to value looks like this:
 flowchart LR
     I["📥 Input (resources, budget, time)"]
     O["📤 Output (deliverable)"]
-    OC["🔄 Outcome (change in behaviour or capability)"]
-    B["💡 Benefit (measurable value to the organisation)"]
+    OC["🔄 Outcome (change in behavior or capability)"]
+    B["💡 Benefit (measurable value to the organization)"]
     I --> O --> OC --> B
 ```
-*Example: £200k budget → self-service portal → customers resolve issues without calling → 30% call-centre reduction.*
+*Example: $200k budget → self-service portal → customers resolve issues without calling → 30% call-center reduction.*
 
 **Example:**
-- Input: £200,000 budget, 3-month timeline
+- Input: $200,000 budget, 3-month timeline
 - Output: New customer self-service portal
 - Outcome: Customers can resolve issues without calling the helpdesk
-- Benefit: 30% reduction in call centre volume; improved customer satisfaction
+- Benefit: 30% reduction in call center volume; improved customer satisfaction
 
 ### The business case
 
@@ -266,7 +266,7 @@ The **business case** is the key document that articulates why the project shoul
 - What are the alternatives?
 - Is the project the best use of available resources?
 
-The business case should be reviewed at key decision points — not just written at the start and filed away. If the case for proceeding weakens (costs escalate, benefits shrink), the organisation must be willing to stop the project.
+The business case should be reviewed at key decision points — not just written at the start and filed away. If the case for proceeding weakens (costs escalate, benefits shrink), the organization must be willing to stop the project.
 
 ### Value vs. outputs
 
@@ -280,7 +280,7 @@ A common failure mode is confusing **delivering an output** with **delivering va
 
 ### Why ethics matters in PM
 
-Project managers handle significant resources, make decisions that affect many people, and operate with delegated authority. Ethical behaviour is not optional — it is foundational to the trust that makes the PM role effective.
+Project managers handle significant resources, make decisions that affect many people, and operate with delegated authority. Ethical behavior is not optional — it is foundational to the trust that makes the PM role effective.
 
 ### Core ethical principles
 
@@ -288,7 +288,7 @@ Project managers handle significant resources, make decisions that affect many p
 |---|---|
 | **Honesty** | Report status accurately, including bad news; do not hide problems |
 | **Responsibility** | Own your decisions and their consequences |
-| **Fairness** | Apply consistent standards; avoid favouritism in team and vendor management |
+| **Fairness** | Apply consistent standards; avoid favoritism in team and vendor management |
 | **Respect** | Treat all stakeholders with dignity regardless of their level or influence |
 | **Transparency** | Share information that others need to make good decisions |
 
@@ -302,17 +302,17 @@ Project managers handle significant resources, make decisions that affect many p
 
 ### Professional codes
 
-Most professional PM bodies (PMI, APM, IPMA) maintain a professional code of conduct or ethics standard. While these vary in specifics, they converge on honesty, respect, fairness, and responsibility. Familiarity with your organisation's or profession's code is expected of every practising PM.
+Most professional PM bodies (PMI, APM, IPMA) maintain a professional code of conduct or ethics standard. While these vary in specifics, they converge on honesty, respect, fairness, and responsibility. Familiarity with your organization's or profession's code is expected of every practicing PM.
 
 [↑ Back to top](#table-of-contents)
 
 ---
 
-## Artefacts
+## Artifacts
 
-This module is conceptual. No project artefacts are produced at this stage. However, the following documents become relevant in the next module and should be understood in context:
+This module is conceptual. No project artifacts are produced at this stage. However, the following documents become relevant in the next module and should be understood in context:
 
-| Artefact | First Introduced In |
+| Artifact | First Introduced In |
 |---|---|
 | Business Case | [Module 03 — Initiation](03-initiation.md) |
 | Project Charter | [Module 03 — Initiation](03-initiation.md) |
@@ -326,11 +326,11 @@ This module is conceptual. No project artefacts are produced at this stage. Howe
 
 ### Exercise 1.1 — Is it a project?
 
-For each of the following, determine whether it is a **project**, an **operation**, a **programme**, or a **portfolio**. Justify your answer.
+For each of the following, determine whether it is a **project**, an **operation**, a **program**, or a **portfolio**. Justify your answer.
 
 1. A bank's monthly processing of payroll for 10,000 employees
 2. Constructing a new regional hospital
-3. A company's annual programme of technology upgrades spanning seven separate IT projects
+3. A company's annual program of technology upgrades spanning seven separate IT projects
 4. A government department's collection of all active initiatives aligned to a national infrastructure strategy
 5. A weekly team meeting to review customer complaints
 
@@ -340,11 +340,11 @@ For each of the following, determine whether it is a **project**, an **operation
 
 ### Exercise 1.2 — Mapping the environment
 
-Think of a project you have been involved in (or research a well-known public project failure such as the UK's NHS National Programme for IT, the Sydney Opera House, or the Denver Airport baggage system).
+Think of a project you have been involved in (or research a well-known public project failure such as the UK's NHS National Program for IT, the Sydney Opera House, or the Denver Airport baggage system).
 
 Answer the following:
 
-1. What was the organisational structure? How did it affect the PM's authority?
+1. What was the organizational structure? How did it affect the PM's authority?
 2. What external environment factors influenced the project?
 3. Was there a clear business case? Was it reviewed during the project?
 4. Were there any visible ethical challenges? How were they handled?
@@ -386,9 +386,9 @@ Test your understanding of Module 01. Attempt the questions before revealing the
 
 ---
 
-**Question 2:** A project manager leads a team of specialists from across the organisation but has no line management authority over any of them. What type of organisational structure is this most likely?
+**Question 2:** A project manager leads a team of specialists from across the organization but has no line management authority over any of them. What type of organizational structure is this most likely?
 
-- A) Projectised
+- A) Projectized
 - B) Functional
 - C) Matrix
 - D) Portfolio
@@ -448,12 +448,12 @@ Resources go in (input), a deliverable comes out (output), that deliverable enab
 
 ---
 
-**Question 6:** True or False: A programme and a project are the same thing, just at different scales.
+**Question 6:** True or False: A program and a project are the same thing, just at different scales.
 
 <details>
 <summary>Reveal Answer</summary>
 
-**False.** A programme is a group of related projects managed in a coordinated way to obtain benefits not achievable by managing them individually. The key distinction is that a programme has a unifying strategic purpose and manages interdependencies between projects, not merely that it is larger.
+**False.** A program is a group of related projects managed in a coordinated way to obtain benefits not achievable by managing them individually. The key distinction is that a program has a unifying strategic purpose and manages interdependencies between projects, not merely that it is larger.
 
 </details>
 
@@ -477,7 +477,7 @@ Resources go in (input), a deliverable comes out (output), that deliverable enab
 
 ---
 
-**Next Module:** [Module 02 — Project Governance and Organisational Context](02-governance.md)
+**Next Module:** [Module 02 — Project Governance and Organizational Context](02-governance.md)
 
 ---
 
@@ -485,10 +485,10 @@ Resources go in (input), a deliverable comes out (output), that deliverable enab
 
 | Module | Relationship |
 |---|---|
-| [02 — Governance and Business Case](02-governance.md) | Governance structures and frameworks build directly on the foundational concepts introduced here |
+| [02 — Governance and Organizational Context](02-governance.md) | Governance structures and frameworks build directly on the foundational concepts introduced here |
 | [03 — Project Initiation](03-initiation.md) | The project lifecycle and key initiation documents introduced here are expanded into practice |
 | [04 — Planning](04-planning.md) | Planning tools (WBS, schedule, cost baseline) put the process groups and knowledge areas into action |
-| [15a — Integration, Hybrid Approaches, and Agile](15a-integration-hybrid-agile.md) | Integration management synthesises all knowledge areas first introduced in this module |
+| [15a — Integration, Hybrid Approaches, and Agile](15a-integration-hybrid-agile.md) | Integration management synthesizes all knowledge areas first introduced in this module |
 
 ---
 

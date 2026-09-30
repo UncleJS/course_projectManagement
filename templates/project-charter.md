@@ -4,7 +4,7 @@
 ![Template](https://img.shields.io/badge/Template-Project%20Charter-blue)
 ![Author](https://img.shields.io/badge/Author-UncleJs-orange)
 
-> The project charter formally authorises the project and grants the project manager authority to apply resources. It should be issued before significant expenditure begins and signed by the project sponsor.
+> The project charter formally authorizes the project and grants the project manager authority to apply resources. It should be issued before significant expenditure begins and signed by the project sponsor.
 
 ---
 
@@ -17,7 +17,7 @@
   - [In Scope](#in-scope)
   - [Out of Scope](#out-of-scope)
 - [4. Key Deliverables](#4-key-deliverables)
-- [5. Project Organisation](#5-project-organisation)
+- [5. Project Organization](#5-project-organization)
 - [6. Project Governance](#6-project-governance)
 - [7. Budget](#7-budget)
 - [8. Schedule](#8-schedule)
@@ -26,7 +26,7 @@
   - [Constraints](#constraints)
   - [Assumptions](#assumptions)
 - [10. Project Manager Authority](#10-project-manager-authority)
-- [Authorisation](#authorisation)
+- [Authorization](#authorization)
 
 ---
 
@@ -47,7 +47,7 @@
 
 ## 1. Project Purpose
 
-*State in 2–3 sentences why this project exists. What problem does it solve or what opportunity does it realise?*
+*State in 2–3 sentences why this project exists. What problem does it solve or what opportunity does it realize?*
 
 ---
 
@@ -97,7 +97,7 @@
 
 [↑ Back to top](#table-of-contents)
 
-## 5. Project Organisation
+## 5. Project Organization
 
 | Role | Name / TBC | Responsibilities |
 |---|---|---|
@@ -125,7 +125,7 @@
 
 ## 7. Budget
 
-| Item | Amount (£) |
+| Item | Amount ($) |
 |---|---|
 | Estimated total cost | |
 | Approved budget | |
@@ -179,7 +179,7 @@
 *This charter grants [Project Manager Name] the authority to:*
 
 - Assign and direct project team members as agreed with their line managers.
-- Commit expenditure up to £[threshold] without further approval.
+- Commit expenditure up to $[threshold] without further approval.
 - Issue change requests to the Project Board for approval above this threshold.
 - Represent the project in stakeholder meetings and communications.
 
@@ -187,7 +187,7 @@
 
 [↑ Back to top](#table-of-contents)
 
-## Authorisation
+## Authorization
 
 | Role | Name | Signature | Date |
 |---|---|---|---|

@@ -26,11 +26,11 @@
 | Field | Value |
 |---|---|
 | **Meeting title** | Meridian Portal — Project Kick-off Meeting |
-| **Date** | Thursday 5 February 2026 |
+| **Date** | Thursday February 5, 2026 |
 | **Time** | 10:00 – 12:00 |
-| **Location / link** | Council Chamber Room 2B / MS Teams (hybrid) |
+| **Location / link** | City Chamber Room 2B / MS Teams (hybrid) |
 | **Chair** | Sarah Chen, Project Manager |
-| **Note-taker** | Diane Hughes, Business Change Manager |
+| **Note-taker** | Diane Hughes, Digital Communications (BCM not yet appointed) |
 
 [↑ Back to top](#table-of-contents)
 
@@ -44,9 +44,10 @@
 | Sarah Chen | Project Manager | In person |
 | Sandra Obi | Senior User / Head of Customer Services | In person |
 | Mark Pearce | ICT Manager / Senior Supplier | In person |
-| Councillor Patricia Dean | Portfolio Holder — Digital & Innovation | In person |
-| Ayo Mensah | Contact Centre Team Lead | MS Teams |
-| Claire Worthington | Section 151 Officer | In person |
+| Councilmember Patricia Dean | Chair, Technology and Innovation Committee | In person |
+| Diane Hughes | Digital Communications (note-taker; BCM not yet appointed) | In person |
+| Ayo Mensah | Contact Center Team Lead | MS Teams |
+| Claire Worthington | Finance Director | In person |
 | GovTech Solutions (Supplier) | Pre-contract (observer only at this stage) | MS Teams |
 
 **Apologies:** None received.
@@ -67,9 +68,9 @@ To formally launch the Meridian Portal project; align all stakeholders on the pr
 
 Attendees are asked to read the following before the meeting:
 
-1. [Project Charter](../examples/02-project-charter.md) (circulated 3 Feb 2026)
+1. [Project Charter](../examples/02-project-charter.md) (circulated February 3, 2026)
 2. [Business Case Executive Summary](../examples/01-business-case.md) — Section 1 only
-3. Draft project timeline (circulated 3 Feb 2026)
+3. Draft project timeline (circulated February 3, 2026)
 
 *If you have not received these documents, contact Sarah Chen before the meeting.*
 
@@ -105,9 +106,9 @@ Attendees are asked to read the following before the meeting:
 
 ## Decisions Required
 
-1. Formal confirmation by Sponsor that the project is authorised to proceed (Project Charter already signed; verbal affirmation in front of the group).
-2. Agreement on the fortnightly Highlight Report distribution list.
-3. Agreement on the date for the first Project Board meeting (proposed: 5 March 2026, 10:00).
+1. Formal confirmation by Sponsor that the project is authorized to proceed (Project Charter already signed; verbal affirmation in front of the group).
+2. Agreement on the every two weeks Highlight Report distribution list.
+3. Agreement on the date for the first Project Board meeting (proposed: March 5, 2026, 10:00).
 
 [↑ Back to top](#table-of-contents)
 

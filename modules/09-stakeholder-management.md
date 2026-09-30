@@ -37,7 +37,7 @@
 - [8. Ethics and Transparency in Stakeholder Management](#8-ethics-and-transparency-in-stakeholder-management)
   - [The boundaries of engagement](#the-boundaries-of-engagement)
   - [Conflict of interest](#conflict-of-interest)
-- [Artefacts](#artefacts)
+- [Artifacts](#artifacts)
 - [Exercises](#exercises)
   - [Exercise 9.1 — Stakeholder identification](#exercise-91--stakeholder-identification)
   - [Exercise 9.2 — Power/Interest grid mapping](#exercise-92--powerinterest-grid-mapping)
@@ -49,7 +49,7 @@
 
 ## 1. Who Are Stakeholders?
 
-A **stakeholder** is any individual, group, or organisation that:
+A **stakeholder** is any individual, group, or organization that:
 
 - May affect the project (decision-makers, regulators, resource owners)
 - May be affected by the project (users, communities, downstream processes)
@@ -87,7 +87,7 @@ Stakeholder identification should begin **as early as possible** — ideally dur
 
 **Structured approaches:**
 
-1. **Organisational chart analysis** — who in the organisation will be touched by the change?
+1. **Organizational chart analysis** — who in the organization will be touched by the change?
 2. **Process mapping** — which teams or individuals are involved in the processes the project will affect?
 3. **Regulatory scan** — which bodies have oversight or approval rights?
 4. **Supplier and partner review** — which external parties interact with the project's scope?
@@ -101,7 +101,7 @@ For each identified stakeholder, capture at minimum:
 | Field | Description |
 |---|---|
 | Name / role | Individual name or role title |
-| Organisation / department | Where they sit |
+| Organization / department | Where they sit |
 | Contact details | For communication planning |
 | Interest in the project | What they care about |
 | Level of influence | How much power they have over the project's success |
@@ -229,7 +229,7 @@ The engagement plan documents:
 
 ### Cultural considerations
 
-Stakeholder engagement is deeply influenced by culture — organisational and national. What counts as "appropriate engagement" varies:
+Stakeholder engagement is deeply influenced by culture — organizational and national. What counts as "appropriate engagement" varies:
 
 - **Communication style**: direct vs. indirect; formal vs. informal
 - **Decision-making norms**: consensus-based vs. hierarchical
@@ -331,11 +331,11 @@ Disclose conflicts of interest to the sponsor. Where necessary, recuse yourself 
 
 ---
 
-## Artefacts
+## Artifacts
 
-| Artefact | Description | Template |
+| Artifact | Description | Template |
 |---|---|---|
-| **Stakeholder Register** | Full catalogue of stakeholders with analysis data | [stakeholder-register.md](../templates/stakeholder-register.md) |
+| **Stakeholder Register** | Full catalog of stakeholders with analysis data | [stakeholder-register.md](../templates/stakeholder-register.md) |
 | **Power/Interest Grid** | Visual analysis of stakeholder influence and interest | — |
 | **Stakeholder Engagement Assessment Matrix** | Current vs. desired engagement levels | — |
 | **Stakeholder Engagement Plan** | Planned engagement actions, owners, and schedule | — |
@@ -349,7 +349,7 @@ Disclose conflicts of interest to the sponsor. Where necessary, recuse yourself 
 
 ### Exercise 9.1 — Stakeholder identification
 
-You are managing a project to relocate a company's head office from the city centre to a business park 8 miles away. The company has 300 staff.
+You are managing a project to relocate a company's head office from the city center to a business park 8 miles away. The company has 300 staff.
 
 Identify at least 12 stakeholders, covering internal, external, primary, and secondary categories. For each, note their primary interest and your initial estimate of their attitude (supportive / neutral / resistant) and why.
 
@@ -389,7 +389,7 @@ The Head of IT at the relocation company is strongly resistant to the office mov
 - A) Salience model
 - B) RACI matrix
 - C) Power/Interest grid
-- D) MoSCoW prioritisation
+- D) MoSCoW prioritization
 
 <details>
 <summary>Reveal Answer</summary>

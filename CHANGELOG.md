@@ -1,7 +1,7 @@
 # Changelog
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
-![Version](https://img.shields.io/badge/Version-2.2.0-blue)
+![Version](https://img.shields.io/badge/Version-2.3.0-blue)
 ![Keep a Changelog](https://img.shields.io/badge/Keep%20a%20Changelog-1.1.0-orange)
 ![Semantic Versioning](https://img.shields.io/badge/Semver-2.0.0-informational)
 
@@ -19,6 +19,7 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## Table of Contents
 
 - [Unreleased](#unreleased)
+- [2.3.0 — 2026-09-30](#230--2026-09-30)
 - [2.2.0 — 2026-06-08](#220--2026-06-08)
 - [2.1.3 — 2026-03-03](#213--2026-03-03)
 - [2.1.2 — 2026-03-03](#212--2026-03-03)
@@ -33,6 +34,21 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## [Unreleased]
 
 *No unreleased changes.*
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## [2.3.0] — 2026-09-30
+
+Americanized the learner-facing course and closed the remaining Meridian contradictions left after 2.2.0. Historical notes in this changelog, and the v2.1.3 findings in `COURSE-REVIEW.md`, are unchanged.
+
+### Changed
+
+- **Spelling and currency.** Learner-facing files use US spelling (organization, artifact, authorize, center, program, leveling, and the -ize verbs). Pound amounts are now dollars with the same numbers ($420,000, $123,820, and the rest). Dates in the scenario and module examples use US order with the month spelled out (October 1, 2026).
+- **Setting.** The worked example is the City of Northgate, a fictional US city. Council titles, UK GDPR and DPIA, the Welsh-language change, council tax, and garden waste are now a councilmember, a Chief Privacy Officer and Privacy Impact Assessment, a deferred Spanish-language interface, property tax, and yard waste. Accessibility is tied to ADA Title II and WCAG 2.1 AA. The legacy land system is LandWorks. The property-tax gateway is Harbor Payments. The project reference is NGT-2026-DIG-01.
+- **Meridian money and canon.** The benefits register and handover use the same model as the business case: $171,820 gross, $48,000 running cost, $123,820 net, on a base of 14,200 inquiries per year, with 1.8 FTE released and a 0–100 satisfaction index. Payback on the $374,800 actual cost is about 3.0 years. Closure CPI is 1.00 on authorized completed work. SPI 1.00 at closure is not treated as proof that the Gate 2 slip was recovered. The 55% deflection target is month 6 (April 2027). Diane Hughes is not Business Change Manager at the February 5 kick-off. James Hartley is Senior Responsible Owner on the closure report. ISS-03 is the June 17, 2026 integration-testing finding. The examples index states the original parking-permit scope, the later deferral, and both go-live dates.
+- **Teaching corrections.** The glossary no longer equates a change control board with a change advisory board. The cost baseline is not labeled as the performance measurement baseline, and contingency sits inside the cost baseline. Module 10's highlight-report exercise cites the Module 06 week-10 worked example. The S-curve is labeled illustrative. The risk-register template notes that its 1–5 scale is an alternative to Module 11's decimal scale. Module 05 uses Competing for the Thomas-Kilmann mode. Resource leveling may delay work that has no float. Module 15b sections start at 1. Related-module titles for Modules 02 and 13 match their headings.
 
 [↑ Back to top](#table-of-contents)
 

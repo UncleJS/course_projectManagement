@@ -66,7 +66,7 @@
 
 ## 3. Objectives
 
-*State what the project is intended to achieve. Use SMART objectives where possible. Link each objective to a strategic goal or organisational priority.*
+*State what the project is intended to achieve. Use SMART objectives where possible. Link each objective to a strategic goal or organizational priority.*
 
 | Ref | Objective | Strategic alignment | Success measure |
 |---|---|---|---|
@@ -79,7 +79,7 @@
 
 ## 4. Options Considered
 
-*Describe the options that were evaluated, including the "do nothing" baseline. Summarise the assessment of each option.*
+*Describe the options that were evaluated, including the "do nothing" baseline. Summarize the assessment of each option.*
 
 | Option | Description | Strengths | Weaknesses | Assessment |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@
 
 *List all anticipated benefits. Distinguish between financial (monetisable) and non-financial benefits. Assign an owner to each benefit.*
 
-| Ref | Benefit description | Type | Measure | Target value | Realisation date | Benefit owner |
+| Ref | Benefit description | Type | Measure | Target value | Realization date | Benefit owner |
 |---|---|---|---|---|---|---|
 | BEN-01 | | Financial / Non-financial | | | | |
 | BEN-02 | | | | | | |
@@ -117,21 +117,21 @@
 
 ### Capital Costs (one-off)
 
-| Cost item | Estimate (£) | Basis of estimate | Confidence |
+| Cost item | Estimate ($) | Basis of estimate | Confidence |
 |---|---|---|---|
 | | | | |
 | **Total capital** | | | |
 
 ### Operating Costs (ongoing)
 
-| Cost item | Annual estimate (£) | Basis of estimate |
+| Cost item | Annual estimate ($) | Basis of estimate |
 |---|---|---|
 | | | |
 | **Total annual operating cost** | | |
 
 ### Optimism Bias / Contingency
 
-| Item | Amount (£) | Rationale |
+| Item | Amount ($) | Rationale |
 |---|---|---|
 | Optimism bias allowance | | |
 | Project contingency | | |
@@ -145,12 +145,12 @@
 
 | Metric | Value |
 |---|---|
-| Total project cost (including contingency) | £ |
-| Total financial benefits (NPV, if applicable) | £ |
-| Net benefit | £ |
+| Total project cost (including contingency) | $ |
+| Total financial benefits (NPV, if applicable) | $ |
+| Net benefit | $ |
 | Payback period | |
 | ROI (%) | |
-| NPV (at discount rate: %) | £ |
+| NPV (at discount rate: %) | $ |
 
 *Note: For public-sector or non-commercial projects, replace financial ROI with a cost-benefit or cost-effectiveness statement.*
 
@@ -160,7 +160,7 @@
 
 ## 9. Risks
 
-*Summarise the top risks to benefits realisation. Full risk detail is in the Risk Register.*
+*Summarize the top risks to benefits realization. Full risk detail is in the Risk Register.*
 
 | Ref | Risk description | Likelihood | Impact | Mitigation |
 |---|---|---|---|---|
@@ -188,7 +188,7 @@
 
 ### Constraints
 
-*List any fixed constraints (budget cap, regulatory deadline, organisational boundaries).*
+*List any fixed constraints (budget cap, regulatory deadline, organizational boundaries).*
 
 ### Assumptions
 
@@ -204,7 +204,7 @@
 
 ## 12. Recommendation
 
-*State the recommended decision clearly: approve / reject / defer. Summarise the key reasons.*
+*State the recommended decision clearly: approve / reject / defer. Summarize the key reasons.*
 
 ---
 

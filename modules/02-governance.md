@@ -1,4 +1,4 @@
-# Module 02 — Project Governance and Organisational Context
+# Module 02 — Project Governance and Organizational Context
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
 ![Module](https://img.shields.io/badge/Module-02%20Governance-blue)
@@ -19,15 +19,15 @@
   - [The Project Manager](#the-project-manager)
   - [The Change Control Board (CCB)](#the-change-control-board-ccb)
   - [Terms of Reference](#terms-of-reference)
-- [3. Organisational Structures and Their Impact](#3-organisational-structures-and-their-impact)
-  - [Functional organisations](#functional-organisations)
-  - [Matrix organisations](#matrix-organisations)
-  - [Projectised organisations](#projectised-organisations)
+- [3. Organizational Structures and Their Impact](#3-organizational-structures-and-their-impact)
+  - [Functional organizations](#functional-organizations)
+  - [Matrix organizations](#matrix-organizations)
+  - [Projectized organizations](#projectized-organizations)
 - [4. Benefits Management](#4-benefits-management)
   - [Benefits are the reason projects exist](#benefits-are-the-reason-projects-exist)
   - [The benefits lifecycle](#the-benefits-lifecycle)
   - [Benefits vs. outputs vs. outcomes](#benefits-vs-outputs-vs-outcomes)
-  - [Key artefacts](#key-artefacts)
+  - [Key artifacts](#key-artifacts)
 - [5. The Project Management Office (PMO)](#5-the-project-management-office-pmo)
   - [What is a PMO?](#what-is-a-pmo)
   - [PMO functions](#pmo-functions)
@@ -40,7 +40,7 @@
 - [7. Sustainability and ESG in Projects](#7-sustainability-and-esg-in-projects)
   - [Sustainability as a project dimension](#sustainability-as-a-project-dimension)
   - [Embedding sustainability in governance](#embedding-sustainability-in-governance)
-- [Artefacts](#artefacts)
+- [Artifacts](#artifacts)
 - [Exercises](#exercises)
   - [Exercise 2.1 — Governance gap analysis](#exercise-21--governance-gap-analysis)
   - [Exercise 2.2 — Benefits mapping](#exercise-22--benefits-mapping)
@@ -55,25 +55,25 @@
 **Project governance** is the framework of authority, accountability, decision-making, and oversight that surrounds a project. It answers:
 
 - Who has the authority to approve the project to proceed?
-- Who can authorise changes to scope, budget, or timeline?
+- Who can authorize changes to scope, budget, or timeline?
 - Who must be consulted before key decisions are made?
 - Who is accountable if the project fails to deliver value?
 - How are decisions escalated when problems exceed the project manager's tolerance?
 
-Governance is not bureaucracy for its own sake. It exists to protect the organisation's investment, to give stakeholders confidence, and to ensure that the project stays aligned with strategic objectives.
+Governance is not bureaucracy for its own sake. It exists to protect the organization's investment, to give stakeholders confidence, and to ensure that the project stays aligned with strategic objectives.
 
 ### The governance hierarchy
 
 ```mermaid
 flowchart TD
     B["🏛 Board / Executive Leadership (strategic authority)"]
-    PP["📊 Portfolio & Programme Governance (investment decisions)"]
+    PP["📊 Portfolio & Program Governance (investment decisions)"]
     PB["🪑 Project Board / Steering Committee (stage-gate authority)"]
     PM["🧭 Project Manager (day-to-day management)"]
     PT["👥 Project Team (delivery)"]
     B -->|"delegates with tolerance"| PP
-    PP -->|"authorises project"| PB
-    PB -->|"appoints & authorises"| PM
+    PP -->|"authorizes project"| PB
+    PB -->|"appoints & authorizes"| PM
     PM -->|"directs"| PT
     PT -->|"reports progress"| PM
     PM -->|"exception reports"| PB
@@ -87,7 +87,7 @@ Each level has defined authority and defined thresholds. When a lower level cann
 
 A cornerstone of effective governance is **management by exception** — the principle that authority is delegated with tolerances, and only when those tolerances are forecast to be breached does the matter escalate to the next level. This keeps senior decision-makers free of unnecessary operational detail while ensuring they are engaged when it truly matters.
 
-Example: A project manager is authorised to manage a £500,000 budget within a ±10% tolerance. If the project is forecast to exceed £550,000, the PM escalates to the project board. Below that threshold, the PM resolves issues independently.
+Example: A project manager is authorized to manage a $500,000 budget within a ±10% tolerance. If the project is forecast to exceed $550,000, the PM escalates to the project board. Below that threshold, the PM resolves issues independently.
 
 [↑ Back to top](#table-of-contents)
 
@@ -97,7 +97,7 @@ Example: A project manager is authorised to manage a £500,000 budget within a �
 
 ### The Project Board (Steering Committee)
 
-The project board is the group with ultimate responsibility for the project's success at the organisational level. It typically meets at key decision points (stage gates) rather than continuously. Core roles on a project board:
+The project board is the group with ultimate responsibility for the project's success at the organizational level. It typically meets at key decision points (stage gates) rather than continuously. Core roles on a project board:
 
 | Role | Responsibility |
 |---|---|
@@ -105,7 +105,7 @@ The project board is the group with ultimate responsibility for the project's su
 | **Senior User** | Represents those who will use the project's outputs; ensures the product meets their needs |
 | **Senior Supplier** | Represents those delivering the project work; ensures technical feasibility and quality |
 
-In smaller organisations, one person may hold multiple roles — but the functions must all be performed.
+In smaller organizations, one person may hold multiple roles — but the functions must all be performed.
 
 ### The Project Manager
 
@@ -115,11 +115,11 @@ Appointed by the project board, the project manager is responsible for day-to-da
 - Manages the team and stakeholders
 - Reports to the project board at agreed intervals
 - Escalates issues that exceed tolerances
-- Does **not** unilaterally change the project's scope, budget, or timeline beyond authorised limits
+- Does **not** unilaterally change the project's scope, budget, or timeline beyond authorized limits
 
 ### The Change Control Board (CCB)
 
-A CCB is convened to review, evaluate, and decide on proposed changes to project baselines. (In IT service management an analogous body exists — the Change Advisory Board, or CAB — but it governs operational service changes, not project baselines, and is not a synonym for the CCB.) On smaller projects, this function may sit with the project board or sponsor. On large programmes, it may be a dedicated standing group.
+A CCB is convened to review, evaluate, and decide on proposed changes to project baselines. (In IT service management an analogous body exists — the Change Advisory Board, or CAB — but it governs operational service changes, not project baselines, and is not a synonym for the CCB.) On smaller projects, this function may sit with the project board or sponsor. On large programs, it may be a dedicated standing group.
 
 ### Terms of Reference
 
@@ -135,11 +135,11 @@ Every project board and CCB should operate under **Terms of Reference** (ToR) �
 
 ---
 
-## 3. Organisational Structures and Their Impact
+## 3. Organizational Structures and Their Impact
 
-The host organisation's structure shapes almost every aspect of how the project manager works. This was introduced in Module 01; here we examine the practical governance implications in more detail.
+The host organization's structure shapes almost every aspect of how the project manager works. This was introduced in Module 01; here we examine the practical governance implications in more detail.
 
-### Functional organisations
+### Functional organizations
 
 ```mermaid
 flowchart TD
@@ -158,13 +158,13 @@ flowchart TD
     ITT -.->|"loan resource (negotiated)"| PM2
     OT -.->|"loan resource (negotiated)"| PM2
 ```
-*In a functional organisation the PM coordinates across silos but controls no resources — executive sponsorship is critical.*
+*In a functional organization the PM coordinates across silos but controls no resources — executive sponsorship is critical.*
 
 **PM's position:** Usually a part-time coordinator with no formal authority. Relies entirely on relationships with functional managers who control resources. Governance decisions flow up through functional hierarchies, not a project board.
 
-**Implication:** Projects in functional organisations are high risk without explicit executive sponsorship. Without a sponsor who can direct functional managers to prioritise project work, schedule slippage is common.
+**Implication:** Projects in functional organizations are high risk without explicit executive sponsorship. Without a sponsor who can direct functional managers to prioritize project work, schedule slippage is common.
 
-### Matrix organisations
+### Matrix organizations
 
 The PM exists alongside functional managers. Resources are shared. The balance of authority defines the type:
 
@@ -176,7 +176,7 @@ The PM exists alongside functional managers. Resources are shared. The balance o
 
 **Implication:** Conflict between the PM's priorities and the functional manager's priorities is structural. A clear governance escalation path is essential to resolve resource and priority disputes.
 
-### Projectised organisations
+### Projectized organizations
 
 Resources report directly to the PM. The project board oversees strategy and funding, but operational authority rests with the PM.
 
@@ -190,7 +190,7 @@ Resources report directly to the PM. The project board oversees strategy and fun
 
 ### Benefits are the reason projects exist
 
-A project that delivers its scope but produces no benefit is not a success. Benefits management ensures that the organisation is intentional about the value it expects from projects — and that someone is held accountable for realising that value.
+A project that delivers its scope but produces no benefit is not a success. Benefits management ensures that the organization is intentional about the value it expects from projects — and that someone is held accountable for realizing that value.
 
 ### The benefits lifecycle
 
@@ -200,17 +200,17 @@ flowchart LR
     PL["📋 Plan How measured? Who owns? When?"]
     EX["⚙️ Execute Design project to enable benefits"]
     RV["🔎 Review Stage-gate: does business case still hold?"]
-    RL["💡 Realise Measure & report (often post-project)"]
+    RL["💡 Realize Measure & report (often post-project)"]
     ID --> PL --> EX --> RV --> RL
     RV -->|"case weakens"| ID
 ```
-*Benefits realisation often outlasts the project; a named operational owner must continue tracking after handover.*
+*Benefits realization often outlasts the project; a named operational owner must continue tracking after handover.*
 
 1. **Identify** — What benefits are expected? Who will experience them?
-2. **Plan** — How will benefits be measured? Who is accountable? When will they be realised?
+2. **Plan** — How will benefits be measured? Who is accountable? When will they be realized?
 3. **Execute** — Ensure the project is designed to enable the benefits
 4. **Review** — At stage gates, check whether the benefits case still holds
-5. **Realise** — Benefits are typically realised after the project ends; someone in operations owns this
+5. **Realize** — Benefits are typically realized after the project ends; someone in operations owns this
 
 ### Benefits vs. outputs vs. outcomes
 
@@ -218,16 +218,16 @@ flowchart LR
 |---|---|---|
 | Output | What the project produces | A new warehouse management system |
 | Outcome | The change enabled by the output | Warehouse staff can process orders 40% faster |
-| Benefit | The value of the outcome | £1.2M per year in operational cost savings |
+| Benefit | The value of the outcome | $1.2M per year in operational cost savings |
 
-### Key artefacts
+### Key artifacts
 
-| Artefact | Purpose |
+| Artifact | Purpose |
 |---|---|
-| **Benefits Register** | Catalogues all expected benefits with measurement criteria, realisation dates, and owners |
-| **Benefits Realisation Plan** | Describes when and how each benefit will be measured and by whom |
+| **Benefits Register** | Catalogs all expected benefits with measurement criteria, realization dates, and owners |
+| **Benefits Realization Plan** | Describes when and how each benefit will be measured and by whom |
 
-Benefits realisation often outlasts the project itself. The project manager should ensure a named person in operations is responsible for tracking and reporting benefits after handover.
+Benefits realization often outlasts the project itself. The project manager should ensure a named person in operations is responsible for tracking and reporting benefits after handover.
 
 [↑ Back to top](#table-of-contents)
 
@@ -237,7 +237,7 @@ Benefits realisation often outlasts the project itself. The project manager shou
 
 ### What is a PMO?
 
-A Project Management Office is an organisational function that supports projects by providing standards, tools, guidance, and oversight. PMOs vary enormously in their remit:
+A Project Management Office is an organizational function that supports projects by providing standards, tools, guidance, and oversight. PMOs vary enormously in their remit:
 
 | PMO Type | Role | Authority |
 |---|---|---|
@@ -259,7 +259,7 @@ Depending on type and maturity, a PMO may:
 
 ### Is a PMO always needed?
 
-No. A small organisation running three projects per year does not need a PMO. A large enterprise running 200 simultaneous projects does. The question is whether the cost of the PMO is justified by the benefits it provides in consistency, efficiency, and governance quality.
+No. A small organization running three projects per year does not need a PMO. A large enterprise running 200 simultaneous projects does. The question is whether the cost of the PMO is justified by the benefits it provides in consistency, efficiency, and governance quality.
 
 ### PMO Charter
 
@@ -275,7 +275,7 @@ When a PMO is established, it should have a **PMO Charter** that defines its man
 
 A safety-critical infrastructure project demands rigorous governance, extensive documentation, and multiple layers of sign-off. A small internal process improvement project requires much lighter-touch oversight. Applying heavyweight governance to a lightweight project wastes resources and creates frustration. Applying lightweight governance to a high-risk project is dangerous.
 
-**Tailoring** is the deliberate adaptation of governance, processes, and artefacts to the project's context.
+**Tailoring** is the deliberate adaptation of governance, processes, and artifacts to the project's context.
 
 ### Factors to consider when tailoring
 
@@ -283,8 +283,8 @@ A safety-critical infrastructure project demands rigorous governance, extensive 
 |---|---|
 | **Size and complexity** | More complex = more governance structure needed |
 | **Risk** | Higher risk = more rigorous controls and reporting |
-| **Regulatory environment** | Compliance requirements may mandate specific artefacts and sign-offs |
-| **Organisational maturity** | Less mature = more explicit structure needed |
+| **Regulatory environment** | Compliance requirements may mandate specific artifacts and sign-offs |
+| **Organizational maturity** | Less mature = more explicit structure needed |
 | **Delivery approach** | Agile/adaptive requires different checkpoints than predictive |
 | **Strategic importance** | Higher visibility = more senior governance engagement |
 
@@ -307,7 +307,7 @@ The relevant dimensions:
 | Dimension | Questions to Ask |
 |---|---|
 | **Environmental** | What is the project's carbon footprint? Does it comply with environmental regulations? Does it contribute to or mitigate climate risk? |
-| **Social** | Who is affected by the project's outcomes? Are communities consulted? Are labour practices ethical throughout the supply chain? |
+| **Social** | Who is affected by the project's outcomes? Are communities consulted? Are labor practices ethical throughout the supply chain? |
 | **Governance** | Does the project operate with appropriate transparency, accountability, and integrity? |
 
 ### Embedding sustainability in governance
@@ -320,22 +320,22 @@ Sustainability should not be an afterthought. It belongs in:
 - **Acceptance criteria** (ESG compliance as a delivery requirement)
 - **Lessons learned** (sharing what worked in reducing environmental and social impact)
 
-Organisations that build sustainability into project governance create compounding value — each project incrementally improves the organisation's ESG performance.
+Organizations that build sustainability into project governance create compounding value — each project incrementally improves the organization's ESG performance.
 
 [↑ Back to top](#table-of-contents)
 
 ---
 
-## Artefacts
+## Artifacts
 
-The following artefacts are introduced or referenced in this module. Templates are available in the `/templates/` folder.
+The following artifacts are introduced or referenced in this module. Templates are available in the `/templates/` folder.
 
-| Artefact | Description | Template |
+| Artifact | Description | Template |
 |---|---|---|
 | **Project Governance Framework** | Defines the overall governance structure, roles, and escalation paths for the project | (describe in project charter) |
 | **Terms of Reference (ToR)** | Defines the mandate, membership, and operating rules of the project board or CCB | — |
-| **Benefits Register** | Catalogues expected benefits with measurement criteria and owners | [benefits-register.md](../templates/benefits-register.md) |
-| **Benefits Realisation Plan** | Plans how and when benefits will be measured post-project | — |
+| **Benefits Register** | Catalogs expected benefits with measurement criteria and owners | [benefits-register.md](../templates/benefits-register.md) |
+| **Benefits Realization Plan** | Plans how and when benefits will be measured post-project | — |
 | **PMO Charter** | Defines the PMO's mandate, authority, and structure | — |
 | **Tailoring Decision Log** | Records governance adaptations made for this project | — |
 
@@ -351,7 +351,7 @@ Select a project you are familiar with, or choose a publicly documented project 
 
 1. Who held the role of sponsor/executive? Was accountability clear?
 2. Was there a project board or steering committee? Did it meet regularly?
-3. Was management by exception practised, or did the board micromanage?
+3. Was management by exception practiced, or did the board micromanage?
 4. What governance gaps, if any, contributed to challenges or failures?
 
 **Expected output:** A one-page governance gap analysis.
@@ -363,7 +363,7 @@ Select a project you are familiar with, or choose a publicly documented project 
 You are the project manager for a project to introduce a new employee onboarding platform at a company of 500 people. The current onboarding process is entirely manual and takes 3 weeks per new hire.
 
 1. Identify at least 4 expected benefits.
-2. For each benefit, define a measurable indicator and a realistic realisation timeframe.
+2. For each benefit, define a measurable indicator and a realistic realization timeframe.
 3. Assign a benefit owner (use a role title, not a name).
 
 **Expected output:** A completed Benefits Register with at least 4 rows.
@@ -374,9 +374,9 @@ You are the project manager for a project to introduce a new employee onboarding
 
 You are setting up governance for the following two projects. For each, recommend an appropriate governance structure (project board composition, reporting frequency, and documentation requirements). Justify your tailoring decisions.
 
-**Project A:** A 6-week internal project to update the company intranet. Budget: £15,000. Low risk. No regulatory requirements.
+**Project A:** A 6-week internal project to update the company intranet. Budget: $15,000. Low risk. No regulatory requirements.
 
-**Project B:** A 3-year project to build a new 200-bed hospital wing. Budget: £80M. High risk. Multiple regulatory requirements. Multiple contractors.
+**Project B:** A 3-year project to build a new 200-bed hospital wing. Budget: $80M. High risk. Multiple regulatory requirements. Multiple contractors.
 
 **Expected output:** Two short governance design recommendations with justifications.
 
@@ -434,12 +434,12 @@ You are setting up governance for the following two projects. For each, recommen
 
 ---
 
-**Question 4:** True or False: Benefits realisation is the project manager's responsibility and ends when the project is closed.
+**Question 4:** True or False: Benefits realization is the project manager's responsibility and ends when the project is closed.
 
 <details>
 <summary>Reveal Answer</summary>
 
-**False.** Benefits are typically realised after the project has closed and the outputs are in operational use. Responsibility for benefit realisation is transferred to an operational owner at handover. The PM's role is to ensure the project is set up to enable the benefits, not to realise them personally.
+**False.** Benefits are typically realized after the project has closed and the outputs are in operational use. Responsibility for benefit realization is transferred to an operational owner at handover. The PM's role is to ensure the project is set up to enable the benefits, not to realize them personally.
 
 </details>
 
@@ -450,7 +450,7 @@ You are setting up governance for the following two projects. For each, recommen
 - A) The project manager is experienced
 - B) The project is strategically critical and involves high regulatory risk
 - C) The project team is co-located
-- D) The project budget is under £50,000
+- D) The project budget is under $50,000
 
 <details>
 <summary>Reveal Answer</summary>
@@ -488,9 +488,9 @@ You are setting up governance for the following two projects. For each, recommen
 
 | Module | Relationship |
 |---|---|
-| [01 — Foundations](01-foundations.md) | Governance structures extend the lifecycle and organisational context introduced there |
+| [01 — Foundations](01-foundations.md) | Governance structures extend the lifecycle and organizational context introduced there |
 | [03 — Initiation](03-initiation.md) | The business case produced in governance is the primary input to project initiation |
-| [07 — Closing](07-closing.md) | Benefits realisation and post-project review close the governance loop opened here |
+| [07 — Closing](07-closing.md) | Benefits realization and post-project review close the governance loop opened here |
 | [15b — Professional Practice](15b-professional-practice.md) | PM competency frameworks and CPD extend the professional governance themes in this module |
 
 ---

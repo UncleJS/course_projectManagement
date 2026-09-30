@@ -36,17 +36,17 @@
 - [5. Resource Planning](#5-resource-planning)
   - [Identifying resources](#identifying-resources)
   - [RACI Matrix](#raci-matrix)
-  - [Resource levelling vs. smoothing](#resource-levelling-vs-smoothing)
-  - [Organisational Breakdown Structure (OBS)](#organisational-breakdown-structure-obs)
+  - [Resource leveling vs. smoothing](#resource-leveling-vs-smoothing)
+  - [Organizational Breakdown Structure (OBS)](#organizational-breakdown-structure-obs)
 - [6. The Project Management Plan](#6-the-project-management-plan)
   - [What the PMP contains](#what-the-pmp-contains)
   - [The PMP vs. the project plan](#the-pmp-vs-the-project-plan)
-- [7. Baseline Authorisation](#7-baseline-authorisation)
+- [7. Baseline Authorization](#7-baseline-authorization)
   - [What is a baseline?](#what-is-a-baseline)
   - [Why baselines matter](#why-baselines-matter)
   - [Approving the baseline](#approving-the-baseline)
   - [Baseline integrity](#baseline-integrity)
-- [Artefacts](#artefacts)
+- [Artifacts](#artifacts)
 - [Exercises](#exercises)
   - [Exercise 4.1 — Build a WBS](#exercise-41--build-a-wbs)
   - [Exercise 4.2 — Schedule a small project](#exercise-42--schedule-a-small-project)
@@ -220,7 +220,7 @@ flowchart LR
 
 | Technique | How It Works | Best For |
 |---|---|---|
-| **Expert judgement** | Ask experienced practitioners | All situations; most practical |
+| **Expert judgment** | Ask experienced practitioners | All situations; most practical |
 | **Analogous** | Use actuals from similar past activities | Early-stage estimates |
 | **Parametric** | Multiply a unit rate by quantity | Predictable, measurable work |
 | **Three-point (PERT)** | E = (O + 4M + P) ÷ 6 | Uncertain activities |
@@ -260,7 +260,7 @@ Neither is free — always assess the trade-offs before compressing.
 
 ### The Gantt chart
 
-The Gantt chart remains the most widely used schedule visualisation:
+The Gantt chart remains the most widely used schedule visualization:
 
 - Horizontal bars represent activities and durations
 - Dependencies shown as connecting arrows
@@ -279,7 +279,7 @@ The schedule is more than a Gantt chart, but for most stakeholders, the Gantt is
 
 Costs flow from resources. For each activity or work package, estimate:
 
-- **Labour**: hours × hourly rate for each team member
+- **Labor**: hours × hourly rate for each team member
 - **Materials**: unit costs × quantities
 - **Equipment**: rental or depreciation costs
 - **External services**: contractor or vendor quotes
@@ -291,7 +291,7 @@ Costs flow from resources. For each activity or work package, estimate:
 flowchart TD
     WP["📦 Work Package Estimates (bottom-up cost of all WBS elements)"]
     CR["🔶 Contingency Reserve (for known risks — PM-controlled)"]
-    CB["📊 Cost Baseline (= Performance Measurement Baseline) used for Earned Value measurement"]
+    CB["📊 Cost Baseline (work-package estimates + contingency) used for Earned Value measurement"]
     MR["🔴 Management Reserve (for unknown risks — Sponsor-controlled)"]
     TB["💰 Total Project Budget"]
     WP --> CB
@@ -307,7 +307,7 @@ The **cost baseline** is the time-phased spending plan against which Earned Valu
 
 The budget tells you *how much* will be spent. The cash flow plan tells you *when*. This matters for:
 
-- Organisation's cash management
+- Organization's cash management
 - Identifying funding milestones
 - Contract payment scheduling
 
@@ -317,7 +317,7 @@ EVM is covered in depth in [Module 06](06-monitoring-control.md). At the plannin
 
 | EVM Term | Definition |
 |---|---|
-| **Budget at Completion (BAC)** | Total authorised budget for the project |
+| **Budget at Completion (BAC)** | Total authorized budget for the project |
 | **Planned Value (PV)** | Budgeted cost of scheduled work at a point in time |
 | **Earned Value (EV)** | Budgeted cost of work actually performed |
 | **Actual Cost (AC)** | Actual cost incurred for work performed |
@@ -358,16 +358,16 @@ The RACI matrix — a specific form of Responsibility Assignment Matrix (RAM) �
 
 One common mistake: assigning multiple "A" entries per row. Accountability must be singular.
 
-### Resource levelling vs. smoothing
+### Resource leveling vs. smoothing
 
-- **Resource levelling**: adjusts schedule to fit resource constraints — may extend the project
+- **Resource leveling**: adjusts schedule to fit resource constraints — may extend the project
 - **Resource smoothing**: redistributes work within existing float to reduce peaks — does not extend the project
 
 Both are performed after the initial schedule is built to produce a realistic, resource-constrained plan.
 
-### Organisational Breakdown Structure (OBS)
+### Organizational Breakdown Structure (OBS)
 
-The OBS maps project work to the organisational units responsible. Overlaying the WBS with the OBS produces the RAM (Responsibility Assignment Matrix) — the basis for RACI.
+The OBS maps project work to the organizational units responsible. Overlaying the WBS with the OBS produces the RAM (Responsibility Assignment Matrix) — the basis for RACI.
 
 [↑ Back to top](#table-of-contents)
 
@@ -393,7 +393,7 @@ The **Project Management Plan (PMP)** is the master document for the project. It
 | **Change Management Plan** | How changes to baselines will be requested, assessed, and approved |
 | **Configuration Management Plan** | How document and product versions will be controlled |
 
-Each subsidiary plan can be a section of the PMP or a separate document — the choice depends on complexity and organisational standards.
+Each subsidiary plan can be a section of the PMP or a separate document — the choice depends on complexity and organizational standards.
 
 ### The PMP vs. the project plan
 
@@ -403,7 +403,7 @@ A common confusion: people say "the project plan" when they mean "the schedule."
 
 ---
 
-## 7. Baseline Authorisation
+## 7. Baseline Authorization
 
 ### What is a baseline?
 
@@ -433,9 +433,9 @@ Once set, baselines must be **protected**. The most common project management fa
 
 ---
 
-## Artefacts
+## Artifacts
 
-| Artefact | Description | Template |
+| Artifact | Description | Template |
 |---|---|---|
 | **Requirements Documentation** | Gathered, documented, and agreed requirements | — |
 | **Scope Statement** | Defines in-scope, out-of-scope, and acceptance criteria | — |
@@ -506,7 +506,7 @@ Using the activities from Exercise 4.2, estimate the project budget:
 <details>
 <summary>Reveal Answer</summary>
 
-**B) The WBS must capture 100% of the project scope — no more, no less.** The WBS is the authoritative decomposition of all project scope. Work not in the WBS is not authorised; scope in the project but not the WBS is lost.
+**B) The WBS must capture 100% of the project scope — no more, no less.** The WBS is the authoritative decomposition of all project scope. Work not in the WBS is not authorized; scope in the project but not the WBS is lost.
 
 </details>
 
@@ -603,7 +603,7 @@ Using the activities from Exercise 4.2, estimate the project budget:
 
 | Module | Relationship |
 |---|---|
-| [Module 03 — Project Initiation](03-initiation.md) | Initiation defines the mandate and constraints that planning must honour; the PID and business case feed directly into the project plan |
+| [Module 03 — Project Initiation](03-initiation.md) | Initiation defines the mandate and constraints that planning must honor; the PID and business case feed directly into the project plan |
 | [Module 05 — Project Execution](05-execution.md) | Plans created here are put into action during execution; baseline integrity is essential for meaningful performance measurement |
 | [Module 08 — Scope and Requirements Management](08-scope-requirements.md) | Scope baseline and WBS are core planning outputs; requirements traceability is established during planning |
 | [Module 15a — Integration, Hybrid Approaches, and Agile](15a-integration-hybrid-agile.md) | Covers adaptive planning in hybrid environments and how iterative scheduling differs from traditional baseline-driven planning |

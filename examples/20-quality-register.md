@@ -25,7 +25,7 @@
 |---|---|
 | **Project Title** | Meridian — Citizen Self-Service Portal |
 | **Version** | 1.6 (final — at project closure) |
-| **Date** | 31 October 2026 |
+| **Date** | October 31, 2026 |
 | **Owner** | Sarah Chen, Project Manager / GovTech Project Lead (Quality Lead — Build) |
 
 [↑ Back to top](#table-of-contents)
@@ -37,7 +37,7 @@
 | Type | Description |
 |---|---|
 | **Quality Review** | Structured meeting to evaluate a deliverable against pre-defined acceptance criteria |
-| **Technical Inspection** | Expert review of code, integration specification, or technical artefact |
+| **Technical Inspection** | Expert review of code, integration specification, or technical artifact |
 | **Test** | Functional, integration, regression, performance, or user acceptance testing |
 | **Audit** | Independent assessment of process or product compliance (accessibility, data protection, security) |
 | **Walkthrough** | Informal peer review of a draft deliverable before formal quality review |
@@ -50,22 +50,22 @@
 
 | ID | Deliverable / process reviewed | Activity type | Planned date | Actual date | Reviewer(s) | Criteria used | Outcome | Defects found | Defects resolved | Sign-off date | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| QR-001 | Discovery Report | Quality Review | 30 Apr 2026 | 30 Apr 2026 | Sarah Chen, Sandra Obi, Mark Pearce | Project brief requirements checklist; Discovery Report acceptance criteria | **Passed** | 2 (minor — missing resident demographic data; formatting) | 2 | 4 May 2026 | Approved for Gate 1 pack |
-| QR-002 | UX Design Specification | Quality Review | 4 May 2026 | 4 May 2026 | Sandra Obi (Senior User), GovTech Lead Designer, Sarah Chen | User story acceptance criteria; Council brand guidelines; WCAG 2.1 AA preliminary checklist | **Conditional pass** | 4 (medium — 2 navigation issues; 2 mobile responsiveness concerns) | 4 | 7 May 2026 | Conditions met before Gate 1 (8 May). Approved. |
-| QR-003 | Integration Specification | Technical Inspection | 5 May 2026 | 6 May 2026 | Tom Okafor, GovTech Lead Developer, Mark Pearce | Integration design standards; UNIFORM/Civica/Capita API documentation | **Conditional pass** | 3 (medium — UNIFORM parking permits issue identified; 2 minor API configuration issues) | 3 | 8 May 2026 | UNIFORM parking permit issue escalated as ISS-03 / CR-003. Other issues resolved. |
-| QR-004 | Data Protection Impact Assessment (DPIA) | Audit | 1 May 2026 | 2 May 2026 | Data Protection Officer | UK GDPR; ICO DPIA guidance; Council Data Protection Policy | **Passed** | 1 (low — minor privacy notice wording clarification) | 1 | 5 May 2026 | DPO sign-off confirmed 5 May 2026 |
-| QR-005 | Sprint 1 Demo — Planning application module (build) | Quality Review | 5 Jun 2026 | 5 Jun 2026 | Sandra Obi, Sarah Chen, Tom Okafor | Sprint 1 acceptance criteria (12 user stories) | **Passed** | 3 (low — UI cosmetic issues) | 3 | 9 Jun 2026 | 12/12 user stories accepted |
-| QR-006 | Sprint 2 Demo — Waste collection module (build) | Quality Review | 3 Jul 2026 | 3 Jul 2026 | Sandra Obi, Sarah Chen, Tom Okafor | Sprint 2 acceptance criteria (10 user stories) | **Passed** | 2 (low — cosmetic) | 2 | 7 Jul 2026 | 10/10 user stories accepted |
-| QR-007 | Sprint 3 Demo — Council tax module (build) | Quality Review | 31 Jul 2026 | 31 Jul 2026 | Sandra Obi, Mark Pearce, Sarah Chen | Sprint 3 acceptance criteria (14 user stories); Capita payment security requirements | **Conditional pass** | 5 (medium — 3 Capita payment integration issues; 2 display bugs) | 5 | 7 Aug 2026 | Capita security audit completed 14 Jul (separate — see QR-009). Integration issues resolved by 7 Aug. |
-| QR-008 | Sprint 4 Demo — Garden waste module (build) | Quality Review | 28 Aug 2026 | 28 Aug 2026 | Sandra Obi, Sarah Chen | Sprint 4 acceptance criteria (8 user stories) | **Passed** | 1 (low — wording) | 1 | 1 Sep 2026 | 8/8 user stories accepted |
-| QR-009 | Capita payment gateway security audit | Audit | 10 Jul 2026 | 10 Jul 2026 | Capita security team (independent) | Capita payment gateway integration security standard (PCI-DSS-aligned) | **Conditional pass** | 2 (medium — token handling; session timeout configuration) | 2 | 21 Jul 2026 | Audit required by Capita contract; passed with 2 minor findings resolved 21 Jul. Certificate issued. |
-| QR-010 | System Integration Test (SIT) | Test | 22 Aug 2026 | 22 Aug 2026 | Tom Okafor, GovTech Test Lead | SIT test script (87 test cases) covering all four modules and back-office integrations | **Passed** | 7 (5 medium, 2 low — no critical) | 7 | 4 Sep 2026 | All 87 test cases executed; 7 defects found and resolved by 4 Sep. UAT entry criteria met. |
-| QR-011 | User Acceptance Testing (UAT) | Test | 22 Aug 2026 (planned entry) | 11 Sep 2026 | Sandra Obi (UAT lead), Diane Hughes, 12 resident testers, 6 planning officers, 4 revenues staff | 47 UAT acceptance scenarios; Council's UAT entry criteria (0 P1/Critical defects at entry) | **Passed** | 47 (0 critical, 18 medium, 29 low) | 47 | 26 Sep 2026 | UAT ran 11–26 Sep. All defects resolved. All 47 scenarios signed off by Sandra Obi. |
-| QR-012 | Accessibility audit (Round 1) | Audit | 5 Sep 2026 | 8 Sep 2026 | Shaw Trust Digital (independent accessibility auditors) | WCAG 2.1 AA (Level A and AA criteria) | **Failed** | 14 (4 high, 6 medium, 4 low) | 0 (at time of audit) | — | Independent audit commissioned. Round 2 scheduled after remediation. |
-| QR-013 | Accessibility remediation review | Technical Inspection | 19 Sep 2026 | 19 Sep 2026 | GovTech Lead Developer, Tom Okafor | QR-012 findings — all 14 issues; WCAG 2.1 AA | **Passed** | 0 | 14/14 (all QR-012 defects resolved) | 26 Sep 2026 | All 14 accessibility defects resolved. Shaw Trust confirmed WCAG 2.1 AA compliance 26 Sep. |
-| QR-014 | Android device compatibility check | Test | 20 Aug 2026 | 22 Aug 2026 | GovTech Test Lead | Mobile browser compatibility matrix (iOS 14+, Android 9+, major desktop browsers) | **Conditional pass** | 1 (medium — Android 8 and below layout issue; ISS-06) | 1 | 25 Aug 2026 | Android 8 and below: layout issue (ISS-06). Fix deployed 22 Aug; re-test confirmed 25 Aug. |
-| QR-015 | Pre-launch production readiness check | Quality Review | 13 Oct 2026 | 13 Oct 2026 | Sarah Chen, Tom Okafor, GovTech PM, Mark Pearce | Production readiness checklist (16 items): infrastructure, DNS, SSL, monitoring, support ready, data backup, rollback plan | **Passed** | 0 | — | 13 Oct 2026 | All 16 readiness criteria confirmed. Go/No-go decision: **Go**. Launch approved for 15 Oct. |
-| QR-016 | Post-launch monitoring review (Week 1) | Quality Review | 22 Oct 2026 | 22 Oct 2026 | Tom Okafor, GovTech PM, Sarah Chen | Uptime SLA (≥99.5%); response time (<3s); error rate (<0.5%) | **Passed** | 0 | — | 22 Oct 2026 | Week 1: 99.8% uptime; avg response time 1.4s; error rate 0.1%. All within SLA. |
+| QR-001 | Discovery Report | Quality Review | April 30, 2026 | April 30, 2026 | Sarah Chen, Sandra Obi, Mark Pearce | Project brief requirements checklist; Discovery Report acceptance criteria | **Passed** | 2 (minor — missing resident demographic data; formatting) | 2 | May 4, 2026 | Approved for Gate 1 pack |
+| QR-002 | UX Design Specification | Quality Review | May 4, 2026 | May 4, 2026 | Sandra Obi (Senior User), GovTech Lead Designer, Sarah Chen | User story acceptance criteria; City brand guidelines; WCAG 2.1 AA preliminary checklist | **Conditional pass** | 4 (medium — 2 navigation issues; 2 mobile responsiveness concerns) | 4 | May 7, 2026 | Conditions met before Gate 1 (May 8). Approved. |
+| QR-003 | Integration Specification | Technical Inspection | May 5, 2026 | May 6, 2026 | Tom Okafor, GovTech Lead Developer, Mark Pearce | Integration design standards; LandWorks/Civica/Harbor Payments API documentation | **Conditional pass** | 2 (minor API configuration issues) | 2 | May 8, 2026 | Minor API configuration issues closed May 8. Parking-permit expiry fields were not in the sample tested at this review. Integration testing on June 17, 2026 found those fields were not queryable; that finding was raised as ISS-03. |
+| QR-004 | Privacy Impact Assessment (PIA) | Audit | May 1, 2026 | May 2, 2026 | Chief Privacy Officer | the city's privacy rules; city privacy-policy guidance; City Data Protection Policy | **Passed** | 1 (low — minor privacy notice wording clarification) | 1 | May 5, 2026 | Chief Privacy Officer sign-off confirmed May 5, 2026 |
+| QR-005 | Sprint 1 Demo — Planning and zoning application module (build) | Quality Review | June 5, 2026 | June 5, 2026 | Sandra Obi, Sarah Chen, Tom Okafor | Sprint 1 acceptance criteria (12 user stories) | **Passed** | 3 (low — UI cosmetic issues) | 3 | June 9, 2026 | 12/12 user stories accepted |
+| QR-006 | Sprint 2 Demo — Waste collection module (build) | Quality Review | July 3, 2026 | July 3, 2026 | Sandra Obi, Sarah Chen, Tom Okafor | Sprint 2 acceptance criteria (10 user stories) | **Passed** | 2 (low — cosmetic) | 2 | July 7, 2026 | 10/10 user stories accepted |
+| QR-007 | Sprint 3 Demo — Property tax module (build) | Quality Review | July 31, 2026 | July 31, 2026 | Sandra Obi, Mark Pearce, Sarah Chen | Sprint 3 acceptance criteria (14 user stories); Harbor Payments payment security requirements | **Conditional pass** | 5 (medium — 3 Harbor Payments payment integration issues; 2 display bugs) | 5 | August 7, 2026 | Harbor Payments security audit completed July 14 (separate — see QR-009). Integration issues resolved by August 7. |
+| QR-008 | Sprint 4 Demo — Yard waste module (build) | Quality Review | August 28, 2026 | August 28, 2026 | Sandra Obi, Sarah Chen | Sprint 4 acceptance criteria (8 user stories) | **Passed** | 1 (low — wording) | 1 | September 1, 2026 | 8/8 user stories accepted |
+| QR-009 | Harbor Payments payment gateway security audit | Audit | July 10, 2026 | July 10, 2026 | Harbor Payments security team (independent) | Harbor Payments payment gateway integration security standard (PCI-DSS-aligned) | **Conditional pass** | 2 (medium — token handling; session timeout configuration) | 2 | July 21, 2026 | Audit required by Harbor Payments contract; passed with 2 minor findings resolved July 21. Certificate issued. |
+| QR-010 | System Integration Test (SIT) | Test | August 22, 2026 | August 22, 2026 | Tom Okafor, GovTech Test Lead | SIT test script (87 test cases) covering all four modules and back-office integrations | **Passed** | 7 (5 medium, 2 low — no critical) | 7 | September 4, 2026 | All 87 test cases executed; 7 defects found and resolved by September 4. UAT entry criteria met. |
+| QR-011 | User Acceptance Testing (UAT) | Test | August 22, 2026 (planned entry) | September 11, 2026 | Sandra Obi (UAT lead), Diane Hughes, 12 resident testers, 6 planning officers, 4 revenues staff | 47 UAT acceptance scenarios; City's UAT entry criteria (0 P1/Critical defects at entry) | **Passed** | 47 (0 critical, 18 medium, 29 low) | 47 | September 26, 2026 | UAT ran September 11–26. All defects resolved. All 47 scenarios signed off by Sandra Obi. |
+| QR-012 | Accessibility audit (Round 1) | Audit | September 5, 2026 | September 8, 2026 | Shaw Trust Digital (independent accessibility auditors) | WCAG 2.1 AA (Level A and AA criteria) | **Failed** | 14 (4 high, 6 medium, 4 low) | 0 (at time of audit) | — | Independent audit commissioned. Round 2 scheduled after remediation. |
+| QR-013 | Accessibility remediation review | Technical Inspection | September 19, 2026 | September 19, 2026 | GovTech Lead Developer, Tom Okafor | QR-012 findings — all 14 issues; WCAG 2.1 AA | **Passed** | 0 | 14/14 (all QR-012 defects resolved) | September 26, 2026 | All 14 accessibility defects resolved. Shaw Trust confirmed WCAG 2.1 AA compliance September 26. |
+| QR-014 | Android device compatibility check | Test | August 20, 2026 | August 22, 2026 | GovTech Test Lead | Mobile browser compatibility matrix (iOS 14+, Android 9+, major desktop browsers) | **Conditional pass** | 1 (medium — Android 8 and below layout issue; ISS-06) | 1 | August 25, 2026 | Android 8 and below: layout issue (ISS-06). Fix deployed August 22; re-test confirmed August 25. |
+| QR-015 | Pre-launch production readiness check | Quality Review | October 13, 2026 | October 13, 2026 | Sarah Chen, Tom Okafor, GovTech PM, Mark Pearce | Production readiness checklist (16 items): infrastructure, DNS, SSL, monitoring, support ready, data backup, rollback plan | **Passed** | 0 | — | October 13, 2026 | All 16 readiness criteria confirmed. Go/No-go decision: **Go**. Launch approved for October 15. |
+| QR-016 | Post-launch monitoring review (Week 1) | Quality Review | October 22, 2026 | October 22, 2026 | Tom Okafor, GovTech PM, Sarah Chen | Uptime SLA (≥99.5%); response time (<3s); error rate (<0.5%) | **Passed** | 0 | — | October 22, 2026 | Week 1: 99.8% uptime; avg response time 1.4s; error rate 0.1%. All within SLA. |
 
 [↑ Back to top](#table-of-contents)
 
@@ -80,7 +80,7 @@
 | QR-003 | 3 | 0 / 0 / 3 / 0 | 3 | 0 |
 | QR-004 | 1 | 0 / 0 / 0 / 1 | 1 | 0 |
 | QR-005 to QR-008 (Sprint demos) | 11 | 0 / 0 / 3 / 8 | 11 | 0 |
-| QR-009 (Capita security audit) | 2 | 0 / 0 / 2 / 0 | 2 | 0 |
+| QR-009 (Harbor Payments security audit) | 2 | 0 / 0 / 2 / 0 | 2 | 0 |
 | QR-010 (SIT) | 7 | 0 / 0 / 5 / 2 | 7 | 0 |
 | QR-011 (UAT) | 47 | 0 / 0 / 18 / 29 | 47 | 0 |
 | QR-012 (Accessibility audit) | 14 | 0 / 4 / 6 / 4 | 14 | 0 |
@@ -101,7 +101,7 @@
 | Critical defect rate at UAT entry | 0 | 0 | ✅ Met |
 | High defects at UAT | <5 | 0 | ✅ Met |
 | Medium defects at UAT | <20 | 18 | ✅ Met |
-| Audits completed on schedule | 100% | 100% (all 3 formal audits: DPIA, Capita security, accessibility) | ✅ Met |
+| Audits completed on schedule | 100% | 100% (all 3 formal audits: PIA, Harbor Payments security, accessibility) | ✅ Met |
 | Open defects at go-live | 0 critical or high | 0 | ✅ Met |
 | WCAG 2.1 AA compliance at launch | 100% | 100% | ✅ Met |
 | Production uptime Week 1 | ≥99.5% | 99.8% | ✅ Met |
@@ -114,10 +114,10 @@
 
 | Audit | Planned date | Actual date | Auditor | Scope | Status |
 |---|---|---|---|---|---|
-| DPIA (data protection) | 1 May 2026 | 2 May 2026 | Data Protection Officer | UK GDPR compliance; data flows; privacy notice | ✅ Completed — Passed |
-| Capita payment security audit | 10 Jul 2026 | 10 Jul 2026 | Capita security team | PCI-DSS-aligned payment gateway integration | ✅ Completed — Conditional pass; resolved |
-| Accessibility audit (WCAG 2.1 AA) | 5 Sep 2026 | 8 Sep 2026 | Shaw Trust Digital | WCAG 2.1 AA — all portal pages and transactions | ✅ Completed — Failed Round 1; all issues resolved; AA compliance confirmed 26 Sep |
-| Pre-launch production readiness | 13 Oct 2026 | 13 Oct 2026 | Sarah Chen / Tom Okafor | 16-item production readiness checklist | ✅ Completed — Passed |
+| PIA (data protection) | May 1, 2026 | May 2, 2026 | Chief Privacy Officer | the city's privacy rules compliance; data flows; privacy notice | ✅ Completed — Passed |
+| Harbor Payments payment security audit | July 10, 2026 | July 10, 2026 | Harbor Payments security team | PCI-DSS-aligned payment gateway integration | ✅ Completed — Conditional pass; resolved |
+| Accessibility audit (WCAG 2.1 AA) | September 5, 2026 | September 8, 2026 | Shaw Trust Digital | WCAG 2.1 AA — all portal pages and transactions | ✅ Completed — Failed Round 1; all issues resolved; AA compliance confirmed September 26 |
+| Pre-launch production readiness | October 13, 2026 | October 13, 2026 | Sarah Chen / Tom Okafor | 16-item production readiness checklist | ✅ Completed — Passed |
 
 [↑ Back to top](#table-of-contents)
 

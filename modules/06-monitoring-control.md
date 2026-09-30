@@ -49,7 +49,7 @@
   - [What is configuration management?](#what-is-configuration-management)
   - [Configuration items](#configuration-items)
   - [Configuration status accounting](#configuration-status-accounting)
-- [Artefacts](#artefacts)
+- [Artifacts](#artifacts)
 - [Exercises](#exercises)
   - [Exercise 6.1 — EVM calculations](#exercise-61--evm-calculations)
   - [Exercise 6.2 — Produce a status report](#exercise-62--produce-a-status-report)
@@ -129,19 +129,19 @@ At any point in time, three values can be calculated for any work package or the
 ### EVM worked example
 
 A project has:
-- BAC = £100,000
-- At week 10 (midpoint of a 20-week project), planned spend = £50,000 (PV)
-- Work actually completed = 40% of total scope (EV = 0.40 × £100,000 = £40,000)
-- Actual spend to date = £45,000 (AC)
+- BAC = $100,000
+- At week 10 (midpoint of a 20-week project), planned spend = $50,000 (PV)
+- Work actually completed = 40% of total scope (EV = 0.40 × $100,000 = $40,000)
+- Actual spend to date = $45,000 (AC)
 
 | Calculation | Value | Meaning |
 |---|---|---|
-| SV = EV − PV | £40,000 − £50,000 = **−£10,000** | Behind schedule |
-| CV = EV − AC | £40,000 − £45,000 = **−£5,000** | Over budget |
-| SPI = EV ÷ PV | £40,000 ÷ £50,000 = **0.80** | Doing 80% of the scheduled work |
-| CPI = EV ÷ AC | £40,000 ÷ £45,000 = **0.89** | Getting £0.89 of value per £1 spent |
-| EAC = BAC ÷ CPI | £100,000 ÷ 0.89 = **£112,360** | Project will likely cost £12,360 more than budgeted |
-| VAC = BAC − EAC | £100,000 − £112,360 = **−£12,360** | Forecast overspend |
+| SV = EV − PV | $40,000 − $50,000 = **−$10,000** | Behind schedule |
+| CV = EV − AC | $40,000 − $45,000 = **−$5,000** | Over budget |
+| SPI = EV ÷ PV | $40,000 ÷ $50,000 = **0.80** | Doing 80% of the scheduled work |
+| CPI = EV ÷ AC | $40,000 ÷ $45,000 = **0.89** | Getting $0.89 of value per $1 spent |
+| EAC = BAC ÷ CPI | $100,000 ÷ 0.89 = **$112,360** | Project will likely cost $12,360 more than budgeted |
+| VAC = BAC − EAC | $100,000 − $112,360 = **−$12,360** | Forecast overspend |
 
 This project needs attention — it is both behind schedule and over budget at the midpoint.
 
@@ -153,12 +153,12 @@ When cumulative PV, EV, and AC are plotted over time, the PV curve forms an "S" 
 xychart-beta
     title "EVM S-Curve — Cumulative Performance Over Time"
     x-axis ["Wk 1", "Wk 2", "Wk 4", "Wk 6", "Wk 8", "Wk 10", "Wk 12", "Wk 14", "Wk 16", "Wk 18", "Wk 20"]
-    y-axis "£ (thousands)" 0 --> 110
+    y-axis "$ (thousands)" 0 --> 110
     line "Planned Value (PV)" [5, 12, 25, 38, 50, 62, 74, 84, 92, 98, 100]
     line "Earned Value (EV)"  [4, 9, 18, 28, 38, 48, 59, 70, 81, 92, 100]
     line "Actual Cost (AC)"   [5, 11, 22, 34, 46, 57, 69, 80, 90, 97, 102]
 ```
-*EV below PV = behind schedule (SV < 0). AC above EV = over budget (CV < 0). The gap between the curves shows the scale of the problem.*
+*Illustrative curves, not the week-10 worked example above (that example is PV 50, EV 40, AC 45). EV below PV means behind schedule (SV < 0). AC above EV means over budget (CV < 0).*
 
 [↑ Back to top](#table-of-contents)
 
@@ -244,7 +244,7 @@ Re-baselining to hide poor performance is an integrity failure. EVM history shou
 
 Actual costs (AC) should be captured at the work package level and recorded in the PMIS. Common sources of cost data:
 
-- Timesheets (labour)
+- Timesheets (labor)
 - Purchase orders and invoices (materials, equipment, external services)
 - Expense reports (travel, facilities)
 
@@ -256,9 +256,9 @@ CPI is the most reliable leading indicator of final project cost. A project with
 
 Contingency reserve is held for identified risks. It should be:
 
-- Drawn down only when specific risk events materialise
-- Tracked separately from the cost baseline
-- Reported to the sponsor when consumed
+- Held inside the cost baseline (it is not management reserve)
+- Drawn down only when a specific identified risk occurs
+- Reported to the sponsor when consumed, so the remaining reserve stays visible
 
 If contingency is running low, this is an early warning that the project's risk exposure has increased beyond original estimates.
 
@@ -284,7 +284,7 @@ Different audiences need different levels of detail:
 
 Red-Amber-Green (RAG) ratings provide a quick, accessible performance signal:
 
-| Colour | Meaning |
+| Color | Meaning |
 |---|---|
 | **Green** | On track; within tolerances |
 | **Amber** | At risk; action being taken; may breach tolerance if not addressed |
@@ -333,7 +333,7 @@ Risks do not stay static. The risk register must be reviewed regularly to:
 - Confirm that response actions are being executed
 - Identify new risks that have emerged
 - Close risks that are no longer relevant
-- Promote risks to issues if they have materialised
+- Promote risks to issues if they have materialized
 
 A **risk review meeting** (typically bi-weekly or monthly) keeps the register current and forces the team to actively think about uncertainty rather than treating the risk register as a one-time exercise.
 
@@ -419,14 +419,14 @@ A **configuration status account** (or document register) shows:
 
 ---
 
-## Artefacts
+## Artifacts
 
-| Artefact | Description | Template |
+| Artifact | Description | Template |
 |---|---|---|
 | **EVM Report** | Schedule and cost performance metrics | — |
 | **Status / Progress Report** | Summary of project health for stakeholders | [status-report.md](../templates/status-report.md) |
 | **Exception Report** | Flags tolerance breach; requests board decision | — |
-| **End Stage Report** | Summarises stage performance | — |
+| **End Stage Report** | Summarizes stage performance | — |
 | **Variance Analysis Report** | Explains causes of significant variances | — |
 | **Risk Register (updated)** | Current risk status and response actions | [risk-register.md](../templates/risk-register.md) |
 | **Issue Log (updated)** | Current issue status | [issue-log.md](../templates/issue-log.md) |
@@ -445,10 +445,10 @@ A **configuration status account** (or document register) shows:
 
 A project has the following data at the end of month 4 of a 10-month project:
 
-- **BAC**: £200,000
+- **BAC**: $200,000
 - **Planned completion at month 4**: 40%
 - **Actual completion at month 4**: 33%
-- **Actual spend to date**: £74,000
+- **Actual spend to date**: $74,000
 
 Calculate:
 1. PV, EV, and AC
@@ -482,7 +482,7 @@ Review the following list of activities that occurred on a project. Identify whi
 1. A developer adds input validation to a form "to make it more robust" — not in the requirements
 2. The sponsor requests a new reporting dashboard via a formal change request that is approved and baselined
 3. A user asks the BA to "add a search function" in a requirements workshop and it is included in the requirements document without PM knowledge
-4. The PM agrees verbally in a meeting to include mobile-optimised views because "it seems obvious it should work on phones"
+4. The PM agrees verbally in a meeting to include mobile-optimized views because "it seems obvious it should work on phones"
 5. A bug is fixed that was not in scope but was causing the feature to not meet its acceptance criteria
 
 Classify each and describe the correct process that should have been followed.
@@ -498,7 +498,7 @@ Classify each and describe the correct process that should have been followed.
 **Question 1:** If a project has an SPI of 0.75, what does this indicate?
 
 - A) The project is 25% over budget
-- B) The project is completing 75p of work for every £1 spent
+- B) The project is completing 75p of work for every $1 spent
 - C) The project is completing only 75% of the work it was scheduled to complete
 - D) The project will finish 25% early
 

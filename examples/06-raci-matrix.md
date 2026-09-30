@@ -25,7 +25,7 @@
 |---|---|
 | **Project Title** | Meridian — Citizen Self-Service Portal |
 | **Version** | 1.0 |
-| **Date** | 20 February 2026 |
+| **Date** | February 20, 2026 |
 | **Owner** | Sarah Chen, Project Manager |
 
 [↑ Back to top](#table-of-contents)
@@ -60,9 +60,9 @@
 | JH | James Hartley — Sponsor / Director of Digital Services |
 | SO | Sandra Obi — Senior User / Head of Customer Services |
 | MP | Mark Pearce — Senior Supplier / ICT Manager |
-| GT | GovTech Solutions Ltd — Supplier Project Team |
+| GT | GovTech Solutions Inc. — Supplier Project Team |
 | BCM | Business Change Manager |
-| DPO | Data Protection Officer |
+| Chief Privacy Officer | Chief Privacy Officer |
 
 [↑ Back to top](#table-of-contents)
 
@@ -70,7 +70,7 @@
 
 ## RACI Matrix
 
-| Task / Deliverable | SC | JH | SO | MP | GT | BCM | DPO |
+| Task / Deliverable | SC | JH | SO | MP | GT | BCM | Chief Privacy Officer |
 |---|---|---|---|---|---|---|---|
 | **Project Management** | | | | | | | |
 | Prepare and maintain Project Management Plan | A/R | I | C | C | I | I | — |
@@ -78,11 +78,11 @@
 | Manage Risk Register | A/R | I | C | C | C | C | — |
 | Manage Change Log | A/R | I | C | C | I | — | — |
 | Convene and chair Project Board | C | A/R | C | C | — | — | — |
-| Approve changes (>£20k) | C | A/R | C | C | I | — | — |
-| Approve changes (≤£20k) | A/R | I | C | C | I | — | — |
+| Approve changes (>$20k) | C | A/R | C | C | I | — | — |
+| Approve changes (≤$20k) | A/R | I | C | C | I | — | — |
 | **Initiation and Design** | | | | | | | |
 | Sign supplier contract | C | A/R | — | C | R | — | — |
-| Complete Data Protection Impact Assessment | R | I | I | C | C | — | A |
+| Complete Privacy Impact Assessment | R | I | I | C | C | — | A |
 | Conduct discovery and produce Discovery Report | C | I | C | C | A/R | — | — |
 | Produce UX Design Specification | C | I | C | C | A/R | — | — |
 | Produce Integration Specification | C | I | — | A/R | R | — | — |
@@ -90,10 +90,10 @@
 | **Platform Build** | | | | | | | |
 | Build and configure CivicConnect platform | C | I | I | C | A/R | — | — |
 | Build Planning Application Tracking module | C | I | C | C | A/R | — | — |
-| Build Council Tax module | C | I | C | C | A/R | — | — |
-| Build Missed Waste module | C | I | C | C | A/R | — | — |
-| Build Garden Waste module | C | I | C | C | A/R | — | — |
-| Build and test UNIFORM integration | C | I | I | A/R | R | — | — |
+| Build Property Tax module | C | I | C | C | A/R | — | — |
+| Build Missed Trash module | C | I | C | C | A/R | — | — |
+| Build Yard Waste module | C | I | C | C | A/R | — | — |
+| Build and test LandWorks integration | C | I | I | A/R | R | — | — |
 | Approve build complete (Gate 2) | C | A/R | C | C | I | — | — |
 | **Content and Accessibility** | | | | | | | |
 | Write portal content (all modules) | R | I | A | I | C | I | — |
@@ -106,12 +106,12 @@
 | Conduct user acceptance testing | C | I | A/R | C | R | R | — |
 | UAT sign-off | C | I | A/R | C | I | I | — |
 | **Training and Change** | | | | | | | |
-| Develop contact-centre training materials | C | I | R | — | C | A/R | — |
-| Deliver contact-centre training | C | I | C | — | I | A/R | — |
+| Develop contact-center training materials | C | I | R | — | C | A/R | — |
+| Deliver contact-center training | C | I | C | — | I | A/R | — |
 | Produce resident communications materials | C | I | C | — | C | A/R | — |
 | Distribute resident communications | C | I | I | — | — | A/R | — |
 | **Go-Live and Handover** | | | | | | | |
-| Go-live authorisation | C | A/R | C | C | I | I | — |
+| Go-live authorization | C | A/R | C | C | I | I | — |
 | Monitor hypercare period | R | I | R | C | A/R | R | — |
 | Produce Operations Runbook | C | I | C | A/R | R | — | — |
 | Produce Project Handover Document | A/R | I | C | C | I | I | — |
@@ -123,7 +123,7 @@
 
 ## Notes
 
-- **DPO** involvement is limited to the DPIA and any data-related decisions. No ongoing project management accountability.
+- **Chief Privacy Officer** involvement is limited to the PIA and any data-related decisions. No ongoing project management accountability.
 - **BCM** (Business Change Manager) is primarily responsible for staff engagement and resident communications — they share the delivery of training with Sandra Obi's team.
 - Where SC (PM) is A/R on a task, this reflects delivery accountability. For deliverables owned by GT (GovTech), SC remains accountable to the Project Board but GovTech does the work.
 

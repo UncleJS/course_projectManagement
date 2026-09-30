@@ -4,7 +4,7 @@
 ![Template](https://img.shields.io/badge/Template-Issue%20Log-blue)
 ![Author](https://img.shields.io/badge/Author-UncleJs-orange)
 
-> An issue is a risk that has materialised — or any problem, concern, or question that requires a decision or action. Issues must be tracked to resolution. Do not confuse issues with risks: risks are future uncertainties; issues are current problems.
+> An issue is a risk that has materialized — or any problem, concern, or question that requires a decision or action. Issues must be tracked to resolution. Do not confuse issues with risks: risks are future uncertainties; issues are current problems.
 
 ---
 
@@ -80,7 +80,7 @@
 |---|---|
 | Open | Issue is active and being worked |
 | In Progress | Actions are underway |
-| Escalated | Issue has been escalated to sponsor / programme |
+| Escalated | Issue has been escalated to sponsor / program |
 | Resolved | Issue is resolved; resolution documented |
 | Closed | Resolved and verified; no further action required |
 | Deferred | Action deferred to a future phase or project |
@@ -97,8 +97,8 @@
 |---|---|---|
 | **Project team** | PM resolves directly | Resource conflicts, technical questions |
 | **Project Sponsor** | PM escalates to sponsor | Scope disputes, budget requests, priority conflicts |
-| **Programme / SRO** | Sponsor escalates | Issues beyond project authority; cross-project dependencies |
-| **Organisational leadership** | Programme escalates | Strategic decisions, policy implications |
+| **Program / SRO** | Sponsor escalates | Issues beyond project authority; cross-project dependencies |
+| **Organizational leadership** | Program escalates | Strategic decisions, policy implications |
 
 ---
 
@@ -106,9 +106,9 @@
 
 ## Relationship to Risk Register
 
-Issues that materialise from risks should be cross-referenced:
+Issues that materialize from risks should be cross-referenced:
 
-- Update the originating risk in the Risk Register (status: "Materialised → Issue").
+- Update the originating risk in the Risk Register (status: "Materialized → Issue").
 - Record the risk ID in the issue record.
 - Close the risk; manage the issue to resolution.
 

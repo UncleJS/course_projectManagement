@@ -82,7 +82,7 @@
 | **Resource** | Named individuals only; team size cap |
 | **Technical** | Must use existing infrastructure; specific technology mandated |
 | **Regulatory / Legal** | Compliance requirement; procurement rules |
-| **Organisational** | Cannot impact BAU operations; sign-off hierarchy |
+| **Organizational** | Cannot impact BAU operations; sign-off hierarchy |
 
 ---
 

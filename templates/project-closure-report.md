@@ -4,7 +4,7 @@
 ![Template](https://img.shields.io/badge/Template-Project%20Closure%20Report-blue)
 ![Author](https://img.shields.io/badge/Author-UncleJs-orange)
 
-> The project closure report formally records the project's performance against its objectives, baselines, and business case. It marks the transition from project to business as usual and ensures accountability for benefits realisation is handed over. It requires sponsor sign-off before the project is formally closed.
+> The project closure report formally records the project's performance against its objectives, baselines, and business case. It marks the transition from project to business as usual and ensures accountability for benefits realization is handed over. It requires sponsor sign-off before the project is formally closed.
 
 ---
 
@@ -28,7 +28,7 @@
 - [10. Lessons Learned Summary](#10-lessons-learned-summary)
 - [11. Project Archive](#11-project-archive)
 - [12. Recommendation](#12-recommendation)
-- [Authorisation](#authorisation)
+- [Authorization](#authorization)
 
 ---
 
@@ -64,8 +64,8 @@
 | **Actual end date** | |
 | **Project sponsor** | |
 | **Project manager** | |
-| **Total approved budget** | £ |
-| **Actual final cost** | £ |
+| **Total approved budget** | $ |
+| **Actual final cost** | $ |
 
 ---
 
@@ -91,12 +91,12 @@
 
 ### Scope Changes
 
-*Summarise any scope changes approved during the project:*
+*Summarize any scope changes approved during the project:*
 
-| CR No. | Description | Cost impact (£) | Schedule impact |
+| CR No. | Description | Cost impact ($) | Schedule impact |
 |---|---|---|---|
 | | | | |
-| **Total scope change impact** | | £ | |
+| **Total scope change impact** | | $ | |
 
 ---
 
@@ -120,7 +120,7 @@
 
 ## 5. Financial Performance
 
-| Item | Approved budget (£) | Actual spend (£) | Variance (£) | Variance (%) |
+| Item | Approved budget ($) | Actual spend ($) | Variance ($) | Variance (%) |
 |---|---|---|---|---|
 | Total project | | | | |
 | Of which: contingency used | | | | |
@@ -153,7 +153,7 @@
 
 ### Risks
 
-| Total identified | Materialised | Avoided | Still open at close |
+| Total identified | Materialized | Avoided | Still open at close |
 |---|---|---|---|
 | | | | |
 
@@ -173,7 +173,7 @@
 
 ## 8. Benefits Handover
 
-| Ref | Benefit | Baseline measure | Current measure | Expected realisation date | Benefit owner (BAU) |
+| Ref | Benefit | Baseline measure | Current measure | Expected realization date | Benefit owner (BAU) |
 |---|---|---|---|---|---|
 | BEN-01 | | | | | |
 | BEN-02 | | | | | |
@@ -243,7 +243,7 @@
 
 [↑ Back to top](#table-of-contents)
 
-## Authorisation
+## Authorization
 
 | Role | Name | Signature | Date |
 |---|---|---|---|

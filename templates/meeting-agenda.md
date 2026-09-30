@@ -101,7 +101,7 @@
 
 ## Ground Rules (standing)
 
-*Customise as appropriate:*
+*Customize as appropriate:*
 
 - Start and end on time.
 - One conversation at a time.

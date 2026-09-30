@@ -20,7 +20,7 @@
   - [From raw input to clear requirements](#from-raw-input-to-clear-requirements)
   - [Writing good requirements](#writing-good-requirements)
   - [User stories as an alternative format](#user-stories-as-an-alternative-format)
-- [5. Requirements Prioritisation](#5-requirements-prioritisation)
+- [5. Requirements Prioritization](#5-requirements-prioritization)
   - [MoSCoW](#moscow)
   - [Kano model](#kano-model)
 - [6. Requirements Traceability](#6-requirements-traceability)
@@ -39,10 +39,10 @@
   - [What are acceptance criteria?](#what-are-acceptance-criteria)
   - [Writing good acceptance criteria](#writing-good-acceptance-criteria)
   - [Acceptance criteria must be agreed before work starts](#acceptance-criteria-must-be-agreed-before-work-starts)
-- [Artefacts](#artefacts)
+- [Artifacts](#artifacts)
 - [Exercises](#exercises)
   - [Exercise 8.1 — Improve vague requirements](#exercise-81--improve-vague-requirements)
-  - [Exercise 8.2 — MoSCoW prioritisation](#exercise-82--moscow-prioritisation)
+  - [Exercise 8.2 — MoSCoW prioritization](#exercise-82--moscow-prioritization)
   - [Exercise 8.3 — Build a mini RTM](#exercise-83--build-a-mini-rtm)
 - [Quiz](#quiz)
 - [Related Modules](#related-modules)
@@ -92,12 +92,12 @@ Understanding the different types of requirements prevents gaps and conflicts:
 
 | Type | Definition | Example |
 |---|---|---|
-| **Business requirements** | High-level organisational needs that the project must address | "Reduce customer onboarding time by 50%" |
-| **Stakeholder requirements** | Specific needs of individual stakeholder groups | "Call centre agents need to see full customer history on one screen" |
+| **Business requirements** | High-level organizational needs that the project must address | "Reduce customer onboarding time by 50%" |
+| **Stakeholder requirements** | Specific needs of individual stakeholder groups | "Call center agents need to see full customer history on one screen" |
 | **Solution requirements — functional** | What the system/product must do | "The system must send an automated welcome email on account creation" |
 | **Solution requirements — non-functional** | How the system must perform | "Page load time must be < 2 seconds for 95% of requests" |
 | **Transition requirements** | Requirements for getting from current state to future state | "All existing customer data must be migrated with 100% accuracy" |
-| **Regulatory requirements** | Legal or compliance mandates | "Personal data must be stored within the EU under GDPR" |
+| **Regulatory requirements** | Legal or compliance mandates | "Personal data must be handled under the applicable privacy requirements" |
 
 Missing requirement types — especially non-functional and transition requirements — are one of the most common causes of project overruns.
 
@@ -142,7 +142,7 @@ Mitigation: use multiple techniques, validate early, and iterate.
 
 Raw elicitation output is typically messy, ambiguous, and contradictory. Analysis involves:
 
-- **Organising**: grouping related requirements
+- **Organizing**: grouping related requirements
 - **Deduplicating**: removing redundant statements
 - **Resolving conflicts**: where two stakeholders have contradictory requirements
 - **Clarifying ambiguity**: rewriting vague statements into testable ones
@@ -180,9 +180,9 @@ User stories are not a replacement for full specification — they are a startin
 
 ---
 
-## 5. Requirements Prioritisation
+## 5. Requirements Prioritization
 
-Not all requirements are equally important. Prioritisation enables:
+Not all requirements are equally important. Prioritization enables:
 
 - Delivery of the highest-value requirements first
 - Informed decisions when scope must be reduced under time/cost pressure
@@ -190,7 +190,7 @@ Not all requirements are equally important. Prioritisation enables:
 
 ### MoSCoW
 
-The most widely used prioritisation technique in project management:
+The most widely used prioritization technique in project management:
 
 | Priority | Meaning | Guidance |
 |---|---|---|
@@ -236,7 +236,7 @@ The RTM links requirements horizontally through the project:
 | Req ID | Requirement | Source | Design Ref | Build Component | Test Case | Status |
 |---|---|---|---|---|---|---|
 | REQ-001 | Self-service password reset | User workshop | DS-042 | AuthService v2 | TC-023 | Passed |
-| REQ-002 | GDPR data export | Legal | DS-019 | DataExportAPI | TC-047 | In test |
+| REQ-002 | Personal-data export | Legal | DS-019 | DataExportAPI | TC-047 | In test |
 | REQ-003 | Mobile-responsive login | Marketing | DS-031 | UIComponents | TC-012 | Passed |
 
 ### Bidirectional traceability
@@ -276,7 +276,7 @@ classDiagram
         +String passResult
     }
     Requirement "1" --> "1..*" DesignSpec : implemented by
-    DesignSpec "1" --> "1..*" BuildComponent : realised in
+    DesignSpec "1" --> "1..*" BuildComponent : realized in
     BuildComponent "1" --> "1..*" TestCase : verified by
     Requirement "1" --> "1..*" AcceptanceCriteria : validated against
     TestCase "1..*" --> "1" AcceptanceCriteria : confirms
@@ -385,9 +385,9 @@ Criteria defined after a deliverable is built often reflect what was actually bu
 
 ---
 
-## Artefacts
+## Artifacts
 
-| Artefact | Description | Template |
+| Artifact | Description | Template |
 |---|---|---|
 | **Requirements Documentation (BRD)** | Elicited and analysed requirements | — |
 | **Requirements Traceability Matrix (RTM)** | Links requirements to design, build, test, and status | — |
@@ -416,9 +416,9 @@ Rewrite each of the following vague requirements as testable, unambiguous statem
 
 ---
 
-### Exercise 8.2 — MoSCoW prioritisation
+### Exercise 8.2 — MoSCoW prioritization
 
-You are managing a 12-week project to build an internal expense management system. Budget: £85,000. The stakeholder workshop produced the following requirements list. Prioritise them using MoSCoW and justify your decisions.
+You are managing a 12-week project to build an internal expense management system. Budget: $85,000. The stakeholder workshop produced the following requirements list. Prioritize them using MoSCoW and justify your decisions.
 
 1. Submit expense claims with receipt photos
 2. Multi-currency support (the company operates in 3 countries)
@@ -463,7 +463,7 @@ Using the expense management system from Exercise 8.2, take your Must Have requi
 
 ---
 
-**Question 2:** In MoSCoW prioritisation, "Won't have" means:
+**Question 2:** In MoSCoW prioritization, "Won't have" means:
 
 - A) This requirement has been rejected permanently
 - B) This requirement will be cut if budget runs out
@@ -541,7 +541,7 @@ Using the expense management system from Exercise 8.2, take your Must Have requi
 | [Module 03 — Project Initiation](03-initiation.md) | High-level scope is defined in initiation; detailed requirements elaboration begins here |
 | [Module 04 — Project Planning](04-planning.md) | The WBS and scope baseline are planning outputs; requirements drive schedule and cost estimates |
 | [Module 05 — Project Execution](05-execution.md) | Scope is delivered during execution; change requests update the scope baseline throughout delivery |
-| [Module 15a — Integration, Hybrid Approaches, and Agile](15a-integration-hybrid-agile.md) | Agile treats scope as a prioritised backlog rather than a fixed baseline — a fundamental shift covered in 15a |
+| [Module 15a — Integration, Hybrid Approaches, and Agile](15a-integration-hybrid-agile.md) | Agile treats scope as a prioritized backlog rather than a fixed baseline — a fundamental shift covered in 15a |
 
 ---
 

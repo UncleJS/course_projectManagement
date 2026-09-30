@@ -14,8 +14,8 @@
 - [Overall RAG Status](#overall-rag-status)
   - [RAG Definitions](#rag-definitions)
 - [Period Summary](#period-summary)
-- [Progress This Period (2–8 May 2026)](#progress-this-period-28-may-2026)
-- [Planned for Next Period (9 May – 5 June 2026)](#planned-for-next-period-9-may--5-june-2026)
+- [Progress This Period (May 2–8, 2026)](#progress-this-period-28-may-2026)
+- [Planned for Next Period (May 9 – June 5, 2026)](#planned-for-next-period-9-may--5-june-2026)
 - [Financials](#financials)
   - [Earned Value Management (EVM) Summary](#earned-value-management-evm-summary)
 - [Risks (Top 3 Active Risks)](#risks-top-3-active-risks)
@@ -32,10 +32,10 @@
 |---|---|
 | **Project Title** | Meridian — Citizen Self-Service Portal |
 | **Report No.** | 06 |
-| **Reporting period** | 2 May 2026 – 8 May 2026 |
-| **Report date** | 8 May 2026 |
+| **Reporting period** | May 2, 2026 – May 8, 2026 |
+| **Report date** | May 8, 2026 |
 | **Prepared by** | Sarah Chen, Project Manager |
-| **Distribution** | James Hartley, Sandra Obi, Mark Pearce, Councillor Dean, Claire Worthington |
+| **Distribution** | James Hartley, Sandra Obi, Mark Pearce, Councilmember Dean, Claire Worthington |
 
 [↑ Back to top](#table-of-contents)
 
@@ -45,12 +45,12 @@
 
 | Dimension | RAG | Notes |
 |---|---|---|
-| **Overall** | 🟡 AMBER | Gate 1 passed; ICT Developer confirmed; parking permits integration risk escalated |
-| **Schedule** | 🟢 GREEN | Gate 1 delivered on time (8 May 2026) |
+| **Overall** | 🟢 GREEN | Gate 1 passed; ICT developer confirmed; LandWorks integration risk still open |
+| **Schedule** | 🟢 GREEN | Gate 1 delivered on time (May 8, 2026) |
 | **Budget** | 🟢 GREEN | Spend on track; no contingency draw-down to date |
-| **Scope / Quality** | 🟡 AMBER | UNIFORM API limitation for parking permits identified — Change Request in preparation |
-| **Risk** | 🟡 AMBER | RSK-01 partially materialised (parking permits); full picture emerging |
-| **Stakeholders** | 🟢 GREEN | Contact-centre team briefed; BCM (Diane Hughes) confirmed |
+| **Scope / Quality** | 🟢 GREEN | Discovery and design approved for all four original service modules, including parking permits |
+| **Risk** | 🟡 AMBER | RSK-01 (LandWorks integration) remains high until integration testing checks parking-permit data |
+| **Stakeholders** | 🟢 GREEN | Contact-center team briefed; BCM (Diane Hughes) confirmed on April 22, 2026 |
 
 ### RAG Definitions
 
@@ -66,35 +66,34 @@
 
 ## Period Summary
 
-Gate 1 (Discovery and Design) was passed on 8 May 2026 — on schedule. The Discovery Report and UX Design Specification were approved by the Senior User (Sandra Obi) and Senior Supplier (Mark Pearce) at the Gate 1 review meeting this morning. The project now moves into the Build and Integration phase.
+Gate 1 (Discovery and Design) was passed on May 8, 2026 — on schedule. The Discovery Report and UX Design Specification were approved by the Senior User (Sandra Obi) and Senior Supplier (Mark Pearce) at the Gate 1 review meeting this morning. The project now moves into the Build and Integration phase.
 
-One significant issue emerged during discovery: the UNIFORM system does not expose parking permit expiry data in a format that the portal can consume via the standard API. This was not identified in pre-project scoping. A technical options assessment has been completed and is being submitted as a Change Request (CR-003 in draft) to defer the parking permit module to Phase 2. This is the right decision: attempting to resolve the UNIFORM data issue within the current project scope and budget would be disproportionate.
+Parking-permit renewal is still in Phase 1 scope. Whether LandWorks can supply parking-permit expiry data through the API has not been proven. That check is part of integration testing and is the subject of RSK-01. No issue has been raised, and no change request is in draft.
 
 [↑ Back to top](#table-of-contents)
 
 ---
 
-## Progress This Period (2–8 May 2026)
+## Progress This Period (May 2–8, 2026)
 
-- ✅ Gate 1 review conducted and passed (8 May 2026)
+- ✅ Gate 1 review conducted and passed (May 8, 2026)
 - ✅ Discovery Report approved by Senior User and Senior Supplier
-- ✅ UX Design Specification approved — all four service modules
-- ✅ Integration Specification approved by ICT Manager (Mark Pearce)
-- ✅ Data Protection Impact Assessment (DPIA) signed off by DPO (5 May 2026)
-- ✅ GovTech build environment provisioned; development sprint 1 begins 11 May 2026
-- 🔄 CR-003 (parking permit deferral) — in draft; to Project Board for decision by 8 July 2026
+- ✅ UX Design Specification approved — all four service modules, including parking permits
+- ✅ Integration Specification approved by ICT Manager (Mark Pearce), with parking-permit field coverage still to be proven in integration testing
+- ✅ Privacy Impact Assessment (PIA) signed off by the Chief Privacy Officer (May 5, 2026)
+- ✅ GovTech build environment provisioned; development sprint 1 begins May 11, 2026
 
 [↑ Back to top](#table-of-contents)
 
 ---
 
-## Planned for Next Period (9 May – 5 June 2026)
+## Planned for Next Period (May 9 – June 5, 2026)
 
-- GovTech Development Sprint 1: Planning application tracking module build begins
-- ICT Developer (Tom Okafor) begins UNIFORM integration configuration for planning module
+- GovTech Development Sprint 1: Planning and zoning application tracking module build begins
+- ICT Developer (Tom Okafor) begins LandWorks integration configuration for the planning module, including a test of parking-permit data fields
 - Business Change Manager (Diane Hughes) begins staff engagement planning
-- CR-003 prepared for submission to the July Project Board once integration testing confirms the UNIFORM limitation
-- Project Board Meeting 4 — 4 June 2026 (routine progress review)
+- If integration testing shows parking-permit data cannot be queried, the PM will raise an issue and a change request for the July Project Board
+- Project Board Meeting 4 — June 4, 2026 (routine progress review)
 
 [↑ Back to top](#table-of-contents)
 
@@ -102,9 +101,9 @@ One significant issue emerged during discovery: the UNIFORM system does not expo
 
 ## Financials
 
-| Item | Budget (£) | Committed (£) | Actual spend to date (£) | Forecast final cost (£) | Variance (£) |
+| Item | Budget ($) | Committed ($) | Actual spend to date ($) | Forecast final cost ($) | Variance ($) |
 |---|---|---|---|---|---|
-| GovTech platform licence and configuration | 240,000 | 240,000 | 96,000 | 240,000 | 0 |
+| GovTech platform license and configuration | 240,000 | 240,000 | 96,000 | 240,000 | 0 |
 | ICT integration (internal) | 48,000 | 48,000 | 4,800 | 48,000 | 0 |
 | Project management (internal) | 42,000 | 42,000 | 14,000 | 42,000 | 0 |
 | Training and change | 20,000 | 4,500 | 1,500 | 20,000 | 0 |
@@ -116,15 +115,15 @@ One significant issue emerged during discovery: the UNIFORM system does not expo
 
 | Metric | Value | Interpretation |
 |---|---|---|
-| Planned Value (PV) | £129,500 | Budgeted work to date |
-| Earned Value (EV) | £127,800 | Value of work actually completed |
-| Actual Cost (AC) | £129,100 | What we've spent |
-| Schedule Variance (SV) | −£1,700 | Very slightly behind planned work (1.3% — within tolerance) |
-| Cost Variance (CV) | −£1,300 | Very slightly over planned cost for work done (1.0% — within tolerance) |
+| Planned Value (PV) | $129,500 | Budgeted work to date |
+| Earned Value (EV) | $127,800 | Value of work actually completed |
+| Actual Cost (AC) | $129,100 | What we've spent |
+| Schedule Variance (SV) | −$1,700 | Very slightly behind planned work (1.3% — within tolerance) |
+| Cost Variance (CV) | −$1,300 | Very slightly over planned cost for work done (1.0% — within tolerance) |
 | SPI | 0.99 | Essentially on schedule |
 | CPI | 0.99 | Essentially on budget |
 
-*Both SPI and CPI are at 0.99 — effectively on track. No corrective action required. The minor variance is due to discovery phase taking an extra 2 days for the UNIFORM parking permit investigation.*
+*Both SPI and CPI are at 0.99 — effectively on track. No corrective action required.*
 
 [↑ Back to top](#table-of-contents)
 
@@ -134,7 +133,7 @@ One significant issue emerged during discovery: the UNIFORM system does not expo
 
 | Ref | Risk | Current score | Trend | Response |
 |---|---|---|---|---|
-| RSK-01 | UNIFORM integration more complex than estimated | P3 / I4 = 12 (**HIGH**) | ↑ Increased | Parking permit issue addressed via CR-003; remaining three modules assessed — no further UNIFORM limitations identified |
+| RSK-01 | LandWorks integration more complex than estimated | P3 / I4 = 12 (**HIGH**) | → Stable | Parking-permit data fields are not yet proven; integration testing in June will confirm or close this risk |
 | RSK-02 | GovTech delivery delay in build phase | P2 / I4 = 8 (Medium) | → Stable | Contractual milestone payments; PM weekly check-in with GovTech PM |
 | RSK-05 | Resident adoption below 55% target | P3 / I3 = 9 (Medium) | → Stable | UX research incorporated in design; resident communications campaign planned for Aug–Sep |
 
@@ -144,9 +143,7 @@ One significant issue emerged during discovery: the UNIFORM system does not expo
 
 ## Issues (Open Issues)
 
-| ID | Issue | Severity | Owner | Status |
-|---|---|---|---|---|
-| ISS-03 (emerging) | UNIFORM parking permit data not queryable — CR-003 in preparation | High | Sarah Chen / Mark Pearce | Being addressed via change control |
+No open issues this period. RSK-01 is being watched and is not yet an issue.
 
 [↑ Back to top](#table-of-contents)
 
@@ -154,7 +151,7 @@ One significant issue emerged during discovery: the UNIFORM system does not expo
 
 ## Decisions Required from Sponsor / Board
 
-1. **CR-003 (Parking Permit Deferral)** — A formal Change Request will be prepared once early integration testing confirms the UNIFORM limitation, and submitted to the **July Project Board** for decision. The Board is asked to note the emerging issue now and the intended deferral approach.
+1. **None this period.** The Sponsor is asked to note that RSK-01 (LandWorks parking-permit data) will be tested in integration. If the data cannot be queried, the PM will bring a change request to the July Project Board.
 
 [↑ Back to top](#table-of-contents)
 
@@ -162,9 +159,9 @@ One significant issue emerged during discovery: the UNIFORM system does not expo
 
 ## Change Requests Status
 
-| CR No. | Description | Status | Cost impact (£) | Schedule impact |
+| CR No. | Description | Status | Cost impact ($) | Schedule impact |
 |---|---|---|---|---|
-| CR-003 (draft) | Defer parking permit module to Phase 2 (UNIFORM API limitation) | In preparation — to July Project Board | −£18,000 (released from build scope) | None — go-live date protected |
+| — | No change requests raised this period | — | — | — |
 
 [↑ Back to top](#table-of-contents)
 
@@ -172,7 +169,7 @@ One significant issue emerged during discovery: the UNIFORM system does not expo
 
 ## Notes / Commentary
 
-The project is in a solid position at Gate 1. The parking permit issue, while significant, was identified early through rigorous technical discovery — exactly as intended. The recommended response (deferral to Phase 2) is proportionate and protects the go-live date. The remaining three service modules have no equivalent UNIFORM compatibility issues.
+The project is in a solid position at Gate 1. Parking-permit renewal remains in scope. Compatibility of LandWorks parking-permit data is an open risk (RSK-01), to be tested when integration starts, not a defect found in discovery.
 
 [↑ Back to top](#table-of-contents)
 

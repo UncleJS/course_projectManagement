@@ -5,7 +5,7 @@
 ![Level](https://img.shields.io/badge/Level-Mixed%2FGeneral-green)
 ![Author](https://img.shields.io/badge/Author-UncleJs-orange)
 
-> **The project manager does not need to be the most technical person in the room — but they must be the most integrative.** This module synthesises the full course, addresses failure modes and cross-industry practice, and equips you for ongoing professional development as a reflective practitioner.
+> **The project manager does not need to be the most technical person in the room — but they must be the most integrative.** This module synthesizes the full course, addresses failure modes and cross-industry practice, and equips you for ongoing professional development as a reflective practitioner.
 
 > **This module is Part 2 of the Capstone.** See also: [Module 15a — Integration, Hybrid Approaches, and Agile](15a-integration-hybrid-agile.md)
 
@@ -13,35 +13,35 @@
 
 ## Table of Contents
 
-- [6. PM Competency Frameworks](#6-pm-competency-frameworks)
+- [1. PM Competency Frameworks](#1-pm-competency-frameworks)
   - [Why Competency Frameworks Matter](#why-competency-frameworks-matter)
   - [PMI Talent Triangle](#pmi-talent-triangle)
   - [APM Competence Framework](#apm-competence-framework)
   - [IPMA Individual Competence Baseline (ICB)](#ipma-individual-competence-baseline-icb)
   - [Self-Assessment](#self-assessment)
-- [7. Continuing Professional Development (CPD)](#7-continuing-professional-development-cpd)
+- [2. Continuing Professional Development (CPD)](#2-continuing-professional-development-cpd)
   - [What CPD Is](#what-cpd-is)
   - [Forms of CPD](#forms-of-cpd)
   - [Reflective Practice](#reflective-practice)
   - [Recording CPD](#recording-cpd)
   - [Professional Certifications Overview](#professional-certifications-overview)
-- [8. Common Project Failure Modes](#8-common-project-failure-modes)
+- [3. Common Project Failure Modes](#3-common-project-failure-modes)
   - [The Top Failure Modes](#the-top-failure-modes)
   - [The "Green Project" Trap](#the-green-project-trap)
   - [Cynefin: Choosing the Right Response](#cynefin-choosing-the-right-response)
-- [9. Project Management Across Industries](#9-project-management-across-industries)
+- [4. Project Management Across Industries](#4-project-management-across-industries)
   - [Construction and Infrastructure](#construction-and-infrastructure)
   - [Information Technology and Software](#information-technology-and-software)
   - [Healthcare and Life Sciences](#healthcare-and-life-sciences)
   - [Financial Services](#financial-services)
   - [Public Sector](#public-sector)
   - [Lessons Across Industries](#lessons-across-industries)
-- [10. Synthesis: Becoming a Reflective Practitioner](#10-synthesis-becoming-a-reflective-practitioner)
+- [5. Synthesis: Becoming a Reflective Practitioner](#5-synthesis-becoming-a-reflective-practitioner)
   - [The Course in One Page](#the-course-in-one-page)
   - [The PM as Integrator](#the-pm-as-integrator)
   - [A Framework for Reflective Practice](#a-framework-for-reflective-practice)
   - [A Final Word on Ethics](#a-final-word-on-ethics)
-- [Artefacts](#artefacts)
+- [Artifacts](#artifacts)
 - [Exercises](#exercises)
   - [Exercise 1 — Failure Mode Analysis](#exercise-1--failure-mode-analysis)
   - [Exercise 2 — Competency Self-Assessment](#exercise-2--competency-self-assessment)
@@ -51,7 +51,7 @@
 
 ---
 
-## 6. PM Competency Frameworks
+## 1. PM Competency Frameworks
 
 ### Why Competency Frameworks Matter
 
@@ -105,7 +105,7 @@ classDiagram
         +benefits orientation
         +commercial awareness
         +financial literacy
-        +organisational context
+        +organizational context
         +change management
     }
     PMCompetency "1" --> "1" WaysOfWorking : technical domain
@@ -119,8 +119,8 @@ classDiagram
 The Association for Project Management (UK) defines competences across three dimensions:
 
 - **Technical**: Planning, scheduling, risk, quality, procurement, monitoring and control.
-- **Behavioural**: Leadership, communication, conflict resolution, ethics, self-management.
-- **Contextual**: Understanding of organisational governance, programme and portfolio management, sponsorship, benefits management.
+- **Behavioral**: Leadership, communication, conflict resolution, ethics, self-management.
+- **Contextual**: Understanding of organizational governance, program and portfolio management, sponsorship, benefits management.
 
 ### IPMA Individual Competence Baseline (ICB)
 
@@ -128,7 +128,7 @@ IPMA's ICB4 uses three competence "eyes":
 
 - **People**: Personal and interpersonal skills (self-reflection, integrity, leadership, teamwork, conflict, negotiation, results orientation).
 - **Perspective**: Context and governance (strategy, governance, compliance, power and interest, culture).
-- **Practice**: Technical project management processes (design, goals and objectives, scope, time, organisation, quality, finance, resources, procurement, planning and control, risk, stakeholders, change, select and balance).
+- **Practice**: Technical project management processes (design, goals and objectives, scope, time, organization, quality, finance, resources, procurement, planning and control, risk, stakeholders, change, select and balance).
 
 ### Self-Assessment
 
@@ -143,7 +143,7 @@ Regardless of which framework you use, honest self-assessment is the starting po
 
 ---
 
-## 7. Continuing Professional Development (CPD)
+## 2. Continuing Professional Development (CPD)
 
 ### What CPD Is
 
@@ -183,7 +183,7 @@ Most professional bodies require members to record and evidence CPD activities (
 | Certification | Body | Focus |
 |---|---|---|
 | CAPM | PMI | Entry-level; knowledge-based |
-| PMP | PMI | Experienced practitioners; application and judgement |
+| PMP | PMI | Experienced practitioners; application and judgment |
 | PRINCE2 Foundation / Practitioner | Axelos / PeopleCert | PRINCE2 method |
 | APM PMQ / PPQ | APM | UK/European standards-based |
 | IPMA Level D–A | IPMA | Competence-based; portfolio of evidence |
@@ -197,7 +197,7 @@ Certifications demonstrate a minimum standard. They are a starting point, not a 
 
 ---
 
-## 8. Common Project Failure Modes
+## 3. Common Project Failure Modes
 
 Understanding why projects fail is as important as knowing how they should succeed. Most failures are not one catastrophic event — they are a slow accumulation of unaddressed warning signs.
 
@@ -218,11 +218,11 @@ Understanding why projects fail is as important as knowing how they should succe
 
 ### The "Green Project" Trap
 
-One of the most dangerous failure modes is the project that reports green until it reports red — and then is cancelled or fails. The causes:
+One of the most dangerous failure modes is the project that reports green until it reports red — and then is canceled or fails. The causes:
 
 - **Social pressure** to report positively to sponsors.
 - **Lack of psychological safety** — bad news is unwelcome or punished.
-- **Vanity metrics** — measuring completion of tasks rather than progress towards outcomes.
+- **Vanity metrics** — measuring completion of tasks rather than progress toward outcomes.
 - **PM over-optimism** — genuine belief that problems will be resolved.
 
 Counter this by:
@@ -233,23 +233,23 @@ Counter this by:
 
 ### Cynefin: Choosing the Right Response
 
-Dave Snowden's **Cynefin framework** helps PM practitioners categorise situations and choose appropriate responses:
+Dave Snowden's **Cynefin framework** helps PM practitioners categorize situations and choose appropriate responses:
 
 | Domain | Characteristics | Appropriate response |
 |---|---|---|
-| **Clear** (Simple) | Cause-effect obvious; best practice exists | Sense → Categorise → Respond (apply best practice) |
+| **Clear** (Simple) | Cause-effect obvious; best practice exists | Sense → Categorize → Respond (apply best practice) |
 | **Complicated** | Cause-effect requires analysis; good practice exists | Sense → Analyse → Respond (apply expert knowledge) |
 | **Complex** | Cause-effect only visible in retrospect; multiple actors | Probe → Sense → Respond (safe-to-fail experiments) |
-| **Chaotic** | No apparent cause-effect; crisis | Act → Sense → Respond (stabilise, then learn) |
+| **Chaotic** | No apparent cause-effect; crisis | Act → Sense → Respond (stabilize, then learn) |
 | **Disorder** | It is unclear which domain applies | Disaggregate the problem; classify each element |
 
-Project planning problems are usually **complicated** (known unknowns, expert analysis required). Stakeholder dynamics are often **complex** (emergent, non-linear). Crisis response is **chaotic**. Applying complicated-domain tools (detailed plans) to complex-domain problems (emerging user behaviour) is a common and costly mistake.
+Project planning problems are usually **complicated** (known unknowns, expert analysis required). Stakeholder dynamics are often **complex** (emergent, non-linear). Crisis response is **chaotic**. Applying complicated-domain tools (detailed plans) to complex-domain problems (emerging user behavior) is a common and costly mistake.
 
 [↑ Back to top](#table-of-contents)
 
 ---
 
-## 9. Project Management Across Industries
+## 4. Project Management Across Industries
 
 The principles in this course are universal. Their application varies by industry.
 
@@ -258,7 +258,7 @@ The principles in this course are universal. Their application varies by industr
 - Highly regulated; safety is a non-negotiable quality dimension.
 - Contracts are central — most relationships are governed by NEC, FIDIC, or JCT forms.
 - Long procurement lead times; design-to-build sequence is critical path.
-- BIM (Building Information Modelling) is transforming collaborative design and asset management.
+- BIM (Building Information Modeling) is transforming collaborative design and asset management.
 - Post-project: asset handover and whole-life costing matter as much as construction cost.
 
 ### Information Technology and Software
@@ -266,7 +266,7 @@ The principles in this course are universal. Their application varies by industr
 - Requirements volatility is high — agile or hybrid approaches are common.
 - Technical debt and integration risk are significant project risks.
 - Vendor management (SaaS, cloud, licensed platforms) is a major procurement domain.
-- Change management for users is often the critical path to benefits realisation.
+- Change management for users is often the critical path to benefits realization.
 - Security and data protection are non-negotiable from project initiation.
 
 ### Healthcare and Life Sciences
@@ -274,22 +274,22 @@ The principles in this course are universal. Their application varies by industr
 - Regulatory approval (FDA, MHRA, CE marking) is a formal project gate with hard timelines.
 - Clinical trials have their own project lifecycle (Phase I–IV) with rigorous quality management.
 - Patient safety considerations govern every scope and quality decision.
-- Benefits realisation is measured in health outcomes, not just financial return.
+- Benefits realization is measured in health outcomes, not just financial return.
 
 ### Financial Services
 
 - Heavy compliance and regulatory burden (FCA, PRA, DORA in the UK/EU).
 - Risk management frameworks are mature and exacting.
 - Change projects must demonstrate regulatory compliance at each stage gate.
-- Business cases require detailed financial modelling and sign-off.
+- Business cases require detailed financial modeling and sign-off.
 
 ### Public Sector
 
-- Procurement is subject to legal requirements (Public Contracts Regulations in the UK; equivalent in other jurisdictions).
-- Business cases follow structured frameworks (e.g., HM Treasury Green Book in the UK; Five Case Model).
-- Benefits are often social / public value rather than purely financial.
-- Accountability and transparency obligations are high; audit trail discipline is essential.
-- Political context shapes stakeholder dynamics; sponsor continuity can be poor.
+- Procurement is subject to legal requirements (for a US city or county, the local procurement code and, where federal funds are used, the Uniform Guidance; the UK equivalent is the Procurement Act regime that replaced the Public Contracts Regulations).
+- Business cases follow structured frameworks (for US federal investments, OMB capital-planning guidance; the UK equivalent is the HM Treasury Green Book and Five Case Model).
+- Benefits are often social or public value rather than purely financial.
+- Accountability and transparency obligations are high; audit-trail discipline is essential.
+- Political context shapes stakeholder dynamics; sponsor continuity can be poor when elected officials or senior officers change.
 
 ### Lessons Across Industries
 
@@ -299,7 +299,7 @@ Despite these differences, the failure modes are remarkably consistent across al
 - Inadequate stakeholder engagement.
 - Over-optimistic estimates.
 - Poor change control.
-- Insufficient attention to benefits realisation.
+- Insufficient attention to benefits realization.
 
 Mastery of these fundamentals transfers across every sector.
 
@@ -307,7 +307,7 @@ Mastery of these fundamentals transfers across every sector.
 
 ---
 
-## 10. Synthesis: Becoming a Reflective Practitioner
+## 5. Synthesis: Becoming a Reflective Practitioner
 
 ### The Course in One Page
 
@@ -320,7 +320,7 @@ Fifteen modules. Hundreds of tools and techniques. But at its core, project mana
 | **How will we deliver it?** | Planning, execution, procurement, resources (04, 05, 13, 14) |
 | **Are we on track?** | Monitoring and control, EVM, reporting (06) |
 | **What could go wrong — and how do we respond?** | Risk, issues, change control (05, 06, 11) |
-| **Did we succeed — and what did we learn?** | Closing, lessons learned, benefits realisation (07) |
+| **Did we succeed — and what did we learn?** | Closing, lessons learned, benefits realization (07) |
 
 ### The PM as Integrator
 
@@ -331,7 +331,7 @@ The project manager does not need to be the most technical person in the room �
 - Risk to opportunity.
 - Current state to future state.
 
-This requires **judgement** — the ability to make sound decisions in conditions of incomplete information, competing interests, and time pressure. Judgement is not innate; it is developed through practice, reflection, and learning from both success and failure.
+This requires **judgment** — the ability to make sound decisions in conditions of incomplete information, competing interests, and time pressure. Judgment is not innate; it is developed through practice, reflection, and learning from both success and failure.
 
 ### A Framework for Reflective Practice
 
@@ -349,7 +349,7 @@ Write it down. Reflection that exists only in your head is incomplete.
 
 Every module in this course has touched on ethics: fair dealing in procurement, honest reporting in monitoring and control, psychological safety in teams, transparency in stakeholder engagement, sustainability in governance.
 
-Ethics is not a separate module — it is the foundation of professional practice. The PMI Code of Ethics and Professional Conduct, the APM Code of Professional Conduct, and equivalent bodies all emphasise: **responsibility, respect, fairness, and honesty**.
+Ethics is not a separate module — it is the foundation of professional practice. The PMI Code of Ethics and Professional Conduct, the APM Code of Professional Conduct, and equivalent bodies all emphasize: **responsibility, respect, fairness, and honesty**.
 
 When in doubt, ask: *Would I be comfortable if my sponsor, my client, and my professional body could all see exactly what I am doing and why?* If yes, proceed. If not, stop and reconsider.
 
@@ -357,11 +357,11 @@ When in doubt, ask: *Would I be comfortable if my sponsor, my client, and my pro
 
 ---
 
-## Artefacts
+## Artifacts
 
-| Artefact | Description | Template |
+| Artifact | Description | Template |
 |---|---|---|
-| Benefits Register | Tracked benefits, owners, measurement approach, and realisation dates | [benefits-register.md](../templates/benefits-register.md) |
+| Benefits Register | Tracked benefits, owners, measurement approach, and realization dates | [benefits-register.md](../templates/benefits-register.md) |
 | Lessons Learned Log | Accumulated lessons from all phases | [lessons-learned-log.md](../templates/lessons-learned-log.md) |
 | Project Closure Report | Final project summary; performance vs baseline; recommendations | [project-closure-report.md](../templates/project-closure-report.md) |
 | CPD Log | Personal record of professional development activities | — |
@@ -379,7 +379,7 @@ When in doubt, ask: *Would I be comfortable if my sponsor, my client, and my pro
 
 - The project was consistently reported as RAG Green until Month 14 (of 18), when it was suddenly escalated as RED.
 - The project closed 6 months late at 140% of its approved budget.
-- Benefits realisation data was not collected — the benefits owner left the organisation during the project and was not replaced.
+- Benefits realization data was not collected — the benefits owner left the organization during the project and was not replaced.
 - A lessons-learned session was never held. The PM has since moved to another employer.
 
 **Task**: Using the failure modes table from Section 8, identify which failure modes apply to each of the four facts above. For each: (1) name the failure mode, (2) explain how it manifested in this project, (3) identify what early warning sign the PM or Sponsor should have noticed, and (4) describe what should have been done differently. Conclude with a 200-word reflection on the relationship between governance, psychological safety, and honest reporting.
@@ -438,7 +438,7 @@ When in doubt, ask: *Would I be comfortable if my sponsor, my client, and my pro
 
 <details><summary>Reveal Answer</summary>
 
-Cynefin is a sense-making framework that helps practitioners categorise situations as Clear, Complicated, Complex, Chaotic, or Disordered, and choose appropriate responses. It is useful for PMs because applying the wrong approach to a situation is a common failure mode — e.g., using detailed planning (complicated-domain tool) for emergent stakeholder dynamics (complex domain). Recognising the domain helps choose the right tool.
+Cynefin is a sense-making framework that helps practitioners categorize situations as Clear, Complicated, Complex, Chaotic, or Disordered, and choose appropriate responses. It is useful for PMs because applying the wrong approach to a situation is a common failure mode — e.g., using detailed planning (complicated-domain tool) for emergent stakeholder dynamics (complex domain). Recognizing the domain helps choose the right tool.
 
 </details>
 
@@ -463,7 +463,7 @@ Any three — examples:
 
 <details><summary>Reveal Answer</summary>
 
-ADKAR is an organisational change management model (Prosci): **A**wareness → **D**esire → **K**nowledge → **A**bility → **R**einforcement. It describes the stages an individual must move through to successfully adopt a change. It is used in the context of organisational change management — ensuring that project outputs are actually adopted and used by the people affected — not in project change control.
+ADKAR is an organizational change management model (Prosci): **A**wareness → **D**esire → **K**nowledge → **A**bility → **R**einforcement. It describes the stages an individual must move through to successfully adopt a change. It is used in the context of organizational change management — ensuring that project outputs are actually adopted and used by the people affected — not in project change control.
 
 </details>
 
@@ -473,7 +473,7 @@ ADKAR is an organisational change management model (Prosci): **A**wareness → *
 
 <details><summary>Reveal Answer</summary>
 
-**Reflection-in-action** is real-time adjustment — noticing that your current approach is not working and adapting in the moment. **Reflection-on-action** is deliberate review after an event to extract learning — asking what happened, why, and what to do differently next time. High-performing PMs practise both: they adapt in the moment and review systematically after significant events.
+**Reflection-in-action** is real-time adjustment — noticing that your current approach is not working and adapting in the moment. **Reflection-on-action** is deliberate review after an event to extract learning — asking what happened, why, and what to do differently next time. High-performing PMs practice both: they adapt in the moment and review systematically after significant events.
 
 </details>
 
@@ -486,7 +486,7 @@ ADKAR is an organisational change management model (Prosci): **A**wareness → *
 1. **What happened?** — Facts: what was planned vs what occurred.
 2. **Why did it happen?** — Root causes, not symptoms.
 3. **What does this tell me about my assumptions, approach, or skills?** — Self-awareness.
-4. **What will I do differently next time?** — Behavioural change.
+4. **What will I do differently next time?** — Behavioral change.
 5. **What will I do to embed that learning?** — Concrete CPD action (with timeframe).
 
 The framework is most effective when written down — reflection that exists only in one's head is incomplete.
@@ -499,7 +499,7 @@ The framework is most effective when written down — reflection that exists onl
 
 <details><summary>Reveal Answer</summary>
 
-Public-sector projects are subject to: legal procurement requirements (Public Contracts Regulations); structured business case frameworks (e.g., HM Treasury Five Case Model); benefits defined in terms of public value rather than purely financial return; higher accountability and transparency obligations; and political stakeholder dynamics (sponsor continuity can be poor when Ministers or senior officers change). These characteristics do not change the fundamentals of project management but do shape how they are applied — particularly in governance, procurement, and benefits definition.
+Public-sector projects are subject to legal procurement requirements (a US city's procurement code, and the Uniform Guidance when federal funds are used); structured business-case expectations; benefits defined in terms of public value rather than purely financial return; higher accountability and transparency obligations; and political stakeholder dynamics (sponsor continuity can be poor when elected officials or senior officers change). UK practice has its own equivalents, including the Green Book and Five Case Model. These characteristics do not change the fundamentals of project management, but they do shape how they are applied — particularly in governance, procurement, and benefits definition.
 
 </details>
 
@@ -522,7 +522,7 @@ The "green project trap" is the pattern of a project reporting RAG Green through
 | Module | Relationship |
 |---|---|
 | [Module 15a — Integration, Hybrid Approaches, and Agile](15a-integration-hybrid-agile.md) | Hybrid delivery context in which many of the professional practice challenges described here arise |
-| [Module 02 — Governance, Frameworks, and Methodologies](02-governance.md) | Professional conduct and ethical obligations are embedded in governance frameworks such as APM, PMI, and PRINCE2 |
+| [Module 02 — Governance and Organizational Context](02-governance.md) | Professional conduct and ethical obligations are embedded in governance frameworks such as APM, PMI, and PRINCE2 |
 | [Module 07 — Project Closing](07-closing.md) | Closure is where lessons learned, handover quality, and professional accountability are most visible |
 
 ---

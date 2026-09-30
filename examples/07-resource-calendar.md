@@ -16,7 +16,7 @@
 - [Resource Notes](#resource-notes)
 - [Consolidated Resource Demand vs Availability](#consolidated-resource-demand-vs-availability)
 - [Known Absences and Constraints](#known-absences-and-constraints)
-- [Resource Levelling Actions](#resource-levelling-actions)
+- [Resource Leveling Actions](#resource-leveling-actions)
 - [Key Capacity Risks](#key-capacity-risks)
 
 ---
@@ -27,7 +27,7 @@
 |---|---|
 | **Project Title** | Meridian — Citizen Self-Service Portal |
 | **Version** | 1.0 |
-| **Date** | 20 February 2026 |
+| **Date** | February 20, 2026 |
 | **Owner** | Sarah Chen, Project Manager |
 
 [↑ Back to top](#table-of-contents)
@@ -38,13 +38,13 @@
 
 | Resource | Role | Type | FTE or Days/Week |
 |---|---|---|---|
-| Sarah Chen | Project Manager | Internal — Council | 0.6 FTE (3 days/week) |
-| Mark Pearce | ICT Manager / Senior Supplier | Internal — Council | 0.1 FTE (0.5 days/week); peaks to 0.4 FTE in integration phase |
-| ICT Developer (TBC) | UNIFORM Integration Developer | Internal — Council | 0.4 FTE during integration phase (Jun–Aug only) |
-| Sandra Obi | Head of Customer Services / Senior User | Internal — Council | 0.1 FTE (occasional; UAT involvement increases to 0.3 FTE in Sep) |
+| Sarah Chen | Project Manager | Internal — City | 0.6 FTE (3 days/week) |
+| Mark Pearce | ICT Manager / Senior Supplier | Internal — City | 0.1 FTE (0.5 days/week); peaks to 0.4 FTE in integration phase |
+| ICT Developer (TBC) | LandWorks Integration Developer | Internal — City | 0.4 FTE during integration phase (Jun–Aug only) |
+| Sandra Obi | Head of Customer Services / Senior User | Internal — City | 0.1 FTE (occasional; UAT involvement increases to 0.3 FTE in Sep) |
 | GovTech Project Lead | Supplier PM | External — GovTech | As per contract; GovTech resource |
 | GovTech Development Team | Portal build and integration (supplier) | External — GovTech | As per contract; GovTech resource |
-| Business Change Manager (TBC) | Change and comms | Internal — Council (TBC hire/assign) | 0.3 FTE from May 2026 |
+| Business Change Manager (TBC) | Change and comms | Internal — City (TBC hire/assign) | 0.3 FTE from May 2026 |
 
 [↑ Back to top](#table-of-contents)
 
@@ -52,7 +52,7 @@
 
 ## Availability Calendar
 
-*Internal council resources. Key: percentage = % of working week available to this project. Shaded cells = peak demand.*
+*Internal city resources. Key: percentage = % of working week available to this project. Shaded cells = peak demand.*
 
 | Resource | Feb 26 | Mar 26 | Apr 26 | May 26 | Jun 26 | Jul 26 | Aug 26 | Sep 26 | Oct 26 |
 |---|---|---|---|---|---|---|---|---|---|
@@ -71,26 +71,26 @@
 **Sarah Chen — Project Manager**
 - Increases to 80% in September 2026 to support UAT and go-live preparation.
 - Reduces to 40% in October 2026 for closure activities.
-- Unavailable: 27 April – 1 May 2026 (annual leave).
+- Unavailable: April 27 – May 1, 2026 (annual leave).
 
 **Mark Pearce — ICT Manager**
 - Only 10% available for most phases (senior management role; cannot be dedicated).
 - Critical involvement in June–August 2026 for integration oversight.
 - Integration Developer from ICT team will handle day-to-day technical work.
-- Risk: ICT team has other council priorities; this availability is not yet formally ring-fenced. See RSK-03.
+- Risk: ICT team has other city priorities; this availability is not yet formally ring-fenced. See RSK-03.
 
 **ICT Integration Developer**
-- Not yet identified by name (Mark Pearce to assign by 1 March 2026).
-- Required from 1 June 2026. Risk if not confirmed by 1 April 2026.
+- Not yet identified by name (Mark Pearce to assign by March 1, 2026).
+- Required from June 1, 2026. Risk if not confirmed by April 1, 2026.
 
 **Sandra Obi — Senior User**
-- Available only on a part-time basis throughout; manages a 12-person contact centre team.
+- Available only on a part-time basis throughout; manages a 12-person contact center team.
 - Key involvement: April (requirements review), August–September (UAT preparation and sign-off).
-- Unavailable: 1–19 August 2026 (pre-booked annual leave — noted risk to UAT start date).
+- Unavailable: August 1–19, 2026 (pre-booked annual leave — noted risk to UAT start date).
 
 **Business Change Manager**
 - Role not yet filled (as at project start).
-- Must be in post by 1 May 2026 to run staff engagement activities ahead of UAT.
+- Must be in post by May 1, 2026 to run staff engagement activities ahead of UAT.
 - Sarah Chen acting as interim for change coordination until BCM is confirmed.
 
 [↑ Back to top](#table-of-contents)
@@ -99,7 +99,7 @@
 
 ## Consolidated Resource Demand vs Availability
 
-*Peak-demand months and utilisation for the internal council resources (the supplier team is contracted separately).*
+*Peak-demand months and utilization for the internal city resources (the supplier team is contracted separately).*
 
 | Resource | Peak demand period | Availability at peak | Status |
 |---|---|---|---|
@@ -108,7 +108,7 @@
 | Sandra Obi (Senior User) | Sep 2026 (UAT and sign-off) | 40% | 🟡 Constrained by August leave |
 | Business Change Manager | Sep 2026 (go-live engagement) | 60% | 🟢 Within capacity |
 
-**Colour code**: 🟢 Within capacity | 🟡 ≥90% utilised | 🔴 Overallocated
+**Color code**: 🟢 Within capacity | 🟡 ≥90% utilized | 🔴 Overallocated
 
 [↑ Back to top](#table-of-contents)
 
@@ -118,21 +118,21 @@
 
 | Name | Period | Type | Hours affected per week | Impact on plan |
 |---|---|---|---|---|
-| Sarah Chen | 27 Apr – 1 May 2026 | Annual leave | Full week | Minor — no critical-path activity that week |
-| Sandra Obi | 1–19 Aug 2026 | Annual leave | ~3 weeks | UAT preparation at risk; mitigated by July checklist and deputy (ISS-05) |
-| ICT Developer | Until assigned (target 1 Mar 2026) | Resource gap | Full | Integration cannot start in June if unconfirmed (RSK-03 / ISS-01) |
+| Sarah Chen | April 27 – May 1, 2026 | Annual leave | Full week | Minor — no critical-path activity that week |
+| Sandra Obi | August 1–19, 2026 | Annual leave | ~3 weeks | UAT preparation at risk; mitigated by July checklist and deputy (ISS-05) |
+| ICT Developer | Until assigned (target March 1, 2026) | Resource gap | Full | Integration cannot start in June if unconfirmed (RSK-03 / ISS-01) |
 | Mark Pearce | Throughout | Other commitment (senior management role) | ~90% | Capped at 40% even at peak; day-to-day work delegated to ICT Developer |
 
 [↑ Back to top](#table-of-contents)
 
 ---
 
-## Resource Levelling Actions
+## Resource Leveling Actions
 
 | Date | Name | Conflict identified | Resolution action | Impact on schedule |
 |---|---|---|---|---|
-| 8 Mar 2026 | ICT Developer | Named developer not confirmed for June integration start | Sponsor escalation; Tom Okafor confirmed 13 Mar (ISS-01) | None — resolved before integration start |
-| 3 Aug 2026 | Sandra Obi | August leave overlaps UAT preparation | UAT prep checklist completed by 31 Jul; deputy briefed; tasks reassigned to BCM (ISS-05) | None — UAT start maintained 22 Aug |
+| March 8, 2026 | ICT Developer | Named developer not confirmed for June integration start | Sponsor escalation; Tom Okafor confirmed March 13 (ISS-01) | None — resolved before integration start |
+| August 3, 2026 | Sandra Obi | August leave overlaps UAT preparation | UAT prep checklist completed by July 31; deputy briefed; tasks reassigned to BCM (ISS-05) | None — UAT start maintained August 22 |
 
 [↑ Back to top](#table-of-contents)
 
@@ -142,9 +142,9 @@
 
 | Risk | Implication | Mitigation |
 |---|---|---|
-| ICT Developer not identified by 1 April | Integration work cannot start on schedule in June | Mark Pearce to confirm name and allocation by 1 March; tracked in risk register |
+| ICT Developer not identified by April 1 | Integration work cannot start on schedule in June | Mark Pearce to confirm name and allocation by March 1; tracked in risk register |
 | Sandra Obi unavailable for first 3 weeks of August | UAT preparation delayed | UAT prep checklist completed by July 31; Sandra deputy briefed to support |
-| BCM not in post by May | Staff engagement activities delayed | Sarah Chen escalates to HR by 1 March; interim arrangements agreed with sponsor |
+| BCM not in post by May | Staff engagement activities delayed | Sarah Chen escalates to HR by March 1; interim arrangements agreed with sponsor |
 
 [↑ Back to top](#table-of-contents)
 

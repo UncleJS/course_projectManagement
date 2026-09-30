@@ -15,7 +15,7 @@
 - [Decision Values](#decision-values)
 - [Implementation Status Values](#implementation-status-values)
 - [Cumulative Impact Summary](#cumulative-impact-summary)
-  - [Contingency Tracking (as at 15 August 2026)](#contingency-tracking-as-at-15-august-2026)
+  - [Contingency Tracking (as at August 15, 2026)](#contingency-tracking-as-at-15-august-2026)
 - [Notes](#notes)
 
 ---
@@ -26,7 +26,7 @@
 |---|---|
 | **Project Title** | Meridian — Citizen Self-Service Portal |
 | **Version** | 1.3 |
-| **Date** | 15 August 2026 |
+| **Date** | August 15, 2026 |
 | **Owner** | Sarah Chen, Project Manager |
 
 [↑ Back to top](#table-of-contents)
@@ -35,13 +35,13 @@
 
 ## Change Log
 
-| CR No. | Date submitted | Submitted by | Description | Baselines affected | Cost impact (£) | Schedule impact | Priority | Decision | Decision by | Decision date | Implementation status | Notes |
+| CR No. | Date submitted | Submitted by | Description | Baselines affected | Cost impact ($) | Schedule impact | Priority | Decision | Decision by | Decision date | Implementation status | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| CR-001 | 22 May 2026 | Sandra Obi | Add Welsh language option to all four service modules | Scope | £0 (this project) | None | Could | Deferred | James Hartley | 4 Jun 2026 | Deferred | Deferred to Phase 2 (Q1 2027) |
-| CR-002 | 12 Jun 2026 | Mark Pearce | Increase UNIFORM API rate limit from 100 to 500 requests/minute to support peak load; requires additional ICT infrastructure work | Cost, Schedule | +£7,200 (from contingency) | +5 days in integration (absorbed) | Must | Approved | Sarah Chen (≤£20k threshold) | 19 Jun 2026 | Implemented | Implemented 14 Jul 2026 |
-| CR-003 | 1 Jul 2026 | Tom Okafor | Remove parking permit renewal module from Phase 1 (UNIFORM data incompatibility found in integration testing); defer to Phase 2 | Scope, Cost | −£18,000 (released from GovTech contract) | None — replaced by additional UAT time | Must | Approved | James Hartley (Project Board) | 8 Jul 2026 | Implemented | Base-scope saving; deferred to Phase 2 |
-| CR-004 | 29 Jul 2026 | Councillor Patricia Dean (via Sponsor) | Add a "Report a Pothole" feature to the portal before go-live | Scope, Schedule | N/A | Would delay go-live by 6–8 weeks | Could | Rejected | James Hartley | 5 Aug 2026 | Rejected | Scope creep; rejected to protect the fixed go-live date |
-| CR-005 | 10 Aug 2026 | Sarah Chen | Extend hypercare support from 30 to 45 days due to council tax module complexity | Cost | +£3,600 (from contingency) | None | Should | Approved | James Hartley | 14 Aug 2026 | Implemented | Hypercare runs to go-live + 45 days |
+| CR-001 | May 22, 2026 | Sandra Obi | Add Spanish language option to all four service modules | Scope | $0 (this project) | None | Could | Deferred | James Hartley | June 4, 2026 | Deferred | Deferred to Phase 2 (Q1 2027) |
+| CR-002 | June 12, 2026 | Mark Pearce | Increase LandWorks API rate limit from 100 to 500 requests/minute to support peak load; requires additional ICT infrastructure work | Cost, Schedule | +$7,200 (from contingency) | +5 days in integration (absorbed) | Must | Approved | Sarah Chen (≤$20k threshold) | June 19, 2026 | Implemented | Implemented July 14, 2026 |
+| CR-003 | July 1, 2026 | Tom Okafor | Remove parking permit renewal module from Phase 1 (LandWorks data incompatibility found in integration testing); defer to Phase 2 | Scope, Cost | −$18,000 (released from GovTech contract) | None — replaced by additional UAT time | Must | Approved | James Hartley (Project Board) | July 8, 2026 | Implemented | Base-scope saving; deferred to Phase 2 |
+| CR-004 | July 29, 2026 | Councilmember Patricia Dean (via Sponsor) | Add a "Report a Pothole" feature to the portal before go-live | Scope, Schedule | N/A | Would delay go-live by 6–8 weeks | Could | Rejected | James Hartley | August 5, 2026 | Rejected | Scope creep; rejected to protect the fixed go-live date |
+| CR-005 | August 10, 2026 | Sarah Chen | Extend hypercare support from 30 to 45 days due to property tax module complexity | Cost | +$3,600 (from contingency) | None | Should | Approved | James Hartley | August 14, 2026 | Implemented | Hypercare runs to go-live + 45 days |
 
 [↑ Back to top](#table-of-contents)
 
@@ -77,27 +77,27 @@
 
 ## Cumulative Impact Summary
 
-*Cumulative effect of all approved changes, as at 15 August 2026.*
+*Cumulative effect of all approved changes, as at August 15, 2026.*
 
 | Metric | Approved baseline | Total approved changes | Revised baseline |
 |---|---|---|---|
-| **Budget** | £420,000 | net −£7,200 scope (CR-002 +£7,200, CR-003 −£18,000, CR-005 +£3,600) — funded within contingency | £420,000 ceiling unchanged |
-| **End date** | 31 Oct 2026 (closure) | 0 days (go-live +14 days absorbed within float) | 31 Oct 2026 |
+| **Budget** | $420,000 | net −$7,200 scope (CR-002 +$7,200, CR-003 −$18,000, CR-005 +$3,600) — funded within contingency | $420,000 ceiling unchanged |
+| **End date** | October 31, 2026 (closure) | 0 days (go-live +14 days absorbed within float) | October 31, 2026 |
 | **Scope items added** | — | CR-002 API rate-limit uplift; CR-005 hypercare extension | — |
-| **Scope items removed** | — | CR-003 parking permit (→ Phase 2); CR-001 Welsh language (→ Phase 2) | — |
+| **Scope items removed** | — | CR-003 parking permit (→ Phase 2); CR-001 Spanish language (→ Phase 2) | — |
 
-### Contingency Tracking (as at 15 August 2026)
+### Contingency Tracking (as at August 15, 2026)
 
-| Item | Amount (£) |
+| Item | Amount ($) |
 |---|---|
 | Original contingency | 38,000 |
-| CR-002 drawdown (UNIFORM API uplift) | -7,200 |
+| CR-002 drawdown (LandWorks API uplift) | -7,200 |
 | CR-005 drawdown (hypercare extension) | -3,600 |
 | **Remaining contingency** | **27,200** |
 | CR-003 base-scope saving (parking permit deferral) | +18,000 |
-| **Total budget released vs £420,000** | **45,200** |
+| **Total budget released vs $420,000** | **45,200** |
 
-> Note: The CR-002 and CR-005 additions were funded from the £38,000 contingency, leaving £27,200 unused. CR-003 saved a separate £18,000 from the GovTech build contract (parking permit module deferred) — this is a base-scope saving, kept distinct from contingency, and earmarked for the Phase 2 business case rather than returned to the general capital programme. Total released against the £420,000 budget is therefore £45,200.
+> Note: The CR-002 and CR-005 additions were funded from the $38,000 contingency, leaving $27,200 unused. CR-003 saved a separate $18,000 from the GovTech build contract (parking permit module deferred) — this is a base-scope saving, kept distinct from contingency, and earmarked for the Phase 2 business case rather than returned to the general capital program. Total released against the $420,000 budget is therefore $45,200.
 
 [↑ Back to top](#table-of-contents)
 
@@ -105,7 +105,7 @@
 
 ## Notes
 
-**CR-003** (Parking Permit Deferral) is the most significant change on this project. It was discovered during integration testing that the UNIFORM system does not hold parking permit expiry data in a queryable format — it is stored as a scanned PDF attachment. Extracting this data would require significant UNIFORM system changes outside project scope. The decision to defer rather than attempt a workaround was correct and protected the go-live date.
+**CR-003** (Parking Permit Deferral) is the most significant change on this project. It was discovered during integration testing that the LandWorks system does not hold parking permit expiry data in a queryable format — it is stored as a scanned PDF attachment. Extracting this data would require significant LandWorks system changes outside project scope. The decision to defer rather than attempt a workaround was correct and protected the go-live date.
 
 **CR-004** (Pothole reporting) is a good example of scope creep from a senior stakeholder. Despite coming via the Sponsor, the change was correctly assessed and rejected because it would have endangered the fixed go-live date (CON-02) and was outside the scope of the business case.
 

@@ -40,10 +40,10 @@
   - [The risk register is not a filing exercise](#the-risk-register-is-not-a-filing-exercise)
   - [Risk review process](#risk-review-process)
   - [Risk review cadence](#risk-review-cadence)
-- [9. Organisational Risk Culture and Appetite](#9-organisational-risk-culture-and-appetite)
+- [9. Organizational Risk Culture and Appetite](#9-organizational-risk-culture-and-appetite)
   - [Risk appetite](#risk-appetite)
   - [Risk culture](#risk-culture)
-- [Artefacts](#artefacts)
+- [Artifacts](#artifacts)
 - [Exercises](#exercises)
   - [Exercise 11.1 — Risk identification workshop](#exercise-111--risk-identification-workshop)
   - [Exercise 11.2 — Score and respond](#exercise-112--score-and-respond)
@@ -62,7 +62,7 @@ A **risk** is an uncertain event or condition that, if it occurs, has a positive
 Key characteristics:
 - **Uncertain**: it may or may not happen
 - **Future**: it has not yet occurred (once it occurs, it becomes an issue)
-- **Consequential**: it affects the project if it materialises
+- **Consequential**: it affects the project if it materializes
 
 ### Threats and opportunities
 
@@ -73,7 +73,7 @@ Risks are often thought of only as threats. This is a significant blind spot. Th
 | **Threat** | A risk with a negative effect on objectives | Reduce probability or impact; avoid; transfer |
 | **Opportunity** | A risk with a positive effect on objectives | Increase probability or impact; exploit; enhance |
 
-Example opportunities: a supplier offering early delivery at a discount; a team member completing a task faster than estimated; favourable regulatory changes.
+Example opportunities: a supplier offering early delivery at a discount; a team member completing a task faster than estimated; favorable regulatory changes.
 
 ### Uncertainty vs. risk
 
@@ -99,7 +99,7 @@ Before identifying risks, plan how risk will be managed. The **Risk Management P
 |---|---|
 | **Methodology** | How risk management will be performed on this project |
 | **Roles and responsibilities** | Who identifies, owns, and responds to risks |
-| **Risk appetite** | How much risk the organisation is willing to accept |
+| **Risk appetite** | How much risk the organization is willing to accept |
 | **Thresholds** | The levels at which risks trigger escalation or action |
 | **Probability and impact scales** | Agreed definitions for scoring (e.g., what counts as "high" probability?) |
 | **Risk register format** | What fields are tracked |
@@ -111,7 +111,7 @@ Before identifying risks, plan how risk will be managed. The **Risk Management P
 Risk management effort should match the project's risk profile:
 
 - A low-risk, 4-week internal project may need only a simple register and a weekly review
-- A high-risk, multi-year capital programme needs rigorous quantitative analysis, dedicated risk owners, and regular board reporting
+- A high-risk, multi-year capital program needs rigorous quantitative analysis, dedicated risk owners, and regular board reporting
 
 [↑ Back to top](#table-of-contents)
 
@@ -162,7 +162,7 @@ This format makes the cause visible (enabling preventive action) and the effect 
 
 ### Scoring risks
 
-Qualitative analysis assigns **probability** and **impact** scores to each risk, enabling prioritisation.
+Qualitative analysis assigns **probability** and **impact** scores to each risk, enabling prioritization.
 
 **Probability scale example:**
 
@@ -223,13 +223,13 @@ flowchart LR
     AN["📊 Analyse (P × I score, heat map position)"]
     RS["📋 Respond (Avoid / Transfer / Mitigate / Accept / Escalate)"]
     MO["👁 Monitor (regular review, rescoring)"]
-    IS["🚨 Issue (materialised risk → issue log)"]
+    IS["🚨 Issue (materialized risk → issue log)"]
     ID --> AN --> RS --> MO
     MO -->|"new risks identified"| ID
     MO -->|"risk occurs"| IS
     MO -->|"scores changed"| AN
 ```
-*The risk lifecycle is iterative — newly identified risks enter at Identify; materialised risks exit to the issue log.*
+*The risk lifecycle is iterative — newly identified risks enter at Identify; materialized risks exit to the issue log.*
 
 [↑ Back to top](#table-of-contents)
 
@@ -259,8 +259,8 @@ Used for discrete decision points with probabilistic outcomes. Calculates the ex
 
 **EMV = Probability × Impact**
 
-For a risk with 30% probability of a £50,000 cost impact:
-EMV = 0.30 × £50,000 = **£15,000**
+For a risk with 30% probability of a $50,000 cost impact:
+EMV = 0.30 × $50,000 = **$15,000**
 
 This is the theoretically correct amount to hold in contingency reserve for this single risk.
 
@@ -278,11 +278,11 @@ Five strategies for managing threats:
 | **Transfer** | Shift the impact to a third party (insurance, contract clauses) | Financial risks where cost certainty is worth the premium |
 | **Mitigate** | Reduce probability and/or impact | Most risks — the default active response |
 | **Accept** | Acknowledge the risk. *Passive acceptance*: take no action. *Active acceptance*: set aside a contingency reserve and/or prepare a contingency plan | Low-impact risks below the response threshold |
-| **Escalate** | Refer to a higher level of authority if it is outside the PM's authority to manage | Risks that exceed project tolerance; require organisational-level response |
+| **Escalate** | Refer to a higher level of authority if it is outside the PM's authority to manage | Risks that exceed project tolerance; require organizational-level response |
 
 ### Contingency and fallback plans
 
-For actively accepted risks, develop a **contingency plan** — actions to take if the risk occurs. Having a plan ready reduces response time when the risk materialises. A **fallback plan** is distinct: it is the backup enacted only if the contingency plan proves insufficient.
+For actively accepted risks, develop a **contingency plan** — actions to take if the risk occurs. Having a plan ready reduces response time when the risk materializes. A **fallback plan** is distinct: it is the backup enacted only if the contingency plan proves insufficient.
 
 ### Residual and secondary risks
 
@@ -329,7 +329,7 @@ Five strategies for managing opportunities:
 | **Enhance** | Increase probability or impact | Opportunities that can be nudged with moderate effort |
 | **Share** | Partner with another party better positioned to exploit the opportunity | Opportunities requiring capabilities the project doesn't have |
 | **Accept** | Acknowledge the opportunity; take advantage if it occurs | Low-effort opportunities; passive acceptance |
-| **Escalate** | Refer to a higher level where the opportunity is too large for the project to exploit alone | Strategic opportunities requiring organisation-level decision |
+| **Escalate** | Refer to a higher level where the opportunity is too large for the project to exploit alone | Strategic opportunities requiring organization-level decision |
 
 ### Opportunity management is underused
 
@@ -381,7 +381,7 @@ At each review:
 1. **Review existing risks**: have probability or impact changed? Are responses working?
 2. **Identify new risks**: what has changed since the last review?
 3. **Close resolved risks**: risks that are no longer applicable
-4. **Promote materialised risks**: risks that have occurred become issues
+4. **Promote materialized risks**: risks that have occurred become issues
 5. **Update the register**: record changes with date and rationale
 6. **Report**: risk summary to the project board as part of regular reporting
 
@@ -398,11 +398,11 @@ At each review:
 
 ---
 
-## 9. Organisational Risk Culture and Appetite
+## 9. Organizational Risk Culture and Appetite
 
 ### Risk appetite
 
-**Risk appetite** is the level and type of risk an organisation is willing to accept in pursuit of its objectives. It is set at the organisational level and cascades to projects as **risk thresholds**.
+**Risk appetite** is the level and type of risk an organization is willing to accept in pursuit of its objectives. It is set at the organizational level and cascades to projects as **risk thresholds**.
 
 | Risk Appetite Level | Characteristics |
 |---|---|
@@ -410,33 +410,33 @@ At each review:
 | **Risk neutral** | Balances risk and return; accepts risk proportionate to benefit |
 | **Risk seeking** | Accepts high risk for potentially high reward; tolerates uncertainty |
 
-No appetite level is inherently right or wrong — it depends on the organisation's strategy, governance, and stakeholder expectations.
+No appetite level is inherently right or wrong — it depends on the organization's strategy, governance, and stakeholder expectations.
 
 ### Risk culture
 
-Risk culture refers to how an organisation actually behaves toward risk:
+Risk culture refers to how an organization actually behaves toward risk:
 
 - Are bad news and early warnings welcomed or suppressed?
-- Is escalation of risk concerns encouraged or penalised?
+- Is escalation of risk concerns encouraged or penalized?
 - Are contingency reserves adequate, or is there pressure to plan optimistically?
 - Is the risk register reviewed seriously, or is it a compliance tick-box?
 
-Poor risk culture — typically characterised by optimism bias, fear of escalation, and pressure to report projects as green — is one of the most dangerous conditions for project success.
+Poor risk culture — typically characterized by optimism bias, fear of escalation, and pressure to report projects as green — is one of the most dangerous conditions for project success.
 
 [↑ Back to top](#table-of-contents)
 
 ---
 
-## Artefacts
+## Artifacts
 
-| Artefact | Description | Template |
+| Artifact | Description | Template |
 |---|---|---|
 | **Risk Management Plan** | How risk management will be performed | — |
 | **Risk Register** | Log of identified risks with scores, owners, responses | [risk-register.md](../templates/risk-register.md) |
-| **Probability-Impact Matrix** | Heat map for risk prioritisation | — |
+| **Probability-Impact Matrix** | Heat map for risk prioritization | — |
 | **Risk Response Action Plan** | Specific actions for each response strategy | — |
 | **Risk Report** | Summary of risk status for project board | — |
-| **Issue Log** | Risks that have materialised become issues | [issue-log.md](../templates/issue-log.md) |
+| **Issue Log** | Risks that have materialized become issues | [issue-log.md](../templates/issue-log.md) |
 
 [↑ Back to top](#table-of-contents)
 
@@ -446,7 +446,7 @@ Poor risk culture — typically characterised by optimism bias, fear of escalati
 
 ### Exercise 11.1 — Risk identification workshop
 
-You are managing a project to launch a new mobile banking app for a mid-sized regional bank. Budget: £2M. Duration: 12 months.
+You are managing a project to launch a new mobile banking app for a mid-sized regional bank. Budget: $2M. Duration: 12 months.
 
 Using at least 3 identification techniques, identify 10 risks across the following categories: technical, commercial, regulatory, resource, and stakeholder.
 
@@ -476,7 +476,7 @@ Using Expected Monetary Value (EMV):
 
 1. Calculate the EMV for each of your 10 risks
 2. Sum the EMVs to determine the theoretical minimum contingency reserve
-3. Compare this to a flat 10% contingency on a £2M project (£200,000). Is the flat percentage adequate?
+3. Compare this to a flat 10% contingency on a $2M project ($200,000). Is the flat percentage adequate?
 4. What does this tell you about the risk profile of this project?
 
 **Expected output:** An EMV table with total and a written analysis of at least 150 words.
@@ -497,7 +497,7 @@ Using Expected Monetary Value (EMV):
 <details>
 <summary>Reveal Answer</summary>
 
-**B) A risk is a future uncertainty; an issue has already occurred.** When a risk materialises, it becomes an issue and moves from the risk register to the issue log, triggering reactive management.
+**B) A risk is a future uncertainty; an issue has already occurred.** When a risk materializes, it becomes an issue and moves from the risk register to the issue log, triggering reactive management.
 
 </details>
 
@@ -545,7 +545,7 @@ Using Expected Monetary Value (EMV):
 <details>
 <summary>Reveal Answer</summary>
 
-**B) Poor risk culture — risks are being under-reported.** A project running significantly over budget (CPI 0.82 — only £0.82 of value earned per £1 spent) while reporting all risks as low is a classic indicator of optimism bias or suppression of bad news. The risk register does not reflect reality.
+**B) Poor risk culture — risks are being under-reported.** A project running significantly over budget (CPI 0.82 — only $0.82 of value earned per $1 spent) while reporting all risks as low is a classic indicator of optimism bias or suppression of bad news. The risk register does not reflect reality.
 
 </details>
 
@@ -581,7 +581,7 @@ Using Expected Monetary Value (EMV):
 | [Module 04 — Project Planning](04-planning.md) | Risk management planning is a core planning activity; risk reserves are included in the cost and schedule baselines |
 | [Module 05 — Project Execution](05-execution.md) | Risks are actively monitored during execution; risk responses are implemented as part of delivery |
 | [Module 06 — Monitoring and Controlling](06-monitoring-control.md) | Risk reviews are a key monitoring activity; escalating risks drive exception reports and change requests |
-| [Module 15a — Integration, Hybrid Approaches, and Agile](15a-integration-hybrid-agile.md) | Covers how agile approaches treat risk differently — through iteration, early delivery, and continuous re-prioritisation |
+| [Module 15a — Integration, Hybrid Approaches, and Agile](15a-integration-hybrid-agile.md) | Covers how agile approaches treat risk differently — through iteration, early delivery, and continuous re-prioritization |
 
 ---
 

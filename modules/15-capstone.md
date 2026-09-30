@@ -21,7 +21,7 @@
 
 | Part | Title | Content |
 |---|---|---|
-| **[Module 15a](15a-integration-hybrid-agile.md)** | Integration, Hybrid Approaches, and Agile | Sections 1–5: Integration management · Organisational change vs project change control · Hybrid and adaptive approaches · Agile principles and lifecycle selection · Scaling agile |
+| **[Module 15a](15a-integration-hybrid-agile.md)** | Integration, Hybrid Approaches, and Agile | Sections 1–5: Integration management · Organizational change vs project change control · Hybrid and adaptive approaches · Agile principles and lifecycle selection · Scaling agile |
 | **[Module 15b](15b-professional-practice.md)** | Professional Practice and Career Development | Sections 6–10: PM competency frameworks · CPD · Common failure modes · PM across industries · Reflective practitioner synthesis |
 
 [↑ Back to top](#table-of-contents)

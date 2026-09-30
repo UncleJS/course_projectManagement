@@ -14,8 +14,8 @@
 - [1. Directing and Managing Project Work](#1-directing-and-managing-project-work)
   - [Translating plans into action](#translating-plans-into-action)
   - [The PM as servant and director](#the-pm-as-servant-and-director)
-- [2. Work Authorisation](#2-work-authorisation)
-  - [Formal work authorisation](#formal-work-authorisation)
+- [2. Work Authorization](#2-work-authorization)
+  - [Formal work authorization](#formal-work-authorization)
   - [Work Package Assignments](#work-package-assignments)
 - [3. Managing the Project Team](#3-managing-the-project-team)
   - [The PM's leadership role](#the-pms-leadership-role)
@@ -51,7 +51,7 @@
   - [Why meetings matter](#why-meetings-matter)
   - [Types of project meetings](#types-of-project-meetings)
   - [Meeting discipline basics](#meeting-discipline-basics)
-- [Artefacts](#artefacts)
+- [Artifacts](#artifacts)
 - [Exercises](#exercises)
   - [Exercise 5.1 — Issue resolution simulation](#exercise-51--issue-resolution-simulation)
   - [Exercise 5.2 — Evaluate a change request](#exercise-52--evaluate-a-change-request)
@@ -69,7 +69,7 @@ The approved project management plan is the authority document for execution. Th
 
 Key execution responsibilities:
 
-- **Authorise work** to begin on each activity and work package
+- **Authorize work** to begin on each activity and work package
 - **Direct team members** on what to do, when, and to what standard
 - **Monitor progress** against the plan and identify variances early
 - **Manage changes** when reality diverges from the plan
@@ -89,17 +89,17 @@ Neither mode alone is sufficient. A PM who only directs creates a disempowered t
 
 ---
 
-## 2. Work Authorisation
+## 2. Work Authorization
 
-### Formal work authorisation
+### Formal work authorization
 
-Work should not begin on a task or work package until it is formally authorised. This prevents:
+Work should not begin on a task or work package until it is formally authorized. This prevents:
 
 - Premature work on future-phase deliverables
-- Unauthorised scope additions
+- Unauthorized scope additions
 - Budget consumed before planned
 
-A **work authorisation system** can be as simple as a task card assigned in a project tool, or as formal as a signed work package description. The level of formality should match the project's risk and complexity.
+A **work authorization system** can be as simple as a task card assigned in a project tool, or as formal as a signed work package description. The level of formality should match the project's risk and complexity.
 
 ### Work Package Assignments
 
@@ -133,7 +133,7 @@ A widely useful model for team development:
 | **Performing** | Team is cohesive and productive | Delegate; remove obstacles; focus on outcomes |
 | **Adjourning** | Project ends; team disbands | Celebrate achievement; manage transition |
 
-The PM cannot skip stages — but they can navigate them more or less skilfully.
+The PM cannot skip stages — but they can navigate them more or less skillfully.
 
 ```mermaid
 timeline
@@ -165,7 +165,7 @@ Conflict is inevitable and, managed well, is productive. Five modes of conflict 
 | **Collaborating** | Work together to find a solution that satisfies all parties | Time allows; long-term relationship matters; issue is important |
 | **Compromising** | Each party gives something up | Quick resolution needed; equally valid positions |
 | **Accommodating** | One party yields to the other | Preserving the relationship outweighs winning the issue |
-| **Forcing** | One party imposes their will | Crisis requires immediate decision; safety at stake |
+| **Competing** | One party imposes their will | Crisis requires immediate decision; safety at stake |
 | **Avoiding** | Issue is set aside | Issue is trivial; timing is wrong |
 
 The most effective PMs use **collaborating** as the default, knowing when to switch modes based on context.
@@ -195,7 +195,7 @@ Stakeholder analysis is done at initiation, but **engagement is continuous throu
 ### Practical engagement during execution
 
 - Hold regular **briefings or one-to-ones** with key stakeholders between formal reports
-- **Involve stakeholders in reviews** before deliverables are finalised — not after
+- **Involve stakeholders in reviews** before deliverables are finalized — not after
 - Watch for **early signals of disengagement or resistance** (missed meetings, unanswered emails, lack of feedback)
 - Address **concerns promptly and openly** — stakeholders who feel heard are less likely to escalate
 
@@ -224,7 +224,7 @@ The distinction matters because the responses are different:
 - Risks are managed proactively through response planning
 - Issues require immediate reactive management
 
-Many issues arise from risks that materialised — good risk planning reduces the frequency and severity of issues.
+Many issues arise from risks that materialized — good risk planning reduces the frequency and severity of issues.
 
 ### The issue management process
 
@@ -285,11 +285,11 @@ Every proposed change should be documented on a **Change Request Form** that cap
 - Options considered
 - Recommendation
 - Decision (approved / rejected / deferred)
-- Authorised by / date
+- Authorized by / date
 
 ### Protecting the baseline
 
-The biggest execution risk is **baseline erosion** — small, individually harmless changes accumulating into a significantly different project without any formal acknowledgement. Rigorous change control prevents this.
+The biggest execution risk is **baseline erosion** — small, individually harmless changes accumulating into a significantly different project without any formal acknowledgment. Rigorous change control prevents this.
 
 Signs of baseline erosion:
 - Schedule is "revised" without formal approval
@@ -392,13 +392,13 @@ flowchart TD
 
 Stage gates are not bureaucracy. They are structured decision points that:
 
-- Force the organisation to consciously re-commit to the project at each stage
+- Force the organization to consciously re-commit to the project at each stage
 - Prevent momentum from carrying a failing project forward by default
 - Create natural checkpoints for learning and adapting
 
 ### End Stage Report
 
-An **End Stage Report** summarises the stage's performance: what was delivered, actual vs. planned cost and time, current risk status, and lessons learned. It provides the information the project board needs to make the next-stage decision.
+An **End Stage Report** summarizes the stage's performance: what was delivered, actual vs. planned cost and time, current risk status, and lessons learned. It provides the information the project board needs to make the next-stage decision.
 
 [↑ Back to top](#table-of-contents)
 
@@ -434,11 +434,11 @@ Projects run on communication, and much of that communication happens in meeting
 
 ---
 
-## Artefacts
+## Artifacts
 
-| Artefact | Description | Template |
+| Artifact | Description | Template |
 |---|---|---|
-| **Work Authorisation Document** | Formally authorises work to begin on a package | — |
+| **Work Authorization Document** | Formally authorizes work to begin on a package | — |
 | **Issue Log** | Tracks active and resolved issues | [issue-log.md](../templates/issue-log.md) |
 | **Change Request Form** | Documents a proposed change for evaluation | [change-request.md](../templates/change-request.md) |
 | **Change Log** | Running history of all change requests | [change-log.md](../templates/change-log.md) |
@@ -490,7 +490,7 @@ Two team members — the lead developer and the business analyst — are in pers
 1. Diagnose the root cause of the conflict
 2. Identify which conflict resolution mode is most appropriate
 3. Describe the steps you would take as PM to resolve the situation
-4. What structural changes (to process or artefacts) might prevent this conflict recurring?
+4. What structural changes (to process or artifacts) might prevent this conflict recurring?
 
 **Expected output:** A one-page conflict analysis and resolution plan.
 
@@ -500,17 +500,17 @@ Two team members — the lead developer and the business analyst — are in pers
 
 ## Quiz
 
-**Question 1:** What is the primary purpose of a work authorisation system?
+**Question 1:** What is the primary purpose of a work authorization system?
 
 - A) To track time spent by team members
-- B) To formally release work to begin on authorised activities only
+- B) To formally release work to begin on authorized activities only
 - C) To document team member performance
 - D) To manage procurement contracts
 
 <details>
 <summary>Reveal Answer</summary>
 
-**B) To formally release work to begin on authorised activities only.** Work authorisation prevents premature or unauthorised work, protecting the baseline and ensuring resources are applied to approved scope.
+**B) To formally release work to begin on authorized activities only.** Work authorization prevents premature or unauthorized work, protecting the baseline and ensuring resources are applied to approved scope.
 
 </details>
 
@@ -548,7 +548,7 @@ Two team members — the lead developer and the business analyst — are in pers
 
 ---
 
-**Question 4:** A change request is submitted to add a new feature to the project. The impact assessment shows it will add 3 weeks and £20,000 to the project. Who should approve this change?
+**Question 4:** A change request is submitted to add a new feature to the project. The impact assessment shows it will add 3 weeks and $20,000 to the project. Who should approve this change?
 
 - A) The project manager, since they are responsible for the project
 - B) The lead developer, since they will do the work

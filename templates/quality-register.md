@@ -38,7 +38,7 @@
 | Type | Description |
 |---|---|
 | **Quality Review** | Structured meeting to evaluate a deliverable against criteria |
-| **Technical Inspection** | Expert review of code, design, or technical artefact |
+| **Technical Inspection** | Expert review of code, design, or technical artifact |
 | **Test** | Functional, regression, performance, or user acceptance testing |
 | **Audit** | Independent assessment of process compliance |
 | **Walkthrough** | Informal peer review of a draft deliverable |

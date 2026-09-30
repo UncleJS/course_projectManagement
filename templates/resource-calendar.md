@@ -4,7 +4,7 @@
 ![Template](https://img.shields.io/badge/Template-Resource%20Calendar-blue)
 ![Author](https://img.shields.io/badge/Author-UncleJs-orange)
 
-> The resource calendar records availability for each team member — their working days, planned leave, part-time arrangements, and commitments to other projects. It is the foundation for realistic scheduling and resource levelling. Update whenever availability changes.
+> The resource calendar records availability for each team member — their working days, planned leave, part-time arrangements, and commitments to other projects. It is the foundation for realistic scheduling and resource leveling. Update whenever availability changes.
 
 ---
 
@@ -16,7 +16,7 @@
   - [[Name — Role]](#name-role)
 - [Consolidated Resource Demand vs Availability](#consolidated-resource-demand-vs-availability)
 - [Known Absences and Constraints](#known-absences-and-constraints)
-- [Resource Levelling Actions](#resource-levelling-actions)
+- [Resource Leveling Actions](#resource-leveling-actions)
 
 ---
 
@@ -42,7 +42,7 @@
 |---|---|
 | **Name** | |
 | **Role on project** | |
-| **Organisation / team** | |
+| **Organization / team** | |
 | **Contract type** | Employee / Contractor / Consultant |
 | **Standard working week** | e.g., 37.5 hours Mon–Fri |
 | **% allocated to this project** | e.g., 80% |
@@ -89,7 +89,7 @@
 | | | | | | | |
 | | | | | | | |
 
-**Colour code**: 🟢 Within capacity | 🟡 ≥90% utilised | 🔴 Overallocated
+**Color code**: 🟢 Within capacity | 🟡 ≥90% utilized | 🔴 Overallocated
 
 ---
 
@@ -109,7 +109,7 @@
 
 [↑ Back to top](#table-of-contents)
 
-## Resource Levelling Actions
+## Resource Leveling Actions
 
 *Record actions taken to resolve overallocation:*
 

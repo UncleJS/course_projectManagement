@@ -30,7 +30,7 @@
 | **Version** | |
 | **Date** | |
 | **Owner** | Project Manager |
-| **Distribution at closure** | PMO, Programme Manager, future project teams |
+| **Distribution at closure** | PMO, Program Manager, future project teams |
 
 ---
 
@@ -68,7 +68,7 @@ Lessons can be **positive** (things that worked well and should be repeated) or 
 
 ## Categories
 
-*Customise to your project context:*
+*Customize to your project context:*
 
 - Project governance / sponsorship
 - Initiation and business case
@@ -85,7 +85,7 @@ Lessons can be **positive** (things that worked well and should be repeated) or 
 - Communications
 - Resource / team management
 - Technology / technical approach
-- Organisational change management
+- Organizational change management
 - Project closure
 
 ---
@@ -123,14 +123,14 @@ Lessons can be **positive** (things that worked well and should be repeated) or 
 | 0:10 | Warm-up: one thing that worked well (round robin) |
 | 0:25 | Discussion: what were the most significant challenges? What caused them? |
 | 0:55 | Discussion: what should we recommend for future projects? |
-| 1:15 | Prioritise top 5 recommendations |
+| 1:15 | Prioritize top 5 recommendations |
 | 1:25 | Agree action owners and submission to PMO |
 | 1:30 | Close |
 
 ### Ground Rules for the Workshop
 
 - Focus on **process**, not people — "the estimation process was flawed" not "Alex is a bad estimator."
-- Specific examples only — generalisations are not actionable.
+- Specific examples only — generalizations are not actionable.
 - Positive lessons are as valuable as negative ones.
 - Every lesson needs a recommendation — "it was bad" is not a lesson.
 

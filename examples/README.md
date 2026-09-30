@@ -4,7 +4,7 @@
 ![Author](https://img.shields.io/badge/Author-UncleJs-orange)
 ![Scenario](https://img.shields.io/badge/Scenario-Meridian%20Portal-informational)
 
-> These are **completed sample artefacts** for a fictitious IT project. They model professional-quality outputs and show what a well-completed template looks like. Use them alongside the blank templates in `/templates/` and the course modules.
+> These are **completed sample artifacts** for a fictitious IT project. They model professional-quality outputs and show what a well-completed template looks like. Use them alongside the blank templates in `/templates/` and the course modules.
 
 ---
 
@@ -18,28 +18,28 @@
 
 ## The Scenario: Meridian Portal
 
-**Organisation:** Northgate District Council  
+**Organization:** City of Northgate  
 **Project:** Meridian — Citizen Self-Service Portal  
 **Project Manager:** Sarah Chen  
 **Sponsor / Executive:** Director of Digital Services, James Hartley  
-**Budget:** £420,000  
+**Budget:** $420,000  
 **Duration:** 9 months (February 2026 – October 2026)  
-**Go-live target:** 1 October 2026
+**Go-live:** planned October 1, 2026; actual October 15, 2026 (+14 days)
 
 ### Background
 
-Northgate District Council currently handles over 14,000 citizen enquiries per year by phone and in-person visit. 68% of these relate to planning applications, bin collection schedules, council tax queries, and parking permits — all of which could be handled digitally. Staff costs for contact-centre handling are £310,000 per annum.
+The City of Northgate handles 14,200 resident inquiries per year by phone and in-person visit. 68% of these relate to planning and zoning applications, trash collection schedules, property tax, and parking permits — routine transactions that can be handled digitally. Staff costs for contact-center handling are $310,000 per year.
 
-The **Meridian Portal** project will deliver a citizen-facing self-service web portal allowing residents to track planning applications, pay council tax, report missed and garden waste, and renew parking permits online, without staff intervention.
+The **Meridian Portal** project was approved to deliver a resident self-service web portal for planning and zoning applications, property tax, missed trash and yard-waste requests, and parking-permit renewal. Parking-permit renewal was in the original Phase 1 scope and was later deferred to Phase 2 (change request CR-003) after a LandWorks data limitation was found in integration testing.
 
 ### Expected Benefits
 
 | Benefit | Measure | Target |
 |---|---|---|
-| Reduced contact-centre handling | % of eligible enquiries deflected to self-service | 55% deflection rate by Month 6 post go-live |
-| Staff time saving | FTE hours saved per year | 1.8 FTE equivalent per annum |
-| Cost saving | £ per annum operational saving | £123,820 net by Year 2 post go-live |
-| Citizen satisfaction | NPS score | +20 points vs baseline (current NPS: 34) |
+| Reduced contact-center handling | % of eligible inquiries deflected to self-service | 55% deflection rate by Month 6 post go-live |
+| Staff time saving | FTE hours saved per year | 1.8 FTE equivalent per year |
+| Cost saving | $ per year operational saving | $123,820 net by Year 2 post go-live |
+| Resident satisfaction | Digital satisfaction index (0–100) | From 34 to 54 or higher |
 
 ### Key Stakeholders
 
@@ -48,14 +48,14 @@ The **Meridian Portal** project will deliver a citizen-facing self-service web p
 | James Hartley | Sponsor / Dir. of Digital Services | Strongly supportive |
 | Sandra Obi | Head of Customer Services (Senior User) | Cautiously supportive — concerned about staff impact |
 | Mark Pearce | ICT Infrastructure Manager (Senior Supplier) | Neutral — capacity constrained |
-| Councillor Patricia Dean | Portfolio holder for Digital & Innovation | Supportive — politically invested |
-| Ayo Mensah | Contact Centre Team Lead | Resistant — fears job losses |
+| Councilmember Patricia Dean | Chair of the Technology and Innovation Committee | Supportive — politically invested |
+| Ayo Mensah | Contact Center Team Lead | Resistant — fears job losses |
 | Residents of Northgate | Primary end users | Unknown — unaware |
-| GovTech Solutions Ltd | Selected supplier (portal platform) | Committed |
+| GovTech Solutions Inc. | Selected supplier (portal platform) | Committed |
 
 ### Technology
 
-The portal will be built on the **GovTech Solutions CivicConnect** platform (SaaS), configured and integrated with the council's existing Northgate UNIFORM back-office system.
+The portal will be built on the **GovTech Solutions CivicConnect** platform (SaaS), configured and integrated with the city's existing Northgate LandWorks back-office system.
 
 [↑ Back to top](#table-of-contents)
 
@@ -94,9 +94,9 @@ The portal will be built on the **GovTech Solutions CivicConnect** platform (Saa
 ## How to Use These Examples
 
 1. **Read the blank template first** — Understand the structure before looking at a filled-in example.
-2. **Study the example in context** — Each document references the module where the artefact is taught.
+2. **Study the example in context** — Each document references the module where the artifact is taught.
 3. **Note the level of detail** — Real project documents are specific and concrete. Vague placeholder text ("TBC" everywhere) is not professional practice.
-4. **Spot the design choices** — Why are certain risks rated the way they are? Why are some stakeholders in "manage closely" and not "keep satisfied"? These reflect judgement, not mechanical form-filling.
+4. **Spot the design choices** — Why are certain risks rated the way they are? Why are some stakeholders in "manage closely" and not "keep satisfied"? These reflect judgment, not mechanical form-filling.
 5. **Adapt, don't copy** — These examples are for a specific fictitious project. Your project will differ. Use these as a reference model, not a template to rename.
 
 [↑ Back to top](#table-of-contents)

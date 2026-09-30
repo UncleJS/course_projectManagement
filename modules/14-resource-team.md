@@ -52,9 +52,9 @@
   - [Trust in Virtual Teams](#trust-in-virtual-teams)
   - [Cultural Dimensions (Hofstede)](#cultural-dimensions-hofstede)
   - [Communication Across Cultures](#communication-across-cultures)
-- [10. Resource Levelling and Smoothing](#10-resource-levelling-and-smoothing)
+- [10. Resource Leveling and Smoothing](#10-resource-leveling-and-smoothing)
   - [Resource Overallocation](#resource-overallocation)
-  - [Resource Levelling](#resource-levelling)
+  - [Resource Leveling](#resource-leveling)
   - [Resource Smoothing](#resource-smoothing)
   - [Practical Resource Management](#practical-resource-management)
   - [Resource Release](#resource-release)
@@ -63,7 +63,7 @@
   - [Psychological Safety](#psychological-safety)
   - [Sustainable Pace](#sustainable-pace)
   - [Wellbeing Practices for Project Managers](#wellbeing-practices-for-project-managers)
-- [Artefacts](#artefacts)
+- [Artifacts](#artifacts)
 - [Exercises](#exercises)
   - [Exercise 1 — Tuckman Stage Diagnosis and Response](#exercise-1--tuckman-stage-diagnosis-and-response)
   - [Exercise 2 — Motivation and Engagement](#exercise-2--motivation-and-engagement)
@@ -91,13 +91,13 @@ This module focuses primarily on **human resources** — though the planning and
 ### Resource vs Capacity
 
 - **Resource**: The individual or type of input (e.g., "a senior developer").
-- **Capacity**: How much of that resource is available (e.g., "40 hours/week at 80% utilisation").
+- **Capacity**: How much of that resource is available (e.g., "40 hours/week at 80% utilization").
 
 Projects routinely fail not because they lack the right people in theory, but because those people are over-committed or unavailable at the right time. Capacity planning is therefore as important as headcount planning.
 
 ### Shared Resources
 
-Most project resources are **shared** — they have line management responsibilities, BAU commitments, or multiple project allocations. The project manager must negotiate with functional managers (in matrix or functional organisations) for the time they need, and protect that time once allocated.
+Most project resources are **shared** — they have line management responsibilities, BAU commitments, or multiple project allocations. The project manager must negotiate with functional managers (in matrix or functional organizations) for the time they need, and protect that time once allocated.
 
 [↑ Back to top](#table-of-contents)
 
@@ -154,7 +154,7 @@ A skills matrix maps team members against the competencies required for the proj
 
 ### Internal Assignment
 
-Where team members are drawn from within the organisation:
+Where team members are drawn from within the organization:
 
 - Negotiate early with functional managers — late requests get the people who are available, not the people who are best.
 - Confirm the commitment in writing (even an email trail) — verbal commitments evaporate when priorities shift.
@@ -166,7 +166,7 @@ For specialist skills not available internally, consider:
 
 - Fixed-term employment (for longer engagements with full integration into the team).
 - Contracting / freelance (for specialist skills with defined deliverables or time-boxes).
-- Agency or statement-of-work contracting (for commoditised skills at volume).
+- Agency or statement-of-work contracting (for commoditized skills at volume).
 
 Recruitment takes time. Build it into the project schedule — often 6–12 weeks from approval to start date, more for senior or specialist roles.
 
@@ -192,12 +192,12 @@ Bruce Tuckman's model describes the stages a team moves through from formation t
 
 ### The Five Stages
 
-| Stage | Description | Team behaviour | PM response |
+| Stage | Description | Team behavior | PM response |
 |---|---|---|---|
 | **Forming** | Team comes together; roles unclear; everyone is polite | Reliance on PM for direction; low productivity; testing boundaries | Provide structure, clarity of purpose, and clear roles |
 | **Storming** | Conflict emerges as personalities and working styles clash | Disagreements, power struggles, resistance to structure | Facilitate conflict resolution; reaffirm norms; coach individuals |
-| **Norming** | Team establishes working norms and relationships stabilise | Collaboration increases; trust builds; shared identity emerges | Reinforce positive behaviours; delegate more; reduce directive style |
-| **Performing** | Team is high-functioning; focus is on delivery | Autonomous, self-organising, high output and quality | Step back; remove blockers; celebrate achievements |
+| **Norming** | Team establishes working norms and relationships stabilize | Collaboration increases; trust builds; shared identity emerges | Reinforce positive behaviors; delegate more; reduce directive style |
+| **Performing** | Team is high-functioning; focus is on delivery | Autonomous, self-organizing, high output and quality | Step back; remove blockers; celebrate achievements |
 | **Adjourning** | Project ends; team dissolves | Mix of achievement and loss; risk of disengagement before closure | Acknowledge contributions; manage knowledge transfer; support transitions |
 
 ### Key Insights
@@ -220,7 +220,7 @@ Abraham Maslow proposed that human needs form a hierarchy. Lower-level needs mus
 
 ```mermaid
 flowchart BT
-    SA["🔺 Self-Actualisation (realising potential)"]
+    SA["🔺 Self-Actualization (realizing potential)"]
     ES["Esteem (recognition, achievement)"]
     SO["Social / Belonging (team, relationships)"]
     SF["Safety (job security, safe environment)"]
@@ -273,7 +273,7 @@ David McClelland proposed that people are primarily motivated by three acquired 
 | **Affiliation (nAff)** | Values relationships and belonging; may avoid conflict; prefers collaboration |
 | **Power (nPow)** | Seeks influence; either personal (self-interest) or social (benefiting others) |
 
-**Project application**: High-achievement individuals need stretch goals and feedback. High-affiliation individuals need team cohesion. High-power individuals may be strong leaders — direct towards social power (shared goals) not personal power.
+**Project application**: High-achievement individuals need stretch goals and feedback. High-affiliation individuals need team cohesion. High-power individuals may be strong leaders — direct toward social power (shared goals) not personal power.
 
 [↑ Back to top](#table-of-contents)
 
@@ -285,7 +285,7 @@ David McClelland proposed that people are primarily motivated by three acquired 
 
 | Management | Leadership |
 |---|---|
-| Plans, organises, controls | Inspires, influences, enables |
+| Plans, organizes, controls | Inspires, influences, enables |
 | Focus on systems and processes | Focus on people and relationships |
 | Asks "how?" and "when?" | Asks "why?" and "what if?" |
 | Reduces uncertainty through structure | Creates shared purpose through vision |
@@ -369,10 +369,10 @@ quadrantChart
 
 ### Conflict Escalation Ladder
 
-| Level | Behaviour | Intervention |
+| Level | Behavior | Intervention |
 |---|---|---|
 | 1 — Disagreement | Rational, factual differences | Direct conversation between parties |
-| 2 — Personalisation | Blame, frustration, emotional language | Facilitated conversation with PM |
+| 2 — Personalization | Blame, frustration, emotional language | Facilitated conversation with PM |
 | 3 — Contest | Sides form; winning matters more than resolving | Formal mediation; escalation to sponsor |
 | 4 — Fight/Avoid | Relationship breakdown; one or both parties disengage | HR involvement; possible team restructure |
 
@@ -407,15 +407,15 @@ Use SMART objectives (Specific, Measurable, Achievable, Relevant, Time-bound) to
 
 **Ongoing feedback** is more effective than periodic appraisals. Useful feedback is:
 
-- **Timely**: Given as close to the behaviour as possible.
-- **Specific**: References a concrete action or outcome, not a generalisation.
+- **Timely**: Given as close to the behavior as possible.
+- **Specific**: References a concrete action or outcome, not a generalization.
 - **Balanced**: Acknowledges what is working as well as what needs to change.
-- **Constructive**: Focused on behaviour and impact, not personality.
+- **Constructive**: Focused on behavior and impact, not personality.
 
-The **SBI (Situation–Behaviour–Impact)** model provides a structure:
+The **SBI (Situation–Behavior–Impact)** model provides a structure:
 
-- *Situation*: When and where the behaviour occurred.
-- *Behaviour*: What the person specifically did or said (observable, not interpreted).
+- *Situation*: When and where the behavior occurred.
+- *Behavior*: What the person specifically did or said (observable, not interpreted).
 - *Impact*: The effect on the team, project, or stakeholders.
 
 ### Managing Underperformance
@@ -432,7 +432,7 @@ If a team member is not meeting expectations:
 
 Recognition is one of the highest-impact and lowest-cost motivators available to a project manager:
 
-- Public acknowledgement in team meetings or status reports.
+- Public acknowledgment in team meetings or status reports.
 - A specific, genuine "thank you" that references what the person did and why it mattered.
 - Recommending team members for stretch opportunities.
 - Providing a professional reference or endorsement.
@@ -452,20 +452,20 @@ Recognition is one of the highest-impact and lowest-cost motivators available to
 | **Communication latency** | Agree response-time norms; use asynchronous tools thoughtfully |
 | **Loss of informal interaction** | Schedule informal touchpoints (virtual coffees, non-work channels) |
 | **Timezone misalignment** | Rotate inconvenient meeting times fairly; record all key meetings |
-| **Technology friction** | Standardise tools; provide training; test setups before critical meetings |
+| **Technology friction** | Standardize tools; provide training; test setups before critical meetings |
 | **Reduced visibility of wellbeing** | Check in individually and regularly; watch for disengagement signals |
-| **Trust deficit** | Build early through structured interactions; honour all commitments |
+| **Trust deficit** | Build early through structured interactions; honor all commitments |
 
 ### Trust in Virtual Teams
 
 Research consistently shows that **swift trust** — formed quickly based on professionalism and task performance rather than social familiarity — is the dominant mode in virtual project teams. It is fragile:
 
 - Missed deadlines without communication erode it fast.
-- Small consistent behaviours (responding promptly, doing what you say) build it quickly.
+- Small consistent behaviors (responding promptly, doing what you say) build it quickly.
 
 ### Cultural Dimensions (Hofstede)
 
-Geert Hofstede's cultural dimensions model identifies axes along which national and organisational cultures vary:
+Geert Hofstede's cultural dimensions model identifies axes along which national and organizational cultures vary:
 
 | Dimension | Low end | High end | Project implications |
 |---|---|---|---|
@@ -479,7 +479,7 @@ Geert Hofstede's cultural dimensions model identifies axes along which national 
 
 ### Communication Across Cultures
 
-- Avoid idioms, jargon, and humour that does not translate.
+- Avoid idioms, jargon, and humor that does not translate.
 - Be explicit about norms: silence in a meeting does not mean agreement universally.
 - Written confirmation of verbal agreements reduces the risk of cultural misinterpretation.
 - Allocate extra time in multicultural teams for alignment — it is not inefficiency, it is investment.
@@ -488,7 +488,7 @@ Geert Hofstede's cultural dimensions model identifies axes along which national 
 
 ---
 
-## 10. Resource Levelling and Smoothing
+## 10. Resource Leveling and Smoothing
 
 ### Resource Overallocation
 
@@ -498,13 +498,13 @@ When a resource is scheduled for more hours than they are available in a given p
 - Schedule slippage (people cannot work at 150% indefinitely).
 - Hidden risk (the schedule looks fine until the person hits the wall).
 
-### Resource Levelling
+### Resource Leveling
 
-**Resource levelling** resolves overallocation by delaying non-critical tasks until the resource becomes available. It respects the resource constraint as a hard boundary.
+**Resource leveling** resolves overallocation by delaying tasks until the resource is available, including work that has no float. It treats the resource constraint as a hard boundary.
 
 - **Effect on schedule**: May extend the project end date.
 - **Effect on resources**: Eliminates overallocation.
-- **When to use**: When resource availability is the binding constraint and schedule flexibility exists.
+- **When to use**: When resource availability is the binding constraint.
 
 ### Resource Smoothing
 
@@ -550,10 +550,10 @@ Beyond ethics, team wellbeing is a project performance variable:
 
 Amy Edmondson's concept of **psychological safety** — the belief that one can speak up without fear of punishment or humiliation — is the single strongest predictor of team performance identified in Google's Project Aristotle research.
 
-Behaviours that build psychological safety:
+Behaviors that build psychological safety:
 
 - The PM models vulnerability (admits mistakes, asks for help).
-- Concerns are acknowledged and acted on, not minimised.
+- Concerns are acknowledged and acted on, not minimized.
 - "No blame" post-mortems focus on process, not people.
 - Divergent views are actively invited in meetings.
 
@@ -580,9 +580,9 @@ Signs the team is at unsustainable pace:
 
 ---
 
-## Artefacts
+## Artifacts
 
-| Artefact | Description | Template |
+| Artifact | Description | Template |
 |---|---|---|
 | Resource Management Plan | Strategy for acquiring, developing, and managing all project resources | — |
 | RACI Matrix | Roles and responsibilities mapped to tasks | [raci-matrix.md](../templates/raci-matrix.md) |
@@ -630,7 +630,7 @@ Signs the team is at unsustainable pace:
 
 ### Exercise 3 — Conflict Resolution
 
-**Scenario**: A significant conflict has developed between the council's internal IT team lead (Kim) and the external software development supplier's delivery manager (James). 
+**Scenario**: A significant conflict has developed between the city's internal IT team lead (Kim) and the external software development supplier's delivery manager (James). 
 
 Kim believes James's team is introducing technical debt into the portal's codebase, cutting corners to hit sprint velocity targets. James believes Kim is obstructing delivery by insisting on architectural reviews that are not in the contract and were not in the agreed Definition of Done.
 
@@ -646,11 +646,11 @@ The conflict has now escalated: Kim has sent a formal complaint email to the pro
 
 ## Quiz
 
-**1. What is the difference between resource levelling and resource smoothing?**
+**1. What is the difference between resource leveling and resource smoothing?**
 
 <details><summary>Reveal Answer</summary>
 
-**Resource levelling** resolves overallocation by delaying non-critical tasks — it may extend the project end date. **Resource smoothing** adjusts the schedule within existing float to reduce demand peaks — it preserves the end date but may not eliminate all overallocation. Levelling treats the resource constraint as a hard boundary; smoothing treats the schedule as the binding constraint.
+**Resource leveling** resolves overallocation by delaying tasks until the resource is available, including work that has no float, and it may extend the project end date. **Resource smoothing** adjusts the schedule within existing float to reduce demand peaks — it preserves the end date but may not eliminate all overallocation. Leveling treats the resource constraint as a hard boundary; smoothing treats the schedule as the binding constraint.
 
 </details>
 
@@ -680,7 +680,7 @@ Storming is the stage where conflict emerges as team members' personalities, wor
 
 <details><summary>Reveal Answer</summary>
 
-**S** — Situation (when/where), **B** — Behaviour (what was specifically done or said, observable), **I** — Impact (the effect on the team, project, or others). It is useful because it keeps feedback concrete and observable rather than interpretive or personal, making it easier for the recipient to understand and act on without becoming defensive.
+**S** — Situation (when/where), **B** — Behavior (what was specifically done or said, observable), **I** — Impact (the effect on the team, project, or others). It is useful because it keeps feedback concrete and observable rather than interpretive or personal, making it easier for the recipient to understand and act on without becoming defensive.
 
 </details>
 
@@ -722,7 +722,7 @@ Psychological safety is the belief that one can speak up — with questions, con
 
 Any two — examples:
 - **Communication latency** → Agree response-time norms; distinguish synchronous and asynchronous channels clearly.
-- **Trust deficit** → Build trust through early structured interaction; honour all commitments; use video for relationship-building meetings.
+- **Trust deficit** → Build trust through early structured interaction; honor all commitments; use video for relationship-building meetings.
 - **Timezone misalignment** → Rotate inconvenient meeting slots fairly; record all key meetings.
 - **Reduced visibility of wellbeing** → Schedule regular individual check-ins; watch for disengagement signals.
 
@@ -763,7 +763,7 @@ Consistent late/weekend working; rising defect rates (cognitive load degrades qu
 
 ---
 
-[← Module 13: Procurement Management](13-procurement.md) | [→ Module 15: Capstone](15-capstone.md)
+[← Module 13: Procurement and Contract Management](13-procurement.md) | [→ Module 15: Capstone](15-capstone.md)
 
 ---
 

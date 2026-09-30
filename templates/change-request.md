@@ -63,7 +63,7 @@
 |---|---|---|---|
 | Scope | Yes / No | | |
 | Schedule | Yes / No | | |
-| Budget / Cost | Yes / No | £ | £ |
+| Budget / Cost | Yes / No | $ | $ |
 | Quality criteria | Yes / No | | |
 | Other (specify) | | | |
 
@@ -79,7 +79,7 @@
 
 ### Cost Impact
 
-| Item | Additional cost (£) | Cost saving (£) | Net (£) |
+| Item | Additional cost ($) | Cost saving ($) | Net ($) |
 |---|---|---|---|
 | | | | |
 | | | | |
@@ -103,7 +103,7 @@
 
 ## 5. Options
 
-| Option | Description | Cost (£) | Schedule impact | Recommendation |
+| Option | Description | Cost ($) | Schedule impact | Recommendation |
 |---|---|---|---|---|
 | A — Approve as described | | | | |
 | B — Approve with modification | | | | |

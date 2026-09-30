@@ -99,7 +99,7 @@
 
 ## Financials
 
-| Item | Budget (£) | Actual to date (£) | Forecast to complete (£) | Forecast final cost (£) | Variance (£) |
+| Item | Budget ($) | Actual to date ($) | Forecast to complete ($) | Forecast final cost ($) | Variance ($) |
 |---|---|---|---|---|---|
 | Total project | | | | | |
 
@@ -107,11 +107,11 @@
 
 | Metric | Value |
 |---|---|
-| Planned Value (PV) | £ |
-| Earned Value (EV) | £ |
-| Actual Cost (AC) | £ |
-| Schedule Variance (SV = EV−PV) | £ |
-| Cost Variance (CV = EV−AC) | £ |
+| Planned Value (PV) | $ |
+| Earned Value (EV) | $ |
+| Actual Cost (AC) | $ |
+| Schedule Variance (SV = EV−PV) | $ |
+| Cost Variance (CV = EV−AC) | $ |
 | SPI (EV/PV) | |
 | CPI (EV/AC) | |
 
@@ -161,7 +161,7 @@
 
 ## Change Requests Status
 
-| CR No. | Description | Status | Cost impact (£) | Schedule impact |
+| CR No. | Description | Status | Cost impact ($) | Schedule impact |
 |---|---|---|---|---|
 | | | | | |
 

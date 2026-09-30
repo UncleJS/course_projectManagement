@@ -32,7 +32,7 @@
 | **Version** | |
 | **Date** | |
 | **Owner** | Project Manager |
-| **Review frequency** | (e.g., weekly / fortnightly) |
+| **Review frequency** | (e.g., weekly / every two weeks) |
 
 ---
 
@@ -72,6 +72,8 @@
 
 **Score 1–4**: Low (monitor) | **Score 5–9**: Medium (manage) | **Score 10–25**: High (act)
 
+This 1–5 scale is an alternative to the decimal probability × impact scale in Module 11. Use one scale consistently on a project; do not mix the two.
+
 ---
 
 [↑ Back to top](#table-of-contents)
@@ -100,7 +102,7 @@
 | **Transfer** | Shift the financial or operational impact to a third party (insurance, contract) |
 | **Mitigate** | Take action to reduce probability and/or impact to an acceptable level |
 | **Accept** | Acknowledge the risk; no proactive action (passive) or set aside contingency (active) |
-| **Escalate** | The risk is beyond the project's authority to manage; escalate to programme or sponsor |
+| **Escalate** | The risk is beyond the project's authority to manage; escalate to program or sponsor |
 
 ### Opportunities
 
@@ -108,7 +110,7 @@
 |---|---|
 | **Exploit** | Ensure the opportunity definitely occurs |
 | **Enhance** | Increase the probability or impact of the opportunity |
-| **Share** | Partner with a third party best placed to realise the opportunity |
+| **Share** | Partner with a third party best placed to realize the opportunity |
 | **Accept** | Take the benefit if it arises; no proactive action |
 | **Escalate** | The opportunity is beyond the project scope; escalate for strategic consideration |
 
@@ -118,7 +120,7 @@
 
 ## Risk Categories
 
-*Customise for your project:*
+*Customize for your project:*
 
 - Strategic / Business
 - Technical / Technology
@@ -142,7 +144,7 @@
 | Closed — Avoided | Risk cause was eliminated |
 | Closed — Transferred | Risk transferred to third party |
 | Closed — Expired | Risk window has passed without occurring |
-| Materialised → Issue | Risk has occurred; now recorded in Issue Log |
+| Materialized → Issue | Risk has occurred; now recorded in Issue Log |
 
 ---
 

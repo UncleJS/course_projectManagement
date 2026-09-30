@@ -4,7 +4,7 @@
 ![Author](https://img.shields.io/badge/Author-UncleJs-orange)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-> This guide supports facilitators delivering the course in structured settings — workshops, classrooms, bootcamps, corporate training programmes, or academic environments. It is not required for self-directed learners.
+> This guide supports facilitators delivering the course in structured settings — workshops, classrooms, bootcamps, corporate training programs, or academic environments. It is not required for self-directed learners.
 
 ---
 
@@ -30,12 +30,12 @@ This course is deliberately **methodology-agnostic**. It draws on PMBOK, PRINCE2
 
 **Key pedagogical principles:**
 
-- **Principles over process** — Understanding *why* matters more than memorising steps.
+- **Principles over process** — Understanding *why* matters more than memorizing steps.
 - **Application over theory** — Every module has exercises and a recurring scenario to apply concepts immediately.
 - **Honest over comfortable** — The course addresses failure modes, ethical pressure, and difficult stakeholders directly.
 - **Reflection as a practice** — Learners are repeatedly asked to connect content to their own experience.
 
-The recurring scenario across modules is a **digital planning portal project** for a local authority — an IT project with regulatory context, public-sector stakeholders, and realistic constraints. You may substitute your own scenario without loss of coherence.
+The recurring scenario across modules is a **digital planning portal project** for a city government — an IT project with regulatory context, public-sector stakeholders, and realistic constraints. You may substitute your own scenario without loss of coherence.
 
 ---
 
@@ -43,11 +43,11 @@ The recurring scenario across modules is a **digital planning portal project** f
 
 | Audience | Suggested Approach |
 |---|---|
-| **New project managers** | Sequential delivery; all modules; emphasise lifecycle (Modules 01–07) |
-| **Experienced practitioners formalising knowledge** | Selective delivery; knowledge domains (08–14) plus capstone; skip lifecycle basics |
+| **New project managers** | Sequential delivery; all modules; emphasize lifecycle (Modules 01–07) |
+| **Experienced practitioners formalizing knowledge** | Selective delivery; knowledge domains (08–14) plus capstone; skip lifecycle basics |
 | **Team leads / BAs stepping into PM** | Modules 01–07 in full; supplement with 09 (Stakeholders) and 10 (Communications) |
 | **Academic / undergraduate** | Full course in semester format; use assessment portfolio approach |
-| **Corporate training cohort** | Customise scenario to the organisation's industry; adjust examples |
+| **Corporate training cohort** | Customize scenario to the organization's industry; adjust examples |
 | **Certification preparation** | Map modules to certification syllabus (see [Adapting the Course](#adapting-the-course)) |
 
 ---
@@ -70,7 +70,7 @@ Suitable for corporate training cohorts or bootcamp formats.
 
 ---
 
-### Format 2: Part-Time Programme — 8 Weeks (2 sessions per week)
+### Format 2: Part-Time Program — 8 Weeks (2 sessions per week)
 
 Suitable for evening classes, online cohorts, or academic term delivery.
 
@@ -142,7 +142,7 @@ Estimated self-study time per module (reading + exercises, excluding quiz):
 
 **Learning goal:** Learners can define a project, describe the PM role, and explain why projects exist.
 
-**Key concepts to emphasise:**
+**Key concepts to emphasize:**
 - Temporary ≠ short. This confusion is common.
 - The value chain (Input → Output → Outcome → Benefit) is foundational — return to it throughout the course.
 - Projects exist to create change; operations sustain the current state. Many learners conflate these.
@@ -157,12 +157,12 @@ Estimated self-study time per module (reading + exercises, excluding quiz):
 
 **Learning goal:** Learners understand governance frameworks, PMO types, and benefits management.
 
-**Key concepts to emphasise:**
-- Benefits realisation is not the PM's job alone — it requires a named operational owner.
+**Key concepts to emphasize:**
+- Benefits realization is not the PM's job alone — it requires a named operational owner.
 - Management by exception is a governance principle, not just a management style.
 - The PMO spectrum (supportive → controlling → directive) shapes the PM's autonomy significantly.
 
-**Facilitation tip:** Ask learners to describe the governance structure in their own organisations. Most will describe informal, non-ideal structures. Use this as a design opportunity: *what governance would you implement?*
+**Facilitation tip:** Ask learners to describe the governance structure in their own organizations. Most will describe informal, non-ideal structures. Use this as a design opportunity: *what governance would you implement?*
 
 ---
 
@@ -170,10 +170,10 @@ Estimated self-study time per module (reading + exercises, excluding quiz):
 
 **Learning goal:** Learners can produce a business case and project charter; understand feasibility assessment.
 
-**Key concepts to emphasise:**
-- Business case ≠ project charter. Many learners confuse these. The BC justifies; the charter authorises.
+**Key concepts to emphasize:**
+- Business case ≠ project charter. Many learners confuse these. The BC justifies; the charter authorizes.
 - Business case is a living document — not written once and filed.
-- Sunk cost fallacy: a project that has spent £500k is not worth continuing if the remaining case is weak.
+- Sunk cost fallacy: a project that has spent $500k is not worth continuing if the remaining case is weak.
 
 **Facilitation tip:** Use the NPV/ROI exercise as a small group activity with a provided scenario. Disagreements about assumptions are productive — they model stakeholder dynamics.
 
@@ -183,12 +183,12 @@ Estimated self-study time per module (reading + exercises, excluding quiz):
 
 **Learning goal:** Learners can build a WBS, understand schedule logic, and assemble a project management plan.
 
-**Key concepts to emphasise:**
+**Key concepts to emphasize:**
 - The WBS contains deliverables, not activities. This is the most common WBS mistake.
 - Rolling wave planning: commit to near-term detail; remain flexible on the future.
 - All plans must be integrated — a scope change affects schedule, cost, risk, and resources simultaneously.
 
-**Facilitation tip:** A hands-on WBS exercise (post-its on a wall, or a whiteboard tree diagram) is highly effective. Give teams 20 minutes to build a WBS for a simple, familiar project (organising a conference, launching a product).
+**Facilitation tip:** A hands-on WBS exercise (post-its on a wall, or a whiteboard tree diagram) is highly effective. Give teams 20 minutes to build a WBS for a simple, familiar project (organizing a conference, launching a product).
 
 **Complexity warning:** Module 04 is the longest lifecycle module. In a time-constrained format, split into two sessions: Scope+Schedule and Cost+Resources+PMP Assembly.
 
@@ -196,9 +196,9 @@ Estimated self-study time per module (reading + exercises, excluding quiz):
 
 ### Module 05 — Execution
 
-**Learning goal:** Learners understand how project work is authorised, teams are managed, and changes controlled.
+**Learning goal:** Learners understand how project work is authorized, teams are managed, and changes controlled.
 
-**Key concepts to emphasise:**
+**Key concepts to emphasize:**
 - The PM's dual role: director (set direction) and servant (remove obstacles). Neither alone is sufficient.
 - Tuckman's stages are descriptive, not prescriptive. Teams don't progress linearly.
 - Issue ≠ Risk. Current problems go in the issue log; future uncertainties go in the risk register.
@@ -211,7 +211,7 @@ Estimated self-study time per module (reading + exercises, excluding quiz):
 
 **Learning goal:** Learners can calculate and interpret EVM metrics and understand the control cycle.
 
-**Key concepts to emphasise:**
+**Key concepts to emphasize:**
 - EVM is the most technically challenging topic in the course. Spend time on the worked examples.
 - SPI and CPI above 1.0 are good; below 1.0 is bad. This is the key intuition.
 - Honest reporting is an ethical obligation — the "green project trap" kills projects slowly.
@@ -226,7 +226,7 @@ Estimated self-study time per module (reading + exercises, excluding quiz):
 
 **Learning goal:** Learners understand why formal closure matters and what it involves.
 
-**Key concepts to emphasise:**
+**Key concepts to emphasize:**
 - Closure ≠ abandonment. Deliberate process vs project drifting to irrelevance.
 - Written acceptance — verbal sign-off is not acceptance.
 - Lessons learned have no value if they never leave the project. PMO submission is essential.
@@ -237,7 +237,7 @@ Estimated self-study time per module (reading + exercises, excluding quiz):
 
 ### Modules 08–14 — Knowledge Domains
 
-**Learning goal:** Learners develop depth in specialised areas.
+**Learning goal:** Learners develop depth in specialized areas.
 
 **Facilitation tip for knowledge domain modules:**
 - These modules work best delivered alongside (or shortly after) the relevant lifecycle module. For example, Module 11 (Risk) can be taught alongside Module 03–04 (when risk is first encountered) or as a standalone deep-dive.
@@ -251,9 +251,9 @@ Estimated self-study time per module (reading + exercises, excluding quiz):
 
 **Learning goal:** Learners understand how all knowledge areas integrate and how to choose a delivery lifecycle.
 
-**Key concepts to emphasise:**
+**Key concepts to emphasize:**
 - Integration is not a separate process — it is the discipline of ensuring all plans remain consistent.
-- Hybrid approaches are the practical reality in most organisations. Pure agile and pure waterfall are both edge cases.
+- Hybrid approaches are the practical reality in most organizations. Pure agile and pure waterfall are both edge cases.
 - Cynefin: different situations demand different response types. Applying complicated-domain tools to complex-domain problems is a common failure.
 
 **Facilitation tip:** The lifecycle selection exercise (Exercise 2) works well as a group debate. Assign different groups different projects and have them present their recommendation with justification.
@@ -264,7 +264,7 @@ Estimated self-study time per module (reading + exercises, excluding quiz):
 
 **Learning goal:** Learners can conduct a competency self-assessment and create a CPD plan.
 
-**Key concepts to emphasise:**
+**Key concepts to emphasize:**
 - Certifications are a starting point, not a destination.
 - Reflective practice is a professional skill that must be developed deliberately.
 - The ethics section is not a formality — return to the ethical challenges from Module 01 and how each module has addressed them.
@@ -293,16 +293,16 @@ Estimated self-study time per module (reading + exercises, excluding quiz):
 
 ### Running the Recurring Scenario
 
-The **digital planning portal** scenario appears across multiple modules. If delivering the course as a programme:
+The **digital planning portal** scenario appears across multiple modules. If delivering the course as a program:
 - Maintain the scenario continuity — each module should advance the same project.
 - By Module 07, learners will have produced a business case, charter, risk register, status report, and lessons learned log for the same project.
-- The portfolio of documents becomes the final assessment artefact.
+- The portfolio of documents becomes the final assessment artifact.
 
 ---
 
 ## Assessment Approaches
 
-### Option A: Portfolio Assessment (Recommended for structured programmes)
+### Option A: Portfolio Assessment (Recommended for structured programs)
 
 Learners build a project management portfolio for the recurring scenario (or a real/approved project of their choosing), producing:
 
@@ -329,10 +329,10 @@ Learners build a project management portfolio for the recurring scenario (or a r
 Provide learners with a project case study (a real project failure or success) and ask them to:
 1. Identify which PM processes were applied well / poorly.
 2. Assess what the PM should have done differently, citing specific modules.
-3. Produce one artefact that, if it had existed, would have mitigated a failure point.
+3. Produce one artifact that, if it had existed, would have mitigated a failure point.
 
 **Suggested case studies:**
-- NHS National Programme for IT (failure: governance, scope)
+- NHS National Program for IT (failure: governance, scope)
 - Heathrow Terminal 5 (partial success: risk management)
 - Sydney Opera House (classic: cost and schedule escalation)
 - Crossrail (complexity and integration)
@@ -345,7 +345,7 @@ Provide learners with a project case study (a real project failure or success) a
 Each module contains 5–10 quiz questions. A cumulative quiz at course end can cover:
 - 40% recall questions (definitions, formulas)
 - 40% application questions (scenario-based)
-- 20% reflection questions (open-ended professional judgement)
+- 20% reflection questions (open-ended professional judgment)
 
 Passing mark: 70% recommended.
 
@@ -376,7 +376,7 @@ Full answer texts are within each module file. No separate answer key file is ne
 
 ### For PRINCE2 Preparation
 
-Emphasise:
+Emphasize:
 - Module 02 (governance structures, management by exception)
 - Module 03 (project charter / project initiation documentation)
 - Module 06 (stage boundaries, exception reports)
@@ -386,7 +386,7 @@ PRINCE2-specific terminology (SRO, Highlight Report, Exception Report, End Stage
 
 ### For PMP (PMI) Preparation
 
-Emphasise:
+Emphasize:
 - Process groups: Initiating (03), Planning (04), Executing (05), Monitoring & Controlling (06), Closing (07)
 - Knowledge areas: All modules 08–14 map to PMBOK knowledge areas
 - Module 15a (Agile/hybrid) is required for the current PMP exam format
@@ -394,11 +394,11 @@ Emphasise:
 
 ### For APM PMQ / PPQ Preparation
 
-The APM syllabus maps closely to this course structure. Emphasise:
+The APM syllabus maps closely to this course structure. Emphasize:
 - Module 02 (governance) — heavily weighted in APM exams
 - Module 11 (risk) — detailed treatment required
 - Stakeholder engagement (Module 09) — key APM topic
-- Module 15b (professional competence) — aligns to APM behavioural competences
+- Module 15b (professional competence) — aligns to APM behavioral competences
 
 ### For Academic Delivery (Undergraduate / Postgraduate)
 
@@ -412,13 +412,13 @@ The APM syllabus maps closely to this course structure. Emphasise:
 
 | Difficulty | Suggested Response |
 |---|---|
-| **Confusion between Business Case and Project Charter** | Draw the timeline: BC justifies (before authorisation); Charter authorises (at project start). They are sequential, not interchangeable. |
+| **Confusion between Business Case and Project Charter** | Draw the timeline: BC justifies (before authorization); Charter authorizes (at project start). They are sequential, not interchangeable. |
 | **WBS contains activities, not deliverables** | Show a bad WBS and a good WBS side-by-side. Ask: "can you physically hand this to someone?" If not, it is an activity. |
 | **EVM maths anxiety** | Use a physical analogy first (digging a trench: you planned to dig 100m, you've dug 60m, it cost you what 75m should have cost). Numbers follow naturally. |
 | **Risk vs Issue confusion** | Simple rule: "Has it happened? Issue. Could it happen? Risk." |
-| **Treating the risk register as a one-time exercise** | Emphasise review cadence. Ask: "who reviewed their risk register last week?" Show how unreviewed risks become issues. |
+| **Treating the risk register as a one-time exercise** | Emphasize review cadence. Ask: "who reviewed their risk register last week?" Show how unreviewed risks become issues. |
 | **Over-identification with one framework** | Learners with PRINCE2 or Scrum background can become defensive. Acknowledge the framework's strengths, then show where it needs supplementing. |
-| **Imposter syndrome in new PMs** | Normalise this. Professional judgement develops with practice. This course builds the vocabulary; experience builds the confidence. |
+| **Imposter syndrome in new PMs** | Normalize this. Professional judgment develops with practice. This course builds the vocabulary; experience builds the confidence. |
 
 ---
 

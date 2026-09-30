@@ -38,7 +38,7 @@
 - [9. The Kick-off Meeting](#9-the-kick-off-meeting)
   - [Two types of kick-off](#two-types-of-kick-off)
   - [What a kick-off meeting covers](#what-a-kick-off-meeting-covers)
-- [Artefacts](#artefacts)
+- [Artifacts](#artifacts)
 - [Exercises](#exercises)
   - [Exercise 3.1 — Write a business case summary](#exercise-31--write-a-business-case-summary)
   - [Exercise 3.2 — Draft a project charter](#exercise-32--draft-a-project-charter)
@@ -50,21 +50,21 @@
 
 ## 1. Pre-Project: Identifying the Need
 
-Before a project is authorised, there must be a **reason** for it. Projects are triggered by a recognised need, problem, or opportunity. Common triggers include:
+Before a project is authorized, there must be a **reason** for it. Projects are triggered by a recognized need, problem, or opportunity. Common triggers include:
 
 | Trigger Type | Examples |
 |---|---|
 | **Problem to solve** | Customer complaints about product quality; system downtime; process inefficiency |
 | **Opportunity to exploit** | New market segment; new technology that cuts costs; competitive advantage |
 | **Regulatory requirement** | New data privacy law; safety compliance deadline |
-| **Strategic decision** | Board decides to enter a new geography; organisation acquires a competitor |
+| **Strategic decision** | Board decides to enter a new geography; organization acquires a competitor |
 | **Stakeholder request** | Client requests a new service; government mandates a change |
 
 ### The project mandate
 
 The trigger is often captured in a **project mandate** — an informal or formal document (sometimes just an email or executive decision) that identifies the problem/opportunity, proposes a response, and initiates the pre-project work. It is the starting gun, not the finishing line.
 
-The mandate does not authorise the project to proceed. It authorises the work of defining whether the project should proceed.
+The mandate does not authorize the project to proceed. It authorizes the work of defining whether the project should proceed.
 
 [↑ Back to top](#table-of-contents)
 
@@ -72,7 +72,7 @@ The mandate does not authorise the project to proceed. It authorises the work of
 
 ## 2. Feasibility Assessment
 
-Before committing significant resources, the organisation must determine whether the project is **viable**. A feasibility study examines four dimensions:
+Before committing significant resources, the organization must determine whether the project is **viable**. A feasibility study examines four dimensions:
 
 | Dimension | Key Questions |
 |---|---|
@@ -98,7 +98,7 @@ Presenting options forces a genuine decision rather than rubber-stamping a prede
 
 ## 3. Project Selection Methods
 
-When organisations have more project opportunities than resources, they must choose. Selection methods provide rigour to that decision:
+When organizations have more project opportunities than resources, they must choose. Selection methods provide rigor to that decision:
 
 ### Financial methods
 
@@ -124,7 +124,7 @@ Urgency          10%       2 × 0.10     4 × 0.10
 Weighted total             3.60         3.25
 ```
 
-No model removes the need for human judgement — but they make the judgement explicit and auditable.
+No model removes the need for human judgment — but they make the judgment explicit and auditable.
 
 [↑ Back to top](#table-of-contents)
 
@@ -132,7 +132,7 @@ No model removes the need for human judgement — but they make the judgement ex
 
 ## 4. The Business Case
 
-The business case is the **most important document in a project**. It is the authorising justification for everything that follows. If the business case cannot be made, the project should not proceed.
+The business case is the **most important document in a project**. It is the authorizing justification for everything that follows. If the business case cannot be made, the project should not proceed.
 
 ### What a business case contains
 
@@ -146,7 +146,7 @@ The business case is the **most important document in a project**. It is the aut
 | **Costs** | Capital costs, running costs, transition costs |
 | **Risks** | Top risks and their impact on the case |
 | **Timeline** | High-level milestones |
-| **Assumptions** | What must be true for the benefits to materialise |
+| **Assumptions** | What must be true for the benefits to materialize |
 | **Recommendation** | Explicitly requests approval to proceed |
 
 ### The business case is a living document
@@ -166,11 +166,11 @@ If the business case no longer justifies the project, the right decision is to s
 
 ## 5. The Project Charter
 
-Once the decision to proceed is made, the project is formally authorised through a **project charter** (also called a project brief or initiation document, depending on the organisation).
+Once the decision to proceed is made, the project is formally authorized through a **project charter** (also called a project brief or initiation document, depending on the organization).
 
 ### What the project charter does
 
-- Formally **authorises the project** to exist
+- Formally **authorizes the project** to exist
 - **Appoints the project manager** and grants them authority to apply resources
 - Establishes the **project's objectives and high-level scope**
 - Documents **initial constraints and assumptions**
@@ -194,7 +194,7 @@ Once the decision to proceed is made, the project is formally authorised through
 
 ### Charter vs. business case
 
-The business case justifies *whether* to do the project. The charter authorises *how* to proceed. They are related but distinct:
+The business case justifies *whether* to do the project. The charter authorizes *how* to proceed. They are related but distinct:
 
 ```mermaid
 flowchart TD
@@ -227,7 +227,7 @@ The project manager should be appointed **as early as possible** — ideally bef
 
 - Technical domain knowledge (relevant but not essential)
 - PM skills and experience (essential)
-- Availability and organisational fit
+- Availability and organizational fit
 - Leadership and communication ability
 
 ### Initial team formation
@@ -259,7 +259,7 @@ Stakeholders are anyone who may affect, be affected by, or perceive themselves t
 At initiation, capture a basic register covering:
 
 - Name / role
-- Organisation / department
+- Organization / department
 - Interest in the project
 - Level of influence
 - Initial attitude (supportive / neutral / resistant)
@@ -312,10 +312,10 @@ A constraint is a limiting condition — a boundary the project cannot cross. Co
 | Type | Example |
 |---|---|
 | **Time** | "Must go live before the financial year end" |
-| **Budget** | "Maximum approved budget is £250,000" |
+| **Budget** | "Maximum approved budget is $250,000" |
 | **Resource** | "Only one senior developer is available" |
 | **Technology** | "Must be built on the existing cloud platform" |
-| **Regulatory** | "Must comply with GDPR data handling requirements" |
+| **Regulatory** | "Must comply with applicable privacy requirements" |
 
 Constraints are **facts**, not risks. They define the playing field. The project plan must accommodate them — unless the sponsor explicitly relaxes a constraint.
 
@@ -357,15 +357,15 @@ A kick-off meeting without a written agenda and documented minutes produces no l
 
 ---
 
-## Artefacts
+## Artifacts
 
-| Artefact | Description | Template |
+| Artifact | Description | Template |
 |---|---|---|
 | **Project Mandate** | Trigger document initiating pre-project work | — |
 | **Feasibility Study / Options Appraisal** | Assesses viability and alternatives | — |
 | **Business Case** | Justifies the project; decision input for sponsors | [business-case.md](../templates/business-case.md) |
-| **Project Charter** | Formally authorises the project and the PM | [project-charter.md](../templates/project-charter.md) |
-| **Initial Stakeholder Register** | Catalogue of stakeholders with initial analysis | [stakeholder-register.md](../templates/stakeholder-register.md) |
+| **Project Charter** | Formally authorizes the project and the PM | [project-charter.md](../templates/project-charter.md) |
+| **Initial Stakeholder Register** | Catalog of stakeholders with initial analysis | [stakeholder-register.md](../templates/stakeholder-register.md) |
 | **Assumption and Constraint Log** | Documents all known assumptions and constraints | [assumption-constraint-log.md](../templates/assumption-constraint-log.md) |
 | **Kick-off Meeting Agenda** | Structured agenda for the project launch meeting | [meeting-agenda.md](../templates/meeting-agenda.md) |
 | **Kick-off Meeting Minutes** | Record of decisions, actions, and attendees | [meeting-minutes.md](../templates/meeting-minutes.md) |
@@ -378,7 +378,7 @@ A kick-off meeting without a written agenda and documented minutes produces no l
 
 ### Exercise 3.1 — Write a business case summary
 
-**Scenario:** A regional council wants to replace its paper-based planning application process with a digital self-service portal. Currently, applicants submit paper forms; processing takes 28 days on average; the error rate is 18%; and customer satisfaction is 34%.
+**Scenario:** A city wants to replace its paper-based planning and zoning application process with a digital self-service portal. Currently, applicants submit paper forms; processing takes 28 days on average; the error rate is 18%; and customer satisfaction is 34%.
 
 Write a one-page business case summary covering: background, at least two options (including do nothing), recommended option, expected benefits (quantify where you can), key risks, and a recommendation.
 
@@ -399,7 +399,7 @@ Include: project name, purpose, objectives (SMART), scope (in scope and out of s
 ### Exercise 3.3 — Stakeholder identification sprint
 
 Still using the digital planning portal scenario, brainstorm a comprehensive list of stakeholders. For each, note:
-- Their role or organisation
+- Their role or organization
 - Their primary interest in the project
 - Whether their initial attitude is likely to be supportive, neutral, or resistant — and why
 
@@ -413,7 +413,7 @@ Aim for at least 10 stakeholders across internal, external, and regulatory categ
 
 ## Quiz
 
-**Question 1:** Which document formally authorises the project and appoints the project manager?
+**Question 1:** Which document formally authorizes the project and appoints the project manager?
 
 - A) Business Case
 - B) Feasibility Study
@@ -423,7 +423,7 @@ Aim for at least 10 stakeholders across internal, external, and regulatory categ
 <details>
 <summary>Reveal Answer</summary>
 
-**C) Project Charter.** The charter formally authorises the project's existence and gives the PM the authority to apply resources. The business case justifies *whether* to proceed; the charter authorises *how*.
+**C) Project Charter.** The charter formally authorizes the project's existence and gives the PM the authority to apply resources. The business case justifies *whether* to proceed; the charter authorizes *how*.
 
 </details>
 
@@ -452,7 +452,7 @@ Aim for at least 10 stakeholders across internal, external, and regulatory categ
 
 **1. Project Mandate → 2. Business Case → 3. Project Charter.**
 
-The mandate triggers the work. The business case makes the case for proceeding. The charter formally authorises proceeding and appoints the PM.
+The mandate triggers the work. The business case makes the case for proceeding. The charter formally authorizes proceeding and appoints the PM.
 
 </details>
 
@@ -461,14 +461,14 @@ The mandate triggers the work. The business case makes the case for proceeding. 
 **Question 4:** A project team assumes that regulatory approval will be granted before the launch date. This is later found to be incorrect, causing a 3-month delay. This is an example of:
 
 - A) A constraint becoming a risk
-- B) An undocumented assumption materialising as a risk
+- B) An undocumented assumption materializing as a risk
 - C) Scope creep
 - D) A governance failure
 
 <details>
 <summary>Reveal Answer</summary>
 
-**B) An undocumented assumption materialising as a risk.** Had the assumption been logged, it would have triggered a risk entry: "If regulatory approval is delayed, the project launch will be delayed." A response plan could have been developed in advance.
+**B) An undocumented assumption materializing as a risk.** Had the assumption been logged, it would have triggered a risk entry: "If regulatory approval is delayed, the project launch will be delayed." A response plan could have been developed in advance.
 
 </details>
 
@@ -508,7 +508,7 @@ The mandate triggers the work. The business case makes the case for proceeding. 
 
 ---
 
-**Previous Module:** [Module 02 — Project Governance and Organisational Context](02-governance.md)
+**Previous Module:** [Module 02 — Project Governance and Organizational Context](02-governance.md)
 **Next Module:** [Module 04 — Project Planning](04-planning.md)
 
 ---
@@ -517,7 +517,7 @@ The mandate triggers the work. The business case makes the case for proceeding. 
 
 | Module | Relationship |
 |---|---|
-| [02 — Governance and Business Case](02-governance.md) | The business case and governance structures that authorise initiation are covered there |
+| [02 — Governance and Organizational Context](02-governance.md) | Governance structures that authorize initiation are covered there |
 | [04 — Planning](04-planning.md) | The project charter and scope statement from initiation feed directly into the planning phase |
 | [09 — Stakeholder Management](09-stakeholder-management.md) | The stakeholder register first built at initiation is managed throughout in Module 09 |
 | [15a — Integration, Hybrid, and Agile](15a-integration-hybrid-agile.md) | Integration management shows how all initiation outputs must remain coherent throughout |
