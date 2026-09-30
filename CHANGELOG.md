@@ -1,7 +1,7 @@
 # Changelog
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
-![Version](https://img.shields.io/badge/Version-2.3.14-blue)
+![Version](https://img.shields.io/badge/Version-2.3.15-blue)
 ![Keep a Changelog](https://img.shields.io/badge/Keep%20a%20Changelog-1.1.0-orange)
 ![Semantic Versioning](https://img.shields.io/badge/Semver-2.0.0-informational)
 
@@ -19,6 +19,7 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## Table of Contents
 
 - [Unreleased](#unreleased)
+- [2.3.15 — 2026-09-30](#2315--2026-09-30)
 - [2.3.14 — 2026-09-30](#2314--2026-09-30)
 - [2.3.13 — 2026-09-30](#2313--2026-09-30)
 - [2.3.12 — 2026-09-30](#2312--2026-09-30)
@@ -48,6 +49,22 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## [Unreleased]
 
 *No unreleased changes.*
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## [2.3.15] — 2026-09-30
+
+Aligned five Meridian lines with the record around them. Historical notes in this changelog, and the v2.1.3 findings in `COURSE-REVIEW.md`, are unchanged.
+
+### Fixed
+
+- **Campaign.** The resident communications campaign is August–September 2026 in the communications plan and the stakeholder register, matching the status report, the risk register, and closure deliverable DEL-12.
+- **Awareness.** The lesson records 68% resident awareness before launch, against a 50% target. The 41% access figure stays separate.
+- **CR-002.** The closure report records +5 days in integration, absorbed, with the go-live date maintained.
+- **PIA.** The stakeholder register plans the Privacy Impact Assessment for May 1, 2026, before build begins.
+- **Training package.** WBS 1.6.1 is the training materials for the 54 in-scope service staff.
 
 [↑ Back to top](#table-of-contents)
 

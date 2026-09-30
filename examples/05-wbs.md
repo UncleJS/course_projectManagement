@@ -84,7 +84,7 @@ The WBS is a hierarchical decomposition of project scope into deliverables. It f
  │    └── 1.5.4  User Acceptance Testing Sign-off
  │
  ├── 1.6  TRAINING AND CHANGE
- │    ├── 1.6.1  Training Materials (contact center staff)
+ │    ├── 1.6.1  Training Materials (54 in-scope service staff)
  │    ├── 1.6.2  Training Completion Records
  │    └── 1.6.3  Resident Communications Materials
  │

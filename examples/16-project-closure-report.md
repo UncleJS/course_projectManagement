@@ -114,7 +114,7 @@ The project is recommended for formal closure. Benefits realization is being han
 | CR No. | Description | Cost impact ($) | Schedule impact |
 |---|---|---|---|
 | CR-001 | Spanish language interface deferred to Phase 2 | $0 (deferred; not funded in Phase 1) | None |
-| CR-002 | LandWorks API rate-limit increase to support integration load | +$7,200 (contingency-funded) | None |
+| CR-002 | LandWorks API rate-limit increase to support integration load | +$7,200 (contingency-funded) | +5 days in integration (absorbed); go-live date maintained |
 | CR-003 | Parking permit module deferred to Phase 2 (LandWorks API incompatibility) | −$18,000 (removed from build scope) | None — go-live date maintained |
 | CR-005 | Hypercare extended from 30 to 45 days | +$3,600 (contingency-funded) | None |
 | CR-006 | Go-live moved from October 1 to October 8. Exception report to the Sponsor / Executive. | $0 | +7 days |
