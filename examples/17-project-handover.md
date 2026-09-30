@@ -115,7 +115,7 @@ Civica Waste is the city's waste system. It is run by Civica Digital Services, w
 
 | Audience | Training type | Date(s) | Delivered by | Number trained | Outstanding |
 |---|---|---|---|---|---|
-| Contact-center and counter staff | Classroom + hands-on portal walkthrough | Sep–Oct 2026 | Diane Hughes (BCM) + GovTech | 54 / 54 (100%) | None |
+| In-scope service staff: the 12-person contact-center team, counter staff, and the planning, revenues, and waste officers who handle these services | Classroom + hands-on portal walkthrough | Sep–Oct 2026 | Diane Hughes (BCM) + GovTech | 54 / 54 (100%) | None |
 | Planning, revenues and waste service teams | Role-based system training | Sep 2026 | GovTech + ICT (Tom Okafor) | Included in the 54 | None |
 | ICT operational support | System administration handover | October 6, 2026 | GovTech | 4 | None |
 | Residents | Self-service user guide and in-portal help | At launch (ongoing) | Online (user guide, help pages) | n/a | Ongoing self-serve support |

@@ -105,7 +105,7 @@ The project is recommended for formal closure. Benefits realization is being han
 | DEL-07 | Yard waste subscription renewal module (live) | Yes | October 8, 2026 | Integration with Civica Waste — live |
 | DEL-08 | Parking permit module | **Not delivered (Phase 2)** | — | Deferred via CR-003 (approved July 8, 2026) due to LandWorks API limitation |
 | DEL-09 | Accessibility audit report and remediation | Yes | September 25, 2026 | All 14 issues resolved; WCAG 2.1 AA compliance confirmed |
-| DEL-10 | Staff training program | Yes | October 2, 2026 | 54 staff trained across planning, revenues, and waste services |
+| DEL-10 | Staff training program | Yes | October 2, 2026 | 54 in-scope service staff trained: the 12-person contact-center team, counter staff, and the planning, revenues, and waste officers who handle these services |
 | DEL-11 | System administration documentation | Yes | October 6, 2026 | Handed over to ICT (Tom Okafor) and GovTech support team |
 | DEL-12 | Resident communications campaign | Yes | Sep 2026 | 68% resident awareness pre-launch (target: 50%) |
 
@@ -247,7 +247,7 @@ The project is recommended for formal closure. Benefits realization is being han
 | Item | Status | Notes |
 |---|---|---|
 | Operational documentation complete | ✅ Yes | System admin guide, user guides, and troubleshooting guide — all delivered to ICT (Tom Okafor) and GovTech support team |
-| Staff training complete | ✅ Yes | 54 staff trained; training materials archived in SharePoint |
+| Staff training complete | ✅ Yes | 54 in-scope service staff trained: the 12-person contact-center team, counter staff, and the planning, revenues, and waste officers who handle these services. Training materials archived in SharePoint |
 | Support arrangements in place | ✅ Yes | GovTech Level 1/2 support contract live from October 8, 2026; ICT (Tom Okafor) retains Level 3 technical responsibility |
 | Service desk / helpdesk briefed | ✅ Yes | City ICT helpdesk briefed October 8, 2026; GovTech support portal access confirmed |
 | Acceptance signed by operations | ✅ Yes | Sandra Obi signed operational acceptance October 7, 2026 |

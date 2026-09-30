@@ -1,7 +1,7 @@
 # Changelog
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
-![Version](https://img.shields.io/badge/Version-2.3.13-blue)
+![Version](https://img.shields.io/badge/Version-2.3.14-blue)
 ![Keep a Changelog](https://img.shields.io/badge/Keep%20a%20Changelog-1.1.0-orange)
 ![Semantic Versioning](https://img.shields.io/badge/Semver-2.0.0-informational)
 
@@ -19,6 +19,7 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## Table of Contents
 
 - [Unreleased](#unreleased)
+- [2.3.14 — 2026-09-30](#2314--2026-09-30)
 - [2.3.13 — 2026-09-30](#2313--2026-09-30)
 - [2.3.12 — 2026-09-30](#2312--2026-09-30)
 - [2.3.11 — 2026-09-30](#2311--2026-09-30)
@@ -47,6 +48,18 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## [Unreleased]
 
 *No unreleased changes.*
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## [2.3.14] — 2026-09-30
+
+Named the 54 trained staff once. Historical notes in this changelog, and the v2.1.3 findings in `COURSE-REVIEW.md`, are unchanged.
+
+### Fixed
+
+- **Trained staff.** The 54 in-scope service staff are the 12-person contact-center team, counter staff, and the planning, revenues, and waste officers who handle these services. The handover, the closure report, and the communications plan use that description. The 12-person contact-center team is part of the 54.
 
 [↑ Back to top](#table-of-contents)
 
