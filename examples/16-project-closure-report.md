@@ -52,10 +52,10 @@
 The Meridian Citizen Self-Service Portal was delivered within budget and closed on its baseline date. The portal went live on October 15, 2026 — two weeks later than the original October 1 target, but within the overall schedule to formal closure — enabling City of Northgate residents to track planning and zoning applications, report missed trash collections, check property tax accounts, and renew yard waste subscriptions online without visiting or calling the City.
 
 **Budget**: $420,000 approved; $374,800 actual spend ($45,200 underspend, 10.8%) — driven by the CR-003 parking-permit scope reduction ($18,000) and unused contingency ($27,200).
-**Schedule**: Original planned go-live October 1, 2026; actual go-live October 15, 2026 (+14 days). The slip was contained within the schedule to formal closure, which remained on October 31, 2026 as baselined.
+**Schedule**: Original planned go-live October 1, 2026; actual go-live October 15, 2026 (+14 days). Formal closure remained October 31, 2026. Hypercare, set by CR-005 at 45 days from go-live, runs through November 29, 2026.
 **Scope**: Four service modules delivered (planning, waste, property tax, yard waste). Parking permit module formally deferred to Phase 2 (CR-003, approved July 2026) after a LandWorks API limitation was identified during integration testing.
 
-Early adoption data (end of October 2026) shows 41% of eligible residents have accessed the portal. That is an early reading, not the target. The 55% deflection target is measured at month 6 (April 2027). The contact-center volume benefit is on track to be measured then.
+Early use data (end of October 2026) shows 41% of eligible residents have accessed the portal. Access is not inquiry deflection. The 55% deflection target is the share of the 14,200 in-scope inquiries handled online, measured at month 6 (April 2027). That benefit has not been measured yet.
 
 The project is recommended for formal closure. Benefits realization is being handed over to Sandra Obi (Senior User / Head of Customer Services) with a post-implementation review scheduled for April 2027.
 
@@ -86,12 +86,11 @@ The project is recommended for formal closure. Benefits realization is being han
 
 | Ref | Objective | Achieved? | Notes |
 |---|---|---|---|
-| OBJ-01 | Deliver a public-facing self-service portal covering at least four city services | **Fully achieved** | Four modules delivered: planning, waste, property tax, yard waste |
-| OBJ-02 | Achieve ≥55% digital deflection of eligible inquiries by month 6 | **On track (not yet measurable at closure)** | 41% of eligible residents had accessed the portal by the end of October 2026. The 55% target is measured in April 2027. The post-implementation review will confirm. |
-| OBJ-03 | Deflect 55% of the 14,200 in-scope inquiries per year | **On track (not yet measurable at closure)** | Same benefit as OBJ-02. Measured in April 2027 against the 14,200 per year baseline. |
-| OBJ-04 | Deliver within approved budget of $420,000 | **Fully achieved** | Final spend $374,800 — $45,200 underspend |
-| OBJ-05 | Achieve full WCAG 2.1 AA accessibility compliance | **Fully achieved** | Accessibility audit completed September 26, 2026; all 14 issues resolved; compliance confirmed |
-| OBJ-06 | Obtain privacy sign-off from the Chief Privacy Officer | **Fully achieved** | Privacy Impact Assessment signed off by the Chief Privacy Officer on May 5, 2026; final privacy notice approved before go-live |
+| OBJ-01 | Deliver a fully operational citizen self-service portal | **Achieved late** | Live on October 15, 2026. The charter date was October 1, 2026 (+14 days). |
+| OBJ-02 | Enable digital self-service for planning and zoning inquiries, property tax payments, waste reporting, and parking permit renewals | **Partly achieved** | Planning and zoning, property tax, and waste reporting (missed trash and yard waste) are live. Parking permit renewal was deferred to Phase 2 (CR-003). |
+| OBJ-03 | Integrate with the Northgate LandWorks back-office system | **Achieved for delivered scope** | Integration for the live modules was tested and signed off by the ICT Manager before go-live. Parking-permit integration was not completed. |
+| OBJ-04 | Achieve project delivery within approved budget | **Fully achieved** | Outturn $374,800, within the $420,000 cap. |
+| OBJ-05 | Complete user acceptance testing with resident involvement | **Partly achieved** | Sandra Obi signed off the 47 UAT scenarios before go-live. The quality register records 12 resident testers. The charter measure was at least 30. |
 
 ### Deliverables
 
@@ -137,7 +136,7 @@ The project is recommended for formal closure. Benefits realization is being han
 
 **Schedule Performance Index (SPI) at closure**: 1.00
 
-**Commentary**: The build phase ran over: Gate 2 (build and integration complete) was reached on September 11, 2026, 35 days later than the August 7 baseline, principally due to LandWorks integration complexity — the parking-permit data limitation (CR-003) and the unplanned Harbor Payments payment-gateway security audit (ISS-04). Much of the slip was recovered by compressing the UAT and remediation window, so UAT completed only 7 days late (September 26) and go-live slipped 14 days to October 15. The slip was contained within the overall schedule to formal closure — which included the hypercare buffer to October 31 — so closure held its baseline date. SPI is 1.00 because the approved scope was finished by closure. That index does not measure the Gate 2 slip; the schedule table above does. The principal lesson (build-phase estimation for legacy-system integration) is captured in the lessons-learned log.
+**Commentary**: The build phase ran over: Gate 2 (build and integration complete) was reached on September 11, 2026, 35 days later than the August 7 baseline, principally due to LandWorks integration complexity — the parking-permit data limitation (CR-003) and the unplanned Harbor Payments payment-gateway security audit (ISS-04). Much of the slip was recovered by compressing the UAT and remediation window, so UAT completed only 7 days late (September 26) and go-live slipped 14 days to October 15. Formal closure stayed on its October 31 baseline. CR-005 (approved August 14, 2026) had already set hypercare at 45 days from go-live, then planned for October 1 (through November 15). From the actual October 15 go-live, those 45 days run through November 29, 2026, after formal closure. The October 31 date was the closure milestone, not a buffer that absorbed the slip. SPI is 1.00 because the approved scope was finished by closure. That index does not measure the Gate 2 slip; the schedule table above does. The principal lesson (build-phase estimation for legacy-system integration) is captured in the lessons-learned log.
 
 [↑ Back to top](#table-of-contents)
 
@@ -193,7 +192,7 @@ The project is recommended for formal closure. Benefits realization is being han
 
 **Key risk events**:
 - **RSK-01** (LandWorks integration complexity): Partially materialized — parking permits could not be integrated via standard API. Addressed via CR-003 (deferred to Phase 2). Remaining modules unaffected.
-- **RSK-03** (ICT Developer not confirmed): Materialized as ISS-01 in February 2026. Resolved within 2 weeks by Sponsor action (Tom Okafor confirmed March 13, 2026). No schedule impact.
+- **RSK-03** (ICT Developer not confirmed): Materialized as ISS-01, raised March 8, 2026. Resolved by Sponsor action (Tom Okafor confirmed March 13, 2026). No schedule impact.
 
 **Risks remaining open at close** (transferred to Benefits Realization / BAU):
 - RSK-02: GovTech ongoing support quality — transferred to ICT for monitoring in Phase 2 and support contract period.
@@ -217,7 +216,7 @@ The project is recommended for formal closure. Benefits realization is being han
 | Ref | Benefit | Baseline (pre-project) | Current measure (end-Oct 2026) | Expected full realization | Benefit owner (BAU) |
 |---|---|---|---|---|---|
 | BEN-01 | Reduction in contact-center volume for in-scope services | 14,200 inquiries per year | Not yet annualized (portal live two weeks) | April 2027 (55% deflection; about 6,390 inquiries remaining per year) | Sandra Obi, Head of Customer Services |
-| BEN-02 | Digital deflection ≥55% | 0% | 41% of eligible residents had accessed the portal (end of October 2026) | April 2027 (month 6) | Sandra Obi, Head of Customer Services |
+| BEN-02 | Digital deflection ≥55% of the 14,200 in-scope inquiries | 0% | Not yet measured. Separately, 41% of eligible residents had accessed the portal by October 31, 2026. Access is not deflection. | April 2027 (month 6) | Sandra Obi, Head of Customer Services |
 | BEN-03 | Contact-center staff time released | In-scope transactional workload | To be measured at month 6 | 1.8 FTE released by April 2027 | Sandra Obi, Head of Customer Services |
 | BEN-04 | Resident satisfaction score ≥75% | No baseline (new channel) | 81% satisfaction in exit survey (UAT pilot residents) | Ongoing — measured quarterly | Sandra Obi, Head of Customer Services |
 | BEN-05 | Net Cashable Saving (Year 1) | — | — | March 2027 (year-end) | James Hartley, Sponsor |

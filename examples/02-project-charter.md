@@ -146,7 +146,7 @@ The Meridian Portal project will deliver a citizen-facing self-service web porta
 | Contingency included | 38,000 (10%) |
 | Base budget (excluding contingency) | 382,000 |
 | Budget holder | James Hartley, Director of Digital Services |
-| Contingency release authority | James Hartley (up to $20k); Chief Executive above $20k |
+| Contingency release authority | James Hartley, Sponsor (up to $20,000); Project Board above $20,000 |
 
 [↑ Back to top](#table-of-contents)
 
@@ -204,10 +204,9 @@ Full Risk Register: [`14-risk-register.md`](14-risk-register.md)
 This charter grants **Sarah Chen** the authority to:
 
 - Assign and direct project team members as agreed with their line managers.
-- Commit expenditure up to $20,000 per change without further approval from the Project Board.
-- Issue change requests to the Project Board for approval above this threshold.
+- Approve or reject change requests that have no cost impact.
+- Prepare any change with a cost impact for a decision by the Sponsor (up to $20,000) or the Project Board (above $20,000). The project manager does not approve those changes.
 - Represent the project in stakeholder meetings and formal communications.
-- Approve or reject change requests with no cost impact.
 
 [↑ Back to top](#table-of-contents)
 

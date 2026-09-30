@@ -128,7 +128,7 @@ Sarah Chen walked through the Project Charter scope sections:
 
 Sarah Chen presented the RACI matrix highlights. Key points noted:
 
-- The Project Board (Sponsor, Senior User, Senior Supplier) will approve all changes above $20,000.
+- The project manager may approve zero-cost changes. The Sponsor approves cost changes up to $20,000. The Project Board (Sponsor, Senior User, Senior Supplier) approves changes above $20,000.
 - GovTech will own delivery of the platform build but all delivery acceptance sits with city representatives.
 - A Business Change Manager role needs to be filled — this is an open action (see Actions).
 

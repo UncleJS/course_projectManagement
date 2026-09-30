@@ -1,7 +1,7 @@
 # Changelog
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
-![Version](https://img.shields.io/badge/Version-2.3.0-blue)
+![Version](https://img.shields.io/badge/Version-2.3.1-blue)
 ![Keep a Changelog](https://img.shields.io/badge/Keep%20a%20Changelog-1.1.0-orange)
 ![Semantic Versioning](https://img.shields.io/badge/Semver-2.0.0-informational)
 
@@ -19,6 +19,7 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## Table of Contents
 
 - [Unreleased](#unreleased)
+- [2.3.1 — 2026-09-30](#231--2026-09-30)
 - [2.3.0 — 2026-09-30](#230--2026-09-30)
 - [2.2.0 — 2026-06-08](#220--2026-06-08)
 - [2.1.3 — 2026-03-03](#213--2026-03-03)
@@ -34,6 +35,22 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## [Unreleased]
 
 *No unreleased changes.*
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## [2.3.1] — 2026-09-30
+
+Aligned the Meridian worked examples so one change rule, one set of objective IDs, and one inquiry base run through the charter, the logs, and the closure report. Historical notes in this changelog, and the v2.1.3 findings in `COURSE-REVIEW.md`, are unchanged.
+
+### Fixed
+
+- **Change authority.** The project manager may approve only zero-cost changes. The Sponsor approves cost changes up to $20,000. The Project Board approves changes above that. Charter section 10, the contingency-release line, the RACI matrix, the kick-off minutes, CR-002, CR-003, and RSK-07 now use that rule.
+- **August 15 change log.** That snapshot no longer records a +14 day go-live. CR-005 sets hypercare at 45 days from the then-planned October 1 go-live (through November 15). Closure records the later October 15 go-live, so those 45 days run through November 29, after the October 31 closure date.
+- **Objectives.** The closure report scores OBJ-01 through OBJ-05 against the charter. The 55% deflection target and WCAG 2.1 AA stay on the benefit and quality rows.
+- **Inquiry base.** The 14,200 in-scope contacts are the set priced at $22. Portal access (41% of eligible residents) is not reported as inquiry deflection.
+- **Small corrections.** LL-001 no longer says the ICT developer was still unconfirmed at Gate 1. ISS-01 is March 8, 2026. The services that stayed in scope are named, rather than "three modules." The LL-008 parenthesis is closed. Three table-of-contents anchors match their headings. Handover addresses use `northgate.gov`.
 
 [↑ Back to top](#table-of-contents)
 

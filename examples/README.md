@@ -28,7 +28,7 @@
 
 ### Background
 
-The City of Northgate handles 14,200 resident inquiries per year by phone and in-person visit. 68% of these relate to planning and zoning applications, trash collection schedules, property tax, and parking permits — routine transactions that can be handled digitally. Staff costs for contact-center handling are $310,000 per year.
+The City of Northgate handles 14,200 in-scope resident inquiries per year by phone and in-person visit. Those inquiries are planning and zoning applications, trash collection, property tax, and parking permits — routine transactions that can be handled digitally, at about $22 per contact. Staff costs for that handling are $310,000 per year.
 
 The **Meridian Portal** project was approved to deliver a resident self-service web portal for planning and zoning applications, property tax, missed trash and yard-waste requests, and parking-permit renewal. Parking-permit renewal was in the original Phase 1 scope and was later deferred to Phase 2 (change request CR-003) after a LandWorks data limitation was found in integration testing.
 

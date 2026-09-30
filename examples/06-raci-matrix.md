@@ -78,8 +78,9 @@
 | Manage Risk Register | A/R | I | C | C | C | C | — |
 | Manage Change Log | A/R | I | C | C | I | — | — |
 | Convene and chair Project Board | C | A/R | C | C | — | — | — |
+| Approve changes (zero cost) | A/R | I | C | C | I | — | — |
+| Approve changes (≤$20k, cost impact) | C | A/R | C | C | I | — | — |
 | Approve changes (>$20k) | C | A/R | C | C | I | — | — |
-| Approve changes (≤$20k) | A/R | I | C | C | I | — | — |
 | **Initiation and Design** | | | | | | | |
 | Sign supplier contract | C | A/R | — | C | R | — | — |
 | Complete Privacy Impact Assessment | R | I | I | C | C | — | A |

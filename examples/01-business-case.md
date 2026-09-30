@@ -66,7 +66,7 @@ The City of Northgate spends $310,000 per year handling approximately 14,200 cit
 
 ### Problem Statement
 
-The city's contact center receives 14,200 in-scope inquiries per year. Analysis of call and visit data shows that 68% are transactional — residents seeking status updates, making payments, or submitting standard requests. These interactions require no officer discretion and are currently handled at an average cost of $22 per contact (staff time, premises, systems).
+The city's contact center receives 14,200 in-scope inquiries per year for planning and zoning, trash collection, property tax, and parking permits. Those inquiries are transactional — residents seeking status updates, making payments, or submitting standard requests. They require no officer discretion and are handled at an average cost of $22 per contact (staff time, premises, systems), about $310,000 per year. The benefit formula prices this full set of 14,200 contacts.
 
 Residents consistently rate the contact experience as time-consuming (average wait time: 11 minutes). The city's digital satisfaction index scores 34/100 — well below the sector benchmark of 58.
 
