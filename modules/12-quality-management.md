@@ -329,7 +329,7 @@ When defects or quality failures occur, root cause analysis (RCA) prevents recur
 The simplest RCA technique: repeatedly ask "Why?" until the root cause is revealed.
 
 **Example:**
-- Problem: UAT found 47 critical defects in the first test cycle
+- Problem: UAT found 47 defects in the first test cycle, none of them critical
 - Why? Because the code was not adequately tested before UAT
 - Why? Because unit tests were skipped
 - Why? Because the development team was under schedule pressure in the last sprint

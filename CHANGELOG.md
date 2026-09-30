@@ -1,7 +1,7 @@
 # Changelog
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
-![Version](https://img.shields.io/badge/Version-2.3.8-blue)
+![Version](https://img.shields.io/badge/Version-2.3.9-blue)
 ![Keep a Changelog](https://img.shields.io/badge/Keep%20a%20Changelog-1.1.0-orange)
 ![Semantic Versioning](https://img.shields.io/badge/Semver-2.0.0-informational)
 
@@ -19,6 +19,7 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## Table of Contents
 
 - [Unreleased](#unreleased)
+- [2.3.9 — 2026-09-30](#239--2026-09-30)
 - [2.3.8 — 2026-09-30](#238--2026-09-30)
 - [2.3.7 — 2026-09-30](#237--2026-09-30)
 - [2.3.6 — 2026-09-30](#236--2026-09-30)
@@ -42,6 +43,22 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## [Unreleased]
 
 *No unreleased changes.*
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## [2.3.9] — 2026-09-30
+
+Closed the gaps that remained after the audit-date correction. Historical notes in this changelog, and the v2.1.3 findings in `COURSE-REVIEW.md`, are unchanged.
+
+### Fixed
+
+- **Audit outcomes.** Closure states that the outcome targets were met, and that none of the three formal audits hit its planned date. That matches the quality register.
+- **CR-003.** The parking-permit deferral did not add time to the UAT baseline. Its schedule impact is the same in the change log and the closure report: the go-live date was maintained.
+- **UAT defects.** The Module 12 root-cause example uses the Meridian count of 47 UAT defects, and states that none were critical.
+- **Benefits.** BEN-01 uses the 23-day reading at October 31. BEN-04 keeps the January phone baseline of 62%. BEN-06 is owned by Sandra Obi. Closure hands over BEN-01 through BEN-07.
+- **QR-001.** The two discovery findings are low, matching the defect log. The log total stays 92.
 
 [↑ Back to top](#table-of-contents)
 

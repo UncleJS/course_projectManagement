@@ -180,7 +180,7 @@ The project is recommended for formal closure. Benefits realization is being han
 | Public-facing uptime (first 2 weeks post-launch) | ≥99.5% | 99.8% | ✅ Yes |
 | Staff training completion | 100% of in-scope staff | 54/54 (100%) | ✅ Yes |
 
-**Commentary**: The quality-register targets in this table were met. The charter measure of at least 30 residents in UAT was not: 12 resident testers took part, and that shortfall is scored under OBJ-05. The two-round accessibility audit approach (initial audit + remediation + re-audit) was absorbed within the existing content/UX budget and was the right decision — the portal launched fully WCAG 2.1 AA compliant, which is both a legal requirement and a reputational imperative for a public-sector service. GovTech's UAT entry quality was good — no critical defects at UAT entry.
+**Commentary**: The outcome targets in this table were met. The quality register records a separate miss: none of the three formal audits hit its planned date. The PIA was May 2 (planned May 1), the Harbor Payments audit was July 14 (planned July 10), and the accessibility audit was September 8 (planned September 5). Each was completed, and its findings were closed, before the related gate. The charter measure of at least 30 residents in UAT was not: 12 resident testers took part, and that shortfall is scored under OBJ-05. The two-round accessibility audit approach (initial audit + remediation + re-audit) was absorbed within the existing content/UX budget and was the right decision — the portal launched fully WCAG 2.1 AA compliant, which is both a legal requirement and a reputational imperative for a public-sector service. GovTech's UAT entry quality was good — no critical defects at UAT entry.
 
 [↑ Back to top](#table-of-contents)
 
@@ -229,8 +229,10 @@ The project is recommended for formal closure. Benefits realization is being han
 | BEN-01 | Reduction in contact-center volume for in-scope services | 14,200 inquiries per year | Not yet annualized (portal live 23 days) | April 2027 (55% deflection; about 6,390 inquiries remaining per year) | Sandra Obi, Head of Customer Services |
 | BEN-02 | Digital deflection ≥55% of the 14,200 in-scope inquiries | 0% | Not yet measured. Separately, 41% of eligible residents had accessed the portal by October 31, 2026. Access is not deflection. | April 2027 (month 6) | Sandra Obi, Head of Customer Services |
 | BEN-03 | Contact-center staff time released | In-scope transactional workload | To be measured at month 6 | 1.8 FTE released by April 2027 | Sandra Obi, Head of Customer Services |
-| BEN-04 | Resident satisfaction score ≥75% | No baseline (new channel) | 81% from the 12 resident UAT testers (September 2026). Quarterly survey starts January 2027 | Ongoing — measured quarterly | Sandra Obi, Head of Customer Services |
+| BEN-04 | Resident satisfaction score ≥75% | Phone service 62% (January 2026). No portal baseline. | 81% from the 12 resident UAT testers (September 2026). Quarterly survey starts January 2027 | Ongoing — measured quarterly | Sandra Obi, Head of Customer Services |
 | BEN-05 | Net Cashable Saving (first operational year) | — | — | April 8, 2027 (month 6) | James Hartley, Sponsor |
+| BEN-06 | Officer time per in-scope transaction ≤5 minutes | 12 minutes per phone inquiry (March 2026) | Not yet measured | April 8, 2027 | Sandra Obi, Head of Customer Services |
+| BEN-07 | WCAG 2.1 AA compliance, with ongoing accessibility feedback | No accessible online channel | WCAG 2.1 AA confirmed September 25, 2026 | At launch and ongoing | Sandra Obi, Head of Customer Services |
 
 **Post-project benefits review date**: April 28, 2027 (Post-Implementation Review)
 
