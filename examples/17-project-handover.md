@@ -55,7 +55,7 @@ This document records the formal handover of the Meridian portal from the projec
 
 ## 1. What Has Been Delivered
 
-The Meridian Citizen Self-Service Portal went live on **October 15, 2026**. It provides City of Northgate residents with a single online access point for the following services:
+The Meridian Citizen Self-Service Portal went live on **October 8, 2026**. It provides City of Northgate residents with a single online access point for the following services:
 
 | Module | Description | Back-office system integrated |
 |---|---|---|
@@ -113,7 +113,7 @@ The Meridian Citizen Self-Service Portal went live on **October 15, 2026**. It p
 |---|---|---|---|---|---|
 | Contact-center and counter staff | Classroom + hands-on portal walkthrough | Sep–Oct 2026 | Diane Hughes (BCM) + GovTech | 54 / 54 (100%) | None |
 | Planning, revenues and waste service teams | Role-based system training | Sep 2026 | GovTech + ICT (Tom Okafor) | Included in the 54 | None |
-| ICT operational support | System administration handover | October 10, 2026 | GovTech | 4 | None |
+| ICT operational support | System administration handover | October 6, 2026 | GovTech | 4 | None |
 | Residents | Self-service user guide and in-portal help | At launch (ongoing) | Online (user guide, help pages) | n/a | Ongoing self-serve support |
 
 [↑ Back to top](#table-of-contents)

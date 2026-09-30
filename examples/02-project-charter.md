@@ -98,7 +98,7 @@ The Meridian Portal project will deliver a citizen-facing self-service web porta
 |---|---|---|---|
 | DEL-01 | Signed supplier contract | GovTech Solutions contract executed | March 6, 2026 |
 | DEL-02 | Discovery and design specification | UX design, integration specification, content plan approved | May 8, 2026 |
-| DEL-03 | Configured platform (build complete) | All four service modules built and integrated, ready for testing | August 7, 2026 |
+| DEL-03 | Configured platform (build complete) | All four service modules built and ready for integration testing. Integration testing finishes at the later SIT milestone. | August 7, 2026 |
 | DEL-04 | UAT sign-off | User acceptance testing completed; defects resolved or deferred | September 19, 2026 |
 | DEL-05 | Live portal | Portal accessible to all Northgate residents | October 1, 2026 |
 | DEL-06 | Training completion record | Contact-center team trained and signed off | September 26, 2026 |

@@ -24,7 +24,7 @@
 **Sponsor / Executive:** Director of Digital Services, James Hartley  
 **Budget:** $420,000  
 **Duration:** 9 months (February 2026 – October 2026)  
-**Go-live:** planned October 1, 2026; actual October 15, 2026 (+14 days)
+**Go-live:** planned October 1, 2026; actual October 8, 2026 (+7 days, CR-006)
 
 ### Background
 

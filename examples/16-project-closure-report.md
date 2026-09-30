@@ -49,10 +49,10 @@
 
 ## 1. Executive Summary
 
-The Meridian Citizen Self-Service Portal was delivered within budget and closed on its baseline date. The portal went live on October 15, 2026 — two weeks later than the original October 1 target, but within the overall schedule to formal closure — enabling City of Northgate residents to track planning and zoning applications, report missed trash collections, check property tax accounts, and renew yard waste subscriptions online without visiting or calling the City.
+The Meridian Citizen Self-Service Portal was delivered within budget and closed on its baseline date. The portal went live on October 8, 2026 — 7 days later than the original October 1 target, but within the overall schedule to formal closure — enabling City of Northgate residents to track planning and zoning applications, report missed trash collections, check property tax accounts, and renew yard waste subscriptions online without visiting or calling the City.
 
 **Budget**: $420,000 approved; $374,800 actual spend ($45,200 underspend, 10.8%) — driven by the CR-003 parking-permit scope reduction ($18,000) and unused contingency ($27,200).
-**Schedule**: Original planned go-live October 1, 2026; actual go-live October 15, 2026 (+14 days). Formal closure remained October 31, 2026. Hypercare, set by CR-005 at 45 days from go-live, runs through November 29, 2026.
+**Schedule**: Original planned go-live October 1, 2026; actual go-live October 8, 2026 (+7 days, CR-006). Formal closure remained October 31, 2026. Hypercare, set by CR-005 at 45 days from go-live, runs through November 22, 2026.
 **Scope**: Planning and zoning, property tax, and waste reporting (missed trash and yard waste) went live. Parking permit renewal, the fourth chartered module, was deferred to Phase 2 (CR-003, approved July 2026) after a LandWorks API limitation was identified during integration testing.
 
 Early use data (end of October 2026) shows 41% of eligible residents have accessed the portal. Access is not inquiry deflection. The 55% deflection target is the share of the 14,200 in-scope inquiries handled online, measured at month 6 (April 2027). That benefit has not been measured yet.
@@ -86,7 +86,7 @@ The project is recommended for formal closure. Benefits realization is being han
 
 | Ref | Objective | Achieved? | Notes |
 |---|---|---|---|
-| OBJ-01 | Deliver a fully operational citizen self-service portal | **Achieved late** | Live on October 15, 2026. The charter date was October 1, 2026 (+14 days). |
+| OBJ-01 | Deliver a fully operational citizen self-service portal | **Achieved late** | Live on October 8, 2026. The charter date was October 1, 2026 (+7 days, CR-006). |
 | OBJ-02 | Enable digital self-service for planning and zoning inquiries, property tax payments, waste reporting, and parking permit renewals | **Partly achieved** | Planning and zoning, property tax, and waste reporting (missed trash and yard waste) are live. Parking permit renewal was deferred to Phase 2 (CR-003). |
 | OBJ-03 | Integrate with the Northgate LandWorks back-office system | **Achieved for delivered scope** | Integration for the live modules was tested and signed off by the ICT Manager before go-live. Parking-permit integration was not completed. |
 | OBJ-04 | Achieve project delivery within approved budget | **Fully achieved** | Outturn $374,800, within the $420,000 cap. |
@@ -99,14 +99,14 @@ The project is recommended for formal closure. Benefits realization is being han
 | DEL-01 | Discovery Report and UX Design Specification | Yes | May 8, 2026 | Approved at Gate 1 by Senior User and Senior Supplier |
 | DEL-02 | Integration Specification | Yes | May 8, 2026 | Approved by ICT Manager (Mark Pearce) at Gate 1 |
 | DEL-03 | Privacy Impact Assessment | Yes | May 5, 2026 | Signed off by the Chief Privacy Officer |
-| DEL-04 | Planning and zoning application tracking module (live) | Yes | October 15, 2026 | Integration with LandWorks (planning) — live |
-| DEL-05 | Missed trash collection reporting module (live) | Yes | October 15, 2026 | Integration with Civica (waste) — live |
-| DEL-06 | Property tax account / payment module (live) | Yes | October 15, 2026 | Integration with Harbor Payments (property tax) — live; security cert obtained Jul 2026 |
-| DEL-07 | Yard waste subscription renewal module (live) | Yes | October 15, 2026 | Integration with Civica (waste) — live |
+| DEL-04 | Planning and zoning application tracking module (live) | Yes | October 8, 2026 | Integration with LandWorks (planning) — live |
+| DEL-05 | Missed trash collection reporting module (live) | Yes | October 8, 2026 | Integration with Civica (waste) — live |
+| DEL-06 | Property tax account / payment module (live) | Yes | October 8, 2026 | Integration with Harbor Payments (property tax) — live; security cert obtained Jul 2026 |
+| DEL-07 | Yard waste subscription renewal module (live) | Yes | October 8, 2026 | Integration with Civica (waste) — live |
 | DEL-08 | Parking permit module | **Not delivered (Phase 2)** | — | Deferred via CR-003 (approved July 8, 2026) due to LandWorks API limitation |
 | DEL-09 | Accessibility audit report and remediation | Yes | September 26, 2026 | All 14 issues resolved; WCAG 2.1 AA compliance confirmed |
 | DEL-10 | Staff training program | Yes | October 3, 2026 | 54 staff trained across planning, revenues, and waste services |
-| DEL-11 | System administration documentation | Yes | October 10, 2026 | Handed over to ICT (Tom Okafor) and GovTech support team |
+| DEL-11 | System administration documentation | Yes | October 6, 2026 | Handed over to ICT (Tom Okafor) and GovTech support team |
 | DEL-12 | Resident communications campaign | Yes | Sep 2026 | 68% resident awareness pre-launch (target: 50%) |
 
 ### Scope Changes
@@ -117,7 +117,8 @@ The project is recommended for formal closure. Benefits realization is being han
 | CR-002 | LandWorks API rate-limit increase to support integration load | +$7,200 (contingency-funded) | None |
 | CR-003 | Parking permit module deferred to Phase 2 (LandWorks API incompatibility) | −$18,000 (removed from build scope) | None — go-live date maintained |
 | CR-005 | Hypercare extended from 30 to 45 days | +$3,600 (contingency-funded) | None |
-| **Net scope change impact** | | **−$7,200** | **None** |
+| CR-006 | Go-live moved from October 1 to October 8. Exception report to the Sponsor / Executive. | $0 | +7 days |
+| **Net scope change impact** | | **−$7,200** | **Go-live +7 days** |
 
 [↑ Back to top](#table-of-contents)
 
@@ -132,13 +133,14 @@ The project is recommended for formal closure. Benefits realization is being han
 | SIT complete | August 21, 2026 | September 4, 2026 | **+14 days (late)** |
 | UAT begins | August 22, 2026 | September 11, 2026 | **+20 days (late)** |
 | UAT complete | September 19, 2026 | September 26, 2026 | **+7 days (late)** |
+| Contact-center training sign-off | September 26, 2026 | October 3, 2026 | **+7 days (late)** |
 | Accessibility audit and remediation complete | October 3, 2026 | September 26, 2026 | **+7 days (early)** |
-| Go-live | October 1, 2026 | October 15, 2026 | **+14 days (late)** |
+| Go-live | October 1, 2026 | October 8, 2026 | **+7 days (late)** |
 | Project closure | October 31, 2026 | October 31, 2026 | **0 days** |
 
 **Schedule Performance Index (SPI) at closure**: 1.00
 
-**Commentary**: Gate 2, build complete, was met on August 7, 2026. Yard waste, the last module demo, was accepted that day. Integration testing was not on time. SIT was planned to finish on August 21, ahead of UAT on August 22. The run started on August 22 and the seven defects were closed on September 4, 14 days late. UAT therefore began on September 11 instead of August 22, 20 days late. UAT then finished on September 26, 7 days after the September 19 gate, and go-live moved from October 1 to October 15. The Harbor Payments audit (ISS-04) closed on July 21 and did not move Gate 2. Parking permits had already been deferred on July 8 (CR-003). The slip that remains is the LandWorks integration test. Formal closure stayed on October 31. CR-005 (approved August 14, 2026) had already set hypercare at 45 days from go-live, then planned for October 1 (through November 15). From the actual October 15 go-live, those 45 days run through November 29, 2026, after formal closure. The October 31 date was the closure milestone, not a buffer that absorbed the slip. SPI is 1.00 because the approved scope was finished by closure. That index does not measure the SIT or UAT slip; the schedule table above does. The principal lesson (integration-test time on a legacy system) is captured in the lessons-learned log.
+**Commentary**: Gate 2, build complete, was met on August 7, 2026. Yard waste, the last module demo, was accepted that day. Integration testing was not on time. SIT was planned to finish on August 21, ahead of UAT on August 22. The run started on August 22 and the seven defects were closed on September 4, 14 days late. UAT therefore began on September 11 instead of August 22, 20 days late. UAT then finished on September 26, 7 days after the September 19 gate. The plan kept 12 days after UAT for training and cutover. Training sign-off moved from September 26 to October 3. Counted from September 26, the same gap ends on October 8, so go-live moved by those 7 days (CR-006, approved September 30). Production readiness passed on October 7, and operational acceptance was signed the same day. The Harbor Payments audit (ISS-04) closed on July 21 and did not move Gate 2. Parking permits had already been deferred on July 8 (CR-003). The slip that remains is the LandWorks integration test. Formal closure stayed on October 31. CR-005 (approved August 14, 2026) had already set hypercare at 45 days from go-live, then planned for October 1 (through November 15). From the actual October 8 go-live, those 45 days run through November 22, 2026, after formal closure. The October 31 date was the closure milestone, not a buffer that absorbed the slip. SPI is 1.00 because the approved scope was finished by closure. That index does not measure the SIT or UAT slip; the schedule table above does. The principal lesson (integration-test time on a legacy system) is captured in the lessons-learned log.
 
 [↑ Back to top](#table-of-contents)
 
@@ -237,9 +239,9 @@ The project is recommended for formal closure. Benefits realization is being han
 |---|---|---|
 | Operational documentation complete | ✅ Yes | System admin guide, user guides, and troubleshooting guide — all delivered to ICT (Tom Okafor) and GovTech support team |
 | Staff training complete | ✅ Yes | 54 staff trained; training materials archived in SharePoint |
-| Support arrangements in place | ✅ Yes | GovTech Level 1/2 support contract live from October 15, 2026; ICT (Tom Okafor) retains Level 3 technical responsibility |
+| Support arrangements in place | ✅ Yes | GovTech Level 1/2 support contract live from October 8, 2026; ICT (Tom Okafor) retains Level 3 technical responsibility |
 | Service desk / helpdesk briefed | ✅ Yes | City ICT helpdesk briefed October 8, 2026; GovTech support portal access confirmed |
-| Acceptance signed by operations | ✅ Yes | Sandra Obi signed operational acceptance October 14, 2026 |
+| Acceptance signed by operations | ✅ Yes | Sandra Obi signed operational acceptance October 7, 2026 |
 | Benefits owner confirmed | ✅ Yes | Sandra Obi confirmed as benefits owner; PIR scheduled April 2027 |
 | Phase 2 handover brief prepared | ✅ Yes | Parking permit module brief prepared for Phase 2 planning; includes LandWorks technical findings and CR-003 documentation |
 
@@ -257,7 +259,7 @@ The project is recommended for formal closure. Benefits realization is being han
 | 2 | BCM not confirmed until Month 3 — staff engagement unmanaged during design phase | Organizational change management | BCM confirmation should be a Gate 0 condition for projects with significant staff behavior change requirements |
 | 3 | LandWorks API limitations were not validated before business case finalization | Technical / technology | Technical spike (proof-of-concept API test) must be completed before business case sign-off for all LandWorks-dependent projects |
 | 4 | Benefits baseline measures were not established at project initiation | Project closure / benefits | Benefits register with baseline measures must be completed at initiation stage — before any activity that might affect the baseline |
-| 5 | The two-week float after UAT covered the 7-day UAT overrun. It did not recover the earlier SIT slip, so go-live still moved 14 days | Schedule management | Size float against the slip it can actually absorb. A float after UAT does not recover a late start to UAT |
+| 5 | The 12 days after UAT were already planned for training and cutover. UAT finished 7 days late, so go-live moved 7 days, to October 8 | Schedule management | Name the activities inside a gap. If they stay, a late UAT finish moves go-live by the same number of days |
 
 **Lessons submitted to PMO**: Yes — October 31, 2026.
 

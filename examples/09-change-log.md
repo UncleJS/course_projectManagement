@@ -17,6 +17,7 @@
 - [Cumulative Impact Summary](#cumulative-impact-summary)
   - [Contingency Tracking (as at August 15, 2026)](#contingency-tracking-as-at-august-15-2026)
 - [Notes](#notes)
+- [Closure addendum: CR-006](#closure-addendum-cr-006)
 
 ---
 
@@ -25,9 +26,11 @@
 | Field | Value |
 |---|---|
 | **Project Title** | Meridian — Citizen Self-Service Portal |
-| **Version** | 1.3 |
-| **Date** | August 15, 2026 |
+| **Version** | 1.3, with a closure addendum |
+| **Date** | August 15, 2026. The addendum is dated October 31, 2026. |
 | **Owner** | Sarah Chen, Project Manager |
+
+> **Snapshot.** The log and the cumulative totals below are the position on August 15, 2026. CR-006 was not known then. It is recorded in the closure addendum. It has no cost, so the contingency totals do not change.
 
 [↑ Back to top](#table-of-contents)
 
@@ -108,6 +111,18 @@
 **CR-003** (Parking Permit Deferral) is the most significant change on this project. It was discovered during integration testing that the LandWorks system does not hold parking permit expiry data in a queryable format — it is stored as a scanned PDF attachment. Extracting this data would require significant LandWorks system changes outside project scope. The decision to defer rather than attempt a workaround was correct and protected the go-live date.
 
 **CR-004** (Pothole reporting) is a good example of scope creep from a senior stakeholder. Despite coming via the Sponsor, the change was correctly assessed and rejected because it would have endangered the fixed go-live date (CON-02) and was outside the scope of the business case.
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## Closure addendum: CR-006
+
+*Added October 31, 2026. This row is not part of the August 15 snapshot.*
+
+| CR No. | Date submitted | Submitted by | Description | Baselines affected | Cost impact ($) | Schedule impact | Priority | Decision | Decision by | Decision date | Implementation status | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| CR-006 | September 28, 2026 | Sarah Chen | Move go-live from October 1, 2026 to October 8, 2026. Raised as an exception report to the Sponsor. | Schedule | $0 | Go-live +7 days. Formal closure stays October 31, 2026. | Must | Approved | James Hartley (Sponsor / Executive) | September 30, 2026 | Implemented | UAT finished September 26. The plan kept 12 days after UAT for training and cutover, so that gap, counted from September 26, ends October 8. Training sign-off moved from September 26 to October 3. Production readiness passed October 7. A zero-cost change is normally approved by the PM. This one moves the charter go-live date, which requires Executive approval. Hypercare stays 45 days from the actual go-live, through November 22, 2026. |
 
 [↑ Back to top](#table-of-contents)
 

@@ -64,7 +64,7 @@
 | QR-012 | Accessibility audit (Round 1) | Audit | September 5, 2026 | September 8, 2026 | Civic Access Partners (independent accessibility auditors) | WCAG 2.1 AA (Level A and AA criteria) | **Failed** | 14 (4 high, 6 medium, 4 low) | 0 (at time of audit) | — | Independent audit commissioned. Round 2 scheduled after remediation. |
 | QR-013 | Accessibility remediation review | Technical Inspection | September 19, 2026 | September 19, 2026 | GovTech Lead Developer, Tom Okafor | QR-012 findings — all 14 issues; WCAG 2.1 AA | **Passed** | 0 | 14/14 (all QR-012 defects resolved) | September 26, 2026 | All 14 accessibility defects resolved. Civic Access Partners confirmed WCAG 2.1 AA compliance September 26. |
 | QR-014 | Android device compatibility check | Test | August 20, 2026 | August 22, 2026 | GovTech Test Lead | Mobile browser compatibility matrix (iOS 14+, Android 9+, major desktop browsers) | **Conditional pass** | 1 (medium — Android 8 and below layout issue; ISS-06) | 1 | August 25, 2026 | Android 8 and below: layout issue (ISS-06). Fix deployed August 22; re-test confirmed August 25. |
-| QR-015 | Pre-launch production readiness check | Quality Review | October 13, 2026 | October 13, 2026 | Sarah Chen, Tom Okafor, GovTech PM, Mark Pearce | Production readiness checklist (16 items): infrastructure, DNS, SSL, monitoring, support ready, data backup, rollback plan | **Passed** | 0 | — | October 13, 2026 | All 16 readiness criteria confirmed. Go/No-go decision: **Go**. Launch approved for October 15. |
+| QR-015 | Pre-launch production readiness check | Quality Review | October 7, 2026 | October 7, 2026 | Sarah Chen, Tom Okafor, GovTech PM, Mark Pearce | Production readiness checklist (16 items): infrastructure, DNS, SSL, monitoring, support ready, data backup, rollback plan | **Passed** | 0 | — | October 7, 2026 | All 16 readiness criteria confirmed. Go/No-go decision: **Go**. Launch approved for October 8 (CR-006). |
 | QR-016 | Post-launch monitoring review (Week 1) | Quality Review | October 22, 2026 | October 22, 2026 | Tom Okafor, GovTech PM, Sarah Chen | Uptime SLA (≥99.5%); response time (<3s); error rate (<0.5%) | **Passed** | 0 | — | October 22, 2026 | Week 1: 99.8% uptime; avg response time 1.4s; error rate 0.1%. All within SLA. |
 
 [↑ Back to top](#table-of-contents)
@@ -117,7 +117,7 @@
 | PIA (data protection) | May 1, 2026 | May 2, 2026 | Chief Privacy Officer | the city's privacy rules compliance; data flows; privacy notice | ✅ Completed — Passed |
 | Harbor Payments payment security audit | July 10, 2026 | July 10, 2026 | Harbor Payments security team | PCI-DSS-aligned payment gateway integration | ✅ Completed — Conditional pass; resolved |
 | Accessibility audit (WCAG 2.1 AA) | September 5, 2026 | September 8, 2026 | Civic Access Partners | WCAG 2.1 AA — all portal pages and transactions | ✅ Completed — Failed Round 1; all issues resolved; AA compliance confirmed September 26 |
-| Pre-launch production readiness | October 13, 2026 | October 13, 2026 | Sarah Chen / Tom Okafor | 16-item production readiness checklist | ✅ Completed — Passed |
+| Pre-launch production readiness | October 7, 2026 | October 7, 2026 | Sarah Chen / Tom Okafor | 16-item production readiness checklist | ✅ Completed — Passed |
 
 [↑ Back to top](#table-of-contents)
 
