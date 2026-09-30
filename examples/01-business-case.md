@@ -56,7 +56,7 @@
 
 ## 1. Executive Summary
 
-The City of Northgate spends $310,000 per year handling approximately 14,200 citizen inquiries that are routine and transactional in nature. The Meridian Portal project will deliver a citizen-facing self-service web platform enabling residents to manage planning and zoning inquiries, pay property tax, report missed trash and yard waste, and renew parking permits without staff intervention. Based on a conservative 55% digital deflection rate, the portal is projected to save $123,820 per year net by Year 2 of operation ($171,820 gross less $48,000 annual running cost), recovering the full investment within about 3.4 years. The project is recommended for approval at a total investment of $420,000.
+The City of Northgate spends $312,400 per year handling 14,200 citizen inquiries that are routine and transactional in nature (14,200 × $22). The Meridian Portal project will deliver a citizen-facing self-service web platform enabling residents to manage planning and zoning inquiries, pay property tax, report missed trash and yard waste, and renew parking permits without staff intervention. Based on a conservative 55% digital deflection rate, the portal is projected to save $123,820 per year net by Year 2 of operation ($171,820 gross less $48,000 annual running cost), recovering the full investment within about 3.4 years. The project is recommended for approval at a total investment of $420,000.
 
 [↑ Back to top](#table-of-contents)
 
@@ -66,7 +66,7 @@ The City of Northgate spends $310,000 per year handling approximately 14,200 cit
 
 ### Problem Statement
 
-The city's contact center receives 14,200 in-scope inquiries per year for planning and zoning, trash collection, property tax, and parking permits. Those inquiries are transactional — residents seeking status updates, making payments, or submitting standard requests. They require no officer discretion and are handled at an average cost of $22 per contact (staff time, premises, systems), about $310,000 per year. The benefit formula prices this full set of 14,200 contacts.
+The city's contact center receives 14,200 in-scope inquiries per year for planning and zoning, trash collection, property tax, and parking permits. Those inquiries are transactional — residents seeking status updates, making payments, or submitting standard requests. They require no officer discretion and are handled at $22 per contact (staff time, premises, systems), which is $312,400 per year. The benefit formula prices this full set of 14,200 contacts.
 
 Residents consistently rate the contact experience as time-consuming (average wait time: 11 minutes). The city's digital satisfaction index scores 34/100 — well below the sector benchmark of 58.
 
@@ -102,7 +102,7 @@ A procurement framework agreement with GovTech Solutions Inc. (awarded 2024) ena
 
 ### Option 0 — Do Nothing
 
-Continue operating the current phone and in-person contact model. Annual cost of $310,000 maintained; resident satisfaction remains low; City strategic plan digital target not achieved. Not recommended.
+Continue operating the current phone and in-person contact model. Annual cost of $312,400 maintained; resident satisfaction remains low; City strategic plan digital target not achieved. Not recommended.
 
 ### Option 1 — Build a Bespoke Portal (Internal Development)
 
@@ -137,7 +137,7 @@ Transfer the contact-center function to a shared-service provider. Estimated sav
 
 | Benefit | Category | Measure | Baseline | Target | Realization date | Owner |
 |---|---|---|---|---|---|---|
-| Contact-center cost reduction | Financial | $ saving per year | $310,000 annual cost | $171,820 per year gross (55% deflection × $22/contact × 14,200 contacts) | April 2027 (6 months post go-live) | Head of Customer Services |
+| Contact-center cost reduction | Financial | $ saving per year | $312,400 annual cost (14,200 × $22) | $171,820 per year gross (55% deflection × $22/contact × 14,200 contacts) | April 2027 (6 months post go-live) | Head of Customer Services |
 | Staff time redeployment | Financial | FTE equivalent released | 0 | 1.8 FTE (redeployed to complex casework) | April 2027 | HR Business Partner |
 | Resident digital satisfaction | Non-financial | Digital satisfaction index (0–100) | 34 | 54 or higher | October 2027 (12 months post go-live) | Head of Customer Services |
 | Digital transaction rate | Non-financial | % transactions completed digitally | 18% | 55% | April 2027 | Digital Services Manager |
@@ -188,9 +188,9 @@ Transfer the contact-center function to a shared-service provider. Estimated sav
 | 2029 (Year 3) | -48,000 | +171,820 | +123,820 | -48,540 |
 | 2030 (Year 4) | -48,000 | +171,820 | +123,820 | +75,280 |
 
-- **Payback period:** ~3.4 years post go-live (during 2030)
-- **ROI (3 years post go-live):** $371,460 net saving over three operational years on $420,000 investment = 88%
-- **NPV (5% discount, 5 years):** +$116,000
+- **Payback period:** ~3.4 years of net savings ($420,000 / $123,820), during 2030.
+- **After three operational years:** net savings of $371,460 leave $48,540 of the $420,000 investment still unrecovered. The cumulative position at the end of 2029 is −$48,540.
+- **NPV (5% discount):** about +$19,000. This discounts the four operational-year net cashflows in the table ($123,820 at the end of 2027, 2028, 2029, and 2030) against the $420,000 outlay in 2026.
 
 [↑ Back to top](#table-of-contents)
 
@@ -239,7 +239,7 @@ Full detail in the project Risk Register (see [`14-risk-register.md`](14-risk-re
 ### Assumptions
 
 - GovTech CivicConnect framework agreement remains valid and accessible for this project.
-- ICT infrastructure team can provide 0.4 FTE commitment to integration work across the project.
+- ICT infrastructure team can provide 0.4 FTE to integration work from June through August 2026.
 - Residents of Northgate have sufficient internet access to make 55% digital deflection achievable (based on U.S. Census Bureau 2024 data showing 89% internet access in the city).
 - Staff released by contact volume reduction will be redeployed within the city — no redundancy costs anticipated.
 

@@ -58,7 +58,7 @@
 |---|---|---|---|---|---|---|---|---|---|
 | **Sarah Chen** (PM) | 60% | 60% | 60% | 60% | 60% | 60% | 60% | 80% | 40% |
 | **Mark Pearce** (ICT) | 10% | 10% | 10% | 20% | **40%** | **40%** | **40%** | 20% | 10% |
-| **ICT Developer** | — | — | — | — | **80%** | **80%** | **80%** | 20% | — |
+| **ICT Developer** | — | — | — | — | **40%** | **40%** | **40%** | — | — |
 | **Sandra Obi** (Senior User) | 10% | 10% | 20% | 10% | 10% | 10% | 5% | **40%** | 10% |
 | **Business Change Manager** | — | — | — | 30% | 30% | 30% | 30% | **60%** | 30% |
 
@@ -104,7 +104,7 @@
 | Resource | Peak demand period | Availability at peak | Status |
 |---|---|---|---|
 | Mark Pearce (ICT) | Jun–Aug 2026 (integration oversight) | 40% | 🟡 At ceiling — senior role cannot exceed 40% |
-| ICT Developer | Jun–Aug 2026 (integration build) | 80% | 🟢 Within capacity once confirmed |
+| ICT Developer | Jun–Aug 2026 (integration build) | 40% (0.4 FTE) | 🟢 Within capacity once confirmed |
 | Sandra Obi (Senior User) | Sep 2026 (UAT and sign-off) | 40% | 🟡 Constrained by August leave |
 | Business Change Manager | Sep 2026 (go-live engagement) | 60% | 🟢 Within capacity |
 

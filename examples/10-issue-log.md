@@ -30,7 +30,7 @@
 | **Owner** | Sarah Chen, Project Manager |
 | **Review frequency** | Weekly at team meeting; immediately for Critical issues |
 
-> **Note:** This is a mid-project snapshot (Version 1.4, August 15, 2026). ISS-06 was open at this date and was subsequently resolved (re-test passed August 22, 2026) before project closure — at closure all six issues are recorded as resolved.
+> **Note:** This is a mid-project snapshot (Version 1.4, August 15, 2026). ISS-06 was open at this date. The fix was deployed August 22 and the re-test was confirmed August 25, before project closure. At closure all six issues are recorded as resolved.
 
 [↑ Back to top](#table-of-contents)
 
@@ -71,7 +71,7 @@
 | ISS-03 | June 17, 2026 | Tom Okafor | LandWorks parking permit data not queryable | LandWorks API exposes parking permit expiry only as a scanned PDF, not as queryable data | Problem | **Critical** | Parking permit module cannot be built as specified without significant unplanned LandWorks work | Mark Pearce / Sarah Chen | June 24, 2026 | (1) Emergency technical review June 18; (2) GovTech and ICT confirmed no workable workaround within budget; (3) Change Request CR-003 raised to defer parking permits to Phase 2; (4) CR-003 approved by the Sponsor on July 8 | **Deferred** | July 8, 2026 (deferred to Phase 2 via CR-003) |
 | ISS-04 | June 30, 2026 | GovTech Project Lead | Harbor Payments payment gateway security audit required | Property tax payment gateway requires a security audit before integration can be certified — not included in the project plan | Problem | **High** | Property tax payment module delayed; could delay Gate 2 | Mark Pearce | July 14, 2026 | (1) Harbor Payments contacted July 1; (2) Audit scheduled July 10; (3) Audit completed July 14 — passed with 2 minor findings (both resolved by July 21) | **Closed** | July 21, 2026 |
 | ISS-05 | August 3, 2026 | Sandra Obi | UAT preparation cover during August leave | Sandra's deputy cannot adequately cover UAT preparation during her August leave; risk to UAT start | Concern | **Medium** | UAT preparation tasks may be incomplete when Sandra returns August 19 | Sarah Chen | August 19, 2026 | (1) UAT prep checklist reviewed with Sandra before leave; (2) Key prep tasks reassigned to Diane Hughes (BCM); (3) UAT start date maintained at August 22 | **Closed** | August 19, 2026 |
-| ISS-06 | August 12, 2026 | Resident UAT Participant | Portal layout broken on older Android devices | Text overflow and broken layout on Android 8 and below | Problem | **Medium** | ~6% of resident devices may be affected (analytics estimate) | GovTech Project Lead | August 26, 2026 | (1) GovTech investigating root cause (CSS compatibility); (2) Fix expected August 20; (3) Re-test scheduled August 22 | **Open** | — |
+| ISS-06 | August 12, 2026 | GovTech Test Lead | Portal layout broken on older Android devices | Text overflow and broken layout on Android 8 and below, found in pre-UAT device checks | Problem | **Medium** | ~6% of resident devices may be affected (analytics estimate) | GovTech Project Lead | August 26, 2026 | (1) GovTech investigating root cause (CSS compatibility); (2) Formal Android check planned for August 20; (3) Re-test to follow the fix | **Open** | — |
 
 [↑ Back to top](#table-of-contents)
 

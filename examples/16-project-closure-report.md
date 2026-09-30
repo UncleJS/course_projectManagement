@@ -53,7 +53,7 @@ The Meridian Citizen Self-Service Portal was delivered within budget and closed 
 
 **Budget**: $420,000 approved; $374,800 actual spend ($45,200 underspend, 10.8%) — driven by the CR-003 parking-permit scope reduction ($18,000) and unused contingency ($27,200).
 **Schedule**: Original planned go-live October 1, 2026; actual go-live October 15, 2026 (+14 days). Formal closure remained October 31, 2026. Hypercare, set by CR-005 at 45 days from go-live, runs through November 29, 2026.
-**Scope**: Four service modules delivered (planning, waste, property tax, yard waste). Parking permit module formally deferred to Phase 2 (CR-003, approved July 2026) after a LandWorks API limitation was identified during integration testing.
+**Scope**: Planning and zoning, property tax, and waste reporting (missed trash and yard waste) went live. Parking permit renewal, the fourth chartered module, was deferred to Phase 2 (CR-003, approved July 2026) after a LandWorks API limitation was identified during integration testing.
 
 Early use data (end of October 2026) shows 41% of eligible residents have accessed the portal. Access is not inquiry deflection. The 55% deflection target is the share of the 14,200 in-scope inquiries handled online, measured at month 6 (April 2027). That benefit has not been measured yet.
 
@@ -169,14 +169,14 @@ The project is recommended for formal closure. Benefits realization is being han
 |---|---|---|---|
 | UAT defect rate at entry (P1/Critical defects) | 0 | 0 | ✅ Yes |
 | UAT total defects (medium + low) | ≤60 | 47 | ✅ Yes |
-| All UAT acceptance criteria signed off by Senior User | All | All (12/12) | ✅ Yes |
+| UAT scenarios signed off by Senior User | 47 | 47/47 | ✅ Yes |
 | WCAG 2.1 AA compliance | 100% | 100% | ✅ Yes |
 | Security audit (Harbor Payments payment gateway) | Pass | Pass (2 minor findings, resolved) | ✅ Yes |
 | PIA compliance | Full sign-off | Signed off May 5, 2026 | ✅ Yes |
 | Peer-facing uptime (first 2 weeks post-launch) | ≥99.5% | 99.8% | ✅ Yes |
 | Staff training completion | 100% of in-scope staff | 54/54 (100%) | ✅ Yes |
 
-**Commentary**: All quality targets were met. The two-round accessibility audit approach (initial audit + remediation + re-audit) was absorbed within the existing content/UX budget and was the right decision — the portal launched fully WCAG 2.1 AA compliant, which is both a legal requirement and a reputational imperative for a public-sector service. GovTech's UAT entry quality was good — no critical defects at UAT entry.
+**Commentary**: The quality-register targets in this table were met. The charter measure of at least 30 residents in UAT was not: 12 resident testers took part, and that shortfall is scored under OBJ-05. The two-round accessibility audit approach (initial audit + remediation + re-audit) was absorbed within the existing content/UX budget and was the right decision — the portal launched fully WCAG 2.1 AA compliant, which is both a legal requirement and a reputational imperative for a public-sector service. GovTech's UAT entry quality was good — no critical defects at UAT entry.
 
 [↑ Back to top](#table-of-contents)
 
@@ -270,7 +270,7 @@ The project is recommended for formal closure. Benefits realization is being han
 | Project Management Plan (all versions) | City of Northgate SharePoint: Meridian/Project Documents | Sarah Chen | October 28, 2026 |
 | Risk Register (final v2.3) | City of Northgate SharePoint: Meridian/Risk and Issues | Sarah Chen | October 28, 2026 |
 | Change Log (final v1.5) | City of Northgate SharePoint: Meridian/Change Control | Sarah Chen | October 28, 2026 |
-| Issue Log (final v1.4) | City of Northgate SharePoint: Meridian/Risk and Issues | Sarah Chen | October 28, 2026 |
+| Issue log (snapshot v1.4, August 15, 2026; ISS-06 closed August 25) | City of Northgate SharePoint: Meridian/Risk and Issues | Sarah Chen | October 28, 2026 |
 | All signed contracts (GovTech, Harbor Payments) | City of Northgate SharePoint: Meridian/Contracts | Sarah Chen / Legal | October 28, 2026 |
 | Lessons Learned Log (final) | City of Northgate SharePoint: Meridian/Lessons / PMO Knowledge Base | Sarah Chen | October 31, 2026 |
 | All deliverables (portal documentation, PIA, audits) | City of Northgate SharePoint: Meridian/Deliverables | Sarah Chen | October 28, 2026 |

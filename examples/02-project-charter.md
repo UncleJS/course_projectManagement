@@ -47,7 +47,7 @@
 
 ## 1. Project Purpose
 
-The Meridian Portal project will deliver a citizen-facing self-service web portal enabling City of Northgate residents to manage routine inquiries and transactions digitally, without staff intervention. The project addresses the city's high contact-center cost base ($310,000 per year for transactional inquiries) and low resident digital satisfaction (index 34 out of 100). It is the primary delivery vehicle for the City strategic plan 2024–2028 digital service transformation commitment.
+The Meridian Portal project will deliver a citizen-facing self-service web portal enabling City of Northgate residents to manage routine inquiries and transactions digitally, without staff intervention. The project addresses the city's high contact-center cost base ($312,400 per year for 14,200 transactional inquiries at $22 each) and low resident digital satisfaction (index 34 out of 100). It is the primary delivery vehicle for the City strategic plan 2024–2028 digital service transformation commitment.
 
 [↑ Back to top](#table-of-contents)
 
@@ -112,7 +112,7 @@ The Meridian Portal project will deliver a citizen-facing self-service web porta
 
 | Role | Name | Responsibilities |
 |---|---|---|
-| Project Sponsor / Executive | James Hartley, Director of Digital Services | Overall accountability; approves changes above PM threshold; chairs Project Board; escalation point |
+| Project Sponsor / Executive | James Hartley, Director of Digital Services | Overall accountability; approves cost changes up to $20,000; chairs the Project Board for changes above that; escalation point |
 | Project Manager | Sarah Chen | Day-to-day delivery management; risk/issue management; reporting; stakeholder liaison |
 | Senior User | Sandra Obi, Head of Customer Services | Represents end-user (contact-center staff and residents) needs; signs off requirements and UAT |
 | Senior Supplier | Mark Pearce, ICT Infrastructure Manager | Represents technical delivery capability; technical authority for LandWorks integration |
@@ -132,7 +132,7 @@ The Meridian Portal project will deliver a citizen-facing self-service web porta
 | **Status reporting** | Every two weeks Highlight Report from PM to Sponsor and Project Board |
 | **Change authority** | PM may approve changes with zero cost impact; changes up to $20,000 approved by Sponsor; changes above $20,000 require Project Board approval |
 | **Escalation path** | Team → PM → Sponsor → Chief Executive (for >$50,000 impact or political risk) |
-| **Review gates** | Gate 1: Discovery/Design sign-off (May 2026); Gate 2: Build complete / start of UAT (August 2026); Gate 3: Go-live authorization (September 2026) |
+| **Review gates** | Gate 1: Discovery/Design sign-off (May 8, 2026); Gate 2: Build complete (August 7, 2026); UAT begins August 22, 2026; Gate 3: Go-live authorization (September 19, 2026) |
 
 [↑ Back to top](#table-of-contents)
 
@@ -159,7 +159,8 @@ The Meridian Portal project will deliver a citizen-facing self-service web porta
 | Project Charter approved / project start | February 3, 2026 |
 | Supplier contract signed | March 6, 2026 |
 | Gate 1: Discovery & Design approved | May 8, 2026 |
-| Gate 2: Build complete / UAT begins | August 7, 2026 |
+| Gate 2: Build complete | August 7, 2026 |
+| SIT complete / UAT begins | August 22, 2026 |
 | Gate 3: UAT complete / go-live authorization | September 19, 2026 |
 | **Go-live** | **October 1, 2026** |
 | Hypercare period ends | October 31, 2026 |
@@ -192,7 +193,7 @@ Full Risk Register: [`14-risk-register.md`](14-risk-register.md)
 ### Assumptions
 
 - GovTech framework agreement remains valid for this project.
-- ICT team provides 0.4 FTE to integration work throughout the project.
+- ICT team provides 0.4 FTE to integration work from June through August 2026.
 - Residents have sufficient internet access to support 55% digital deflection (89% internet access per U.S. Census Bureau 2024 data).
 
 [↑ Back to top](#table-of-contents)

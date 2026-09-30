@@ -92,8 +92,8 @@
 | Build and configure CivicConnect platform | C | I | I | C | A/R | — | — |
 | Build Planning Application Tracking module | C | I | C | C | A/R | — | — |
 | Build Property Tax module | C | I | C | C | A/R | — | — |
-| Build Missed Trash module | C | I | C | C | A/R | — | — |
-| Build Yard Waste module | C | I | C | C | A/R | — | — |
+| Build Waste Reporting module (missed trash and yard waste) | C | I | C | C | A/R | — | — |
+| Build Parking Permit Renewal module | C | I | C | C | A/R | — | — |
 | Build and test LandWorks integration | C | I | I | A/R | R | — | — |
 | Approve build complete (Gate 2) | C | A/R | C | C | I | — | — |
 | **Content and Accessibility** | | | | | | | |

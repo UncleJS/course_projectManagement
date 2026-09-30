@@ -87,7 +87,7 @@ All attendees introduced themselves. Sarah Chen (PM) confirmed she had been in p
 ## Agenda Item 2 — Why This Project Matters
 
 James Hartley presented the strategic context and business case headline:
-- Current contact-center cost: approximately $310,000 per year, handling ~14,200 transactional inquiries at ~$22/contact.
+- Current contact-center cost: $312,400 per year (14,200 transactional inquiries × $22).
 - Target: 55% digital deflection within 6 months of go-live; $123,820 net annual saving by Year 2.
 - City strategic plan commitment: 60% digital transactions by 2028.
 
@@ -141,6 +141,7 @@ Sarah Chen presented the RACI matrix highlights. Key points noted:
 Sarah Chen presented the milestone schedule. The group confirmed:
 - Gate 1 (Discovery/Design): May 8, 2026
 - Gate 2 (Build complete): August 7, 2026
+- UAT begins: August 22, 2026, after system integration testing
 - Gate 3 (UAT complete / go-live authorization): September 19, 2026
 - **Go-live: October 1, 2026 — confirmed as fixed and non-negotiable.**
 

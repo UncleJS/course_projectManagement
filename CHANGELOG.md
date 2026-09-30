@@ -1,7 +1,7 @@
 # Changelog
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
-![Version](https://img.shields.io/badge/Version-2.3.1-blue)
+![Version](https://img.shields.io/badge/Version-2.3.2-blue)
 ![Keep a Changelog](https://img.shields.io/badge/Keep%20a%20Changelog-1.1.0-orange)
 ![Semantic Versioning](https://img.shields.io/badge/Semver-2.0.0-informational)
 
@@ -19,6 +19,7 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## Table of Contents
 
 - [Unreleased](#unreleased)
+- [2.3.2 — 2026-09-30](#232--2026-09-30)
 - [2.3.1 — 2026-09-30](#231--2026-09-30)
 - [2.3.0 — 2026-09-30](#230--2026-09-30)
 - [2.2.0 — 2026-06-08](#220--2026-06-08)
@@ -35,6 +36,21 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## [Unreleased]
 
 *No unreleased changes.*
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## [2.3.2] — 2026-09-30
+
+Corrected the Meridian figures and baseline dates that still disagreed after 2.3.1. Historical notes in this changelog, and the v2.1.3 findings in `COURSE-REVIEW.md`, are unchanged.
+
+### Fixed
+
+- **Return.** The business case NPV is about +$19,000 on the four operational years in its cashflow table. Three years of net savings ($371,460) leave $48,540 of the $420,000 investment unrecovered. The contact-center cost is $312,400 (14,200 × $22).
+- **Benefits.** Handover BEN-01 uses the 55% deflection target. BEN-01 is not marked on track before it has been measured.
+- **Baseline schedule.** Build completes August 7. UAT begins August 22, after system integration testing, and runs to the September 19 gate. The February 20 RACI includes parking and one waste package, matching the charter and the WBS. The ICT developer is 0.4 FTE (40%) from June through August.
+- **Records.** ISS-06 is a pre-UAT device defect found by the GovTech test lead. CR-005 is approved and not yet implemented on August 15. Closure scores 47 UAT scenarios, and it no longer treats the August 15 issue log as the final log. The LandWorks WBS link no longer points at UNIFORM.
 
 [↑ Back to top](#table-of-contents)
 

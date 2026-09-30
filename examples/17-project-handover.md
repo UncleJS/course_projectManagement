@@ -139,7 +139,7 @@ Benefits realization is now the responsibility of the operational service owner.
 
 | Benefit | Measurement method | Measurement frequency | Owner |
 |---|---|---|---|
-| BEN-01: Contact-center call volume reduction (≥20%) | City contact-center call log analysis — compare in-scope service calls pre/post portal | Monthly | Sandra Obi |
+| BEN-01: Contact-center volume for in-scope services (55% deflected by April 2027; about 6,390 inquiries remaining per year) | City contact-center call log analysis — compare in-scope service calls pre/post portal | Monthly | Sandra Obi |
 | BEN-02: Resident adoption (≥55% deflection by April 2027, month 6) | Portal analytics and contact-center volume | Monthly | Sandra Obi |
 | BEN-03: Staff time savings (1.8 FTE released) | Staff timesheets / manager survey | At month 6 post-launch | Sandra Obi |
 | BEN-04: Resident satisfaction (≥75%) | Post-transaction survey in portal (automated) | Monthly average | Sandra Obi |
@@ -180,7 +180,7 @@ All project and operational documentation has been archived in City of Northgate
 | Privacy Impact Assessment | 1.0 | Meridian/Data Protection |
 | Risk Register (final) | 2.3 | Meridian/Risk and Issues |
 | Change Log (final) | 1.5 | Meridian/Change Control |
-| Issue Log (final) | 1.4 | Meridian/Risk and Issues |
+| Issue log (snapshot v1.4, August 15, 2026) | 1.4 | Meridian/Risk and Issues |
 | Lessons Learned Log (final) | 1.0 | Meridian/Lessons / PMO |
 | UAT Test Report | 1.0 | Meridian/Quality |
 | Accessibility Audit Report | 2.0 | Meridian/Quality |
