@@ -175,9 +175,9 @@ The project is recommended for formal closure. Benefits realization is being han
 | UAT total defects (medium + low) | ≤60 | 47 | ✅ Yes |
 | UAT scenarios signed off by Senior User | 47 | 47/47 | ✅ Yes |
 | WCAG 2.1 AA compliance | 100% | 100% | ✅ Yes |
-| Security audit (Harbor Payments payment gateway) | Pass | Pass (2 minor findings, resolved) | ✅ Yes |
+| Security audit (Harbor Payments payment gateway) | Pass | Pass (2 medium findings, resolved) | ✅ Yes |
 | PIA compliance | Full sign-off | Signed off May 5, 2026 | ✅ Yes |
-| Peer-facing uptime (first 2 weeks post-launch) | ≥99.5% | 99.8% | ✅ Yes |
+| Public-facing uptime (first 2 weeks post-launch) | ≥99.5% | 99.8% | ✅ Yes |
 | Staff training completion | 100% of in-scope staff | 54/54 (100%) | ✅ Yes |
 
 **Commentary**: The quality-register targets in this table were met. The charter measure of at least 30 residents in UAT was not: 12 resident testers took part, and that shortfall is scored under OBJ-05. The two-round accessibility audit approach (initial audit + remediation + re-audit) was absorbed within the existing content/UX budget and was the right decision — the portal launched fully WCAG 2.1 AA compliant, which is both a legal requirement and a reputational imperative for a public-sector service. GovTech's UAT entry quality was good — no critical defects at UAT entry.

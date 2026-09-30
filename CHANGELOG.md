@@ -1,7 +1,7 @@
 # Changelog
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
-![Version](https://img.shields.io/badge/Version-2.3.6-blue)
+![Version](https://img.shields.io/badge/Version-2.3.7-blue)
 ![Keep a Changelog](https://img.shields.io/badge/Keep%20a%20Changelog-1.1.0-orange)
 ![Semantic Versioning](https://img.shields.io/badge/Semver-2.0.0-informational)
 
@@ -19,6 +19,7 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## Table of Contents
 
 - [Unreleased](#unreleased)
+- [2.3.7 — 2026-09-30](#237--2026-09-30)
 - [2.3.6 — 2026-09-30](#236--2026-09-30)
 - [2.3.5 — 2026-09-30](#235--2026-09-30)
 - [2.3.4 — 2026-09-30](#234--2026-09-30)
@@ -40,6 +41,19 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## [Unreleased]
 
 *No unreleased changes.*
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## [2.3.7] — 2026-09-30
+
+Aligned the Harbor Payments audit severity and the uptime label. Historical notes in this changelog, and the v2.1.3 findings in `COURSE-REVIEW.md`, are unchanged.
+
+### Fixed
+
+- **QR-009.** The two Harbor Payments findings are medium in the quality register, the defect log, the issue log, the risk register, and the closure report. The defect log total stays 92.
+- **Uptime label.** The closure report calls the 99.8% figure public-facing uptime.
 
 [↑ Back to top](#table-of-contents)
 
