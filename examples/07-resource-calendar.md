@@ -119,7 +119,7 @@
 | Name | Period | Type | Hours affected per week | Impact on plan |
 |---|---|---|---|---|
 | Sarah Chen | April 27 – May 1, 2026 | Annual leave | Full week | Minor — no critical-path activity that week |
-| Sandra Obi | August 1–19, 2026 | Annual leave | ~3 weeks | UAT preparation at risk. Checklist and a deputy are to be arranged before the leave. UAT start stays August 22. |
+| Sandra Obi | August 1–19, 2026 | Annual leave | ~3 weeks | UAT preparation at risk. Checklist and a deputy are to be arranged before the leave. UAT start stays August 24. |
 | ICT Developer | Until assigned (target March 1, 2026) | Resource gap | Full | Integration cannot start in June if the developer is still unconfirmed (RSK-03) |
 | Mark Pearce | Throughout | Other commitment (senior management role) | ~90% | Capped at 40% even at peak; day-to-day work delegated to ICT Developer |
 
@@ -132,7 +132,7 @@
 | Date | Name | Conflict identified | Resolution action | Impact on schedule |
 |---|---|---|---|---|
 | Target March 1, 2026 | ICT Developer | Named developer not yet confirmed for the June integration start | Mark Pearce to name the developer by March 1. The Sponsor escalates if that date is missed | Open at this baseline |
-| Before August 1, 2026 | Sandra Obi | August 1–19 leave overlaps UAT preparation | Complete the UAT prep checklist before the leave and brief a deputy | Planned. UAT start remains August 22 |
+| Before August 1, 2026 | Sandra Obi | August 1–19 leave overlaps UAT preparation | Complete the UAT prep checklist before the leave and brief a deputy | Planned. UAT start remains August 24 |
 
 [↑ Back to top](#table-of-contents)
 

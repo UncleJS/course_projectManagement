@@ -161,7 +161,7 @@ The following items are not project issues but are noted for the operational tea
 
 | Ref | Item | Detail | Owner |
 |---|---|---|---|
-| BAU-01 | Android 8 and below — minor layout issue (resolved) | ISS-06 was resolved before go-live. GovTech confirmed fix deployed August 22, 2026. Monitor for recurrence. | Tom Okafor |
+| BAU-01 | Android 8 and below — minor layout issue (resolved) | ISS-06 was resolved before go-live. GovTech confirmed fix deployed August 24, 2026. Monitor for recurrence. | Tom Okafor |
 | BAU-02 | GovTech platform version upgrade (Q1 2027) | GovTech has indicated a platform version upgrade is planned for Q1 2027. This will require a regression test. Mark Pearce to confirm timing with GovTech. | Mark Pearce |
 | BAU-03 | Resident adoption trajectory monitoring | The target is 55% deflection by April 2027 (month 6). If adoption is below 40% at the end of January 2027, a resident re-engagement communications intervention may be needed. Diane Hughes has a contingency plan. | Diane Hughes |
 | BAU-04 | LandWorks API: future changes | Any future LandWorks software upgrades should be assessed for impact on portal integrations before deployment. Tom Okafor to liaise with LandWorks vendor. | Tom Okafor |

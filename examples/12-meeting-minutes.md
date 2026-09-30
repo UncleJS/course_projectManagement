@@ -142,7 +142,7 @@ Sarah Chen presented the milestone schedule. The group confirmed:
 - Gate 1 (Discovery/Design): May 8, 2026
 - Gate 2 (Build complete): August 7, 2026
 - SIT complete: August 21, 2026
-- UAT begins: August 22, 2026
+- UAT begins: August 24, 2026
 - Gate 3 (UAT complete / go-live authorization): September 18, 2026
 - **Go-live: October 1, 2026 — confirmed as fixed and non-negotiable.**
 

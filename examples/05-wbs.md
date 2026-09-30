@@ -147,7 +147,7 @@ The WBS is a hierarchical decomposition of project scope into deliverables. It f
 | **Acceptance criteria** | (1) Minimum 30 residents have completed end-to-end testing of at least one service module; (2) All P1 defects resolved and regression-tested; (3) P2 defect list reviewed and dispositioned; (4) Signed by Sandra Obi (Senior User) and James Hartley (Sponsor). |
 | **Owner** | Sarah Chen (coordination) / Sandra Obi (sign-off authority) |
 | **Assumptions** | Resident UAT panel recruited by August 2026 (City comms team). |
-| **Estimated duration** | 27 days (August 22 – September 18, 2026) |
+| **Estimated duration** | 25 days (August 24 – September 18, 2026) |
 | **Estimated cost** | Included in project management costs; GovTech UAT support included in contract |
 | **Dependencies** | 1.3.1–1.3.6 (all build elements complete); 1.4.2 (accessibility sign-off) |
 

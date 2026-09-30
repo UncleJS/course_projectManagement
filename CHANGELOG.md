@@ -1,7 +1,7 @@
 # Changelog
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
-![Version](https://img.shields.io/badge/Version-2.3.7-blue)
+![Version](https://img.shields.io/badge/Version-2.3.8-blue)
 ![Keep a Changelog](https://img.shields.io/badge/Keep%20a%20Changelog-1.1.0-orange)
 ![Semantic Versioning](https://img.shields.io/badge/Semver-2.0.0-informational)
 
@@ -19,6 +19,7 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## Table of Contents
 
 - [Unreleased](#unreleased)
+- [2.3.8 — 2026-09-30](#238--2026-09-30)
 - [2.3.7 — 2026-09-30](#237--2026-09-30)
 - [2.3.6 — 2026-09-30](#236--2026-09-30)
 - [2.3.5 — 2026-09-30](#235--2026-09-30)
@@ -41,6 +42,23 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## [Unreleased]
 
 *No unreleased changes.*
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## [2.3.8] — 2026-09-30
+
+Aligned the remaining Meridian dates and the quality metric that still disagreed with its own table. Historical notes in this changelog, and the v2.1.3 findings in `COURSE-REVIEW.md`, are unchanged.
+
+### Fixed
+
+- **Harbor Payments audit.** Scheduled July 10, completed July 14, findings resolved July 21. The quality register uses those three dates, matching the issue log, the risk register, and the lessons log.
+- **Audit metric.** None of the three formal audits hit its planned date (PIA May 2, Harbor Payments July 14, accessibility September 8). The quality register records 0 of 3.
+- **Sprint 3 defects.** QR-007 records 3 medium integration defects and 2 low display bugs, matching the defect log. The log total stays 92.
+- **UAT start.** Planned entry is Monday, August 24. Actual entry stays September 11, so the variance is +18 days. SIT still finishes September 4, 14 days after the August 21 planned sign-off. The WBS duration is 25 days (August 24 – September 18). The Android fix was deployed August 24 and re-tested August 25.
+- **Weekend dates the day-count requires.** October 31 stays formal closure: it is a Saturday, month-end, and day 30 after the October 1 go-live. November 22 stays the hypercare end: it is a Sunday and day 45 after the October 8 go-live.
+- **Residents.** The stakeholder register and the communications plan both use about 48,000 households. The register also states 81,000 residents.
 
 [↑ Back to top](#table-of-contents)
 
