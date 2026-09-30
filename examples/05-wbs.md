@@ -108,7 +108,7 @@ The WBS is a hierarchical decomposition of project scope into deliverables. It f
 | **WBS Code** | 1.2.3 |
 | **Title** | Discovery Report |
 | **Description** | A report summarizing the outputs of the discovery phase: current-state analysis of the four service areas, resident research findings (interviews and surveys), technical integration requirements, and prioritized feature list for the portal. |
-| **Acceptance criteria** | (1) Covers all four service modules; (2) Includes at least 15 resident research participants; (3) Identifies and documents all LandWorks data fields required for each service module; (4) Reviewed and approved by Senior User (Sandra Obi) and Senior Supplier (Mark Pearce); (5) Presented to Project Board at Gate 1. |
+| **Acceptance criteria** | (1) Covers all four service modules; (2) Includes at least 15 resident research participants; (3) Identifies and documents the data fields each service module needs from its own system: LandWorks for planning and parking permits, Civica Waste for missed trash and yard waste, and Harbor Payments for property tax payments; (4) Reviewed and approved by Senior User (Sandra Obi) and Senior Supplier (Mark Pearce); (5) Presented to Project Board at Gate 1. |
 | **Owner** | GovTech Solutions Inc. (with city sign-off) |
 | **Assumptions** | City staff are available for discovery interviews (estimated 10 interviews across 3 departments). |
 | **Estimated duration** | 6 weeks (March 3 – April 17, 2026) |

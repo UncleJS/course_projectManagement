@@ -195,7 +195,7 @@ The project is recommended for formal closure. Benefits realization is being han
 | 10 (+ 2 opportunities) | 4 (RSK-01 partial, RSK-03, RSK-08, RSK-09) | 3 (RSK-06, RSK-07, RSK-10) | 3 (RSK-02, RSK-04, RSK-05) |
 
 **Key risk events**:
-- **RSK-01** (LandWorks integration complexity): Partially materialized — parking permits could not be integrated via standard API. Addressed via CR-003 (deferred to Phase 2). Remaining modules unaffected.
+- **RSK-01** (LandWorks integration complexity): Partially materialized — only the LandWorks parking-permit data failed. Addressed via CR-003 (deferred to Phase 2). The other three modules went live on their own systems: planning on LandWorks, waste on Civica Waste, and property tax payments on Harbor Payments.
 - **RSK-03** (ICT Developer not confirmed): Materialized as ISS-01, raised March 9, 2026. Resolved by Sponsor action (Tom Okafor confirmed March 13, 2026). No schedule impact.
 - **RSK-08** (Harbor Payments security certification): Materialized as ISS-04. The audit closed on July 21, 2026 and did not move Gate 2.
 - **RSK-09** (extended UAT): Materialized. UAT finished 7 days late and go-live moved to October 8, 2026 (CR-006).

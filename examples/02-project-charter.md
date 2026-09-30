@@ -63,6 +63,8 @@ The Meridian Portal project will deliver a citizen-facing self-service web porta
 | OBJ-04 | Achieve project delivery within approved budget | Outturn ≤ $420,000 |
 | OBJ-05 | Complete user acceptance testing with resident involvement | At least 30 residents complete UAT; issues resolved or documented prior to go-live |
 
+These charter objectives are a different list from the business case. The closure report scores this list. The 55% deflection target and the satisfaction index stay in the business case and in the benefits register.
+
 [↑ Back to top](#table-of-contents)
 
 ---

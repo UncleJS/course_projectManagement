@@ -94,6 +94,8 @@ A procurement framework agreement with GovTech Solutions Inc. (awarded 2024) ena
 | OBJ-03 | Improve resident digital satisfaction | Digital satisfaction index (0–100) increases from 34 to 54 or higher within 12 months of go-live |
 | OBJ-04 | Deliver within approved budget | Outturn cost ≤ $420,000 (including 10% contingency) |
 
+These business-case objectives are a different list from the project charter. The charter uses OBJ-02 for the four services and OBJ-03 for the three integrations. The closure report scores the charter list. The 55% deflection target and the satisfaction index stay in this business case and in the benefits register.
+
 [↑ Back to top](#table-of-contents)
 
 ---

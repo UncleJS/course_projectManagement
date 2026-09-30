@@ -1,7 +1,7 @@
 # Changelog
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
-![Version](https://img.shields.io/badge/Version-2.3.17-blue)
+![Version](https://img.shields.io/badge/Version-2.3.18-blue)
 ![Keep a Changelog](https://img.shields.io/badge/Keep%20a%20Changelog-1.1.0-orange)
 ![Semantic Versioning](https://img.shields.io/badge/Semver-2.0.0-informational)
 
@@ -19,6 +19,7 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## Table of Contents
 
 - [Unreleased](#unreleased)
+- [2.3.18 — 2026-09-30](#2318--2026-09-30)
 - [2.3.17 — 2026-09-30](#2317--2026-09-30)
 - [2.3.16 — 2026-09-30](#2316--2026-09-30)
 - [2.3.15 — 2026-09-30](#2315--2026-09-30)
@@ -51,6 +52,20 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## [Unreleased]
 
 *No unreleased changes.*
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## [2.3.18] — 2026-09-30
+
+Closed the last integration mismatches and labeled the two objective lists. Historical notes in this changelog, and the v2.1.3 findings in `COURSE-REVIEW.md`, are unchanged.
+
+### Fixed
+
+- **Discovery fields.** The Discovery Report records each module’s data fields from its own system: LandWorks for planning and parking permits, Civica Waste for missed trash and yard waste, and Harbor Payments for property tax payments.
+- **Closure risk.** Only the LandWorks parking-permit data failed. The other three modules went live on their own systems.
+- **Objectives.** The business case and the charter use different lists with the same numbers. The closure report scores the charter list. The 55% deflection target and the satisfaction index stay in the business case and the benefits register.
 
 [↑ Back to top](#table-of-contents)
 
