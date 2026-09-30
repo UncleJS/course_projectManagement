@@ -52,7 +52,7 @@
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | QR-001 | Discovery Report | Quality Review | April 30, 2026 | April 30, 2026 | Sarah Chen, Sandra Obi, Mark Pearce | Project brief requirements checklist; Discovery Report acceptance criteria | **Passed** | 2 (minor — missing resident demographic data; formatting) | 2 | May 4, 2026 | Approved for Gate 1 pack |
 | QR-002 | UX Design Specification | Quality Review | May 4, 2026 | May 4, 2026 | Sandra Obi (Senior User), GovTech Lead Designer, Sarah Chen | User story acceptance criteria; City brand guidelines; WCAG 2.1 AA preliminary checklist | **Conditional pass** | 4 (medium — 2 navigation issues; 2 mobile responsiveness concerns) | 4 | May 7, 2026 | Conditions met before Gate 1 (May 8). Approved. |
-| QR-003 | Integration Specification | Technical Inspection | May 5, 2026 | May 6, 2026 | Tom Okafor, GovTech Lead Developer, Mark Pearce | Integration design standards; LandWorks/Civica Waste/Harbor Payments API documentation | **Conditional pass** | 2 (minor API configuration issues) | 2 | May 8, 2026 | Minor API configuration issues closed May 8. Parking-permit expiry fields were not in the sample tested at this review. Integration testing on June 17, 2026 found those fields were not queryable; that finding was raised as ISS-03. |
+| QR-003 | Integration Specification | Technical Inspection | May 5, 2026 | May 6, 2026 | Tom Okafor, GovTech Lead Developer, Mark Pearce | Integration design standards; LandWorks/Civica Waste/Harbor Payments API documentation | **Conditional pass** | 3 (medium — API configuration) | 3 | May 8, 2026 | Three medium API configuration issues closed May 8. Parking-permit expiry fields were not in the sample tested at this review. Integration testing on June 17, 2026 found those fields were not queryable; that finding was raised as ISS-03. |
 | QR-004 | Privacy Impact Assessment (PIA) | Audit | May 1, 2026 | May 2, 2026 | Chief Privacy Officer | the city's privacy rules; city privacy-policy guidance; City Data Protection Policy | **Passed** | 1 (low — minor privacy notice wording clarification) | 1 | May 5, 2026 | Chief Privacy Officer sign-off confirmed May 5, 2026 |
 | QR-005 | Sprint 1 Demo — Planning and zoning application module (build) | Quality Review | June 5, 2026 | June 5, 2026 | Sandra Obi, Sarah Chen, Tom Okafor | Sprint 1 acceptance criteria (12 user stories) | **Passed** | 3 (low — UI cosmetic issues) | 3 | June 9, 2026 | 12/12 user stories accepted |
 | QR-006 | Sprint 2 Demo — Waste collection module (build) | Quality Review | July 3, 2026 | July 3, 2026 | Sandra Obi, Sarah Chen, Tom Okafor | Sprint 2 acceptance criteria (10 user stories) | **Passed** | 2 (low — cosmetic) | 2 | July 7, 2026 | 10/10 user stories accepted |
@@ -65,7 +65,7 @@
 | QR-013 | Accessibility remediation review | Technical Inspection | September 18, 2026 | September 18, 2026 | GovTech Lead Developer, Tom Okafor | QR-012 findings — all 14 issues; WCAG 2.1 AA | **Passed** | 0 | 14/14 (all QR-012 defects resolved) | September 25, 2026 | All 14 accessibility defects resolved. Civic Access Partners confirmed WCAG 2.1 AA compliance September 25. |
 | QR-014 | Android device compatibility check | Test | August 20, 2026 | August 22, 2026 | GovTech Test Lead | Mobile browser compatibility matrix (iOS 14+, Android 9+, major desktop browsers) | **Conditional pass** | 1 (medium — Android 8 and below layout issue; ISS-06) | 1 | August 25, 2026 | Android 8 and below: layout issue (ISS-06). Fix deployed August 22; re-test confirmed August 25. |
 | QR-015 | Pre-launch production readiness check | Quality Review | October 7, 2026 | October 7, 2026 | Sarah Chen, Tom Okafor, GovTech PM, Mark Pearce | Production readiness checklist (16 items): infrastructure, DNS, SSL, monitoring, support ready, data backup, rollback plan | **Passed** | 0 | — | October 7, 2026 | All 16 readiness criteria confirmed. Go/No-go decision: **Go**. Launch approved for October 8 (CR-006). |
-| QR-016 | Post-launch monitoring review (Week 1) | Quality Review | October 22, 2026 | October 22, 2026 | Tom Okafor, GovTech PM, Sarah Chen | Uptime SLA (≥99.5%); response time (<3s); error rate (<0.5%) | **Passed** | 0 | — | October 22, 2026 | Week 1: 99.8% uptime; avg response time 1.4s; error rate 0.1%. All within SLA. |
+| QR-016 | Post-launch monitoring review (first 2 weeks) | Quality Review | October 22, 2026 | October 22, 2026 | Tom Okafor, GovTech PM, Sarah Chen | Uptime SLA (≥99.5%); response time (<3s); error rate (<0.5%) | **Passed** | 0 | — | October 22, 2026 | October 22 is 14 days after the October 8 go-live. First 2 weeks: 99.8% uptime; avg response time 1.4s; error rate 0.1%. All within SLA. |
 
 [↑ Back to top](#table-of-contents)
 
@@ -104,7 +104,7 @@
 | Audits completed on schedule | 100% | 100% (all 3 formal audits: PIA, Harbor Payments security, accessibility) | ✅ Met |
 | Open defects at go-live | 0 critical or high | 0 | ✅ Met |
 | WCAG 2.1 AA compliance at launch | 100% | 100% | ✅ Met |
-| Production uptime Week 1 | ≥99.5% | 99.8% | ✅ Met |
+| Production uptime, first 2 weeks | ≥99.5% | 99.8% | ✅ Met |
 
 [↑ Back to top](#table-of-contents)
 

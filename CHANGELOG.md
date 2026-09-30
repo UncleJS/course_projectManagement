@@ -1,7 +1,7 @@
 # Changelog
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
-![Version](https://img.shields.io/badge/Version-2.3.5-blue)
+![Version](https://img.shields.io/badge/Version-2.3.6-blue)
 ![Keep a Changelog](https://img.shields.io/badge/Keep%20a%20Changelog-1.1.0-orange)
 ![Semantic Versioning](https://img.shields.io/badge/Semver-2.0.0-informational)
 
@@ -19,6 +19,7 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## Table of Contents
 
 - [Unreleased](#unreleased)
+- [2.3.6 — 2026-09-30](#236--2026-09-30)
 - [2.3.5 — 2026-09-30](#235--2026-09-30)
 - [2.3.4 — 2026-09-30](#234--2026-09-30)
 - [2.3.3 — 2026-09-30](#233--2026-09-30)
@@ -39,6 +40,19 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## [Unreleased]
 
 *No unreleased changes.*
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## [2.3.6] — 2026-09-30
+
+Aligned the quality register with the closure report. Historical notes in this changelog, and the v2.1.3 findings in `COURSE-REVIEW.md`, are unchanged.
+
+### Fixed
+
+- **Uptime.** The October 22 review is the first two weeks after the October 8 go-live, matching the closure report. It is no longer labeled Week 1.
+- **QR-003.** The integration review records 3 medium API defects, the same count as the defect log. The log total stays 92.
 
 [↑ Back to top](#table-of-contents)
 
