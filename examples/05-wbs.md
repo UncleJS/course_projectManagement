@@ -143,7 +143,7 @@ The WBS is a hierarchical decomposition of project scope into deliverables. It f
 |---|---|
 | **WBS Code** | 1.5.4 |
 | **Title** | User Acceptance Testing Sign-off |
-| **Description** | A formal document confirming that user acceptance testing has been completed satisfactorily. UAT to be conducted by a minimum of 30 Northgate residents (including at least 5 digitally less-confident users) and representatives from the contact-center team. All Priority 1 (critical) defects resolved before sign-off; Priority 2 defects either resolved or deferred with documented rationale. |
+| **Description** | A formal document confirming that user acceptance testing has been completed satisfactorily. UAT to be conducted by a minimum of 30 Northgate residents. All Priority 1 (critical) defects resolved before sign-off; Priority 2 defects either resolved or deferred with documented rationale. |
 | **Acceptance criteria** | (1) Minimum 30 residents have completed end-to-end testing of at least one service module; (2) All P1 defects resolved and regression-tested; (3) P2 defect list reviewed and dispositioned; (4) Signed by Sandra Obi (Senior User) and James Hartley (Sponsor). |
 | **Owner** | Sarah Chen (coordination) / Sandra Obi (sign-off authority) |
 | **Assumptions** | Resident UAT panel recruited by August 2026 (City comms team). |

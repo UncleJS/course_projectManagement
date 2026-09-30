@@ -1,7 +1,7 @@
 # Changelog
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
-![Version](https://img.shields.io/badge/Version-2.3.18-blue)
+![Version](https://img.shields.io/badge/Version-2.3.19-blue)
 ![Keep a Changelog](https://img.shields.io/badge/Keep%20a%20Changelog-1.1.0-orange)
 ![Semantic Versioning](https://img.shields.io/badge/Semver-2.0.0-informational)
 
@@ -19,6 +19,7 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## Table of Contents
 
 - [Unreleased](#unreleased)
+- [2.3.19 — 2026-09-30](#2319--2026-09-30)
 - [2.3.18 — 2026-09-30](#2318--2026-09-30)
 - [2.3.17 — 2026-09-30](#2317--2026-09-30)
 - [2.3.16 — 2026-09-30](#2316--2026-09-30)
@@ -52,6 +53,19 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## [Unreleased]
 
 *No unreleased changes.*
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## [2.3.19] — 2026-09-30
+
+Aligned the UAT description and Sandra Obi’s stakeholder line. Historical notes in this changelog, and the v2.1.3 findings in `COURSE-REVIEW.md`, are unchanged.
+
+### Fixed
+
+- **UAT.** The work-package description is a minimum of 30 Northgate residents, matching the acceptance rule and the charter. The signature rule is unchanged.
+- **UAT lead.** Sandra Obi leads UAT. Her ops catch-up is every two weeks, separate from the monthly senior-user update.
 
 [↑ Back to top](#table-of-contents)
 
