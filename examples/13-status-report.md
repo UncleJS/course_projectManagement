@@ -1,4 +1,4 @@
-# Worked Example: Status Report — Month 3 (Highlight Report)
+# Worked Example: Status Report — Highlight Report No. 7
 ## Meridian — Citizen Self-Service Portal
 
 ![Template](https://img.shields.io/badge/Example-Status%20Report-blue)
@@ -14,8 +14,8 @@
 - [Overall RAG Status](#overall-rag-status)
   - [RAG Definitions](#rag-definitions)
 - [Period Summary](#period-summary)
-- [Progress This Period (May 4–8, 2026)](#progress-this-period-may-48-2026)
-- [Planned for Next Period (May 11 – June 5, 2026)](#planned-for-next-period-may-11--june-5-2026)
+- [Progress This Period (April 27 – May 8, 2026)](#progress-this-period-april-27--may-8-2026)
+- [Planned through Sprint 1 (May 11 – June 5, 2026)](#planned-through-sprint-1-may-11--june-5-2026)
 - [Financials](#financials)
   - [Earned Value Management (EVM) Summary](#earned-value-management-evm-summary)
 - [Risks (Top 3 Active Risks)](#risks-top-3-active-risks)
@@ -31,8 +31,8 @@
 | Field | Value |
 |---|---|
 | **Project Title** | Meridian — Citizen Self-Service Portal |
-| **Report No.** | 06 |
-| **Reporting period** | May 4, 2026 – May 8, 2026 |
+| **Report No.** | 7 |
+| **Reporting period** | April 27, 2026 – May 8, 2026 |
 | **Report date** | May 8, 2026 |
 | **Prepared by** | Sarah Chen, Project Manager |
 | **Distribution** | James Hartley, Sandra Obi, Mark Pearce, Councilmember Dean, Claire Worthington |
@@ -74,8 +74,11 @@ Parking-permit renewal is still in Phase 1 scope. Whether LandWorks can supply p
 
 ---
 
-## Progress This Period (May 4–8, 2026)
+## Progress This Period (April 27 – May 8, 2026)
 
+Highlight reports are issued every two weeks, on Friday. Report No. 1 was February 13, 2026, so this Friday, May 8 report is No. 7. The period is the working fortnight since Report No. 6 on April 24.
+
+- ✅ Project Board Meeting 3 held May 7, 2026 (first Thursday of the month)
 - ✅ Gate 1 review conducted and passed (May 8, 2026)
 - ✅ Discovery Report approved by Senior User and Senior Supplier
 - ✅ UX Design Specification approved — all four service modules, including parking permits
@@ -87,7 +90,7 @@ Parking-permit renewal is still in Phase 1 scope. Whether LandWorks can supply p
 
 ---
 
-## Planned for Next Period (May 11 – June 5, 2026)
+## Planned through Sprint 1 (May 11 – June 5, 2026)
 
 - GovTech Development Sprint 1: Planning and zoning application tracking module build begins
 - ICT Developer (Tom Okafor) begins LandWorks integration configuration for the planning module, including a test of parking-permit data fields

@@ -77,7 +77,7 @@ The portal will be built on the **GovTech Solutions CivicConnect** platform (Saa
 | 10 | [Issue Log](10-issue-log.md) | `templates/issue-log.md` |
 | 11 | [Meeting Agenda — Kick-off](11-meeting-agenda.md) | `templates/meeting-agenda.md` |
 | 12 | [Meeting Minutes — Kick-off](12-meeting-minutes.md) | `templates/meeting-minutes.md` |
-| 13 | [Status Report — Month 3](13-status-report.md) | `templates/status-report.md` |
+| 13 | [Status Report — Highlight Report No. 7](13-status-report.md) | `templates/status-report.md` |
 | 14 | [Risk Register](14-risk-register.md) | `templates/risk-register.md` |
 | 15 | [Lessons Learned Log](15-lessons-learned-log.md) | `templates/lessons-learned-log.md` |
 | 16 | [Project Closure Report](16-project-closure-report.md) | `templates/project-closure-report.md` |

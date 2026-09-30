@@ -265,7 +265,7 @@ The project is recommended for formal closure. Benefits realization is being han
 | # | Lesson | Category | Recommendation |
 |---|---|---|---|
 | 1 | ICT resource commitments were not named in the project charter, causing a near-miss on integration resource | Resource / team management | Named resource commitment section must be included in all project charters; signed by relevant line manager |
-| 2 | BCM not confirmed until Month 3 — staff engagement unmanaged during design phase | Organizational change management | BCM confirmation should be a Gate 0 condition for projects with significant staff behavior change requirements |
+| 2 | BCM not confirmed until April 22, 2026 (the project's third month) — staff engagement unmanaged during design phase | Organizational change management | BCM confirmation should be a Gate 0 condition for projects with significant staff behavior change requirements |
 | 3 | LandWorks API limitations were not validated before business case finalization | Technical / technology | Technical spike (proof-of-concept API test) must be completed before business case sign-off for all LandWorks-dependent projects |
 | 4 | Benefits baseline measures were not established at project initiation | Project closure / benefits | Benefits register with baseline measures must be completed at initiation stage — before any activity that might affect the baseline |
 | 5 | The 13 days after UAT were already planned for training and cutover. UAT finished 7 days late, so go-live moved 7 days, to October 8 | Schedule management | Name the activities inside a gap. If they stay, a late UAT finish moves go-live by the same number of days |
