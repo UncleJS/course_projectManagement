@@ -150,7 +150,7 @@ The project is recommended for formal closure. Benefits realization is being han
 
 | Item | Approved budget ($) | Actual spend ($) | Variance ($) | Variance (%) |
 |---|---|---|---|---|
-| GovTech platform license and configuration (net of CR-003 −$18,000) | 240,000 | 222,000 | +18,000 | +7.5% |
+| GovTech platform license and configuration | 240,000 | 222,000 | +18,000 | +7.5% |
 | ICT / LandWorks integration (internal — Tom Okafor) | 48,000 | 48,000 | 0 | 0% |
 | Project management (internal — Sarah Chen) | 42,000 | 42,000 | 0 | 0% |
 | Training and change (Diane Hughes + materials) | 20,000 | 20,000 | 0 | 0% |
