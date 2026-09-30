@@ -55,7 +55,7 @@ The **Meridian Portal** project was approved to deliver a resident self-service 
 
 ### Technology
 
-The portal will be built on the **GovTech Solutions CivicConnect** platform (SaaS), configured and integrated with the city's existing Northgate LandWorks back-office system.
+The portal will be built on the **GovTech Solutions CivicConnect** platform (SaaS), configured and integrated with LandWorks (planning and parking permits), Civica Waste (missed trash and yard waste), and Harbor Payments (property tax payments).
 
 [↑ Back to top](#table-of-contents)
 

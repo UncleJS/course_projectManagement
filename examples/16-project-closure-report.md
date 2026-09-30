@@ -88,7 +88,7 @@ The project is recommended for formal closure. Benefits realization is being han
 |---|---|---|---|
 | OBJ-01 | Deliver a fully operational citizen self-service portal | **Achieved late** | Live on October 8, 2026. The charter date was October 1, 2026 (+7 days, CR-006). |
 | OBJ-02 | Enable digital self-service for planning and zoning inquiries, property tax payments, waste reporting, and parking permit renewals | **Partly achieved** | Planning and zoning, property tax, and waste reporting (missed trash and yard waste) are live. Parking permit renewal was deferred to Phase 2 (CR-003). |
-| OBJ-03 | Integrate with the Northgate LandWorks back-office system | **Achieved for delivered scope** | Integration for the live modules was tested and signed off by the ICT Manager before go-live. Parking-permit integration was not completed. |
+| OBJ-03 | Integrate with LandWorks, Civica Waste, and Harbor Payments | **Achieved for delivered scope** | Planning on LandWorks, waste on Civica Waste, and property tax payments on Harbor Payments were tested and signed off by the ICT Manager before go-live. Parking-permit integration on LandWorks was not completed. |
 | OBJ-04 | Achieve project delivery within approved budget | **Fully achieved** | Outturn $374,800, within the $420,000 cap. |
 | OBJ-05 | Complete user acceptance testing with resident involvement | **Partly achieved** | Sandra Obi signed off the 47 UAT scenarios before go-live. The quality register records 12 resident testers. The charter measure was at least 30. |
 

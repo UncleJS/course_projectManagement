@@ -59,7 +59,7 @@ The Meridian Portal project will deliver a citizen-facing self-service web porta
 |---|---|---|
 | OBJ-01 | Deliver a fully operational citizen self-service portal | Portal live and accessible to all Northgate residents by October 1, 2026 |
 | OBJ-02 | Enable digital self-service for planning and zoning inquiries, property tax payments, waste reporting, and parking permit renewals | All four service areas available on portal at go-live |
-| OBJ-03 | Integrate with the Northgate LandWorks back-office system | Integration tested and signed off by ICT Manager prior to go-live |
+| OBJ-03 | Integrate with LandWorks, Civica Waste, and Harbor Payments | Each live integration tested and signed off by the ICT Manager before go-live |
 | OBJ-04 | Achieve project delivery within approved budget | Outturn ≤ $420,000 |
 | OBJ-05 | Complete user acceptance testing with resident involvement | At least 30 residents complete UAT; issues resolved or documented prior to go-live |
 

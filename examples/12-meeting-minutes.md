@@ -108,7 +108,7 @@ Sarah Chen walked through the Project Charter scope sections:
 - Property tax payment and account management
 - Waste collection (missed trash and yard waste reporting)
 - Parking permit renewal
-- LandWorks back-office integration
+- Integrations with LandWorks (planning and parking permits), Civica Waste (missed trash and yard waste), and Harbor Payments (property tax payments)
 
 **Out of scope (confirmed):**
 - Online planning and zoning application submission (Phase 2)
