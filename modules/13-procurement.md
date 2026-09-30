@@ -9,8 +9,19 @@
 
 ---
 
+## Learning outcomes
+
+By the end of this module you will be able to:
+
+- Decide whether to make or buy
+- Evaluate suppliers on quality and price with a stated method
+- Manage a contract through delivery and close it cleanly
+
+---
+
 ## Table of Contents
 
+- [Learning outcomes](#learning-outcomes)
 - [Module 13 — Procurement and Contract Management](#module-13--procurement-and-contract-management)
   - [Table of Contents](#table-of-contents)
   - [1. Why Procurement Matters in Projects](#1-why-procurement-matters-in-projects)

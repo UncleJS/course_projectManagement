@@ -9,8 +9,19 @@
 
 ---
 
+## Learning outcomes
+
+By the end of this module you will be able to:
+
+- Identify stakeholders and assess their interest and influence
+- Choose an engagement approach for supporters and for people who resist
+- Keep the stakeholder picture current as the project changes
+
+---
+
 ## Table of Contents
 
+- [Learning outcomes](#learning-outcomes)
 - [1. Who Are Stakeholders?](#1-who-are-stakeholders)
   - [Stakeholder types](#stakeholder-types)
 - [2. Stakeholder Identification](#2-stakeholder-identification)

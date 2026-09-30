@@ -9,8 +9,19 @@
 
 ---
 
+## Learning outcomes
+
+By the end of this module you will be able to:
+
+- Describe a risk as a cause, an uncertain event, and an effect
+- Choose among avoid, transfer, mitigate, accept, and escalate, and distinguish passive acceptance from active acceptance
+- Monitor residual risk and opportunities through the life of the project
+
+---
+
 ## Table of Contents
 
+- [Learning outcomes](#learning-outcomes)
 - [1. Risk Concepts and Definitions](#1-risk-concepts-and-definitions)
   - [What is a risk?](#what-is-a-risk)
   - [Threats and opportunities](#threats-and-opportunities)
@@ -301,7 +312,7 @@ flowchart TD
     Q3{"Can probability or impact be reduced?"}
     MI["🛡 Mitigate (reduce P, reduce I, or both)"]
     Q4{"Is risk within project tolerance?"}
-    AC["✅ Accept (acknowledge; prepare contingency plan)"]
+    AC["✅ Accept (passive: acknowledge only; active: contingency plan)"]
     ES["📢 Escalate (refer to higher authority)"]
     T --> Q1
     Q1 -->|Yes| AV

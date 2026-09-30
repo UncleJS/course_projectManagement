@@ -1,7 +1,7 @@
 # Changelog
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
-![Version](https://img.shields.io/badge/Version-2.3.4-blue)
+![Version](https://img.shields.io/badge/Version-2.3.5-blue)
 ![Keep a Changelog](https://img.shields.io/badge/Keep%20a%20Changelog-1.1.0-orange)
 ![Semantic Versioning](https://img.shields.io/badge/Semver-2.0.0-informational)
 
@@ -19,6 +19,7 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## Table of Contents
 
 - [Unreleased](#unreleased)
+- [2.3.5 — 2026-09-30](#235--2026-09-30)
 - [2.3.4 — 2026-09-30](#234--2026-09-30)
 - [2.3.3 — 2026-09-30](#233--2026-09-30)
 - [2.3.2 — 2026-09-30](#232--2026-09-30)
@@ -38,6 +39,22 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## [Unreleased]
 
 *No unreleased changes.*
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## [2.3.5] — 2026-09-30
+
+Closed the remaining Meridian and teaching gaps that a learner could still get wrong. Historical notes in this changelog, and the v2.1.3 findings in `COURSE-REVIEW.md`, are unchanged.
+
+### Fixed
+
+- **Saving date.** The $123,820 net saving is the first operational year, measured in April 2027 (month 6, April 8). Closure BEN-05 and benefits BEN-06 use that date. The city-wide 60% target is stated separately from the project's 55% in-scope target.
+- **Risks.** Closure counts four materialized risks (RSK-01, RSK-03, RSK-08, RSK-09), three that expired (RSK-06, RSK-07, RSK-10), and three still open. ASM-04 points at RSK-04, the staff-adoption risk.
+- **Sign-offs.** UAT completion and contact-center training move off Saturday onto the Friday before. The gap after UAT is 13 days. Go-live stays October 8, still 7 days late. The portal had been live 23 days at closure, which is not labeled Month 1.
+- **Names.** The waste system is Civica Waste, distinct from the bidder Civica Digital Services. GovTech support uses a US email and phone. The assumption log uses ICT in the two lines that said IT. Staff risk is described as layoff.
+- **Teaching.** The initiation flowchart no longer marks the business case approved before the decision. The Accept node distinguishes passive and active acceptance. The estimate at completion is $112,500 from the unrounded ratio. Day 5 of the intensive is four modules, and the timing note matches that load. Each teaching module opens with learning outcomes. The generic portal exercise no longer reuses Meridian's 18% and 34.
 
 [↑ Back to top](#table-of-contents)
 

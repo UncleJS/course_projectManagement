@@ -88,12 +88,12 @@ All attendees introduced themselves. Sarah Chen (PM) confirmed she had been in p
 
 James Hartley presented the strategic context and business case headline:
 - Current contact-center cost: $312,400 per year (14,200 transactional inquiries × $22).
-- Target: 55% digital deflection within 6 months of go-live; $123,820 net annual saving by Year 2.
-- City strategic plan commitment: 60% digital transactions by 2028.
+- Target: 55% digital deflection of the 14,200 in-scope inquiries within 6 months of go-live; $123,820 net annual saving from that month (April 2027).
+- City strategic plan commitment: 60% of all resident transactions digital by 2028. That city-wide figure is wider than this project's 55% in-scope target.
 
 *Councilmember Dean noted she had briefed the chair of the Finance Committee and received positive support.*
 
-*Ayo Mensah (Teams) asked directly about job security for the contact-center team. James Hartley confirmed: "This project is about redeployment, not redundancy. We need skilled staff for complex casework that cannot be automated. Sandra will be communicating this to the team."*
+*Ayo Mensah (Teams) asked directly about job security for the contact-center team. James Hartley confirmed: "This project is about redeployment, not layoffs. We need skilled staff for complex casework that cannot be automated. Sandra will be communicating this to the team."*
 
 [↑ Back to top](#table-of-contents)
 
@@ -143,7 +143,7 @@ Sarah Chen presented the milestone schedule. The group confirmed:
 - Gate 2 (Build complete): August 7, 2026
 - SIT complete: August 21, 2026
 - UAT begins: August 22, 2026
-- Gate 3 (UAT complete / go-live authorization): September 19, 2026
+- Gate 3 (UAT complete / go-live authorization): September 18, 2026
 - **Go-live: October 1, 2026 — confirmed as fixed and non-negotiable.**
 
 *Councilmember Dean asked whether there was a risk of the go-live date slipping. Sarah Chen confirmed the fixed date constraint is documented in the Project Charter and will be managed through contingency and scope control. She noted that the date will only move under a formal exception report to the Sponsor.*

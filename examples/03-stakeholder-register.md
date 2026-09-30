@@ -54,7 +54,7 @@
 | STK-02 | Sandra Obi | Head of Customer Services / Senior User | Operational impact on her team; service quality | H | H | S | L | Staff job security; resident experience not harmed; adequate training | Included in Project Board; co-chairs UAT; bi-weekly ops catch-up | Sarah Chen | Monthly |
 | STK-03 | Mark Pearce | ICT Infrastructure Manager / Senior Supplier | Technical delivery; infrastructure capacity | H | M | N | S | Workload on his team; integration risk to LandWorks; security compliance | Technical working group weekly; integration sprint reviews | Sarah Chen | Monthly |
 | STK-04 | Councilmember Patricia Dean | Chair, Technology and Innovation Committee | Political success; constituent satisfaction | H | L | S | L | Project delivered on time; positive press coverage | Monthly sponsor briefing note; attend go-live event | James Hartley | Monthly |
-| STK-05 | Ayo Mensah | Contact Center Team Lead | Job security; workload change | M | H | R | N | Role redundancy if call volumes drop; team morale | Direct 1:1 meeting (March); redeployment briefing; involve in UAT | Sandra Obi | Every two weeks |
+| STK-05 | Ayo Mensah | Contact Center Team Lead | Job security; workload change | M | H | R | N | Layoff if call volumes drop; team morale | Direct 1:1 meeting (March); redeployment briefing; involve in UAT | Sandra Obi | Every two weeks |
 | STK-06 | Contact Center Team (12 staff) | Customer Services | Workload change; job security; new processes | M | H | R | N | Same as STK-05; plus: adequate training before go-live | Team briefing (March); training sessions (September); Q&A sessions | Sandra Obi | Monthly |
 | STK-07 | GovTech Solutions Inc. | Supplier / Portal Platform | Successful delivery; contract performance; reference site | H | M | S | S | Timely decisions from city; integration access; testing environment | Weekly supplier meeting; contractual milestone reviews | Sarah Chen | Every two weeks |
 | STK-08 | Claire Worthington | Finance Director | Budget compliance; value for money | M | L | N | S | Cost escalation; contingency consumption; procurement compliance | Monthly finance report copy; alert if contingency consumed >50% | Sarah Chen | Monthly |
@@ -101,7 +101,7 @@
 
 ## Notes
 
-- STK-05 and STK-06 are currently **Resistant**. The primary concern is job security. Evidence from comparable projects shows that early, transparent communication about redeployment (not redundancy) significantly reduces resistance. This is a priority engagement action for March 2026.
+- STK-05 and STK-06 are currently **Resistant**. The primary concern is job security. Evidence from comparable projects shows that early, transparent communication about redeployment (not layoffs) significantly reduces resistance. This is a priority engagement action for March 2026.
 - STK-09 (residents) are currently **Unaware** — this is appropriate at this stage. Resident communications will begin in August 2026 ahead of go-live.
 - This register contains sensitive information (political and personal concerns). It should not be shared beyond the project team and Project Board without approval.
 

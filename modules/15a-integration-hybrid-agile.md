@@ -11,8 +11,19 @@
 
 ---
 
+## Learning outcomes
+
+By the end of this module you will be able to:
+
+- Hold scope, schedule, cost, risk, and change in one picture
+- Choose a predictive, agile, or hybrid approach for the work in front of you
+- Say what stays under change control when delivery is iterative
+
+---
+
 ## Table of Contents
 
+- [Learning outcomes](#learning-outcomes)
 - [1. Integration Management](#1-integration-management)
   - [What Integration Means in Practice](#what-integration-means-in-practice)
   - [The Project Management Plan as an Integrated Document](#the-project-management-plan-as-an-integrated-document)

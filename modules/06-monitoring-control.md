@@ -9,8 +9,19 @@
 
 ---
 
+## Learning outcomes
+
+By the end of this module you will be able to:
+
+- Measure schedule and cost performance with earned value
+- Forecast the cost to complete from the unrounded performance ratio
+- Report an exception early enough for the sponsor to act
+
+---
+
 ## Table of Contents
 
+- [Learning outcomes](#learning-outcomes)
 - [1. The Purpose of Monitoring and Controlling](#1-the-purpose-of-monitoring-and-controlling)
   - [The control cycle](#the-control-cycle)
 - [2. Earned Value Management (EVM)](#2-earned-value-management-evm)
@@ -139,11 +150,11 @@ A project has:
 | SV = EV − PV | $40,000 − $50,000 = **−$10,000** | Behind schedule |
 | CV = EV − AC | $40,000 − $45,000 = **−$5,000** | Over budget |
 | SPI = EV ÷ PV | $40,000 ÷ $50,000 = **0.80** | Doing 80% of the scheduled work |
-| CPI = EV ÷ AC | $40,000 ÷ $45,000 = **0.89** | Getting $0.89 of value per $1 spent |
-| EAC = BAC ÷ CPI | $100,000 ÷ 0.89 = **$112,360** | Project will likely cost $12,360 more than budgeted |
-| VAC = BAC − EAC | $100,000 − $112,360 = **−$12,360** | Forecast overspend |
+| CPI = EV ÷ AC | $40,000 ÷ $45,000 = **0.889** (8/9; often shown as 0.89) | Getting about $0.89 of value per $1 spent |
+| EAC = BAC × AC ÷ EV | $100,000 × $45,000 ÷ $40,000 = **$112,500** | Project will likely cost $12,500 more than budgeted |
+| VAC = BAC − EAC | $100,000 − $112,500 = **−$12,500** | Forecast overspend |
 
-This project needs attention — it is both behind schedule and over budget at the midpoint.
+This project needs attention — it is both behind schedule and over budget at the midpoint. Divide by the unrounded CPI. Rounding 0.889 to 0.89 and then dividing $100,000 by 0.89 prints $112,360, which is $140 away from the figure above.
 
 ### The S-curve
 

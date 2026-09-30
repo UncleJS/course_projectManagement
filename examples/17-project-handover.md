@@ -60,11 +60,15 @@ The Meridian Citizen Self-Service Portal went live on **October 8, 2026**. It pr
 | Module | Description | Back-office system integrated |
 |---|---|---|
 | **Planning and zoning application tracking** | Residents can search and track status of planning and zoning applications | LandWorks (planning module) |
-| **Missed trash collection reporting** | Residents can report a missed collection and receive confirmation | Civica (waste management) |
+| **Missed trash collection reporting** | Residents can report a missed collection and receive confirmation | Civica Waste |
 | **Property tax account and payment** | Residents can view their property tax account and make payments | Harbor Payments (property tax) |
-| **Yard waste subscription renewal** | Residents can renew their annual yard waste subscription | Civica (waste management) |
+| **Yard waste subscription renewal** | Residents can renew their annual yard waste subscription | Civica Waste |
 
 **Not delivered (Phase 2)**: Parking permit online renewal — deferred via CR-003 (July 2026) due to LandWorks API limitation. See Section 7 (Phase 2 Brief) for full details.
+
+Civica Waste is the city's waste system. It is run by Civica Digital Services, which bid for this portal and was not selected.
+
+**Hypercare.** CR-005 set support at 45 days from go-live. From October 8, 2026, that period runs through November 22, 2026. GovTech provides Level 1 and Level 2. Tom Okafor retains Level 3.
 
 [↑ Back to top](#table-of-contents)
 
@@ -89,8 +93,8 @@ The Meridian Citizen Self-Service Portal went live on **October 8, 2026**. It pr
 | Level | Responsible party | Scope | Contact |
 |---|---|---|---|
 | Level 1 — User-facing issues | City ICT Helpdesk | Resident access problems, password reset, browser compatibility | servicedesk@northgate.gov |
-| Level 2 — Platform issues | GovTech Solutions support team | Portal software bugs, platform errors, performance issues | support@govtechsolutions.co.uk / 0800 xxx xxxx |
-| Level 3 — Integration issues | Tom Okafor (ICT Developer) | LandWorks, Civica, and Harbor Payments integration failures or data errors | tom.okafor@northgate.gov |
+| Level 2 — Platform issues | GovTech Solutions support team | Portal software bugs, platform errors, performance issues | support@govtechsolutions.com / 1-800 xxx xxxx |
+| Level 3 — Integration issues | Tom Okafor (ICT Developer) | LandWorks, Civica Waste, and Harbor Payments integration failures or data errors | tom.okafor@northgate.gov |
 | Escalation — Service disruption | Mark Pearce (ICT Manager) | Major incidents; P1 outages; data incidents | mark.pearce@northgate.gov |
 
 ### 2.3 Key Operational Procedures
@@ -124,7 +128,7 @@ The Meridian Citizen Self-Service Portal went live on **October 8, 2026**. It pr
 
 | Supplier | Contract | Term | Value | Owner | Key contacts |
 |---|---|---|---|---|---|
-| GovTech Solutions | Platform support and maintenance SLA | 3 years from go-live (Oct 2026 – Oct 2029) | $36,000/year | Mark Pearce | GovTech Account Manager: [name]; Support: support@govtechsolutions.co.uk |
+| GovTech Solutions | Platform support and maintenance SLA | 3 years from go-live (Oct 2026 – Oct 2029) | $36,000/year | Mark Pearce | GovTech Account Manager: [name]; Support: support@govtechsolutions.com |
 | Harbor Payments | Property tax payment gateway processing | Ongoing (existing contract; portal use added via change notice) | Included in existing contract | Mark Pearce / Finance | Existing contract management arrangements |
 
 **Note on GovTech SLA**: The support SLA includes a 4-hour response time for P1 incidents (portal unavailable), 8-hour for P2 (significant functionality impaired), and next working day for P3/P4. Mark Pearce is the contract manager and should receive monthly SLA performance reports from GovTech.

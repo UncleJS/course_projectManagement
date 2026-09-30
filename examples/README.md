@@ -38,7 +38,7 @@ The **Meridian Portal** project was approved to deliver a resident self-service 
 |---|---|---|
 | Reduced contact-center handling | % of eligible inquiries deflected to self-service | 55% deflection rate by Month 6 post go-live |
 | Staff time saving | FTE hours saved per year | 1.8 FTE equivalent per year |
-| Cost saving | $ per year operational saving | $123,820 net by Year 2 post go-live |
+| Cost saving | $ per year operational saving | $123,820 net per year from April 2027 (month 6) |
 | Resident satisfaction | Digital satisfaction index (0–100) | From 34 to 54 or higher |
 
 ### Key Stakeholders

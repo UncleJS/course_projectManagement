@@ -9,8 +9,19 @@
 
 ---
 
+## Learning outcomes
+
+By the end of this module you will be able to:
+
+- Explain how authority and accountability are structured on a project
+- Compare governance models and decide when to tailor them
+- Describe the sponsor, the project board, and exception reporting
+
+---
+
 ## Table of Contents
 
+- [Learning outcomes](#learning-outcomes)
 - [1. What Is Project Governance?](#1-what-is-project-governance)
   - [The governance hierarchy](#the-governance-hierarchy)
   - [Management by exception](#management-by-exception)

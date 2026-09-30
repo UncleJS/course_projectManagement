@@ -9,8 +9,19 @@
 
 ---
 
+## Learning outcomes
+
+By the end of this module you will be able to:
+
+- Direct project work against the agreed baselines
+- Handle change and issues while delivery is underway
+- Keep the team, the supplier, and the stakeholders working to the same plan
+
+---
+
 ## Table of Contents
 
+- [Learning outcomes](#learning-outcomes)
 - [1. Directing and Managing Project Work](#1-directing-and-managing-project-work)
   - [Translating plans into action](#translating-plans-into-action)
   - [The PM as servant and director](#the-pm-as-servant-and-director)

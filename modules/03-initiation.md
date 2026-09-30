@@ -9,8 +9,19 @@
 
 ---
 
+## Learning outcomes
+
+By the end of this module you will be able to:
+
+- Separate the business case, which justifies the project, from the charter, which authorizes it
+- Identify the decisions, roles, and stakeholders required before delivery starts
+- Plan a kick-off that confirms scope, constraints, and the first risks
+
+---
+
 ## Table of Contents
 
+- [Learning outcomes](#learning-outcomes)
 - [1. Pre-Project: Identifying the Need](#1-pre-project-identifying-the-need)
   - [The project mandate](#the-project-mandate)
 - [2. Feasibility Assessment](#2-feasibility-assessment)
@@ -201,7 +212,7 @@ flowchart TD
     MAN["📄 Project Mandate (trigger)"]
     FEAS["🔬 Feasibility Study & Options Appraisal"]
     DEC{{"Go / No-Go Decision"}}
-    BC["📊 Business Case (approved)"]
+    BC["📊 Business Case"]
     CHAR["✅ Project Charter (signed)"]
     APPT["👤 Appoint PM & Core Team"]
     STAKE["👥 Stakeholder Identification"]
@@ -378,7 +389,7 @@ A kick-off meeting without a written agenda and documented minutes produces no l
 
 ### Exercise 3.1 — Write a business case summary
 
-**Scenario:** A city wants to replace its paper-based planning and zoning application process with a digital self-service portal. Currently, applicants submit paper forms; processing takes 28 days on average; the error rate is 18%; and customer satisfaction is 34%.
+**Scenario:** A city wants to replace its paper-based planning and zoning application process with a digital self-service portal. Currently, applicants submit paper forms; processing takes 28 days on average; the error rate is 22%; and customer satisfaction is 41%.
 
 Write a one-page business case summary covering: background, at least two options (including do nothing), recommended option, expected benefits (quantify where you can), key risks, and a recommendation.
 

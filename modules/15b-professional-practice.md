@@ -11,8 +11,19 @@
 
 ---
 
+## Learning outcomes
+
+By the end of this module you will be able to:
+
+- Name the competencies the project manager role depends on
+- Recognize common failure modes, including a project that stays green until it is suddenly red
+- Plan how you will keep learning after this course
+
+---
+
 ## Table of Contents
 
+- [Learning outcomes](#learning-outcomes)
 - [1. PM Competency Frameworks](#1-pm-competency-frameworks)
   - [Why Competency Frameworks Matter](#why-competency-frameworks-matter)
   - [PMI Talent Triangle](#pmi-talent-triangle)

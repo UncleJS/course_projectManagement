@@ -9,8 +9,19 @@
 
 ---
 
+## Learning outcomes
+
+By the end of this module you will be able to:
+
+- Plan who needs which information, when, and in what form
+- Choose a channel and a cadence that match the audience
+- Escalate a message when a decision or an exception is required
+
+---
+
 ## Table of Contents
 
+- [Learning outcomes](#learning-outcomes)
 - [1. Why Communications Management Matters](#1-why-communications-management-matters)
 - [2. Communication Planning](#2-communication-planning)
   - [The Communications Management Plan](#the-communications-management-plan)
@@ -460,7 +471,7 @@ Produce a Communication Matrix that covers:
 
 ### Exercise 10.2 — Write a Highlight Report
 
-Using the week-10 worked example in Module 06 (20-week project, BAC $100,000, SPI 0.80, CPI 0.89, EAC $112,360), write a Highlight Report for the project sponsor. The project is a system integration project for a healthcare provider. These figures are the worked example, not Exercise 6.1.
+Using the week-10 worked example in Module 06 (20-week project, BAC $100,000, SPI 0.80, CPI 0.889, EAC $112,500), write a Highlight Report for the project sponsor. The project is a system integration project for a healthcare provider. These figures are the worked example, not Exercise 6.1.
 
 Include all standard sections: period covered, RAG status, progress, plan, risks, issues, decisions required.
 

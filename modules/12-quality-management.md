@@ -9,8 +9,19 @@
 
 ---
 
+## Learning outcomes
+
+By the end of this module you will be able to:
+
+- Plan quality into the work rather than inspecting it only at the end
+- Distinguish quality assurance from quality control
+- Record defects, retests, and acceptance so the quality story stays in one place
+
+---
+
 ## Table of Contents
 
+- [Learning outcomes](#learning-outcomes)
 - [1. Quality Concepts](#1-quality-concepts)
   - [What is quality?](#what-is-quality)
   - [Quality vs. grade](#quality-vs-grade)

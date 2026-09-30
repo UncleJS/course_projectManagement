@@ -9,8 +9,19 @@
 
 ---
 
+## Learning outcomes
+
+By the end of this module you will be able to:
+
+- Build a plan that is detailed enough to direct work and able to change
+- Turn scope, schedule, cost, and resources into one baseline
+- State the assumptions and constraints the plan depends on
+
+---
+
 ## Table of Contents
 
+- [Learning outcomes](#learning-outcomes)
 - [1. Planning Principles](#1-planning-principles)
   - [Plans are hypotheses, not contracts](#plans-are-hypotheses-not-contracts)
   - [Progressive elaboration](#progressive-elaboration)

@@ -9,8 +9,19 @@
 
 ---
 
+## Learning outcomes
+
+By the end of this module you will be able to:
+
+- Elicit, document, and accept requirements
+- Keep informal requests from bypassing change control
+- Trace a requirement from the need to the test that proves it
+
+---
+
 ## Table of Contents
 
+- [Learning outcomes](#learning-outcomes)
 - [1. The Requirements Lifecycle](#1-the-requirements-lifecycle)
 - [2. Types of Requirements](#2-types-of-requirements)
 - [3. Requirements Elicitation Techniques](#3-requirements-elicitation-techniques)

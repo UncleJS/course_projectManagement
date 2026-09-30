@@ -9,8 +9,19 @@
 
 ---
 
+## Learning outcomes
+
+By the end of this module you will be able to:
+
+- Close a project with acceptance, handover, and lessons learned
+- Transfer benefits and operational responsibility to the receiving team
+- End a project cleanly when it finishes as planned or is stopped early
+
+---
+
 ## Table of Contents
 
+- [Learning outcomes](#learning-outcomes)
 - [1. Conditions for Closure](#1-conditions-for-closure)
   - [Planned completion](#planned-completion)
   - [Premature or forced closure](#premature-or-forced-closure)
@@ -408,7 +419,7 @@ timeline
 
 ### Exercise 7.1 — Lessons learned workshop simulation
 
-The digital planning portal project (from earlier modules) has just gone live. It was delivered 4 weeks late and 8% over budget. However, user adoption is strong, the error rate has dropped from 18% to 2%, and the customer satisfaction score is up from 34% to 71%.
+The digital planning portal project (from earlier modules) has just gone live. It was delivered 4 weeks late and 8% over budget. However, user adoption is strong, the error rate has dropped from 22% to 3%, and the customer satisfaction score is up from 41% to 76%.
 
 Prepare and facilitate a lessons learned workshop:
 

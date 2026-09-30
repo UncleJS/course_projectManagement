@@ -60,13 +60,13 @@ Suitable for corporate training cohorts or bootcamp formats.
 
 | Day | Content | Modules |
 |---|---|---|
-| **Day 1** | Foundations and Governance | 01, 02 |
-| **Day 2** | Initiation and Planning | 03, 04 |
-| **Day 3** | Execution and Monitoring | 05, 06 |
-| **Day 4** | Closing + Knowledge Domains (Risk, Stakeholders, Communications) | 07, 09, 10, 11 |
-| **Day 5** | Knowledge Domains continued + Capstone | 08, 12, 13, 14, 15a, 15b |
+| **Day 1** | Foundations through initiation | 01, 02, 03 |
+| **Day 2** | Planning and execution | 04, 05 |
+| **Day 3** | Monitoring, closing, and scope | 06, 07, 08 |
+| **Day 4** | Stakeholders, communications, risk, and quality | 09, 10, 11, 12 |
+| **Day 5** | Procurement, resources, and capstone | 13, 14, 15a, 15b |
 
-**Timing guidance:** Allow 45–60 minutes per module for instruction, plus 30–45 minutes for exercises. Quizzes can be run as group discussion (15 minutes each) rather than individually.
+**Timing guidance:** Allow 45–60 minutes per module for instruction. On a day with two or three modules, allow 30–45 minutes for exercises. On a day with four modules, shorten each exercise to about 20 minutes and run the quiz as a 10-minute group discussion, so the day stays inside a normal training day. The 8-week format below keeps the longer exercise slot.
 
 ---
 

@@ -56,7 +56,7 @@
 
 ## 1. Executive Summary
 
-The City of Northgate spends $312,400 per year handling 14,200 citizen inquiries that are routine and transactional in nature (14,200 × $22). The Meridian Portal project will deliver a citizen-facing self-service web platform enabling residents to manage planning and zoning inquiries, pay property tax, report missed trash and yard waste, and renew parking permits without staff intervention. Based on a conservative 55% digital deflection rate, the portal is projected to save $123,820 per year net by Year 2 of operation ($171,820 gross less $48,000 annual running cost), recovering the full investment within about 3.4 years. The project is recommended for approval at a total investment of $420,000.
+The City of Northgate spends $312,400 per year handling 14,200 citizen inquiries that are routine and transactional in nature (14,200 × $22). The Meridian Portal project will deliver a citizen-facing self-service web platform enabling residents to manage planning and zoning inquiries, pay property tax, report missed trash and yard waste, and renew parking permits without staff intervention. Based on a conservative 55% digital deflection rate, the portal is projected to save $123,820 per year net in the first operational year ($171,820 gross less $48,000 annual running cost), measured from April 2027, recovering the full investment within about 3.4 years. The project is recommended for approval at a total investment of $420,000.
 
 [↑ Back to top](#table-of-contents)
 
@@ -75,7 +75,7 @@ Residents consistently rate the contact experience as time-consuming (average wa
 The City strategic plan 2024–2028 commits to:
 > *"Delivering 60% of resident transactions digitally by 2028, reducing the cost of administration and improving resident satisfaction."*
 
-The Meridian Portal is the primary delivery vehicle for this commitment.
+The Meridian Portal is the primary delivery vehicle for this commitment. The 60% figure is every resident transaction, city-wide, by 2028. This project's target is narrower: 55% of the 14,200 in-scope contact-center inquiries, measured in April 2027. The 18% digital-transaction baseline later in this case is the current digital share of those in-scope inquiries.
 
 ### Why Now
 
@@ -142,7 +142,7 @@ Transfer the contact-center function to a shared-service provider. Estimated sav
 | Resident digital satisfaction | Non-financial | Digital satisfaction index (0–100) | 34 | 54 or higher | October 2027 (12 months post go-live) | Head of Customer Services |
 | Digital transaction rate | Non-financial | % transactions completed digitally | 18% | 55% | April 2027 | Digital Services Manager |
 
-**Year 2 net annual saving:** $123,820 (gross deflection saving of $171,820 less the $48,000 total annual running cost — GovTech support and internal administration).
+**Net annual saving, from the first operational year:** $123,820 (gross deflection saving of $171,820 less the $48,000 total annual running cost — GovTech support and internal administration). The cashflow table records that full rate in 2027.
 
 [↑ Back to top](#table-of-contents)
 
@@ -202,7 +202,7 @@ Transfer the contact-center function to a shared-service provider. Estimated sav
 |---|---|---|---|
 | Integration with LandWorks system is more complex than estimated | Medium | High | Fixed-price integration contract with GovTech; ICT review at discovery phase |
 | Resident adoption rates lower than projected | Medium | High | User research and UX testing in design phase; post-go-live communications campaign |
-| Contact-center staff resist change | Medium | Medium | Engagement via Head of Customer Services; clarity on redeployment (not redundancy) |
+| Contact-center staff resist change | Medium | Medium | Engagement via Head of Customer Services; clarity on redeployment (not layoffs) |
 | GovTech platform delivery delay | Low | High | Contractual milestone payments and penalty clauses; parallel BAU contingency plan |
 | City political priorities change | Low | Medium | Business case reviewed at each stage gate; project remains paused (not canceled) if priorities shift |
 
@@ -241,7 +241,7 @@ Full detail in the project Risk Register (see [`14-risk-register.md`](14-risk-re
 - GovTech CivicConnect framework agreement remains valid and accessible for this project.
 - ICT infrastructure team can provide 0.4 FTE to integration work from June through August 2026.
 - Residents of Northgate have sufficient internet access to make 55% digital deflection achievable (based on U.S. Census Bureau 2024 data showing 89% internet access in the city).
-- Staff released by contact volume reduction will be redeployed within the city — no redundancy costs anticipated.
+- Staff released by contact volume reduction will be redeployed within the city — no layoff costs anticipated.
 
 [↑ Back to top](#table-of-contents)
 

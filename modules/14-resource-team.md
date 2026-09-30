@@ -9,8 +9,19 @@
 
 ---
 
+## Learning outcomes
+
+By the end of this module you will be able to:
+
+- Plan the roles, the effort, and the calendar a project needs
+- Acquire and develop a team, and close a resource gap before it hits a milestone
+- Lead a team when workload, leave, and motivation conflict
+
+---
+
 ## Table of Contents
 
+- [Learning outcomes](#learning-outcomes)
 - [1. Resource Concepts and Types](#1-resource-concepts-and-types)
   - [What Is a Resource?](#what-is-a-resource)
   - [Resource vs Capacity](#resource-vs-capacity)
@@ -229,7 +240,7 @@ flowchart BT
 ```
 *Maslow's Hierarchy of Needs — lower-level needs must be sufficiently met before higher-level needs become motivating.*
 
-**Project application**: A team member under threat of redundancy (safety) will not be motivated by recognition (esteem). Address the lower-level need first.
+**Project application**: A team member under threat of layoff (safety) will not be motivated by recognition (esteem). Address the lower-level need first.
 
 ### Herzberg's Two-Factor Theory
 

@@ -9,8 +9,19 @@
 
 ---
 
+## Learning outcomes
+
+By the end of this module you will be able to:
+
+- Distinguish a project from an operation, a program, and a portfolio
+- Explain why a project is temporary and unique, and how the triple constraint works
+- Describe the environment a project manager has to work in
+
+---
+
 ## Table of Contents
 
+- [Learning outcomes](#learning-outcomes)
 - [1. What Is a Project?](#1-what-is-a-project)
   - [Why "temporary" matters](#why-temporary-matters)
   - [Why "unique" matters](#why-unique-matters)
