@@ -1,7 +1,7 @@
 # Changelog
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
-![Version](https://img.shields.io/badge/Version-2.3.10-blue)
+![Version](https://img.shields.io/badge/Version-2.3.11-blue)
 ![Keep a Changelog](https://img.shields.io/badge/Keep%20a%20Changelog-1.1.0-orange)
 ![Semantic Versioning](https://img.shields.io/badge/Semver-2.0.0-informational)
 
@@ -19,6 +19,7 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## Table of Contents
 
 - [Unreleased](#unreleased)
+- [2.3.11 — 2026-09-30](#2311--2026-09-30)
 - [2.3.10 — 2026-09-30](#2310--2026-09-30)
 - [2.3.9 — 2026-09-30](#239--2026-09-30)
 - [2.3.8 — 2026-09-30](#238--2026-09-30)
@@ -44,6 +45,20 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## [Unreleased]
 
 *No unreleased changes.*
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## [2.3.11] — 2026-09-30
+
+Made the August leave agree with the issue log, and named the hypercare Sunday. Historical notes in this changelog, and the v2.1.3 findings in `COURSE-REVIEW.md`, are unchanged.
+
+### Fixed
+
+- **Leave.** Sandra Obi is on leave Monday, August 3, through Tuesday, August 18, and returns Wednesday, August 19. That is 12 working days. Ayo Mensah leads the 12-person contact center team.
+- **ISS-05.** The August 14 issue log still has this issue open, because she had not returned. The note records the August 19 close. ISS-06 stays open on that snapshot.
+- **Hypercare.** The handover names Sunday, November 22, matching the closure report. It is day 45 after the October 8 go-live.
 
 [↑ Back to top](#table-of-contents)
 

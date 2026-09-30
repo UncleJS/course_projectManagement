@@ -68,7 +68,7 @@ The Meridian Citizen Self-Service Portal went live on **October 8, 2026**. It pr
 
 Civica Waste is the city's waste system. It is run by Civica Digital Services, which bid for this portal and was not selected.
 
-**Hypercare.** CR-005 set support at 45 days from go-live. From October 8, 2026, that period runs through November 22, 2026. GovTech provides Level 1 and Level 2. Tom Okafor retains Level 3.
+**Hypercare.** CR-005 set support at 45 days from go-live. From October 8, 2026, that period runs through Sunday, November 22, 2026. GovTech provides Level 1 and Level 2. Tom Okafor retains Level 3.
 
 [↑ Back to top](#table-of-contents)
 
