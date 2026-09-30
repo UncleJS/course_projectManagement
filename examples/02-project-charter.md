@@ -103,7 +103,7 @@ These charter objectives are a different list from the business case. The closur
 | DEL-03 | Configured platform (build complete) | All four service modules built and ready for integration testing. Integration testing finishes at the later SIT milestone. | August 7, 2026 |
 | DEL-04 | UAT sign-off | User acceptance testing completed; defects resolved or deferred | September 18, 2026 |
 | DEL-05 | Live portal | Portal accessible to all Northgate residents | October 1, 2026 |
-| DEL-06 | Training completion record | Contact-center team trained and signed off | September 25, 2026 |
+| DEL-06 | Training completion record | 54 in-scope service staff trained and signed off | September 25, 2026 |
 | DEL-07 | Project Closure Report | Including lessons learned and handover documentation | October 31, 2026 |
 
 [↑ Back to top](#table-of-contents)

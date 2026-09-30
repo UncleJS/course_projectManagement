@@ -133,7 +133,7 @@ The project is recommended for formal closure. Benefits realization is being han
 | SIT complete | August 21, 2026 | September 4, 2026 | **+14 days (late)** |
 | UAT begins | August 24, 2026 | September 11, 2026 | **+18 days (late)** |
 | UAT complete | September 18, 2026 | September 25, 2026 | **+7 days (late)** |
-| Contact-center training sign-off | September 25, 2026 | October 2, 2026 | **+7 days (late)** |
+| Training sign-off for the 54 in-scope service staff | September 25, 2026 | October 2, 2026 | **+7 days (late)** |
 | Accessibility audit and remediation complete | October 2, 2026 | September 25, 2026 | **+7 days (early)** |
 | Go-live | October 1, 2026 | October 8, 2026 | **+7 days (late)** |
 | Project closure | October 31, 2026 | October 31, 2026 | **0 days** |

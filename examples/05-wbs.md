@@ -149,7 +149,7 @@ The WBS is a hierarchical decomposition of project scope into deliverables. It f
 | **Assumptions** | Resident UAT panel recruited by August 2026 (City comms team). |
 | **Estimated duration** | 25 days (August 24 – September 18, 2026) |
 | **Estimated cost** | Included in project management costs; GovTech UAT support included in contract |
-| **Dependencies** | 1.3.1–1.3.6 (all build elements complete); 1.4.2 (accessibility sign-off) |
+| **Dependencies** | 1.3.1–1.3.6 (all build elements complete) |
 
 [↑ Back to top](#table-of-contents)
 
