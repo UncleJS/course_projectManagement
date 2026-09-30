@@ -132,7 +132,7 @@ The Meridian Portal project will deliver a citizen-facing self-service web porta
 | **Status reporting** | Every two weeks Highlight Report from PM to Sponsor and Project Board |
 | **Change authority** | PM may approve changes with zero cost impact; changes up to $20,000 approved by Sponsor; changes above $20,000 require Project Board approval |
 | **Escalation path** | Team → PM → Sponsor → Chief Executive (for >$50,000 impact or political risk) |
-| **Review gates** | Gate 1: Discovery/Design sign-off (May 8, 2026); Gate 2: Build complete (August 7, 2026); UAT begins August 22, 2026; Gate 3: Go-live authorization (September 19, 2026) |
+| **Review gates** | Gate 1: Discovery/Design sign-off (May 8, 2026); Gate 2: Build complete (August 7, 2026); SIT complete August 21, 2026; UAT begins August 22, 2026; Gate 3: Go-live authorization (September 19, 2026) |
 
 [↑ Back to top](#table-of-contents)
 
@@ -160,7 +160,8 @@ The Meridian Portal project will deliver a citizen-facing self-service web porta
 | Supplier contract signed | March 6, 2026 |
 | Gate 1: Discovery & Design approved | May 8, 2026 |
 | Gate 2: Build complete | August 7, 2026 |
-| SIT complete / UAT begins | August 22, 2026 |
+| SIT complete | August 21, 2026 |
+| UAT begins | August 22, 2026 |
 | Gate 3: UAT complete / go-live authorization | September 19, 2026 |
 | **Go-live** | **October 1, 2026** |
 | Hypercare period ends | October 31, 2026 |

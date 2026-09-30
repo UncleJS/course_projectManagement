@@ -117,7 +117,7 @@ Quality and commercial evaluations were conducted independently (quality first; 
 | Q4 | Key personnel | 10% | **4** | **0.40** | Named PM (Rajesh Kumar, 8 years' experience; APM PMQ) and Lead Developer (Emma Tran, 6 years' experience; GovTech-certified) both committed by name. CVs strong. Availability confirmed for Q1 2026 start. |
 | Q5 | Implementation plan | 15% | **3** | **0.45** | Well-structured plan; realistic phasing. Minor concern: UAT allocation (2 weeks) is at the lower end for a four-module integration; panel noted but did not mark down as contractual milestone system provides a safeguard. |
 | Q6 | Risk identification and mitigation | 10% | **3** | **0.30** | Good risk register with 8 risks. LandWorks integration risk identified (good). No mention of city staff adoption risk — gap noted. |
-| Q7 | Accessibility and inclusive design | 5% | **4** | **0.20** | Committed to WCAG 2.1 AA compliance with independent audit; provided evidence of two prior AA-compliant deliveries. Named Shaw Trust as independent auditor. |
+| Q7 | Accessibility and inclusive design | 5% | **4** | **0.20** | Committed to WCAG 2.1 AA compliance with independent audit; provided evidence of two prior AA-compliant deliveries. Named Civic Access Partners as independent auditor. |
 | **Total** | | **100%** | — | **3.55** | |
 
 **Quality threshold met?** ✅ Yes (3.55 > 2.0)

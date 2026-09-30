@@ -1,7 +1,7 @@
 # Changelog
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
-![Version](https://img.shields.io/badge/Version-2.3.2-blue)
+![Version](https://img.shields.io/badge/Version-2.3.3-blue)
 ![Keep a Changelog](https://img.shields.io/badge/Keep%20a%20Changelog-1.1.0-orange)
 ![Semantic Versioning](https://img.shields.io/badge/Semver-2.0.0-informational)
 
@@ -19,6 +19,7 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## Table of Contents
 
 - [Unreleased](#unreleased)
+- [2.3.3 — 2026-09-30](#233--2026-09-30)
 - [2.3.2 — 2026-09-30](#232--2026-09-30)
 - [2.3.1 — 2026-09-30](#231--2026-09-30)
 - [2.3.0 — 2026-09-30](#230--2026-09-30)
@@ -36,6 +37,22 @@ This project follows **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)*
 ## [Unreleased]
 
 *No unreleased changes.*
+
+[↑ Back to top](#table-of-contents)
+
+---
+
+## [2.3.3] — 2026-09-30
+
+Made the Meridian test schedule one sequence, from build complete through go-live. Historical notes in this changelog, and the v2.1.3 findings in `COURSE-REVIEW.md`, are unchanged.
+
+### Fixed
+
+- **Schedule.** Gate 2 (build complete) is August 7, planned and actual. Yard waste is accepted that day. SIT is planned to finish August 21 and is signed off September 4 (+14 days). UAT begins August 22 and actually begins September 11 (+20 days). UAT still finishes September 26 (+7 days), and go-live is still October 15. The closure report, charter, kick-off minutes, and quality register use those dates.
+- **Residents.** The September satisfaction score is from the 12 resident UAT testers. It is not a second count of 68, and it is not the quarterly survey.
+- **Float.** LL-007, captured at go-live, says the two-week float covered the 7-day UAT overrun and did not recover the late UAT start.
+- **February baseline.** The February 20 resource calendar no longer records the March 13 developer confirmation or the August leave action as already done.
+- **Auditor.** The independent accessibility auditor is Civic Access Partners.
 
 [↑ Back to top](#table-of-contents)
 

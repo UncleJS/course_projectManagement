@@ -128,7 +128,9 @@ The project is recommended for formal closure. Benefits realization is being han
 | Item | Baseline | Actual | Variance |
 |---|---|---|---|
 | Gate 1 (Discovery and Design complete) | May 8, 2026 | May 8, 2026 | **0 days** |
-| Gate 2 (Build and Integration complete / UAT entry) | August 7, 2026 | September 11, 2026 | **+35 days (late)** |
+| Gate 2 (Build complete) | August 7, 2026 | August 7, 2026 | **0 days** |
+| SIT complete | August 21, 2026 | September 4, 2026 | **+14 days (late)** |
+| UAT begins | August 22, 2026 | September 11, 2026 | **+20 days (late)** |
 | UAT complete | September 19, 2026 | September 26, 2026 | **+7 days (late)** |
 | Accessibility audit and remediation complete | October 3, 2026 | September 26, 2026 | **+7 days (early)** |
 | Go-live | October 1, 2026 | October 15, 2026 | **+14 days (late)** |
@@ -136,7 +138,7 @@ The project is recommended for formal closure. Benefits realization is being han
 
 **Schedule Performance Index (SPI) at closure**: 1.00
 
-**Commentary**: The build phase ran over: Gate 2 (build and integration complete) was reached on September 11, 2026, 35 days later than the August 7 baseline, principally due to LandWorks integration complexity — the parking-permit data limitation (CR-003) and the unplanned Harbor Payments payment-gateway security audit (ISS-04). Much of the slip was recovered by compressing the UAT and remediation window, so UAT completed only 7 days late (September 26) and go-live slipped 14 days to October 15. Formal closure stayed on its October 31 baseline. CR-005 (approved August 14, 2026) had already set hypercare at 45 days from go-live, then planned for October 1 (through November 15). From the actual October 15 go-live, those 45 days run through November 29, 2026, after formal closure. The October 31 date was the closure milestone, not a buffer that absorbed the slip. SPI is 1.00 because the approved scope was finished by closure. That index does not measure the Gate 2 slip; the schedule table above does. The principal lesson (build-phase estimation for legacy-system integration) is captured in the lessons-learned log.
+**Commentary**: Gate 2, build complete, was met on August 7, 2026. Yard waste, the last module demo, was accepted that day. Integration testing was not on time. SIT was planned to finish on August 21, ahead of UAT on August 22. The run started on August 22 and the seven defects were closed on September 4, 14 days late. UAT therefore began on September 11 instead of August 22, 20 days late. UAT then finished on September 26, 7 days after the September 19 gate, and go-live moved from October 1 to October 15. The Harbor Payments audit (ISS-04) closed on July 21 and did not move Gate 2. Parking permits had already been deferred on July 8 (CR-003). The slip that remains is the LandWorks integration test. Formal closure stayed on October 31. CR-005 (approved August 14, 2026) had already set hypercare at 45 days from go-live, then planned for October 1 (through November 15). From the actual October 15 go-live, those 45 days run through November 29, 2026, after formal closure. The October 31 date was the closure milestone, not a buffer that absorbed the slip. SPI is 1.00 because the approved scope was finished by closure. That index does not measure the SIT or UAT slip; the schedule table above does. The principal lesson (integration-test time on a legacy system) is captured in the lessons-learned log.
 
 [↑ Back to top](#table-of-contents)
 
@@ -218,7 +220,7 @@ The project is recommended for formal closure. Benefits realization is being han
 | BEN-01 | Reduction in contact-center volume for in-scope services | 14,200 inquiries per year | Not yet annualized (portal live two weeks) | April 2027 (55% deflection; about 6,390 inquiries remaining per year) | Sandra Obi, Head of Customer Services |
 | BEN-02 | Digital deflection ≥55% of the 14,200 in-scope inquiries | 0% | Not yet measured. Separately, 41% of eligible residents had accessed the portal by October 31, 2026. Access is not deflection. | April 2027 (month 6) | Sandra Obi, Head of Customer Services |
 | BEN-03 | Contact-center staff time released | In-scope transactional workload | To be measured at month 6 | 1.8 FTE released by April 2027 | Sandra Obi, Head of Customer Services |
-| BEN-04 | Resident satisfaction score ≥75% | No baseline (new channel) | 81% satisfaction in exit survey (UAT pilot residents) | Ongoing — measured quarterly | Sandra Obi, Head of Customer Services |
+| BEN-04 | Resident satisfaction score ≥75% | No baseline (new channel) | 81% from the 12 resident UAT testers (September 2026). Quarterly survey starts January 2027 | Ongoing — measured quarterly | Sandra Obi, Head of Customer Services |
 | BEN-05 | Net Cashable Saving (Year 1) | — | — | March 2027 (year-end) | James Hartley, Sponsor |
 
 **Post-project benefits review date**: April 28, 2027 (Post-Implementation Review)
@@ -255,7 +257,7 @@ The project is recommended for formal closure. Benefits realization is being han
 | 2 | BCM not confirmed until Month 3 — staff engagement unmanaged during design phase | Organizational change management | BCM confirmation should be a Gate 0 condition for projects with significant staff behavior change requirements |
 | 3 | LandWorks API limitations were not validated before business case finalization | Technical / technology | Technical spike (proof-of-concept API test) must be completed before business case sign-off for all LandWorks-dependent projects |
 | 4 | Benefits baseline measures were not established at project initiation | Project closure / benefits | Benefits register with baseline measures must be completed at initiation stage — before any activity that might affect the baseline |
-| 5 | 2-week schedule float between UAT and go-live was essential — and almost removed during planning | Schedule management | PMs should justify schedule float with comparable project data; Sponsors should not remove it without evidence it is unnecessary |
+| 5 | The two-week float after UAT covered the 7-day UAT overrun. It did not recover the earlier SIT slip, so go-live still moved 14 days | Schedule management | Size float against the slip it can actually absorb. A float after UAT does not recover a late start to UAT |
 
 **Lessons submitted to PMO**: Yes — October 31, 2026.
 

@@ -119,8 +119,8 @@
 | Name | Period | Type | Hours affected per week | Impact on plan |
 |---|---|---|---|---|
 | Sarah Chen | April 27 – May 1, 2026 | Annual leave | Full week | Minor — no critical-path activity that week |
-| Sandra Obi | August 1–19, 2026 | Annual leave | ~3 weeks | UAT preparation at risk; mitigated by July checklist and deputy (ISS-05) |
-| ICT Developer | Until assigned (target March 1, 2026) | Resource gap | Full | Integration cannot start in June if unconfirmed (RSK-03 / ISS-01) |
+| Sandra Obi | August 1–19, 2026 | Annual leave | ~3 weeks | UAT preparation at risk. Checklist and a deputy are to be arranged before the leave. UAT start stays August 22. |
+| ICT Developer | Until assigned (target March 1, 2026) | Resource gap | Full | Integration cannot start in June if the developer is still unconfirmed (RSK-03) |
 | Mark Pearce | Throughout | Other commitment (senior management role) | ~90% | Capped at 40% even at peak; day-to-day work delegated to ICT Developer |
 
 [↑ Back to top](#table-of-contents)
@@ -131,8 +131,8 @@
 
 | Date | Name | Conflict identified | Resolution action | Impact on schedule |
 |---|---|---|---|---|
-| March 8, 2026 | ICT Developer | Named developer not confirmed for June integration start | Sponsor escalation; Tom Okafor confirmed March 13 (ISS-01) | None — resolved before integration start |
-| August 3, 2026 | Sandra Obi | August leave overlaps UAT preparation | UAT prep checklist completed by July 31; deputy briefed; tasks reassigned to BCM (ISS-05) | None — UAT start maintained August 22 |
+| Target March 1, 2026 | ICT Developer | Named developer not yet confirmed for the June integration start | Mark Pearce to name the developer by March 1. The Sponsor escalates if that date is missed | Open at this baseline |
+| Before August 1, 2026 | Sandra Obi | August 1–19 leave overlaps UAT preparation | Complete the UAT prep checklist before the leave and brief a deputy | Planned. UAT start remains August 22 |
 
 [↑ Back to top](#table-of-contents)
 
@@ -143,7 +143,7 @@
 | Risk | Implication | Mitigation |
 |---|---|---|
 | ICT Developer not identified by April 1 | Integration work cannot start on schedule in June | Mark Pearce to confirm name and allocation by March 1; tracked in risk register |
-| Sandra Obi unavailable for first 3 weeks of August | UAT preparation delayed | UAT prep checklist completed by July 31; Sandra deputy briefed to support |
+| Sandra Obi unavailable for the first 3 weeks of August | UAT preparation delayed | UAT prep checklist to be completed before July 31; a deputy to be briefed |
 | BCM not in post by May | Staff engagement activities delayed | Sarah Chen escalates to HR by March 1; interim arrangements agreed with sponsor |
 
 [↑ Back to top](#table-of-contents)
